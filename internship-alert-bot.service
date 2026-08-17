@@ -1,0 +1,15 @@
+[Unit]
+Description=Internship listing watcher (Discord webhook alerts)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/pi/internship-alert-bot
+EnvironmentFile=/home/pi/internship-alert-bot/.env
+ExecStart=/home/pi/internship-alert-bot/venv/bin/python /home/pi/internship-alert-bot/watch.py
+Restart=on-failure
+RestartSec=30
+
+[Install]
+WantedBy=multi-user.target
