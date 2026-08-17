@@ -98,3 +98,85 @@ def test_normalize_key_strips_punctuation_and_case():
 
 def test_normalize_key_differs_for_different_roles():
     assert normalize_key("Acme", "SWE Intern") != normalize_key("Acme", "PM Intern")
+
+
+from datetime import date as _date
+
+from sources import parse_simplify
+
+SIMPLIFY_FIXTURE = """
+## 💻 Software Engineering Internship Roles
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Acme">Acme</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Remote</td>
+<td><a href="https://acme.example/apply">Apply</a></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Backend Engineer Intern - LeetCode round required</td>
+<td>NYC</td>
+<td><a href="https://acme.example/apply2">Apply</a></td>
+<td>2d</td>
+</tr>
+</tbody>
+</table>
+
+## 📈 Quantitative Finance Internship Roles
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/QuantCo">QuantCo</a></strong></td>
+<td>Quant Trading Intern</td>
+<td>Chicago, IL</td>
+<td><a href="https://quantco.example/apply">Apply</a></td>
+<td>0d</td>
+</tr>
+</tbody>
+</table>
+"""
+
+
+def test_parse_simplify_extracts_category_from_section():
+    listings = parse_simplify(SIMPLIFY_FIXTURE, _date(2026, 8, 17))
+    categories = {item["company"]: item["category"] for item in listings}
+    assert categories["Acme"] == "Software Engineering"
+    assert categories["QuantCo"] == "Quantitative Finance"
+
+
+def test_parse_simplify_resolves_company_continuation():
+    listings = parse_simplify(SIMPLIFY_FIXTURE, _date(2026, 8, 17))
+    acme_roles = [item["role"] for item in listings if item["company"] == "Acme"]
+    assert "Backend Engineer Intern - LeetCode round required" in acme_roles
+
+
+def test_parse_simplify_infers_date_from_age():
+    listings = parse_simplify(SIMPLIFY_FIXTURE, _date(2026, 8, 17))
+    quantco = next(item for item in listings if item["company"] == "QuantCo")
+    assert quantco["posted_date"] == _date(2026, 8, 17)
+    assert quantco["age_label"] == "today"
+
+
+def test_parse_simplify_flags_oa_lc_keyword():
+    listings = parse_simplify(SIMPLIFY_FIXTURE, _date(2026, 8, 17))
+    backend = next(item for item in listings if "Backend" in item["role"])
+    assert backend["oa_lc_flag"] is True
+
+
+def test_parse_simplify_sets_source_and_no_vansh_only_flags():
+    listings = parse_simplify(SIMPLIFY_FIXTURE, _date(2026, 8, 17))
+    for item in listings:
+        assert item["source"] == "Simplify"
+        assert item["sponsorship_flag"] is False
+        assert item["citizenship_flag"] is False

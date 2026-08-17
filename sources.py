@@ -1,6 +1,8 @@
 import re
 from datetime import date, datetime, timedelta
 
+from bs4 import BeautifulSoup
+
 
 CATEGORY_KEYWORDS = [
     ("Quantitative Finance", ("quant", "trading", "trader")),
@@ -56,3 +58,82 @@ def normalize_key(company: str, role: str) -> str:
     text = re.sub(r"[^\w\s]", "", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
+
+
+# Best-effort only: these README tables have no interview-process field at all,
+# so this can only match if a role title/company literally names the tool
+# (rare). It is not a real "no OA/no LeetCode" filter, just a free hint.
+OA_LC_KEYWORDS = ("leetcode", "online assessment", "hackerrank", "codesignal", "coderpad")
+
+
+def check_oa_lc(text: str) -> bool:
+    t = text.lower()
+    return any(kw in t for kw in OA_LC_KEYWORDS)
+
+
+CATEGORY_HEADER_RE = re.compile(r"^## [^\w]*([A-Za-z ,&]+) Internship Roles", re.MULTILINE)
+
+
+def split_by_category(markdown_text: str):
+    matches = list(CATEGORY_HEADER_RE.finditer(markdown_text))
+    sections = []
+    for i, m in enumerate(matches):
+        start = m.end()
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(markdown_text)
+        sections.append((m.group(1).strip(), markdown_text[start:end]))
+    return sections
+
+
+def parse_simplify(markdown_text: str, today: date) -> list:
+    listings = []
+    for header_text, section in split_by_category(markdown_text):
+        category = classify_category(header_text)
+        soup = BeautifulSoup(section, "html.parser")
+        last_company = None
+        for table in soup.find_all("table"):
+            header_row = table.find("tr")
+            if not header_row or "Company" not in header_row.get_text():
+                continue
+            for tr in table.find_all("tr")[1:]:
+                cells = tr.find_all("td")
+                if len(cells) < 4:
+                    continue
+                company_cell, role_cell, location_cell, apply_cell = cells[0], cells[1], cells[2], cells[3]
+                age_cell = cells[4] if len(cells) > 4 else None
+
+                company_text = company_cell.get_text(strip=True)
+                if company_text in ("↳", ""):
+                    company = last_company
+                else:
+                    company = re.sub(r"^[^\w]+", "", company_text).strip()
+                    last_company = company
+                if not company:
+                    continue
+
+                role = role_cell.get_text(strip=True)
+                location = ", ".join(location_cell.stripped_strings) or "N/A"
+
+                apply_link = apply_cell.find("a")
+                apply_url = apply_link["href"] if apply_link and apply_link.has_attr("href") else None
+                if not apply_url:
+                    continue
+
+                posted_date, age_days, age_label = None, None, ""
+                if age_cell is not None:
+                    posted_date, age_days, age_label = date_from_age(age_cell.get_text(strip=True), today)
+
+                listings.append({
+                    "company": company,
+                    "role": role,
+                    "location": location,
+                    "apply_url": apply_url,
+                    "category": category,
+                    "posted_date": posted_date,
+                    "age_days": age_days,
+                    "age_label": age_label,
+                    "oa_lc_flag": check_oa_lc(f"{company} {role}"),
+                    "sponsorship_flag": False,
+                    "citizenship_flag": False,
+                    "source": "Simplify",
+                })
+    return listings
