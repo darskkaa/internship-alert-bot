@@ -46,7 +46,7 @@ def age_from_date(posted: date, today: date):
 
 def parse_vansh_date(date_text: str, today: date) -> date:
     parsed = datetime.strptime(f"{date_text.strip()} {today.year}", "%b %d %Y").date()
-    if abs((parsed - today).days) > 3:
+    if (parsed - today).days > 3:
         parsed = parsed.replace(year=parsed.year - 1)
     return parsed
 

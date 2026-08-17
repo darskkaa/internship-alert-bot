@@ -59,10 +59,13 @@ def test_parse_vansh_date_same_year():
     assert parse_vansh_date("Aug 14", date(2026, 8, 17)) == date(2026, 8, 14)
 
 
-def test_parse_vansh_date_rolls_back_year_when_future():
-    # "Jan 2" parsed against a late-Dec "today" would land >3 days in the
-    # future if taken as this year — must roll back to last year.
-    assert parse_vansh_date("Jan 02", date(2026, 12, 30)) == date(2025, 1, 2)
+def test_parse_vansh_date_rolls_back_year_when_naive_parse_lands_in_future():
+    # A late-December post ("Dec 30") viewed shortly after New Year's
+    # ("today" is Jan 3 of the *next* year) would parse as Dec 30 of
+    # *this* year if we naively used today.year — ~362 days in the
+    # future, which can't be a real "posted" date. Must roll back to
+    # last year, landing 4 days in the past instead.
+    assert parse_vansh_date("Dec 30", date(2027, 1, 3)) == date(2026, 12, 30)
 
 
 def test_classify_category_quant():
