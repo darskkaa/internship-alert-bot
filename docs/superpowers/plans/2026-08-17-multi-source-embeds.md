@@ -961,6 +961,7 @@ import logging
 import os
 import time
 from datetime import date, datetime, timezone
+from datetime import time as dtime
 from pathlib import Path
 
 import requests
@@ -1128,12 +1129,27 @@ def test_build_embed_footer_names_source():
 
 def test_build_embed_includes_native_discord_timestamp():
     embed = build_embed(_item(posted_date=date(2026, 8, 14)))
-    assert embed["timestamp"] == "2026-08-14"
+    assert embed["timestamp"] == "2026-08-14T00:00:00+00:00"
 
 
 def test_build_embed_omits_timestamp_when_posted_date_missing():
     embed = build_embed(_item(posted_date=None))
     assert "timestamp" not in embed
+
+
+def test_build_embed_truncates_overlong_title():
+    long_role = "X" * 300
+    embed = build_embed(_item(role=long_role))
+    assert len(embed["title"]) == 256
+    assert embed["title"].endswith("…")
+
+
+def test_build_embed_truncates_overlong_location():
+    long_location = "Y" * 2000
+    embed = build_embed(_item(location=long_location))
+    location_field = next(f for f in embed["fields"] if f["name"] == "📍 Location")
+    assert len(location_field["value"]) == 1024
+    assert location_field["value"].endswith("…")
 ```
 
 - [ ] **Step 2: Run tests, confirm they fail**
@@ -1146,9 +1162,18 @@ Expected: FAIL — `ImportError: cannot import name 'build_embed'`
 Replace the old `post_new_listings` (old `core.py:103-128`) with:
 
 ```python
+def _truncate(text: str, limit: int) -> str:
+    return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
+
+
 def build_embed(item: dict) -> dict:
+    # Discord caps embed title at 256 chars, field values at 1024 — company/
+    # role/location come from scraped third-party READMEs, unbounded, so
+    # truncate defensively rather than risk a rejected POST wedging the
+    # whole batch (category/posted-value are always short, controlled
+    # strings and don't need it).
     fields = [
-        {"name": "📍 Location", "value": item["location"], "inline": True},
+        {"name": "📍 Location", "value": _truncate(item["location"], 1024), "inline": True},
         {"name": "🏷️ Category", "value": item["category"], "inline": True},
     ]
     if item["posted_date"] is not None:
@@ -1164,7 +1189,7 @@ def build_embed(item: dict) -> dict:
         fields.append({"name": "🇺🇸", "value": "US citizenship required", "inline": True})
 
     embed = {
-        "title": f"{item['company']} — {item['role']}",
+        "title": _truncate(f"{item['company']} — {item['role']}", 256),
         "url": item["apply_url"],
         "color": 0x2ecc71,
         "fields": fields,
@@ -1173,9 +1198,11 @@ def build_embed(item: dict) -> dict:
     if item["posted_date"] is not None:
         # Discord renders this as its own native localized timestamp in the
         # embed footer, separate from (and in addition to) the human-readable
-        # "📅 Posted" field above — the field is scannable at a glance, the
-        # native timestamp is accurate to the viewer's local timezone/clock.
-        embed["timestamp"] = item["posted_date"].isoformat()
+        # "📅 Posted" field above. A bare date.isoformat() ("2026-08-14") is
+        # technically valid ISO8601 but ambiguous against Discord's webhook
+        # validator — use an explicit UTC midnight datetime instead so
+        # there's no doubt.
+        embed["timestamp"] = datetime.combine(item["posted_date"], dtime.min, tzinfo=timezone.utc).isoformat()
     return embed
 
 
@@ -1200,7 +1227,7 @@ def post_new_listings(new_listings: list) -> None:
 - [ ] **Step 4: Run tests, confirm they pass**
 
 Run: `pytest tests/test_core.py -v -k build_embed`
-Expected: PASS (7 tests)
+Expected: PASS (9 tests — includes truncation-defense tests added after code review; timestamp test asserts a full ISO8601 datetime, not a bare date)
 
 - [ ] **Step 5: Run the full suite**
 
