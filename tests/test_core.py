@@ -111,24 +111,35 @@ def test_run_once_continues_when_one_source_raises(monkeypatch):
     assert posted == [good_listing]
 
 
-def test_run_once_posts_new_listings_newest_first(monkeypatch):
+def test_run_once_posts_new_listings_oldest_first_within_freshness_window(monkeypatch):
     from datetime import date as _date
+    from datetime import timedelta as _timedelta
+
+    today = _date.today()
 
     older = _fake_listing("OldCo", "SWE Intern", "https://oldco.example/1")
-    older["posted_date"] = _date(2026, 8, 10)
+    older["posted_date"] = today - _timedelta(days=6)
     newer = _fake_listing("NewCo", "SWE Intern", "https://newco.example/1")
-    newer["posted_date"] = _date(2026, 8, 16)
+    newer["posted_date"] = today - _timedelta(days=1)
+    stale = _fake_listing("StaleCo", "SWE Intern", "https://staleco.example/1")
+    stale["posted_date"] = today - _timedelta(days=8)  # outside the 7-day window
     dateless = _fake_listing("NoDateCo", "SWE Intern", "https://nodateco.example/1")
     dateless["posted_date"] = None
 
     # Sources return them out of order on purpose, to prove run_once sorts.
-    monkeypatch.setattr(core, "SOURCES", [lambda: [older, dateless, newer]])
+    monkeypatch.setattr(core, "SOURCES", [lambda: [older, dateless, newer, stale]])
     posted = []
     monkeypatch.setattr(core, "post_new_listings", lambda items: posted.extend(items))
 
-    core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
+    state = core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
 
-    assert [item["company"] for item in posted] == ["NewCo", "OldCo", "NoDateCo"]
+    # Oldest (and dateless, treated as oldest) posted first so the freshest
+    # listing lands in the last-sent Discord message - the one visible at
+    # the bottom of the channel. Stale (>7d) is excluded entirely.
+    assert [item["company"] for item in posted] == ["NoDateCo", "OldCo", "NewCo"]
+    # Stale listing is still marked seen so it's never retried, even though
+    # it wasn't posted.
+    assert "https://staleco.example/1" in state["seen"]
 
 
 def test_run_once_dedupes_same_role_appearing_on_two_sources_same_cycle(monkeypatch):

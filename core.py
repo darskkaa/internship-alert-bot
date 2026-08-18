@@ -16,6 +16,7 @@ load_dotenv()
 WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
 ROLE_PING = os.getenv("DISCORD_ROLE_ID", "")
 POLL_INTERVAL = int(os.getenv("POLL_INTERVAL_SECONDS", "600"))
+FRESHNESS_WINDOW_DAYS = 7
 REQUIRED_LISTING_KEYS = {
     "company", "role", "location", "apply_url", "category",
     "posted_date", "age_days", "age_label", "oa_lc_flag",
@@ -126,18 +127,29 @@ def run_once(state: dict) -> dict:
         state["seen_keys"] = sorted(current_keys)
         return state
 
+    today = date.today()
     new_listings = []
     posted_keys = set()
     for item in listings:
         key = normalize_key(item["company"], item["role"])
         if item["apply_url"] in seen or key in seen_keys or key in posted_keys:
             continue
+        # Anything older than the freshness window is marked seen (below) so
+        # it's never retried, but not posted — a genuinely old item shouldn't
+        # flood the channel (e.g. a source being added mid-deployment, whose
+        # whole backlog is "new" to state). Dateless items (source format
+        # hiccup) can't be proven old, so they're kept, same as the existing
+        # best-effort-not-authoritative treatment of other inferred fields.
+        if item["posted_date"] is not None and (today - item["posted_date"]).days > FRESHNESS_WINDOW_DAYS:
+            continue
         new_listings.append(item)
         posted_keys.add(key)
-    # Most-recently-posted first; listings with no inferred date (shouldn't
-    # normally happen, but a source format hiccup could leave one dateless)
-    # sort last rather than crashing the comparison.
-    new_listings.sort(key=lambda item: item["posted_date"] or date.min, reverse=True)
+    # Oldest first: batches are posted in this order, so the most recent
+    # listing ends up in the last-sent message — the one Discord shows at
+    # the bottom of the channel, i.e. what's actually visible on open.
+    # Dateless items sort as "oldest" (date.min) so they never bump a
+    # genuinely-dated fresh listing out of that last, most-visible slot.
+    new_listings.sort(key=lambda item: item["posted_date"] or date.min)
     if new_listings:
         log.info("Posting %d new listing(s)", len(new_listings))
         post_new_listings(new_listings)
