@@ -41,9 +41,10 @@ def load_state() -> dict:
     if STATE_FILE.exists():
         data = json.loads(STATE_FILE.read_text())
         if isinstance(data, list):  # migrate from the old list-only format
-            return {"seen": data, "last_checked_utc": None}
+            return {"seen": data, "seen_keys": [], "last_checked_utc": None}
+        data.setdefault("seen_keys", [])
         return data
-    return {"seen": [], "last_checked_utc": None}
+    return {"seen": [], "seen_keys": [], "last_checked_utc": None}
 
 
 def save_state(state: dict) -> None:
