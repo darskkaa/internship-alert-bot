@@ -984,7 +984,11 @@ log = logging.getLogger("internship-watch")
 Replace `run_once` (old `core.py:131-149`) with:
 
 ```python
-REQUIRED_LISTING_KEYS = {"apply_url", "company", "role", "posted_date"}
+REQUIRED_LISTING_KEYS = {
+    "company", "role", "location", "apply_url", "category",
+    "posted_date", "age_days", "age_label", "oa_lc_flag",
+    "sponsorship_flag", "citizenship_flag", "source",
+}
 
 
 def run_once(state: dict) -> dict:
@@ -993,9 +997,14 @@ def run_once(state: dict) -> dict:
         try:
             source_listings = fetch()
             for item in source_listings:
-                if not REQUIRED_LISTING_KEYS <= item.keys():
-                    raise ValueError(f"listing missing required keys: {REQUIRED_LISTING_KEYS - item.keys()}")
-            listings.extend(source_listings)
+                if REQUIRED_LISTING_KEYS <= item.keys():
+                    listings.append(item)
+                else:
+                    log.warning(
+                        "Dropping malformed listing from %s: missing %s",
+                        getattr(fetch, "__name__", fetch),
+                        REQUIRED_LISTING_KEYS - item.keys(),
+                    )
         except Exception:
             log.exception("Source %s failed, continuing with other sources", getattr(fetch, "__name__", fetch))
 
