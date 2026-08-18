@@ -157,6 +157,18 @@ def test_run_once_isolates_source_returning_malformed_listing(monkeypatch):
     assert posted == [good_listing]
 
 
+def test_run_once_drops_only_malformed_item_not_whole_source(monkeypatch):
+    malformed = {"company": "BadCo"}  # missing everything else
+    good = _fake_listing("Acme", "SWE Intern", "https://acme.example/1")
+    monkeypatch.setattr(core, "SOURCES", [lambda: [malformed, good]])
+    posted = []
+    monkeypatch.setattr(core, "post_new_listings", lambda items: posted.extend(items))
+
+    state = core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
+
+    assert posted == [good]
+
+
 def test_run_once_excludes_previously_seen_url_even_with_empty_seen_keys(monkeypatch):
     listing = _fake_listing("Acme", "SWE Intern", "https://acme.example/already-seen")
     monkeypatch.setattr(core, "SOURCES", [lambda: [listing]])
