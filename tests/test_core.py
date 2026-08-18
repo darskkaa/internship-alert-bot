@@ -233,7 +233,22 @@ def test_build_embed_footer_names_source():
 
 def test_build_embed_includes_native_discord_timestamp():
     embed = build_embed(_item(posted_date=date(2026, 8, 14)))
-    assert embed["timestamp"] == "2026-08-14"
+    assert embed["timestamp"] == "2026-08-14T00:00:00+00:00"
+
+
+def test_build_embed_truncates_overlong_title():
+    long_role = "X" * 300
+    embed = build_embed(_item(role=long_role))
+    assert len(embed["title"]) == 256
+    assert embed["title"].endswith("…")
+
+
+def test_build_embed_truncates_overlong_location():
+    long_location = "Y" * 2000
+    embed = build_embed(_item(location=long_location))
+    location_field = next(f for f in embed["fields"] if f["name"] == "📍 Location")
+    assert len(location_field["value"]) == 1024
+    assert location_field["value"].endswith("…")
 
 
 def test_build_embed_omits_timestamp_when_posted_date_missing():

@@ -3,6 +3,7 @@ import logging
 import os
 import time
 from datetime import date, datetime, timezone
+from datetime import time as dtime
 from pathlib import Path
 
 import requests
@@ -16,6 +17,10 @@ WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
 ROLE_PING = os.getenv("DISCORD_ROLE_ID", "")
 POLL_INTERVAL = int(os.getenv("POLL_INTERVAL_SECONDS", "600"))
 REQUIRED_LISTING_KEYS = {"apply_url", "company", "role", "posted_date"}
+
+
+def _truncate(text: str, limit: int) -> str:
+    return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
 
 STATE_FILE = Path(__file__).parent / "state.json"
 
@@ -40,7 +45,7 @@ def save_state(state: dict) -> None:
 
 def build_embed(item: dict) -> dict:
     fields = [
-        {"name": "📍 Location", "value": item["location"], "inline": True},
+        {"name": "📍 Location", "value": _truncate(item["location"], 1024), "inline": True},
         {"name": "🏷️ Category", "value": item["category"], "inline": True},
     ]
     if item["posted_date"] is not None:
@@ -56,7 +61,7 @@ def build_embed(item: dict) -> dict:
         fields.append({"name": "🇺🇸", "value": "US citizenship required", "inline": True})
 
     embed = {
-        "title": f"{item['company']} — {item['role']}",
+        "title": _truncate(f"{item['company']} — {item['role']}", 256),
         "url": item["apply_url"],
         "color": 0x2ecc71,
         "fields": fields,
@@ -67,7 +72,7 @@ def build_embed(item: dict) -> dict:
         # embed footer, separate from (and in addition to) the human-readable
         # "📅 Posted" field above — the field is scannable at a glance, the
         # native timestamp is accurate to the viewer's local timezone/clock.
-        embed["timestamp"] = item["posted_date"].isoformat()
+        embed["timestamp"] = datetime.combine(item["posted_date"], dtime.min, tzinfo=timezone.utc).isoformat()
     return embed
 
 
