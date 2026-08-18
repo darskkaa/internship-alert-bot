@@ -1,11 +1,19 @@
 import logging
+import os
 import re
 from datetime import date, datetime, timedelta
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
+import requests
 from bs4 import BeautifulSoup
+from dotenv import load_dotenv
 
 log = logging.getLogger("internship-watch.sources")
+
+# sources.py is imported by core.py before core.py calls load_dotenv(), so
+# a .env override of GITHUB_REPO/GITHUB_BRANCH/README_PATH below would never
+# take effect unless this module loads it too.
+load_dotenv()
 
 
 CATEGORY_KEYWORDS = [
@@ -256,3 +264,25 @@ def parse_vansh(markdown_text: str, today: date) -> list:
     if not found_header:
         log.warning("vansh parser never found a 'Company' header row — source format may have changed")
     return listings
+
+
+GITHUB_REPO = os.getenv("GITHUB_REPO", "SimplifyJobs/Summer2027-Internships")
+GITHUB_BRANCH = os.getenv("GITHUB_BRANCH", "dev")
+README_PATH = os.getenv("README_PATH", "README.md")
+SIMPLIFY_RAW_URL = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{GITHUB_BRANCH}/{README_PATH}"
+VANSH_RAW_URL = "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md"
+
+
+def fetch_simplify() -> list:
+    resp = requests.get(SIMPLIFY_RAW_URL, timeout=30)
+    resp.raise_for_status()
+    return parse_simplify(resp.text, date.today())
+
+
+def fetch_vansh() -> list:
+    resp = requests.get(VANSH_RAW_URL, timeout=30)
+    resp.raise_for_status()
+    return parse_vansh(resp.text, date.today())
+
+
+SOURCES = [fetch_simplify, fetch_vansh]
