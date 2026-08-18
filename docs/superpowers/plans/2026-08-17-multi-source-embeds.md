@@ -983,11 +983,18 @@ log = logging.getLogger("internship-watch")
 Replace `run_once` (old `core.py:131-149`) with:
 
 ```python
+REQUIRED_LISTING_KEYS = {"apply_url", "company", "role", "posted_date"}
+
+
 def run_once(state: dict) -> dict:
     listings = []
     for fetch in SOURCES:
         try:
-            listings.extend(fetch())
+            source_listings = fetch()
+            for item in source_listings:
+                if not REQUIRED_LISTING_KEYS <= item.keys():
+                    raise ValueError(f"listing missing required keys: {REQUIRED_LISTING_KEYS - item.keys()}")
+            listings.extend(source_listings)
         except Exception:
             log.exception("Source %s failed, continuing with other sources", getattr(fetch, "__name__", fetch))
 
@@ -1002,10 +1009,18 @@ def run_once(state: dict) -> dict:
         state["seen_keys"] = sorted(current_keys)
         return state
 
-    new_listings = [
-        item for item in listings
-        if item["apply_url"] not in seen and normalize_key(item["company"], item["role"]) not in seen_keys
-    ]
+    # Dedup incrementally against the batch itself (posted_keys), not just
+    # pre-existing state — otherwise the same role appearing on two sources
+    # for the first time in the same cycle would pass both checks twice and
+    # get posted twice, since neither copy is in `seen`/`seen_keys` yet.
+    new_listings = []
+    posted_keys = set()
+    for item in listings:
+        key = normalize_key(item["company"], item["role"])
+        if item["apply_url"] in seen or key in seen_keys or key in posted_keys:
+            continue
+        new_listings.append(item)
+        posted_keys.add(key)
     # Most-recently-posted first; listings with no inferred date (shouldn't
     # normally happen, but a source format hiccup could leave one dateless)
     # sort last rather than crashing the comparison.
@@ -1026,7 +1041,7 @@ Also delete the now-unused `fetch_readme` and `parse_listings` functions (old `c
 - [ ] **Step 4: Run tests, confirm they pass**
 
 Run: `pytest tests/test_core.py -v -k run_once`
-Expected: PASS (5 tests)
+Expected: PASS (8 tests — includes intra-cycle dedup, malformed-item isolation, and post-migration-asymmetric-state regression tests added after code review)
 
 - [ ] **Step 5: Commit**
 
