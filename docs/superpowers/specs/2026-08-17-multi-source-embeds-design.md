@@ -119,7 +119,24 @@ Color: green (unchanged)
 ```
 
 Role ping (`DISCORD_ROLE_ID`) behavior is unchanged — pinged once per batch,
-not per listing, to avoid nuisance.
+not per listing, to avoid nuisance. Each embed also carries Discord's native
+`timestamp` field (the source's inferred `posted_date`, ISO date string),
+separate from the human-readable "📅 Posted" text field — the field is
+scannable at a glance, the native timestamp renders in the viewer's own
+timezone. Omitted when `posted_date` is `None`.
+
+New listings within a run are posted newest-first (sorted by `posted_date`,
+descending; dateless listings sort last) rather than in whatever order the
+sources happened to return them.
+
+## Tracking-parameter stripping
+
+Apply URLs from both sources carry analytics query params (`utm_source`,
+`utm_medium`, `ref`, etc.) that serve the source site's own analytics, not
+the applicant. These are stripped from `apply_url` before it's stored in a
+listing dict — link destination and any functional query params (job IDs,
+requisition numbers) are preserved; only a fixed, conservative blocklist of
+known-analytics-only param names/prefixes is removed.
 
 ## Error handling
 
