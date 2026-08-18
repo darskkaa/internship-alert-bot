@@ -15,6 +15,7 @@ load_dotenv()
 WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
 ROLE_PING = os.getenv("DISCORD_ROLE_ID", "")
 POLL_INTERVAL = int(os.getenv("POLL_INTERVAL_SECONDS", "600"))
+REQUIRED_LISTING_KEYS = {"apply_url", "company", "role", "posted_date"}
 
 STATE_FILE = Path(__file__).parent / "state.json"
 
@@ -69,7 +70,11 @@ def run_once(state: dict) -> dict:
     listings = []
     for fetch in SOURCES:
         try:
-            listings.extend(fetch())
+            source_listings = fetch()
+            for item in source_listings:
+                if not REQUIRED_LISTING_KEYS <= item.keys():
+                    raise ValueError(f"listing missing required keys: {REQUIRED_LISTING_KEYS - item.keys()}")
+            listings.extend(source_listings)
         except Exception:
             log.exception("Source %s failed, continuing with other sources", getattr(fetch, "__name__", fetch))
 
@@ -84,10 +89,14 @@ def run_once(state: dict) -> dict:
         state["seen_keys"] = sorted(current_keys)
         return state
 
-    new_listings = [
-        item for item in listings
-        if item["apply_url"] not in seen and normalize_key(item["company"], item["role"]) not in seen_keys
-    ]
+    new_listings = []
+    posted_keys = set()
+    for item in listings:
+        key = normalize_key(item["company"], item["role"])
+        if item["apply_url"] in seen or key in seen_keys or key in posted_keys:
+            continue
+        new_listings.append(item)
+        posted_keys.add(key)
     # Most-recently-posted first; listings with no inferred date (shouldn't
     # normally happen, but a source format hiccup could leave one dateless)
     # sort last rather than crashing the comparison.

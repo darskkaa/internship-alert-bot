@@ -129,3 +129,40 @@ def test_run_once_posts_new_listings_newest_first(monkeypatch):
     core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
 
     assert [item["company"] for item in posted] == ["NewCo", "OldCo", "NoDateCo"]
+
+
+def test_run_once_dedupes_same_role_appearing_on_two_sources_same_cycle(monkeypatch):
+    simplify_item = _fake_listing("Acme", "SWE Intern", "https://simplify.example/acme", source="Simplify")
+    vansh_item = _fake_listing("Acme", "SWE Intern", "https://vansh.example/acme", source="Vansh")
+    monkeypatch.setattr(core, "SOURCES", [lambda: [simplify_item], lambda: [vansh_item]])
+    posted = []
+    monkeypatch.setattr(core, "post_new_listings", lambda items: posted.extend(items))
+
+    # Neither URL nor the key has been seen before — both are "first appearance"
+    # this cycle, on two different sources simultaneously.
+    core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
+
+    assert len(posted) == 1
+
+
+def test_run_once_isolates_source_returning_malformed_listing(monkeypatch):
+    malformed = {"company": "BadCo"}  # missing apply_url, role, posted_date
+    good_listing = _fake_listing("Acme", "SWE Intern", "https://acme.example/1")
+    monkeypatch.setattr(core, "SOURCES", [lambda: [malformed], lambda: [good_listing]])
+    posted = []
+    monkeypatch.setattr(core, "post_new_listings", lambda items: posted.extend(items))
+
+    state = core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
+
+    assert posted == [good_listing]
+
+
+def test_run_once_excludes_previously_seen_url_even_with_empty_seen_keys(monkeypatch):
+    listing = _fake_listing("Acme", "SWE Intern", "https://acme.example/already-seen")
+    monkeypatch.setattr(core, "SOURCES", [lambda: [listing]])
+    posted = []
+    monkeypatch.setattr(core, "post_new_listings", lambda items: posted.extend(items))
+
+    state = core.run_once({"seen": ["https://acme.example/already-seen"], "seen_keys": [], "last_checked_utc": "x"})
+
+    assert posted == []
