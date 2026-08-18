@@ -1,21 +1,16 @@
 import json
 import logging
 import os
-import re
 import time
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 import requests
-from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 
-load_dotenv()
+from sources import SOURCES, normalize_key
 
-GITHUB_REPO = os.getenv("GITHUB_REPO", "SimplifyJobs/Summer2027-Internships")
-GITHUB_BRANCH = os.getenv("GITHUB_BRANCH", "dev")
-README_PATH = os.getenv("README_PATH", "README.md")
-RAW_URL = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{GITHUB_BRANCH}/{README_PATH}"
+load_dotenv()
 
 WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
 ROLE_PING = os.getenv("DISCORD_ROLE_ID", "")
@@ -23,18 +18,8 @@ POLL_INTERVAL = int(os.getenv("POLL_INTERVAL_SECONDS", "600"))
 
 STATE_FILE = Path(__file__).parent / "state.json"
 
-# Best-effort only: these README tables have no interview-process field at all,
-# so this can only match if a role title/company literally names the tool
-# (rare). It is not a real "no OA/no LeetCode" filter, just a free hint.
-OA_LC_KEYWORDS = ("leetcode", "online assessment", "hackerrank", "codesignal", "coderpad")
-
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("internship-watch")
-
-
-def check_oa_lc(text: str) -> bool:
-    t = text.lower()
-    return any(kw in t for kw in OA_LC_KEYWORDS)
 
 
 def load_state() -> dict:
@@ -50,55 +35,6 @@ def load_state() -> dict:
 def save_state(state: dict) -> None:
     state["last_checked_utc"] = datetime.now(timezone.utc).isoformat()
     STATE_FILE.write_text(json.dumps(state, indent=2, sort_keys=True))
-
-
-def fetch_readme() -> str:
-    resp = requests.get(RAW_URL, timeout=30)
-    resp.raise_for_status()
-    return resp.text
-
-
-def parse_listings(markdown_text: str) -> list:
-    soup = BeautifulSoup(markdown_text, "html.parser")
-    listings = []
-    last_company = None
-
-    for table in soup.find_all("table"):
-        header_row = table.find("tr")
-        if not header_row or "Company" not in header_row.get_text():
-            continue
-        for tr in table.find_all("tr")[1:]:
-            cells = tr.find_all("td")
-            if len(cells) < 4:
-                continue
-            company_cell, role_cell, location_cell, apply_cell = cells[0], cells[1], cells[2], cells[3]
-
-            company_text = company_cell.get_text(strip=True)
-            if company_text in ("↳", ""):
-                company = last_company
-            else:
-                company = re.sub(r"^[^\w]+", "", company_text).strip()
-                last_company = company
-
-            if not company:
-                continue
-
-            role = role_cell.get_text(strip=True)
-            location = ", ".join(location_cell.stripped_strings) or "N/A"
-
-            apply_link = apply_cell.find("a")
-            apply_url = apply_link["href"] if apply_link and apply_link.has_attr("href") else None
-            if not apply_url:
-                continue
-
-            listings.append({
-                "company": company,
-                "role": role,
-                "location": location,
-                "apply_url": apply_url,
-                "oa_lc_flag": check_oa_lc(f"{company} {role}"),
-            })
-    return listings
 
 
 def post_new_listings(new_listings: list) -> None:
@@ -130,16 +66,32 @@ def post_new_listings(new_listings: list) -> None:
 
 
 def run_once(state: dict) -> dict:
-    listings = parse_listings(fetch_readme())
+    listings = []
+    for fetch in SOURCES:
+        try:
+            listings.extend(fetch())
+        except Exception:
+            log.exception("Source %s failed, continuing with other sources", getattr(fetch, "__name__", fetch))
+
     current_ids = {item["apply_url"] for item in listings}
+    current_keys = {normalize_key(item["company"], item["role"]) for item in listings}
     seen = set(state["seen"])
+    seen_keys = set(state["seen_keys"])
 
     if not seen:
         log.info("First run: seeding state with %d existing listings, no alerts sent", len(current_ids))
         state["seen"] = sorted(current_ids)
+        state["seen_keys"] = sorted(current_keys)
         return state
 
-    new_listings = [item for item in listings if item["apply_url"] not in seen]
+    new_listings = [
+        item for item in listings
+        if item["apply_url"] not in seen and normalize_key(item["company"], item["role"]) not in seen_keys
+    ]
+    # Most-recently-posted first; listings with no inferred date (shouldn't
+    # normally happen, but a source format hiccup could leave one dateless)
+    # sort last rather than crashing the comparison.
+    new_listings.sort(key=lambda item: item["posted_date"] or date.min, reverse=True)
     if new_listings:
         log.info("Posting %d new listing(s)", len(new_listings))
         post_new_listings(new_listings)
@@ -147,4 +99,5 @@ def run_once(state: dict) -> dict:
         log.info("No new listings")
 
     state["seen"] = sorted(seen | current_ids)
+    state["seen_keys"] = sorted(seen_keys | current_keys)
     return state
