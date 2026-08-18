@@ -169,3 +169,81 @@ def parse_simplify(markdown_text: str, today: date) -> list:
                     "source": "Simplify",
                 })
     return listings
+
+
+FLAG_SPONSORSHIP = "🛂"
+FLAG_CITIZENSHIP = "🇺🇸"
+FLAG_CLOSED = "🔒"
+
+
+def parse_vansh(markdown_text: str, today: date) -> list:
+    listings = []
+    last_company = None
+    in_table = False
+    for line in markdown_text.splitlines():
+        stripped = line.strip()
+        if not stripped.startswith("|"):
+            in_table = False
+            continue
+        cells = [c.strip() for c in stripped.strip("|").split("|")]
+        if len(cells) < 5:
+            continue
+        if cells[0].lower() == "company":
+            in_table = True
+            continue
+        if not in_table:
+            continue
+        if re.match(r"^-+$", cells[0]):
+            continue
+
+        company_cell, role_cell, location_cell, apply_cell, date_cell = cells[:5]
+        combined_flags = f"{company_cell} {role_cell}"
+        if FLAG_CLOSED in combined_flags:
+            continue
+
+        company_text = BeautifulSoup(company_cell, "html.parser").get_text(strip=True)
+        if company_text in ("↳", ""):
+            company = last_company
+        else:
+            company = re.sub(r"^[^\w]+", "", company_text).strip()
+            last_company = company
+        if not company:
+            continue
+
+        role = BeautifulSoup(role_cell, "html.parser").get_text(strip=True)
+        role = re.sub(f"[{FLAG_SPONSORSHIP}{FLAG_CITIZENSHIP}]", "", role).strip()
+
+        location_soup = BeautifulSoup(location_cell, "html.parser")
+        summary = location_soup.find("summary")
+        location = summary.get_text(strip=True).strip("*") if summary else (", ".join(location_soup.stripped_strings) or "N/A")
+
+        apply_link = BeautifulSoup(apply_cell, "html.parser").find("a")
+        apply_url = apply_link["href"] if apply_link and apply_link.has_attr("href") else None
+        if not apply_url:
+            continue
+        apply_url = strip_tracking_params(apply_url)
+
+        posted_date, age_days, age_label = None, None, ""
+        date_text = date_cell.strip()
+        if date_text:
+            try:
+                posted_date = parse_vansh_date(date_text, today)
+                age_days, age_label = age_from_date(posted_date, today)
+            except ValueError:
+                pass
+
+        listings.append({
+            "company": company,
+            "role": role,
+            "location": location,
+            "apply_url": apply_url,
+            "category": classify_category(role),
+            "posted_date": posted_date,
+            "age_days": age_days,
+            "age_label": age_label,
+            "oa_lc_flag": check_oa_lc(f"{company} {role}"),
+            "sponsorship_flag": FLAG_SPONSORSHIP in combined_flags,
+            "citizenship_flag": FLAG_CITIZENSHIP in combined_flags,
+            "source": "Vansh",
+        })
+    return listings

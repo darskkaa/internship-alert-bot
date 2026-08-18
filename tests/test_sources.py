@@ -213,3 +213,61 @@ def test_parse_simplify_strips_tracking_params_but_keeps_functional_ones():
     listings = parse_simplify(SIMPLIFY_FIXTURE, _date(2026, 8, 17))
     acme = next(item for item in listings if item["company"] == "Acme" and "Software" in item["role"])
     assert acme["apply_url"] == "https://acme.example/apply?jobId=42"
+
+
+from sources import parse_vansh
+
+VANSH_FIXTURE = """
+| Company | Role | Location | Application/Link | Date Posted |
+| ------- | ---- | -------- | ---------------- | ----------- |
+| Acme | Software Engineer Intern 🇺🇸 | Remote | <a href="https://acme.example/apply?utm_source=github-vansh-ouckah&role=42">Apply</a> | Aug 16 |
+| ↳ | Backend Engineer Intern 🛂 | NYC | <a href="https://acme.example/apply2">Apply</a> | Aug 16 |
+| Closed Co | Some Intern 🔒 | Remote | <a href="https://closedco.example/apply">Apply</a> | Aug 10 |
+| <details><summary>**2 locations**</summary>Chicago, IL</br>Boston, MA</details> ignored | Quant Intern | <details><summary>**2 locations**</summary>Chicago, IL</br>Boston, MA</details> | <a href="https://multi.example/apply">Apply</a> | Aug 15 |
+"""
+
+
+def test_parse_vansh_extracts_flags():
+    listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
+    acme = next(item for item in listings if item["company"] == "Acme")
+    assert acme["citizenship_flag"] is True
+    assert acme["sponsorship_flag"] is False
+    backend = next(item for item in listings if "Backend" in item["role"])
+    assert backend["sponsorship_flag"] is True
+    assert backend["company"] == "Acme"  # continuation via ↳
+
+
+def test_parse_vansh_drops_closed_listings():
+    listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
+    companies = {item["company"] for item in listings}
+    assert "Closed Co" not in companies
+
+
+def test_parse_vansh_infers_age_from_date():
+    listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
+    acme = next(item for item in listings if item["company"] == "Acme")
+    assert acme["posted_date"] == _date(2026, 8, 16)
+    assert acme["age_label"] == "1d ago"
+
+
+def test_parse_vansh_categorizes_by_role_keyword():
+    listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
+    quant = next(item for item in listings if "Quant" in item["role"])
+    assert quant["category"] == "Quantitative Finance"
+
+
+def test_parse_vansh_strips_multi_location_to_summary():
+    listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
+    quant = next(item for item in listings if "Quant" in item["role"])
+    assert quant["location"] == "2 locations"
+
+
+def test_parse_vansh_sets_source():
+    listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
+    assert all(item["source"] == "Vansh" for item in listings)
+
+
+def test_parse_vansh_strips_tracking_params_but_keeps_functional_ones():
+    listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
+    acme = next(item for item in listings if item["company"] == "Acme" and "Software" in item["role"])
+    assert acme["apply_url"] == "https://acme.example/apply?role=42"
