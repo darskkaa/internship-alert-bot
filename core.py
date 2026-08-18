@@ -38,21 +38,44 @@ def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2, sort_keys=True))
 
 
+def build_embed(item: dict) -> dict:
+    fields = [
+        {"name": "📍 Location", "value": item["location"], "inline": True},
+        {"name": "🏷️ Category", "value": item["category"], "inline": True},
+    ]
+    if item["posted_date"] is not None:
+        posted_value = item["posted_date"].strftime("%b %d, %Y")
+        if item["age_label"]:
+            posted_value += f" · {item['age_label']}"
+        fields.append({"name": "📅 Posted", "value": posted_value, "inline": True})
+    if item["oa_lc_flag"]:
+        fields.append({"name": "⚠️ Heads up", "value": "title mentions OA/LeetCode/assessment tooling", "inline": False})
+    if item["sponsorship_flag"]:
+        fields.append({"name": "🛂", "value": "No sponsorship", "inline": True})
+    if item["citizenship_flag"]:
+        fields.append({"name": "🇺🇸", "value": "US citizenship required", "inline": True})
+
+    embed = {
+        "title": f"{item['company']} — {item['role']}",
+        "url": item["apply_url"],
+        "color": 0x2ecc71,
+        "fields": fields,
+        "footer": {"text": f"via {item['source']}"},
+    }
+    if item["posted_date"] is not None:
+        # Discord renders this as its own native localized timestamp in the
+        # embed footer, separate from (and in addition to) the human-readable
+        # "📅 Posted" field above — the field is scannable at a glance, the
+        # native timestamp is accurate to the viewer's local timezone/clock.
+        embed["timestamp"] = item["posted_date"].isoformat()
+    return embed
+
+
 def post_new_listings(new_listings: list) -> None:
     mention = f"<@&{ROLE_PING}>" if ROLE_PING else None
     for i in range(0, len(new_listings), 10):
         batch = new_listings[i:i + 10]
-        embeds = []
-        for item in batch:
-            desc = f"\U0001F4CD {item['location']}"
-            if item["oa_lc_flag"]:
-                desc += "\n⚠️ title mentions OA/LeetCode/assessment tooling"
-            embeds.append({
-                "title": f"{item['company']} — {item['role']}",
-                "url": item["apply_url"],
-                "description": desc,
-                "color": 0x2ecc71,
-            })
+        embeds = [build_embed(item) for item in batch]
         payload = {"embeds": embeds}
         if mention and i == 0:
             payload["content"] = mention

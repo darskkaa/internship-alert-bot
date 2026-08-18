@@ -166,3 +166,76 @@ def test_run_once_excludes_previously_seen_url_even_with_empty_seen_keys(monkeyp
     state = core.run_once({"seen": ["https://acme.example/already-seen"], "seen_keys": [], "last_checked_utc": "x"})
 
     assert posted == []
+
+
+from datetime import date
+
+from core import build_embed
+
+
+def _item(**overrides):
+    base = {
+        "company": "Acme",
+        "role": "SWE Intern",
+        "location": "Remote",
+        "apply_url": "https://acme.example/1",
+        "category": "Software Engineering",
+        "posted_date": date(2026, 8, 14),
+        "age_days": 3,
+        "age_label": "3d ago",
+        "oa_lc_flag": False,
+        "sponsorship_flag": False,
+        "citizenship_flag": False,
+        "source": "Simplify",
+    }
+    base.update(overrides)
+    return base
+
+
+def test_build_embed_basic_fields():
+    embed = build_embed(_item())
+    assert embed["title"] == "Acme — SWE Intern"
+    assert embed["url"] == "https://acme.example/1"
+    field_names = [f["name"] for f in embed["fields"]]
+    assert "📍 Location" in field_names
+    assert "🏷️ Category" in field_names
+    assert "📅 Posted" in field_names
+
+
+def test_build_embed_posted_field_shows_date_and_age():
+    embed = build_embed(_item())
+    posted_field = next(f for f in embed["fields"] if f["name"] == "📅 Posted")
+    assert posted_field["value"] == "Aug 14, 2026 · 3d ago"
+
+
+def test_build_embed_oa_lc_warning_only_when_flagged():
+    embed = build_embed(_item(oa_lc_flag=True))
+    assert any(f["name"] == "⚠️ Heads up" for f in embed["fields"])
+    embed = build_embed(_item(oa_lc_flag=False))
+    assert not any(f["name"] == "⚠️ Heads up" for f in embed["fields"])
+
+
+def test_build_embed_sponsorship_and_citizenship_fields_optional():
+    embed = build_embed(_item(sponsorship_flag=True, citizenship_flag=True))
+    names = [f["name"] for f in embed["fields"]]
+    assert "🛂" in names
+    assert "🇺🇸" in names
+    embed = build_embed(_item())
+    names = [f["name"] for f in embed["fields"]]
+    assert "🛂" not in names
+    assert "🇺🇸" not in names
+
+
+def test_build_embed_footer_names_source():
+    embed = build_embed(_item(source="Vansh"))
+    assert embed["footer"]["text"] == "via Vansh"
+
+
+def test_build_embed_includes_native_discord_timestamp():
+    embed = build_embed(_item(posted_date=date(2026, 8, 14)))
+    assert embed["timestamp"] == "2026-08-14"
+
+
+def test_build_embed_omits_timestamp_when_posted_date_missing():
+    embed = build_embed(_item(posted_date=None))
+    assert "timestamp" not in embed
