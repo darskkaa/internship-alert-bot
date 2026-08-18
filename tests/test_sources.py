@@ -271,3 +271,33 @@ def test_parse_vansh_strips_tracking_params_but_keeps_functional_ones():
     listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
     acme = next(item for item in listings if item["company"] == "Acme" and "Software" in item["role"])
     assert acme["apply_url"] == "https://acme.example/apply?role=42"
+
+
+CLOSED_THEN_OPEN_CONTINUATION_FIXTURE = """
+| Company | Role | Location | Application/Link | Date Posted |
+| ------- | ---- | -------- | ---------------- | ----------- |
+| CompanyA | SWE Intern | Remote | <a href="https://a.example/apply">Apply</a> | Aug 16 |
+| CompanyB | Closed Role Intern 🔒 | Remote | <a href="https://b1.example/apply">Apply</a> | Aug 16 |
+| ↳ | Open Role Intern | NYC | <a href="https://b2.example/apply">Apply</a> | Aug 15 |
+"""
+
+
+def test_parse_vansh_continuation_after_closed_row_keeps_correct_company():
+    listings = parse_vansh(CLOSED_THEN_OPEN_CONTINUATION_FIXTURE, _date(2026, 8, 17))
+    open_role = next(item for item in listings if "Open Role" in item["role"])
+    assert open_role["company"] == "CompanyB"
+    # the closed row itself must never appear
+    assert not any("Closed Role" in item["role"] for item in listings)
+
+
+def test_parse_vansh_handles_missing_or_malformed_date_gracefully():
+    fixture = """
+| Company | Role | Location | Application/Link | Date Posted |
+| ------- | ---- | -------- | ---------------- | ----------- |
+| WeirdCo | SWE Intern | Remote | <a href="https://weirdco.example/apply">Apply</a> | TBD |
+"""
+    listings = parse_vansh(fixture, _date(2026, 8, 17))
+    weirdco = next(item for item in listings if item["company"] == "WeirdCo")
+    assert weirdco["posted_date"] is None
+    assert weirdco["age_days"] is None
+    assert weirdco["age_label"] == ""

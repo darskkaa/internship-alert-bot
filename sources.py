@@ -180,6 +180,7 @@ def parse_vansh(markdown_text: str, today: date) -> list:
     listings = []
     last_company = None
     in_table = False
+    found_header = False
     for line in markdown_text.splitlines():
         stripped = line.strip()
         if not stripped.startswith("|"):
@@ -188,8 +189,9 @@ def parse_vansh(markdown_text: str, today: date) -> list:
         cells = [c.strip() for c in stripped.strip("|").split("|")]
         if len(cells) < 5:
             continue
-        if cells[0].lower() == "company":
+        if cells[0].strip("*_ ").lower() == "company":
             in_table = True
+            found_header = True
             continue
         if not in_table:
             continue
@@ -198,8 +200,6 @@ def parse_vansh(markdown_text: str, today: date) -> list:
 
         company_cell, role_cell, location_cell, apply_cell, date_cell = cells[:5]
         combined_flags = f"{company_cell} {role_cell}"
-        if FLAG_CLOSED in combined_flags:
-            continue
 
         company_text = BeautifulSoup(company_cell, "html.parser").get_text(strip=True)
         if company_text in ("↳", ""):
@@ -210,11 +210,17 @@ def parse_vansh(markdown_text: str, today: date) -> list:
         if not company:
             continue
 
+        if FLAG_CLOSED in combined_flags:
+            continue
+
         role = BeautifulSoup(role_cell, "html.parser").get_text(strip=True)
-        role = re.sub(f"[{FLAG_SPONSORSHIP}{FLAG_CITIZENSHIP}]", "", role).strip()
+        role = re.sub(f"[{FLAG_SPONSORSHIP}{FLAG_CITIZENSHIP}]", "", role)
+        role = re.sub(r"\s+", " ", role).strip()
 
         location_soup = BeautifulSoup(location_cell, "html.parser")
         summary = location_soup.find("summary")
+        # .strip("*") because the source wraps the summary text in markdown
+        # bold ("**2 locations**"), which get_text() doesn't strip on its own.
         location = summary.get_text(strip=True).strip("*") if summary else (", ".join(location_soup.stripped_strings) or "N/A")
 
         apply_link = BeautifulSoup(apply_cell, "html.parser").find("a")
@@ -246,4 +252,7 @@ def parse_vansh(markdown_text: str, today: date) -> list:
             "citizenship_flag": FLAG_CITIZENSHIP in combined_flags,
             "source": "Vansh",
         })
+
+    if not found_header:
+        log.warning("vansh parser never found a 'Company' header row — source format may have changed")
     return listings
