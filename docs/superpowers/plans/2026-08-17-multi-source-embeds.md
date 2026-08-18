@@ -605,7 +605,10 @@ def parse_vansh(markdown_text: str, today: date) -> list:
         cells = [c.strip() for c in stripped.strip("|").split("|")]
         if len(cells) < 5:
             continue
-        if "company" in cells[0].lower():
+        # strip("*_ ") tolerates a markdown-bold-wrapped header ("**Company**")
+        # without also matching ordinary data rows whose company name happens
+        # to contain "company" as a substring (e.g. "CompanyA").
+        if cells[0].strip("*_ ").lower() == "company":
             in_table = True
             found_header = True
             continue
