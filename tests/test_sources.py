@@ -235,6 +235,7 @@ def test_parse_vansh_extracts_flags():
     backend = next(item for item in listings if "Backend" in item["role"])
     assert backend["sponsorship_flag"] is True
     assert backend["company"] == "Acme"  # continuation via ↳
+    assert backend["role"] == "Backend Engineer Intern"  # no leftover double space from flag stripping
 
 
 def test_parse_vansh_drops_closed_listings():
@@ -301,3 +302,27 @@ def test_parse_vansh_handles_missing_or_malformed_date_gracefully():
     assert weirdco["posted_date"] is None
     assert weirdco["age_days"] is None
     assert weirdco["age_label"] == ""
+
+
+BOLD_HEADER_FIXTURE = """
+| **Company** | **Role** | **Location** | **Application/Link** | **Date Posted** |
+| ------- | ---- | -------- | ---------------- | ----------- |
+| BoldCo | SWE Intern | Remote | <a href="https://boldco.example/apply">Apply</a> | Aug 16 |
+"""
+
+
+def test_parse_vansh_tolerates_markdown_bold_header():
+    listings = parse_vansh(BOLD_HEADER_FIXTURE, _date(2026, 8, 17))
+    assert any(item["company"] == "BoldCo" for item in listings)
+
+
+def test_parse_vansh_logs_warning_when_no_header_row_found(caplog):
+    fixture = """
+| Some Random Table | Not What We Expect |
+| ------- | ---- |
+| foo | bar |
+"""
+    with caplog.at_level("WARNING"):
+        listings = parse_vansh(fixture, _date(2026, 8, 17))
+    assert listings == []
+    assert any("header row" in record.message for record in caplog.records)
