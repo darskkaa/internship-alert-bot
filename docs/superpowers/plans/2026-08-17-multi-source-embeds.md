@@ -548,6 +548,35 @@ def test_parse_vansh_strips_tracking_params_but_keeps_functional_ones():
     listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
     acme = next(item for item in listings if item["company"] == "Acme" and "Software" in item["role"])
     assert acme["apply_url"] == "https://acme.example/apply?role=42"
+
+
+CLOSED_THEN_OPEN_CONTINUATION_FIXTURE = """
+| Company | Role | Location | Application/Link | Date Posted |
+| ------- | ---- | -------- | ---------------- | ----------- |
+| CompanyA | SWE Intern | Remote | <a href="https://a.example/apply">Apply</a> | Aug 16 |
+| CompanyB | Closed Role Intern 🔒 | Remote | <a href="https://b1.example/apply">Apply</a> | Aug 16 |
+| ↳ | Open Role Intern | NYC | <a href="https://b2.example/apply">Apply</a> | Aug 15 |
+"""
+
+
+def test_parse_vansh_continuation_after_closed_row_keeps_correct_company():
+    listings = parse_vansh(CLOSED_THEN_OPEN_CONTINUATION_FIXTURE, _date(2026, 8, 17))
+    open_role = next(item for item in listings if "Open Role" in item["role"])
+    assert open_role["company"] == "CompanyB"
+    assert not any("Closed Role" in item["role"] for item in listings)
+
+
+def test_parse_vansh_handles_missing_or_malformed_date_gracefully():
+    fixture = """
+| Company | Role | Location | Application/Link | Date Posted |
+| ------- | ---- | -------- | ---------------- | ----------- |
+| WeirdCo | SWE Intern | Remote | <a href="https://weirdco.example/apply">Apply</a> | TBD |
+"""
+    listings = parse_vansh(fixture, _date(2026, 8, 17))
+    weirdco = next(item for item in listings if item["company"] == "WeirdCo")
+    assert weirdco["posted_date"] is None
+    assert weirdco["age_days"] is None
+    assert weirdco["age_label"] == ""
 ```
 
 - [ ] **Step 2: Run tests, confirm they fail**
@@ -567,6 +596,7 @@ def parse_vansh(markdown_text: str, today: date) -> list:
     listings = []
     last_company = None
     in_table = False
+    found_header = False
     for line in markdown_text.splitlines():
         stripped = line.strip()
         if not stripped.startswith("|"):
@@ -575,8 +605,9 @@ def parse_vansh(markdown_text: str, today: date) -> list:
         cells = [c.strip() for c in stripped.strip("|").split("|")]
         if len(cells) < 5:
             continue
-        if cells[0].lower() == "company":
+        if "company" in cells[0].lower():
             in_table = True
+            found_header = True
             continue
         if not in_table:
             continue
@@ -585,9 +616,11 @@ def parse_vansh(markdown_text: str, today: date) -> list:
 
         company_cell, role_cell, location_cell, apply_cell, date_cell = cells[:5]
         combined_flags = f"{company_cell} {role_cell}"
-        if FLAG_CLOSED in combined_flags:
-            continue
 
+        # Company resolution happens before the closed-flag check below, so
+        # last_company is always correct even when this particular row is
+        # closed — otherwise a later open ↳ continuation for the same
+        # company would silently inherit whatever company came before it.
         company_text = BeautifulSoup(company_cell, "html.parser").get_text(strip=True)
         if company_text in ("↳", ""):
             company = last_company
@@ -597,12 +630,18 @@ def parse_vansh(markdown_text: str, today: date) -> list:
         if not company:
             continue
 
+        if FLAG_CLOSED in combined_flags:
+            continue
+
         role = BeautifulSoup(role_cell, "html.parser").get_text(strip=True)
-        role = re.sub(f"[{FLAG_SPONSORSHIP}{FLAG_CITIZENSHIP}]", "", role).strip()
+        role = re.sub(f"[{FLAG_SPONSORSHIP}{FLAG_CITIZENSHIP}]", "", role)
+        role = re.sub(r"\s+", " ", role).strip()
 
         location_soup = BeautifulSoup(location_cell, "html.parser")
         summary = location_soup.find("summary")
-        location = summary.get_text(strip=True) if summary else (", ".join(location_soup.stripped_strings) or "N/A")
+        # .strip("*") because the source wraps the summary text in markdown
+        # bold ("**2 locations**"), which get_text() doesn't strip on its own.
+        location = summary.get_text(strip=True).strip("*") if summary else (", ".join(location_soup.stripped_strings) or "N/A")
 
         apply_link = BeautifulSoup(apply_cell, "html.parser").find("a")
         apply_url = apply_link["href"] if apply_link and apply_link.has_attr("href") else None
@@ -633,13 +672,16 @@ def parse_vansh(markdown_text: str, today: date) -> list:
             "citizenship_flag": FLAG_CITIZENSHIP in combined_flags,
             "source": "Vansh",
         })
+
+    if not found_header:
+        log.warning("vansh parser never found a 'Company' header row — source format may have changed")
     return listings
 ```
 
 - [ ] **Step 4: Run tests, confirm they pass**
 
 Run: `pytest tests/test_sources.py -v -k parse_vansh`
-Expected: PASS (7 tests)
+Expected: PASS (9 tests)
 
 - [ ] **Step 5: Commit**
 
