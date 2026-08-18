@@ -42,6 +42,28 @@ journalctl -u internship-alert-bot -f
 Seeds `state.json` with every listing currently in the README and posts
 nothing — only listings added *after* that count as "new."
 
+## Sources
+
+Tracks two listing repos and merges/dedupes them:
+
+- [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) — category and posting age come directly from this source.
+- [vanshb03/Summer2027-Internships](https://github.com/vanshb03/Summer2027-Internships) — posting date comes directly from this source; category is inferred from the role title. Closed listings (🔒 in the source) are never posted. Sponsorship (🛂) and citizenship (🇺🇸) flags, when present, are shown on the alert.
+
+The same internship posted on both trackers is only alerted once — matched by
+normalized company + role text, not just the application link (the two
+trackers often link to different application portals for the same job).
+
+Each alert shows: location, category, posted date + freshness ("3d ago"),
+and any OA/LeetCode, sponsorship, or citizenship flags the source data
+supports.
+
+## Running tests
+
+```
+pip install -r requirements-dev.txt
+pytest
+```
+
 ## The OA/LeetCode flag
 
 Each embed gets a ⚠️ note if the company/role text contains "leetcode",
