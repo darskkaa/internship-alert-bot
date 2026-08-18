@@ -1,7 +1,11 @@
+import logging
 import re
 from datetime import date, datetime, timedelta
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 from bs4 import BeautifulSoup
+
+log = logging.getLogger("internship-watch.sources")
 
 
 CATEGORY_KEYWORDS = [
@@ -71,17 +75,44 @@ def check_oa_lc(text: str) -> bool:
     return any(kw in t for kw in OA_LC_KEYWORDS)
 
 
-CATEGORY_HEADER_RE = re.compile(r"^## [^\w]*([A-Za-z ,&]+) Internship Roles", re.MULTILINE)
+# Bounds each section on ANY "## ..." header, not just ones that match the
+# category pattern below — otherwise trailing content after a header format
+# changes (or a non-category "##" section, e.g. a footer) silently gets
+# folded into and misattributed to the *previous* matched category.
+ANY_HEADER_RE = re.compile(r"^## .+$", re.MULTILINE)
+CATEGORY_HEADER_RE = re.compile(r"^## [^\w]*([A-Za-z ,&]+) Internship Roles")
 
 
 def split_by_category(markdown_text: str):
-    matches = list(CATEGORY_HEADER_RE.finditer(markdown_text))
+    boundaries = list(ANY_HEADER_RE.finditer(markdown_text))
     sections = []
-    for i, m in enumerate(matches):
+    for i, m in enumerate(boundaries):
+        header_text = m.group(0)
+        header_match = CATEGORY_HEADER_RE.match(header_text)
+        if not header_match:
+            if "Internship Roles" in header_text:
+                log.warning("Category header didn't match expected pattern, skipping section: %r", header_text)
+            continue
         start = m.end()
-        end = matches[i + 1].start() if i + 1 < len(matches) else len(markdown_text)
-        sections.append((m.group(1).strip(), markdown_text[start:end]))
+        end = boundaries[i + 1].start() if i + 1 < len(boundaries) else len(markdown_text)
+        sections.append((header_match.group(1).strip(), markdown_text[start:end]))
     return sections
+
+
+# Analytics-only query params known to be safe to drop — never remove a
+# param we haven't confirmed is tracking-only, since some sources embed
+# functionally required IDs (job/requisition IDs, etc.) in the query string.
+TRACKING_PARAM_PREFIXES = ("utm_",)
+TRACKING_PARAMS = {"ref", "referrer", "fbclid", "gclid", "mc_cid", "mc_eid"}
+
+
+def strip_tracking_params(url: str) -> str:
+    parts = urlsplit(url)
+    kept = [
+        (k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True)
+        if k not in TRACKING_PARAMS and not any(k.startswith(p) for p in TRACKING_PARAM_PREFIXES)
+    ]
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(kept), parts.fragment))
 
 
 def parse_simplify(markdown_text: str, today: date) -> list:
@@ -117,6 +148,7 @@ def parse_simplify(markdown_text: str, today: date) -> list:
                 apply_url = apply_link["href"] if apply_link and apply_link.has_attr("href") else None
                 if not apply_url:
                     continue
+                apply_url = strip_tracking_params(apply_url)
 
                 posted_date, age_days, age_label = None, None, ""
                 if age_cell is not None:

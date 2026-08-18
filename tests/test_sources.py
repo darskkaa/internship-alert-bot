@@ -116,7 +116,7 @@ SIMPLIFY_FIXTURE = """
 <td><strong><a href="https://simplify.jobs/c/Acme">Acme</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Remote</td>
-<td><a href="https://acme.example/apply">Apply</a></td>
+<td><a href="https://acme.example/apply?utm_source=GHList&utm_medium=company&jobId=42">Apply</a></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -180,3 +180,36 @@ def test_parse_simplify_sets_source_and_no_vansh_only_flags():
         assert item["source"] == "Simplify"
         assert item["sponsorship_flag"] is False
         assert item["citizenship_flag"] is False
+
+
+TRAILING_SECTION_FIXTURE = SIMPLIFY_FIXTURE + """
+
+## Off-Season / Archived
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/OldCo">OldCo</a></strong></td>
+<td>Archived Intern Role</td>
+<td>Remote</td>
+<td><a href="https://oldco.example/apply">Apply</a></td>
+<td>1mo</td>
+</tr>
+</tbody>
+</table>
+"""
+
+
+def test_parse_simplify_does_not_leak_trailing_non_category_section_into_last_category():
+    listings = parse_simplify(TRAILING_SECTION_FIXTURE, _date(2026, 8, 17))
+    companies = {item["company"] for item in listings}
+    assert "OldCo" not in companies
+
+
+def test_parse_simplify_strips_tracking_params_but_keeps_functional_ones():
+    listings = parse_simplify(SIMPLIFY_FIXTURE, _date(2026, 8, 17))
+    acme = next(item for item in listings if item["company"] == "Acme" and "Software" in item["role"])
+    assert acme["apply_url"] == "https://acme.example/apply?jobId=42"
