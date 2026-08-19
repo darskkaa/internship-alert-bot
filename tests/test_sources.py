@@ -368,6 +368,16 @@ ZSHAH_FIXTURE = {
             "sponsorship": "offers",
             "program": "Internship",
         },
+        {
+            "company": "PaidCo",
+            "title": "Backend Intern",
+            "location": "Remote",
+            "url": "https://job-boards.greenhouse.io/paidco/jobs/5",
+            "posted_at": "2026-08-16T00:00:00Z",
+            "sponsorship": "unknown",
+            "program": "Internship",
+            "salary": "$30/hr",
+        },
     ]
 }
 
@@ -426,6 +436,18 @@ def test_parse_zshah_handles_missing_posted_at():
     nodateco = next(item for item in listings if item["company"] == "NoDateCo")
     assert nodateco["posted_date"] is None
     assert nodateco["age_label"] == ""
+
+
+def test_parse_zshah_captures_salary_when_present():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    paidco = next(item for item in listings if item["company"] == "PaidCo")
+    assert paidco["salary"] == "$30/hr"
+
+
+def test_parse_zshah_salary_none_when_absent():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    snorkel = next(item for item in listings if item["company"] == "Snorkel AI")
+    assert snorkel["salary"] is None
 
 
 def test_parse_zshah_skips_job_missing_url():

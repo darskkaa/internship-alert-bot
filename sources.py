@@ -327,6 +327,7 @@ def parse_zshah(data: dict, today: date) -> list:
             "citizenship_flag": sponsorship == "citizens-only",
             "source": "Zshah",
             "program": program,
+            "salary": job.get("salary"),
         })
     return listings
 

@@ -295,3 +295,19 @@ def test_build_embed_omits_program_tag_for_plain_internship():
 def test_build_embed_omits_program_tag_when_field_absent():
     embed = build_embed(_item())
     assert not any(f["name"] == "🔁 Program" for f in embed["fields"])
+
+
+def test_build_embed_shows_pay_when_present():
+    embed = build_embed(_item(salary="$30/hr"))
+    pay_field = next(f for f in embed["fields"] if f["name"] == "💰 Pay")
+    assert pay_field["value"] == "$30/hr"
+
+
+def test_build_embed_omits_pay_when_absent():
+    embed = build_embed(_item())
+    assert not any(f["name"] == "💰 Pay" for f in embed["fields"])
+
+
+def test_build_embed_omits_pay_when_none():
+    embed = build_embed(_item(salary=None))
+    assert not any(f["name"] == "💰 Pay" for f in embed["fields"])

@@ -68,6 +68,10 @@ def build_embed(item: dict) -> dict:
     # internship-only) - tag it when it's not a plain internship.
     if item.get("program") and item["program"] != "Internship":
         fields.append({"name": "🔁 Program", "value": item["program"], "inline": True})
+    # Only zshah carries pay data (~25% of its listings have it); Simplify
+    # and vansh have no salary column at all, so this is absent for them.
+    if item.get("salary"):
+        fields.append({"name": "💰 Pay", "value": item["salary"], "inline": True})
 
     embed = {
         "title": _truncate(f"{item['company']} — {item['role']}", 256),
