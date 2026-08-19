@@ -9,7 +9,7 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
-from sources import SOURCES, normalize_key
+from sources import SOURCES, normalize_key, utc_today
 
 load_dotenv()
 
@@ -167,7 +167,7 @@ def run_once(state: dict) -> dict:
         state["seen_keys"] = sorted(current_keys)
         return state
 
-    today = date.today()
+    today = utc_today()
     new_listings = []
     posted_keys = set()
     for item in listings:

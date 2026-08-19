@@ -11,6 +11,17 @@ from dotenv import load_dotenv
 
 log = logging.getLogger("internship-watch.sources")
 
+
+def utc_today() -> date:
+    # Never bare date.today() - that reads the ambient system/OS timezone,
+    # which drifts up to a full day from UTC depending on what machine runs
+    # this (confirmed: 176/228 live listings got a different age_label under
+    # local EDT "today" vs UTC "today" when checked at 11:30pm EDT, i.e.
+    # already the next UTC day). posted_date for zshah is always computed in
+    # UTC, so "today" must be too, or age/freshness math silently disagrees
+    # with itself depending on what timezone the runner happens to be in.
+    return datetime.now(timezone.utc).date()
+
 # sources.py is imported by core.py before core.py calls load_dotenv(), so
 # a .env override of GITHUB_REPO/GITHUB_BRANCH/README_PATH below would never
 # take effect unless this module loads it too.
@@ -338,13 +349,13 @@ def parse_zshah(data: dict, today: date) -> list:
 def fetch_simplify() -> list:
     resp = requests.get(SIMPLIFY_RAW_URL, timeout=30)
     resp.raise_for_status()
-    return parse_simplify(resp.text, date.today())
+    return parse_simplify(resp.text, utc_today())
 
 
 def fetch_vansh() -> list:
     resp = requests.get(VANSH_RAW_URL, timeout=30)
     resp.raise_for_status()
-    return parse_vansh(resp.text, date.today())
+    return parse_vansh(resp.text, utc_today())
 
 
 def fetch_zshah() -> list:
@@ -353,7 +364,7 @@ def fetch_zshah() -> list:
     # requests' resp.json() can mis-detect encoding on this response (seen
     # producing mojibake on non-ASCII characters like em-dashes) - decode the
     # raw bytes as UTF-8 explicitly instead of trusting the guessed charset.
-    return parse_zshah(json.loads(resp.content.decode("utf-8")), date.today())
+    return parse_zshah(json.loads(resp.content.decode("utf-8")), utc_today())
 
 
 SOURCES = [fetch_simplify, fetch_vansh, fetch_zshah]

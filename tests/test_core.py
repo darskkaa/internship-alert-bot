@@ -112,10 +112,11 @@ def test_run_once_continues_when_one_source_raises(monkeypatch):
 
 
 def test_run_once_posts_new_listings_oldest_first_within_freshness_window(monkeypatch):
-    from datetime import date as _date
     from datetime import timedelta as _timedelta
 
-    today = _date.today()
+    from sources import utc_today
+
+    today = utc_today()
 
     older = _fake_listing("OldCo", "SWE Intern", "https://oldco.example/1")
     older["posted_date"] = today - _timedelta(days=6)

@@ -1,4 +1,4 @@
-from datetime import date
+from datetime import date, datetime, timezone
 
 from sources import (
     age_from_date,
@@ -6,7 +6,15 @@ from sources import (
     date_from_age,
     normalize_key,
     parse_vansh_date,
+    utc_today,
 )
+
+
+def test_utc_today_matches_utc_clock_not_ambient_system_timezone():
+    # Regression guard for the bug where bare date.today() reads the
+    # ambient/system timezone instead of UTC, causing age_label drift of up
+    # to a full day depending on what machine/timezone runs the code.
+    assert utc_today() == datetime.now(timezone.utc).date()
 
 
 def test_date_from_age_days():
