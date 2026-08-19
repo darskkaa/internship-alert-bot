@@ -256,7 +256,9 @@ def test_build_embed_footer_names_source():
 
 def test_build_embed_includes_native_discord_timestamp():
     embed = build_embed(_item(posted_date=date(2026, 8, 14)))
-    assert embed["timestamp"] == "2026-08-14T00:00:00+00:00"
+    # Noon UTC, not midnight - midnight rolls back to "yesterday" once
+    # Discord converts it to a negative-UTC-offset viewer's local clock.
+    assert embed["timestamp"] == "2026-08-14T12:00:00+00:00"
 
 
 def test_build_embed_truncates_overlong_title():

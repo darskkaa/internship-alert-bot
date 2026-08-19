@@ -77,7 +77,12 @@ def build_embed(item: dict) -> dict:
         # embed footer, separate from (and in addition to) the human-readable
         # "📅 Posted" field above — the field is scannable at a glance, the
         # native timestamp is accurate to the viewer's local timezone/clock.
-        embed["timestamp"] = datetime.combine(item["posted_date"], dtime.min, tzinfo=timezone.utc).isoformat()
+        # Anchored at noon UTC, not midnight: posted_date has no real time-of-
+        # day component, and midnight UTC rolls back to "yesterday" for every
+        # negative-UTC-offset viewer (all of North/South America) once
+        # Discord converts it to their local clock. Noon UTC keeps the same
+        # calendar date correct across the entire realistic timezone range.
+        embed["timestamp"] = datetime.combine(item["posted_date"], dtime(12, 0), tzinfo=timezone.utc).isoformat()
     return embed
 
 
