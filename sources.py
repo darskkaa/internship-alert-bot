@@ -328,6 +328,9 @@ def parse_zshah(data: dict, today: date) -> list:
             "source": "Zshah",
             "program": program,
             "salary": job.get("salary"),
+            "skills": job.get("skills") or [],
+            "remote": bool(job.get("remote")),
+            "h1b_approvals": job.get("h1b_approvals"),
         })
     return listings
 

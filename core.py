@@ -27,6 +27,8 @@ REQUIRED_LISTING_KEYS = {
 def _truncate(text: str, limit: int) -> str:
     return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
 
+SKILLS_DISPLAY_CAP = 6
+
 STATE_FILE = Path(__file__).parent / "state.json"
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
@@ -72,6 +74,31 @@ def build_embed(item: dict) -> dict:
     # and vansh have no salary column at all, so this is absent for them.
     if item.get("salary"):
         fields.append({"name": "💰 Pay", "value": item["salary"], "inline": True})
+    # Only zshah carries skills tags (~87% of its listings have them);
+    # Simplify and vansh have no skills column, so this is absent for them.
+    skills = item.get("skills")
+    if skills:
+        shown = skills[:SKILLS_DISPLAY_CAP]
+        skills_value = ", ".join(shown)
+        if len(skills) > SKILLS_DISPLAY_CAP:
+            skills_value += f" +{len(skills) - SKILLS_DISPLAY_CAP} more"
+        fields.append({"name": "🛠️ Skills", "value": _truncate(skills_value, 1024), "inline": True})
+    # Only zshah carries a remote flag (~3% of listings); like the other
+    # per-role badges above, only rendered when true - absence never
+    # implies "not remote".
+    if item.get("remote"):
+        fields.append({"name": "🌐 Remote", "value": "Remote-eligible", "inline": True})
+    # Only zshah carries H-1B data (~51% of listings), and it is a
+    # *company-level* historical filing count - NOT a per-role sponsorship
+    # guarantee. Deliberately worded and visually distinct (different
+    # emoji/phrasing, inline:False, placed last) from the sponsorship_flag/
+    # citizenship_flag badges above, which ARE per-role signals.
+    if item.get("h1b_approvals"):
+        fields.append({
+            "name": "📊 Employer H-1B history",
+            "value": f"{item['h1b_approvals']:,} approvals historically (company-wide, not role-specific)",
+            "inline": False,
+        })
 
     embed = {
         "title": _truncate(f"{item['company']} — {item['role']}", 256),

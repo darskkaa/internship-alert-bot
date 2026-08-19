@@ -340,6 +340,9 @@ ZSHAH_FIXTURE = {
             "posted_at": "2026-08-14T17:35:22-04:00",
             "sponsorship": "no-sponsorship",
             "program": "Internship",
+            "skills": ["Python", "SQL"],
+            "remote": True,
+            "h1b_approvals": 133,
         },
         {
             "company": "Acme Corp",
@@ -448,6 +451,42 @@ def test_parse_zshah_salary_none_when_absent():
     listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
     snorkel = next(item for item in listings if item["company"] == "Snorkel AI")
     assert snorkel["salary"] is None
+
+
+def test_parse_zshah_captures_skills_when_present():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    snorkel = next(item for item in listings if item["company"] == "Snorkel AI")
+    assert snorkel["skills"] == ["Python", "SQL"]
+
+
+def test_parse_zshah_skills_empty_list_when_absent():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    nodateco = next(item for item in listings if item["company"] == "NoDateCo")
+    assert nodateco["skills"] == []
+
+
+def test_parse_zshah_captures_remote_flag_true():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    snorkel = next(item for item in listings if item["company"] == "Snorkel AI")
+    assert snorkel["remote"] is True
+
+
+def test_parse_zshah_remote_false_when_absent():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    nodateco = next(item for item in listings if item["company"] == "NoDateCo")
+    assert nodateco["remote"] is False
+
+
+def test_parse_zshah_captures_h1b_approvals_when_present():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    snorkel = next(item for item in listings if item["company"] == "Snorkel AI")
+    assert snorkel["h1b_approvals"] == 133
+
+
+def test_parse_zshah_h1b_approvals_none_when_absent():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    nodateco = next(item for item in listings if item["company"] == "NoDateCo")
+    assert nodateco["h1b_approvals"] is None
 
 
 def test_parse_zshah_skips_job_missing_url():

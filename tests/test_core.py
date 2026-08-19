@@ -311,3 +311,77 @@ def test_build_embed_omits_pay_when_absent():
 def test_build_embed_omits_pay_when_none():
     embed = build_embed(_item(salary=None))
     assert not any(f["name"] == "💰 Pay" for f in embed["fields"])
+
+
+def test_build_embed_shows_skills_when_present():
+    embed = build_embed(_item(skills=["Python", "SQL"]))
+    skills_field = next(f for f in embed["fields"] if f["name"] == "🛠️ Skills")
+    assert skills_field["value"] == "Python, SQL"
+
+
+def test_build_embed_omits_skills_when_absent():
+    embed = build_embed(_item())
+    assert not any(f["name"] == "🛠️ Skills" for f in embed["fields"])
+
+
+def test_build_embed_omits_skills_when_empty_list():
+    embed = build_embed(_item(skills=[]))
+    assert not any(f["name"] == "🛠️ Skills" for f in embed["fields"])
+
+
+def test_build_embed_caps_skills_list_and_shows_remainder_count():
+    embed = build_embed(_item(skills=[f"Skill{i}" for i in range(9)]))
+    skills_field = next(f for f in embed["fields"] if f["name"] == "🛠️ Skills")
+    assert skills_field["value"] == "Skill0, Skill1, Skill2, Skill3, Skill4, Skill5 +3 more"
+
+
+def test_build_embed_skills_value_truncated_when_overlong():
+    embed = build_embed(_item(skills=["X" * 2000]))
+    skills_field = next(f for f in embed["fields"] if f["name"] == "🛠️ Skills")
+    assert len(skills_field["value"]) == 1024
+    assert skills_field["value"].endswith("…")
+
+
+def test_build_embed_shows_remote_badge_when_true():
+    embed = build_embed(_item(remote=True))
+    remote_field = next(f for f in embed["fields"] if f["name"] == "🌐 Remote")
+    assert remote_field["value"] == "Remote-eligible"
+
+
+def test_build_embed_omits_remote_badge_when_false():
+    embed = build_embed(_item(remote=False))
+    assert not any(f["name"] == "🌐 Remote" for f in embed["fields"])
+
+
+def test_build_embed_omits_remote_badge_when_absent():
+    embed = build_embed(_item())
+    assert not any(f["name"] == "🌐 Remote" for f in embed["fields"])
+
+
+def test_build_embed_shows_h1b_history_when_present():
+    embed = build_embed(_item(h1b_approvals=133))
+    h1b_field = next(f for f in embed["fields"] if f["name"] == "📊 Employer H-1B history")
+    assert "133" in h1b_field["value"]
+    assert "company-wide" in h1b_field["value"]
+    assert "not role-specific" in h1b_field["value"]
+
+
+def test_build_embed_omits_h1b_history_when_absent():
+    embed = build_embed(_item())
+    assert not any(f["name"] == "📊 Employer H-1B history" for f in embed["fields"])
+
+
+def test_build_embed_omits_h1b_history_when_none():
+    embed = build_embed(_item(h1b_approvals=None))
+    assert not any(f["name"] == "📊 Employer H-1B history" for f in embed["fields"])
+
+
+def test_build_embed_omits_h1b_history_when_zero():
+    embed = build_embed(_item(h1b_approvals=0))
+    assert not any(f["name"] == "📊 Employer H-1B history" for f in embed["fields"])
+
+
+def test_build_embed_h1b_history_uses_thousands_separator():
+    embed = build_embed(_item(h1b_approvals=1234))
+    h1b_field = next(f for f in embed["fields"] if f["name"] == "📊 Employer H-1B history")
+    assert "1,234" in h1b_field["value"]
