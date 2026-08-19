@@ -1,7 +1,8 @@
+import json
 import logging
 import os
 import re
-from datetime import date, datetime, timedelta
+from datetime import date, datetime, timedelta, timezone
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 import requests
@@ -271,6 +272,63 @@ GITHUB_BRANCH = os.getenv("GITHUB_BRANCH", "dev")
 README_PATH = os.getenv("README_PATH", "README.md")
 SIMPLIFY_RAW_URL = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{GITHUB_BRANCH}/{README_PATH}"
 VANSH_RAW_URL = "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md"
+ZSHAH_JOBS_URL = "https://raw.githubusercontent.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/main/docs/api/jobs.json"
+
+# This source scrapes raw ATS postings (Greenhouse/Workday/etc.) rather than
+# being human-curated like the other two, so it also carries non-internship
+# program types we're not set up to track - only pull these three.
+ZSHAH_ALLOWED_PROGRAMS = {"Internship", "Co-op", "Internship / Co-op"}
+
+
+def parse_zshah(data: dict, today: date) -> list:
+    listings = []
+    for job in data.get("jobs", []):
+        program = job.get("program")
+        if program not in ZSHAH_ALLOWED_PROGRAMS:
+            continue
+
+        company = (job.get("company") or "").strip()
+        role = (job.get("title") or "").strip()
+        if not company or not role:
+            continue
+
+        apply_url = job.get("url")
+        if not apply_url:
+            continue
+        apply_url = strip_tracking_params(apply_url)
+
+        location = job.get("location") or "N/A"
+
+        posted_date, age_days, age_label = None, None, ""
+        posted_at = job.get("posted_at")
+        if posted_at:
+            try:
+                posted_date = datetime.fromisoformat(posted_at).astimezone(timezone.utc).date()
+                age_days, age_label = age_from_date(posted_date, today)
+            except ValueError:
+                pass
+
+        # Real sponsorship signal from ATS data (vs. the other sources' best-
+        # effort keyword/emoji flags) - "offers"/"unknown" map to no flag,
+        # same "don't assert what you don't know" stance used elsewhere.
+        sponsorship = job.get("sponsorship")
+
+        listings.append({
+            "company": company,
+            "role": role,
+            "location": location,
+            "apply_url": apply_url,
+            "category": classify_category(role),
+            "posted_date": posted_date,
+            "age_days": age_days,
+            "age_label": age_label,
+            "oa_lc_flag": check_oa_lc(f"{company} {role}"),
+            "sponsorship_flag": sponsorship == "no-sponsorship",
+            "citizenship_flag": sponsorship == "citizens-only",
+            "source": "Zshah",
+            "program": program,
+        })
+    return listings
 
 
 def fetch_simplify() -> list:
@@ -285,4 +343,13 @@ def fetch_vansh() -> list:
     return parse_vansh(resp.text, date.today())
 
 
-SOURCES = [fetch_simplify, fetch_vansh]
+def fetch_zshah() -> list:
+    resp = requests.get(ZSHAH_JOBS_URL, timeout=30)
+    resp.raise_for_status()
+    # requests' resp.json() can mis-detect encoding on this response (seen
+    # producing mojibake on non-ASCII characters like em-dashes) - decode the
+    # raw bytes as UTF-8 explicitly instead of trusting the guessed charset.
+    return parse_zshah(json.loads(resp.content.decode("utf-8")), date.today())
+
+
+SOURCES = [fetch_simplify, fetch_vansh, fetch_zshah]

@@ -326,3 +326,110 @@ def test_parse_vansh_logs_warning_when_no_header_row_found(caplog):
         listings = parse_vansh(fixture, _date(2026, 8, 17))
     assert listings == []
     assert any("header row" in record.message for record in caplog.records)
+
+
+from sources import parse_zshah
+
+ZSHAH_FIXTURE = {
+    "jobs": [
+        {
+            "company": "Snorkel AI",
+            "title": "AI Researcher Intern",
+            "location": "New York City, NY (Hybrid)",
+            "url": "https://job-boards.greenhouse.io/snorkelai/jobs/1?utm_source=x",
+            "posted_at": "2026-08-14T17:35:22-04:00",
+            "sponsorship": "no-sponsorship",
+            "program": "Internship",
+        },
+        {
+            "company": "Acme Corp",
+            "title": "Data Engineer Co-op",
+            "location": "Remote",
+            "url": "https://job-boards.greenhouse.io/acme/jobs/2",
+            "posted_at": "2026-08-16T00:00:00Z",
+            "sponsorship": "citizens-only",
+            "program": "Co-op",
+        },
+        {
+            "company": "FullTimeCo",
+            "title": "Senior Software Engineer",
+            "location": "Remote",
+            "url": "https://job-boards.greenhouse.io/fulltimeco/jobs/3",
+            "posted_at": "2026-08-16T00:00:00Z",
+            "sponsorship": "unknown",
+            "program": "Full-time",
+        },
+        {
+            "company": "NoDateCo",
+            "title": "Quant Researcher Intern",
+            "location": "Chicago, IL",
+            "url": "https://job-boards.greenhouse.io/nodateco/jobs/4",
+            "posted_at": None,
+            "sponsorship": "offers",
+            "program": "Internship",
+        },
+    ]
+}
+
+
+def test_parse_zshah_maps_core_fields():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    snorkel = next(item for item in listings if item["company"] == "Snorkel AI")
+    assert snorkel["role"] == "AI Researcher Intern"
+    assert snorkel["location"] == "New York City, NY (Hybrid)"
+    assert snorkel["source"] == "Zshah"
+
+
+def test_parse_zshah_drops_non_internship_programs():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    assert not any(item["company"] == "FullTimeCo" for item in listings)
+
+
+def test_parse_zshah_keeps_coop_and_tags_program():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    acme = next(item for item in listings if item["company"] == "Acme Corp")
+    assert acme["program"] == "Co-op"
+
+
+def test_parse_zshah_uses_exact_posted_at_timestamp():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    snorkel = next(item for item in listings if item["company"] == "Snorkel AI")
+    # 2026-08-14T17:35:22-04:00 -> 21:35:22 UTC -> still Aug 14 UTC.
+    assert snorkel["posted_date"] == _date(2026, 8, 14)
+    assert snorkel["age_days"] == 3
+
+
+def test_parse_zshah_maps_sponsorship_enum_to_flags():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    snorkel = next(item for item in listings if item["company"] == "Snorkel AI")
+    acme = next(item for item in listings if item["company"] == "Acme Corp")
+    nodateco = next(item for item in listings if item["company"] == "NoDateCo")
+    assert snorkel["sponsorship_flag"] is True and snorkel["citizenship_flag"] is False
+    assert acme["sponsorship_flag"] is False and acme["citizenship_flag"] is True
+    assert nodateco["sponsorship_flag"] is False and nodateco["citizenship_flag"] is False
+
+
+def test_parse_zshah_categorizes_by_role_keyword():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    acme = next(item for item in listings if item["company"] == "Acme Corp")
+    assert acme["category"] == "Data Science"
+
+
+def test_parse_zshah_strips_tracking_params():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    snorkel = next(item for item in listings if item["company"] == "Snorkel AI")
+    assert "utm_source" not in snorkel["apply_url"]
+
+
+def test_parse_zshah_handles_missing_posted_at():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    nodateco = next(item for item in listings if item["company"] == "NoDateCo")
+    assert nodateco["posted_date"] is None
+    assert nodateco["age_label"] == ""
+
+
+def test_parse_zshah_skips_job_missing_url():
+    fixture = {"jobs": [{"company": "BadCo", "title": "Intern", "location": "Remote",
+                          "url": None, "posted_at": None, "sponsorship": "unknown", "program": "Internship"}]}
+    listings = parse_zshah(fixture, _date(2026, 8, 17))
+    assert listings == []

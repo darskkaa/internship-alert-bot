@@ -64,6 +64,10 @@ def build_embed(item: dict) -> dict:
         fields.append({"name": "🛂", "value": "No sponsorship", "inline": True})
     if item["citizenship_flag"]:
         fields.append({"name": "🇺🇸", "value": "US citizenship required", "inline": True})
+    # Only the zshah source carries a "program" field (Simplify/vansh are
+    # internship-only) - tag it when it's not a plain internship.
+    if item.get("program") and item["program"] != "Internship":
+        fields.append({"name": "🔁 Program", "value": item["program"], "inline": True})
 
     embed = {
         "title": _truncate(f"{item['company']} — {item['role']}", 256),

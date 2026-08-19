@@ -279,3 +279,19 @@ def test_build_embed_truncates_overlong_location():
 def test_build_embed_omits_timestamp_when_posted_date_missing():
     embed = build_embed(_item(posted_date=None))
     assert "timestamp" not in embed
+
+
+def test_build_embed_tags_non_internship_program():
+    embed = build_embed(_item(program="Co-op"))
+    program_field = next(f for f in embed["fields"] if f["name"] == "🔁 Program")
+    assert program_field["value"] == "Co-op"
+
+
+def test_build_embed_omits_program_tag_for_plain_internship():
+    embed = build_embed(_item(program="Internship"))
+    assert not any(f["name"] == "🔁 Program" for f in embed["fields"])
+
+
+def test_build_embed_omits_program_tag_when_field_absent():
+    embed = build_embed(_item())
+    assert not any(f["name"] == "🔁 Program" for f in embed["fields"])
