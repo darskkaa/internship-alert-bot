@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-08-20T22:47:18.247656+00:00",
+  "last_checked_utc": "2026-08-20T23:32:16.591999+00:00",
   "seen": [
     "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879",
     "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879?utm_source=Simplify&ref=Simplify",
@@ -1285,7 +1285,8 @@
     "https://www.zipline.com/open-roles?gh_jid=7891459003",
     "https://www.zipline.com/open-roles?gh_jid=7891460003",
     "https://www.zipline.com/open-roles?gh_jid=7903483003",
-    "https://www.zipline.com/open-roles?gh_jid=7904720003"
+    "https://www.zipline.com/open-roles?gh_jid=7904720003",
+    "https://www.zipline.com/open-roles?gh_jid=7909570003"
   ],
   "seen_keys": [
     "abbvie 2027 business technology solutions intern data software engineering undergraduate",
@@ -2080,6 +2081,7 @@
     "zipline computational physics intern summer 2027",
     "zipline hardware test intern summer 2027",
     "zipline long range platform embedded firmware intern summer 2027",
-    "zipline long range platform hardware engineering intern"
+    "zipline long range platform hardware engineering intern",
+    "zipline perception intern summer 2027"
   ]
 }
