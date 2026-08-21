@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-08-21T20:00:11.948233+00:00",
+  "last_checked_utc": "2026-08-21T20:43:04.327963+00:00",
   "seen": [
     "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879",
     "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879?utm_source=Simplify&ref=Simplify",
@@ -211,6 +211,7 @@
     "https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w?utm_source=Simplify&ref=Simplify",
     "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368",
     "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368?utm_source=Simplify&ref=Simplify",
+    "https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Midland-TX/Summer-2027-Geoscience-Intern_R100829",
     "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Data-and-Tools--Undergraduate---Master-s-_2026-9003",
     "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Insights--Undergraduate---Master-s-_2026-9002",
     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718",
@@ -1350,7 +1351,8 @@
     "https://www.zipline.com/open-roles?gh_jid=7891460003",
     "https://www.zipline.com/open-roles?gh_jid=7903483003",
     "https://www.zipline.com/open-roles?gh_jid=7904720003",
-    "https://www.zipline.com/open-roles?gh_jid=7909570003"
+    "https://www.zipline.com/open-roles?gh_jid=7909570003",
+    "https://www.zipline.com/open-roles?gh_jid=7929236003"
   ],
   "seen_keys": [
     "abbvie 2027 business technology solutions intern data software engineering undergraduate",
@@ -1596,6 +1598,7 @@
     "detroit lions quantitative research intern",
     "deutsche bank technology data and innovation intern technology data and innovation",
     "devon energy technology intern data engineering",
+    "diamondback energy geoscience intern",
     "dimehealth ai forward deployed engineering intern",
     "dimensional fund advisors global client group intern data and tools undergraduate and masters",
     "dimensional fund advisors global client group operations insights intern undergraduate masters",
@@ -2210,6 +2213,7 @@
     "zipline hardware test intern summer 2027",
     "zipline long range platform embedded firmware intern summer 2027",
     "zipline long range platform hardware engineering intern",
-    "zipline perception intern summer 2027"
+    "zipline perception intern summer 2027",
+    "zipline software engineer intern summer 2027"
   ]
 }
