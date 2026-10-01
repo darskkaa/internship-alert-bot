@@ -155,6 +155,8 @@ def test_parse_smartrecruiters_uses_released_date():
 
 
 class _FakeResp:
+    status_code = 200
+
     def __init__(self, payload):
         self.content = json.dumps(payload).encode()
 
@@ -219,3 +221,24 @@ def test_enrich_listings_keeps_item_when_detail_fails(monkeypatch):
             "posted_date": TODAY, "location": "Austin, TX"}
     ats.enrich_listings([item])
     assert item["posted_date"] == TODAY
+
+
+def test_fetch_workday_keeps_earlier_pages_when_a_deep_page_errors(monkeypatch):
+    class Resp(_FakeResp):
+        def __init__(self, payload, status=200):
+            super().__init__(payload)
+            self.status_code = status
+
+        def raise_for_status(self):
+            if self.status_code != 200:
+                raise RuntimeError(self.status_code)
+
+    first = {"jobPostings": [{"title": f"SWE Intern {i}", "externalPath": f"/job/x/i{i}", "postedOn": "Posted Today"} for i in range(20)]}
+
+    def fake_post(url, json=None, timeout=None):
+        return Resp(first) if json["offset"] == 0 else Resp({}, status=503)
+
+    monkeypatch.setattr(ats.SESSION, "post", fake_post)
+    monkeypatch.setattr(ats.time, "sleep", lambda s: None)
+    items = ats.fetch_workday({"name": "D", "ats": "workday", "token": "disney.wd5.myworkdayjobs.com|disneycareer"}, TODAY)
+    assert len(items) == 20

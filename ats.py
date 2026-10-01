@@ -1,6 +1,7 @@
 import json
 import logging
 import re
+import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -226,6 +227,15 @@ def fetch_workday(board: dict, today: date) -> list:
     for page in range(WORKDAY_MAX_PAGES):
         body = {"appliedFacets": {}, "limit": WORKDAY_PAGE_SIZE, "offset": page * WORKDAY_PAGE_SIZE, "searchText": "intern"}
         resp = SESSION.post(url, json=body, timeout=TIMEOUT)
+        if resp.status_code == 429 or resp.status_code >= 500:
+            time.sleep(2)
+            resp = SESSION.post(url, json=body, timeout=TIMEOUT)
+        if resp.status_code != 200 and page > 0:
+            # Deep pages on busy tenants intermittently 429/5xx from shared
+            # runner IPs; keep the newest pages already fetched rather than
+            # dropping the whole board for this run.
+            log.warning("Workday %s page %d returned %d, keeping earlier pages", site, page, resp.status_code)
+            break
         resp.raise_for_status()
         postings = json.loads(resp.content.decode("utf-8")).get("jobPostings") or []
         items += parse_workday(postings, board, today)
