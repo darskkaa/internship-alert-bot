@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T21:02:21.305119+00:00",
+  "last_checked_utc": "2026-10-01T21:12:03.471593+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4470,6 +4470,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Intern-2027--Onsite-_01865648",
+    "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/HF-Systems-Intern--Onsite-_01879540",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01878082",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278",
@@ -19407,6 +19408,7 @@
     "job:workday:globalhr:flight-control-software-engineering-intern--summer-2027-_01871084",
     "job:workday:globalhr:fpga-electrical-design-engineer-intern--summer-2027--onsite-_01872989",
     "job:workday:globalhr:fpga-engineering-co-op--spring-summer-2027-_01878678",
+    "job:workday:globalhr:hf-systems-intern--onsite-_01879540",
     "job:workday:globalhr:industrial-engineering-co-op--spring-summer-2027-_01870633",
     "job:workday:globalhr:industrial-engineering-co-op--spring-summer-2027-_01870645",
     "job:workday:globalhr:industrial-engineering-co-op--spring-summer-2027-_01871284",
@@ -24304,6 +24306,7 @@
     "rtx fpga design intern",
     "rtx fpga electrical design engineer intern",
     "rtx fpga engineer coop",
+    "rtx hf systems intern onsite",
     "rtx industrial engineering coop springsummer 2027",
     "rtx industrial engineering intern summer 2027",
     "rtx information systems engineer intern",
