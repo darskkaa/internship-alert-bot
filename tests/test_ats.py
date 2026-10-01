@@ -190,3 +190,32 @@ def test_board_tech_filter_keeps_quant_and_hardware_titles_but_not_marketing():
         {"title": "Trading Intern", "absolute_url": "https://b.example/4"},
     ]}
     assert [i["apply_url"][-1] for i in ats.parse_greenhouse(data, BOARD, TODAY)] == ["1", "2", "4"]
+
+
+def test_enrich_workday_replaces_relative_date_with_exact_start_date(monkeypatch):
+    captured = {}
+
+    def fake_get(url, timeout=None):
+        captured["url"] = url
+        return _FakeResp({"jobPostingInfo": {"startDate": "2026-09-12", "location": "Herndon, VA", "additionalLocations": ["A", "B"]}})
+
+    monkeypatch.setattr(ats.SESSION, "get", fake_get)
+    item = {"apply_url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Herndon/Cyber-Intern_R1", "feed": "workday:bah.wd1.myworkdayjobs.com|BAH_Jobs",
+            "posted_date": TODAY, "age_days": 0, "age_label": "today", "location": "3 Locations"}
+
+    ats.enrich_listings([item])
+
+    assert captured["url"] == "https://bah.wd1.myworkdayjobs.com/wday/cxs/bah/BAH_Jobs/job/Herndon/Cyber-Intern_R1"
+    assert item["posted_date"] == date(2026, 9, 12)
+    assert item["location"] == "Herndon, VA +2 more"
+
+
+def test_enrich_listings_keeps_item_when_detail_fails(monkeypatch):
+    def boom(url, timeout=None):
+        raise RuntimeError("timeout")
+
+    monkeypatch.setattr(ats.SESSION, "get", boom)
+    item = {"apply_url": "https://x.wd1.myworkdayjobs.com/S/job/a/b_1", "feed": "workday:x.wd1.myworkdayjobs.com|S",
+            "posted_date": TODAY, "location": "Austin, TX"}
+    ats.enrich_listings([item])
+    assert item["posted_date"] == TODAY

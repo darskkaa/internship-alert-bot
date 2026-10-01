@@ -739,3 +739,31 @@ def test_run_once_board_backlog_that_just_became_visible_does_not_alert(monkeypa
 
     assert sorted(i["role"] for i in posted) == ["AppSec Intern", "SOC Intern"]
     assert {"https://bah.example/1", "https://bah.example/3", "https://bah.example/5"} <= set(state["seen"])
+
+
+def test_build_embed_category_shows_cybersecurity_for_cyber_roles():
+    embed = build_embed(_item(role="SOC Analyst Intern", category="Other"))
+    assert next(f for f in embed["fields"] if f["name"] == "🏷️ Category")["value"] == "Cybersecurity"
+
+
+def test_run_once_enriches_unseen_items_before_freshness_check(monkeypatch):
+    from datetime import timedelta
+
+    from sources import utc_today
+
+    repost = _fake_listing("RTX", "Cyber Intern", "https://globalhr.wd5.myworkdayjobs.com/x/job/y/Cyber_1")
+    repost.update(feed="workday:globalhr.wd5.myworkdayjobs.com|x", posted_date=utc_today())
+    seeded = ["seeded-test-feed", "workday:globalhr.wd5.myworkdayjobs.com|x"]
+
+    def fake_enrich(items):
+        for item in items:
+            item["posted_date"] = utc_today() - timedelta(days=20)
+
+    monkeypatch.setattr(core, "enrich_listings", fake_enrich)
+    monkeypatch.setattr(core, "SOURCES", [lambda: [repost]])
+    posted = []
+    monkeypatch.setattr(core, "post_new_listings", lambda items: posted.extend(items))
+
+    core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "seeded_feeds": seeded, "last_checked_utc": "x"})
+
+    assert posted == []

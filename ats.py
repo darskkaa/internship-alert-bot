@@ -4,6 +4,8 @@ import re
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import urlsplit
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -72,6 +74,12 @@ SESSION = requests.Session()
 SESSION.mount("https://", requests.adapters.HTTPAdapter(pool_connections=4, pool_maxsize=MAX_WORKERS))
 
 
+ATS_LABELS = {
+    "greenhouse": "Greenhouse", "lever": "Lever", "ashby": "Ashby", "smartrecruiters": "SmartRecruiters",
+    "workday": "Workday", "oracle": "Oracle Cloud",
+}
+
+
 def _build(board: dict, title, url, location, published, remote, today: date, force_intern=False, posted_on=None):
     title = (title or "").strip()
     if not title or not url:
@@ -113,7 +121,7 @@ def _build(board: dict, title, url, location, published, remote, today: date, fo
         "oa_lc_flag": check_oa_lc(f"{company} {title}"),
         "sponsorship_flag": False,
         "citizenship_flag": False,
-        "source": board["ats"].title(),
+        "source": ATS_LABELS[board["ats"]],
         "feed": f"{board['ats']}:{board['token']}",
         "season": season,
         "remote": bool(remote),
@@ -184,6 +192,17 @@ def workday_posted_on(text, today: date):
     return today - timedelta(days=days + 1 if "+" in match.group(0) else days)
 
 
+WORKDAY_LOCAL_TZ = ZoneInfo("America/New_York")
+MULTI_LOCATION_RE = re.compile(r"^\d+ Locations$", re.I)
+
+
+def workday_today() -> date:
+    # "Posted Today" is relative to the tenant's local calendar (US for nearly
+    # every board here), not UTC: at 00:30 UTC it still means yesterday's
+    # date. Only a fallback - enrich_workday replaces it with the exact date.
+    return datetime.now(WORKDAY_LOCAL_TZ).date()
+
+
 def parse_workday(postings: list, board: dict, today: date) -> list:
     host, site = board["token"].split("|")
     items = []
@@ -191,7 +210,7 @@ def parse_workday(postings: list, board: dict, today: date) -> list:
         path = job.get("externalPath")
         items.append(_build(
             board, job.get("title"), f"https://{host}/{site}{path}" if path else None, job.get("locationsText"),
-            None, False, today, posted_on=workday_posted_on(job.get("postedOn"), today),
+            None, False, today, posted_on=workday_posted_on(job.get("postedOn"), workday_today()),
         ))
     return [item for item in items if item]
 
@@ -213,6 +232,48 @@ def fetch_workday(board: dict, today: date) -> list:
         if len(postings) < WORKDAY_PAGE_SIZE or not any(INTERN_RE.search(j.get("title") or "") for j in postings):
             break
     return items
+
+
+def enrich_workday(item: dict, today: date) -> None:
+    # The listing API only says "Posted N Days Ago" (rounded, tenant-local,
+    # and reset by re-posts); the job detail carries the real posting date.
+    # Only called for the handful of unseen roles about to be alerted.
+    parts = urlsplit(item["apply_url"])
+    segments = [s for s in parts.path.split("/") if s]
+    detail_url = f"https://{parts.netloc}/wday/cxs/{parts.netloc.split('.')[0]}/{'/'.join(segments)}"
+    resp = SESSION.get(detail_url, timeout=TIMEOUT)
+    resp.raise_for_status()
+    info = json.loads(resp.content.decode("utf-8")).get("jobPostingInfo") or {}
+    try:
+        posted = date.fromisoformat(info.get("startDate") or "")
+    except ValueError:
+        posted = None
+    if posted is not None:
+        item["posted_date"] = posted
+        item["age_days"], item["age_label"] = age_from_date(posted, today)
+    location = info.get("location")
+    if location and MULTI_LOCATION_RE.match(item["location"]):
+        extra = len(info.get("additionalLocations") or [])
+        item["location"] = f"{location} +{extra} more" if extra else location
+
+
+ENRICHERS = {"workday": enrich_workday}
+
+
+def enrich_listings(items: list) -> None:
+    targets = [i for i in items if i.get("feed", "").split(":")[0] in ENRICHERS]
+    if not targets:
+        return
+    today = utc_today()
+
+    def run(item):
+        try:
+            ENRICHERS[item["feed"].split(":")[0]](item, today)
+        except Exception as exc:
+            log.warning("Could not enrich %s, keeping list-page fields: %s", item["apply_url"], type(exc).__name__)
+
+    with ThreadPoolExecutor(MAX_WORKERS) as pool:
+        list(pool.map(run, targets))
 
 
 def parse_oracle(data: dict, board: dict, today: date) -> list:

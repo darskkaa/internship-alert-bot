@@ -29,11 +29,21 @@ load_dotenv()
 
 
 CATEGORY_KEYWORDS = [
-    ("Quantitative Finance", ("quant", "trading", "trader")),
-    ("Data Science", ("data scien", "machine learning", "ai engineer", "data analy", "data engineer", " ml ")),
-    ("Product Management", ("product manager", "product management", "product specialist")),
-    ("Hardware Engineering", ("hardware", "firmware", "asic", "silicon", "electrical")),
-    ("Software Engineering", ("software engineer", "swe", "backend", "frontend", "full stack", "web developer")),
+    ("Quantitative Finance", ("quant", "trading", "trader", "fixed income", "derivative", "volatility", "portfolio")),
+    ("Data Science", (
+        "data scien", "machine learning", "ai engineer", "data analy", "data engineer", " ml ", "applied scien",
+        "research scien", "analytics", "artificial intelligence", " ai ", "computer vision", "deep learning", " nlp ",
+    )),
+    ("Product Management", ("product manager", "product management", "product specialist", "product analyst")),
+    ("Hardware Engineering", (
+        "hardware", "firmware", "asic", "silicon", "electrical", "embedded", "fpga", " dft ", " rtl ", "analog",
+        "electronic", "semiconductor", "photonic", "optical", "mechanical", "manufacturing engineer", "robotic",
+    )),
+    ("Software Engineering", (
+        "software", "swe", "backend", "back-end", "frontend", "front-end", "full stack", "full-stack", "web developer",
+        "developer", "devops", " sre ", "infrastructure", "platform engineer", "cloud", "mobile", " ios ", "android",
+        "forward deployed",
+    )),
 ]
 
 

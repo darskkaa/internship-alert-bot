@@ -9,7 +9,7 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
-from ats import fetch_ats, load_watchlist
+from ats import enrich_listings, fetch_ats, load_watchlist
 from sources import SOURCES as BASE_SOURCES
 from sources import is_cyber_role, job_id_key, normalize_key, utc_today
 
@@ -119,7 +119,7 @@ def is_cyber_listing(item: dict) -> bool:
 def build_embed(item: dict, detected_at: datetime | None = None, color: int = MAIN_COLOR) -> dict:
     fields = [
         {"name": "📍 Location", "value": _truncate(item["location"], 1024), "inline": True},
-        {"name": "🏷️ Category", "value": item["category"], "inline": True},
+        {"name": "🏷️ Category", "value": "Cybersecurity" if is_cyber_listing(item) else item["category"], "inline": True},
     ]
     if item.get("posted_at") is not None:
         # Real posting time: Discord markup renders it in each viewer's own
@@ -329,6 +329,13 @@ def run_once(state: dict) -> dict:
     new_listings = []
     posted_keys = set()
     now = datetime.now(timezone.utc)
+    # Fill exact dates/locations for unseen board roles before the freshness
+    # checks below use them (a Workday re-post shows "Posted Today" but its
+    # detail page reveals the original, older date).
+    enrich_listings([
+        item for item in listings
+        if item["apply_url"] not in seen and not (_dedupe_keys(item) & seen_keys)
+    ])
     for item in listings:
         keys = _dedupe_keys(item)
         if item["apply_url"] in seen or keys & seen_keys or keys & posted_keys:
