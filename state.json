@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T14:49:46.957857+00:00",
+  "last_checked_utc": "2026-10-01T14:52:15.291344+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4094,6 +4094,7 @@
     "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Capital-Markets-Intern---Summer-2027_JR17560",
     "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542",
     "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Analysis-Graduate-Intern---Summer-2027_JR17638",
+    "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Capital-Markets-Analytics---Engineering-Intern----Summer-2027_JR17690",
     "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Digital-Product-Analysis-Intern---Summer-2027_JR17562",
     "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564",
     "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553",
@@ -13624,7 +13625,9 @@
     "franklin electric global business strategy development intern",
     "freddie mac capital markets intern summer 2027",
     "freddie mac multifamily business analysis graduate intern summer 2027",
+    "freddie mac multifamily capital markets analytics engineering intern summer 2027",
     "freddie mac multifamily digital product analysis intern summer 2027",
+    "freddie mac multifamily graduate intern quantitative summer 2027",
     "freddie mac multifamily software development intern summer 2027",
     "freddie mac quantitative risk management intern",
     "freddie mac singlefamily data intern",
@@ -18829,6 +18832,7 @@
     "job:workday:fox:summer-2027-fox-technology-internship-program---tempe--az_r50033969-1",
     "job:workday:freddiemac:eo-t-technology-intern--summer-2027_jr17542",
     "job:workday:freddiemac:multifamily-business-analysis-graduate-intern---summer-2027_jr17638",
+    "job:workday:freddiemac:multifamily-capital-markets-analytics---engineering-intern----summer-2027_jr17690",
     "job:workday:freddiemac:multifamily-digital-product-analysis-intern---summer-2027_jr17562",
     "job:workday:freddiemac:multifamily-software-development-intern---summer-2027_jr17564",
     "job:workday:freddiemac:risk-management-graduate-intern---quantitative-summer-2027_jr17553",
