@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T04:42:56.036046+00:00",
+  "last_checked_utc": "2026-10-01T05:21:48.464642+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4565,6 +4565,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Software-Engineering-Intern--Summer-2027-_01870699",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-Intern--Summer-2027-_01873556",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Network-Systems-Engineering-Intern--Onsite_01873238",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Operations-Software-Engineering-Intern--Summer-2027-_01874620",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01870236",
@@ -18955,6 +18956,7 @@
     "job:workday:globalhr:mechanical-design-engineering-intern--summer-2027-_01873918",
     "job:workday:globalhr:mechanical-engineering-intern--summer-2027-_01876588",
     "job:workday:globalhr:modeling--simulation---analysis-intern--summer-2027-_01867118",
+    "job:workday:globalhr:network-systems-engineering-intern--onsite_01873238",
     "job:workday:globalhr:power-electrical-engineer-intern--summer-2027----onsite_01876775",
     "job:workday:globalhr:project-engineering-intern--summer-2027-_01876241",
     "job:workday:globalhr:rse----systems-engineering-intern-2027--onsite-_01866779",
@@ -23649,6 +23651,7 @@
     "rtx methods engineering intern aftermarket sustainment engineering",
     "rtx methods intern hot section engineering",
     "rtx modeling simulation analysis intern summer 2027",
+    "rtx network systems engineering intern onsite",
     "rtx operations software engineering intern summer 2027",
     "rtx platform system engineering coop",
     "rtx power electrical engineer intern summer 2027 onsite",
