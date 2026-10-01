@@ -1,3 +1,4 @@
+import json
 from datetime import date, datetime, timezone
 
 import ats
@@ -151,3 +152,41 @@ def test_parse_smartrecruiters_uses_released_date():
     item = ats.parse_smartrecruiters(data, board, TODAY)[0]
     assert item["apply_url"] == "https://jobs.smartrecruiters.com/BoschGroup/744000152821659"
     assert item["posted_at"] == datetime(2026, 10, 1, 2, 56, 36, 840000, tzinfo=timezone.utc)
+
+
+class _FakeResp:
+    def __init__(self, payload):
+        self.content = json.dumps(payload).encode()
+
+    def raise_for_status(self):
+        pass
+
+
+def test_fetch_workday_pages_until_a_page_has_no_intern_titles(monkeypatch):
+    def page(n_intern, n_other):
+        return {"jobPostings": [{"title": f"SWE Intern {i}", "externalPath": f"/job/x/i{i}", "postedOn": "Posted Today"} for i in range(n_intern)]
+                + [{"title": f"Senior Engineer {i}", "externalPath": f"/job/x/s{i}", "postedOn": "Posted Today"} for i in range(n_other)]}
+
+    pages = [page(20, 0), page(5, 15), page(0, 20), page(20, 0)]
+    calls = []
+
+    def fake_post(url, json=None, timeout=None):
+        calls.append(json["offset"])
+        return _FakeResp(pages[json["offset"] // 20])
+
+    monkeypatch.setattr(ats.SESSION, "post", fake_post)
+    board = {"name": "BAH", "ats": "workday", "token": "bah.wd1.myworkdayjobs.com|BAH_Jobs"}
+    items = ats.fetch_workday(board, TODAY)
+
+    assert calls == [0, 20, 40]
+    assert len(items) == 25
+
+
+def test_board_tech_filter_keeps_quant_and_hardware_titles_but_not_marketing():
+    data = {"jobs": [
+        {"title": "2027 Risk Analyst (DMFI) Intern", "absolute_url": "https://b.example/1"},
+        {"title": "PD Intern - Physical Design", "absolute_url": "https://b.example/2"},
+        {"title": "Performance Marketing Intern", "absolute_url": "https://b.example/3"},
+        {"title": "Trading Intern", "absolute_url": "https://b.example/4"},
+    ]}
+    assert [i["apply_url"][-1] for i in ats.parse_greenhouse(data, BOARD, TODAY)] == ["1", "2", "4"]

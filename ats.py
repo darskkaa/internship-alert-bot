@@ -22,7 +22,9 @@ TECH_RE = re.compile(
     r"|research\w*|scien\w*|quant\w*|hardware|firmware|electrical|electronic\w*|comput\w*|cyber\w*|security|infosec"
     r"|information technology|cloud|devops|sre|network\w*|systems?|robotic\w*|embedded|product (manag\w*|analyst|design\w*|owner)|technical"
     r"|technology|analytics|infrastructure|platform|mobile|web|ios|android|automation|simulation|silicon|asic|fpga"
-    r"|semiconductor|algorithm\w*|blockchain|database|backend|frontend|full[ -]?stack|ux|ui|design verification)\b",
+    r"|semiconductor|algorithm\w*|blockchain|database|backend|frontend|full[ -]?stack|ux|ui|design verification"
+    r"|trading|trader|fixed income|portfolio|risk|derivatives?|volatility|equit(y|ies)|investment research"
+    r"|physical design|performance tools|verification|validation|test)\b",
     re.I,
 )
 IT_RE = re.compile(r"\bIT\b")
@@ -59,7 +61,7 @@ BOARD_URLS = {
 # Workday and Oracle boards are addressed by host + site, stored in the
 # watchlist token as "host|site".
 WORKDAY_PAGE_SIZE = 20
-WORKDAY_PAGES = 1
+WORKDAY_MAX_PAGES = 8
 WORKDAY_POSTED_RE = re.compile(r"Posted (Today|Yesterday|(\d+)\+? Days Ago)", re.I)
 
 
@@ -198,15 +200,17 @@ def fetch_workday(board: dict, today: date) -> list:
     host, site = board["token"].split("|")
     url = f"https://{host}/wday/cxs/{host.split('.')[0]}/{site}/jobs"
     items = []
-    # Results come newest first; one page per run is plenty to catch roles
-    # posted since the last run 10 minutes ago.
-    for page in range(WORKDAY_PAGES):
+    # Workday's "intern" search isn't date-ordered on every tenant: some rank
+    # by relevance (intern titles first, spread over several pages), others
+    # return every job newest-first with interns scattered. Paging until a
+    # page holds no intern titles covers both without walking the whole site.
+    for page in range(WORKDAY_MAX_PAGES):
         body = {"appliedFacets": {}, "limit": WORKDAY_PAGE_SIZE, "offset": page * WORKDAY_PAGE_SIZE, "searchText": "intern"}
         resp = SESSION.post(url, json=body, timeout=TIMEOUT)
         resp.raise_for_status()
         postings = json.loads(resp.content.decode("utf-8")).get("jobPostings") or []
         items += parse_workday(postings, board, today)
-        if len(postings) < WORKDAY_PAGE_SIZE:
+        if len(postings) < WORKDAY_PAGE_SIZE or not any(INTERN_RE.search(j.get("title") or "") for j in postings):
             break
     return items
 
