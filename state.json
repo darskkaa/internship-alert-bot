@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T16:44:25.424373+00:00",
+  "last_checked_utc": "2026-10-01T16:52:09.794338+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3996,6 +3996,7 @@
     "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40682",
     "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40685",
     "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40687",
+    "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40689",
     "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40690",
     "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40692",
     "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40693",
@@ -17314,6 +17315,7 @@
     "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40682",
     "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40685",
     "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40687",
+    "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40689",
     "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40690",
     "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40692",
     "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40693",
