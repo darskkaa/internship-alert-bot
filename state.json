@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T07:02:11.260609+00:00",
+  "last_checked_utc": "2026-10-01T08:12:09.571315+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8634,6 +8634,7 @@
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514",
+    "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/IN---Pune/Intern--Software-QA-Engineer_2603892",
     "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1",
     "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/BFT-CCM-BFT-Summer-Undergraduate-Internship--RESEARCH-ANIMAL-SPECIALIST_RQ4052643",
     "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Information-Security-Intern_RQ4078693",
@@ -19842,6 +19843,7 @@
     "job:workday:marvell:ic-validation-engineer-intern--ms---summer-2027_2604515",
     "job:workday:marvell:ic-validation-engineer-intern--ms---summer-2027_2604515-1",
     "job:workday:marvell:ic-validation-engineer-intern_2603925",
+    "job:workday:marvell:intern--software-qa-engineer_2603892",
     "job:workday:marvell:machine-learning-engineer-intern--bs-ms---summer-2027_2603860",
     "job:workday:marvell:machine-learning-engineer-intern--bs-ms---summer-2027_2603860-1",
     "job:workday:marvell:phd-intern---ai-ml---design-automation_2604412",
@@ -21865,6 +21867,7 @@
     "marvell ic validation engineer intern",
     "marvell ic validation engineer intern ms multiple teams",
     "marvell ic validation engineer intern ms summer 2027",
+    "marvell intern software qa engineer",
     "marvell machine learning engineer intern bsms summer 2027",
     "marvell phd intern aiml design automation",
     "marvell phd intern architecture dsp systems architecture",
@@ -21981,6 +21984,7 @@
     "merchants bank of indiana capital markets intern singlefamily",
     "merck 2027 future talent program aiml computational toxicology intern",
     "merck 2027 future talent program data science intern",
+    "merck 2027 future talent program global data management and standards gdms intern",
     "merck 2027 future talent program laboratory operations ai digital transformation intern",
     "merck 2027 future talent program medical data scientist intern",
     "merck 2027 future talent program nonclinical drug safety data scientist intern",
