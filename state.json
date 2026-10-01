@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T09:41:55.808067+00:00",
+  "last_checked_utc": "2026-10-01T10:02:49.472746+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -21029,6 +21029,7 @@
     "job:workday:tihinsurance:internship---software-engineering_r0000003172",
     "job:workday:travelers:business-insights---analytics-leadership-development-program--bi-a-ldp--geospatial-intern_r-52305",
     "job:workday:travelers:business-insights---analytics-leadership-development-program--bi-a-ldp--intern_r-52304",
+    "job:workday:travelers:engineering-development-program--edp----intern_r-52270",
     "job:workday:travelers:engineering-development-program--edp--co-op-intern_r-52848",
     "job:workday:travelers:product-management-development-program--pmdp--intern_r-52317",
     "job:workday:trimble:hardware-software-testing-intern_r57677-1",
@@ -24866,6 +24867,7 @@
     "travelers business insights analytics leadership development program bia ldp intern",
     "travelers engineering development intern",
     "travelers engineering development program edp coop intern",
+    "travelers engineering development program edp intern",
     "travelers product management development program pmdp intern",
     "trc companies advanced energy intern",
     "trc companies gis intern",
