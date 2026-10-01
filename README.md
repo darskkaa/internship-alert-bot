@@ -59,7 +59,7 @@ to `watchlist.json`): its existing backlog is marked seen without alerting.
 
 - [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) `listings.json` — exact posting time, active/closed flag, term, category, and sponsorship. Only active Summer 2027 / Fall 2026 roles alert.
 - [zshah101's tracker](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) `jobs.json` — adds season, pay, skills, remote, and employer H-1B history.
-- Company job boards (`ats.py`) — polls Greenhouse, Lever, and Ashby public APIs directly for the companies in `watchlist.json`, so roles show up minutes after posting. Add a company with `{"name": "Acme", "ats": "greenhouse", "token": "acme"}` (the token is the slug in the company's board URL).
+- Company job boards (`ats.py`) — polls Greenhouse, Lever, Ashby, SmartRecruiters, Workday, and Oracle Cloud career sites directly for the ~1,400 boards in `watchlist.json`, so roles show up minutes after posting. Only technical intern roles in North America (or unknown location) are kept, since these boards list every internship a company has. Add a company with `{"name": "Acme", "ats": "greenhouse", "token": "acme"}` (the token is the slug in the company's board URL; Workday and Oracle use `"host|site"`, e.g. `"acme.wd5.myworkdayjobs.com|External"`).
 
 The same internship on several feeds is only alerted once — matched by
 normalized company + role text, not just the application link.

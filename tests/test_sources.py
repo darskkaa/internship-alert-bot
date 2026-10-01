@@ -364,3 +364,12 @@ def test_is_cyber_role_rejects_non_security_titles():
     for title in ("Software Engineer Intern", "Securities Trading Intern", "Summer 2027 Intern, National Security Project",
                   "Software Engineer Intern (Security Clearance Required)", "Social Media Intern", "Soccer Analytics Intern"):
         assert not is_cyber_role(title), title
+
+
+def test_job_id_key_workday_oracle_smartrecruiters_match_simplify_url_shapes():
+    assert job_id_key("https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA/Cyber-Intern_01879253") == \
+        job_id_key("https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA/Cyber-Intern_01879253")
+    assert job_id_key("https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014649") == \
+        "job:oracle:egug.fa.us2.oraclecloud.com:26014649"
+    assert job_id_key("https://jobs.smartrecruiters.com/BoschGroup/744000152821659-security-intern") == \
+        job_id_key("https://jobs.smartrecruiters.com/BoschGroup/744000152821659") == "job:smartrecruiters:744000152821659"

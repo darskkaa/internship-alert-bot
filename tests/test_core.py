@@ -696,3 +696,18 @@ def test_no_cyber_posts_when_cyber_webhook_unset(monkeypatch):
     core.post_new_listings([_item(role="Security Engineer Intern")])
 
     assert sent == [core.WEBHOOK_URL]
+
+
+def test_run_once_first_sight_date_only_feed_is_seeded_even_if_posted_today(monkeypatch):
+    from sources import utc_today
+
+    reposted = _fake_listing("RTX", "Cyber Intern", "https://globalhr.wd5.myworkdayjobs.com/x/job/y/Cyber-Intern_1")
+    reposted["posted_date"] = utc_today()
+    reposted["feed"] = "workday:globalhr.wd5.myworkdayjobs.com|x"
+    monkeypatch.setattr(core, "SOURCES", [lambda: [reposted]])
+    posted = []
+    monkeypatch.setattr(core, "post_new_listings", lambda items: posted.extend(items))
+
+    core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
+
+    assert posted == []

@@ -330,11 +330,14 @@ def run_once(state: dict) -> dict:
             continue
         # A feed seen for the first time (new source, new watchlist board) has
         # its existing backlog marked seen below without alerting, so adding
-        # 500 boards doesn't dump weeks of roles into the channel. Roles posted
-        # in the last day still alert: suppressing them would also record
-        # their keys, silently muting the same role when Simplify/zshah list
-        # it hours later.
-        if feed_of(item) not in seeded_feeds and not _posted_within(item, now, FIRST_SIGHT_WINDOW_HOURS):
+        # 500 boards doesn't dump weeks of roles into the channel. Roles with
+        # an exact posting time in the last day still alert: suppressing them
+        # would also record their keys, silently muting the same role when
+        # Simplify/zshah list it hours later. Date-only boards (Workday shows
+        # "Posted Today" on every re-posted requisition) don't get that pass.
+        if feed_of(item) not in seeded_feeds and not (
+            item.get("posted_at") is not None and _posted_within(item, now, FIRST_SIGHT_WINDOW_HOURS)
+        ):
             continue
         new_listings.append(item)
         posted_keys |= keys

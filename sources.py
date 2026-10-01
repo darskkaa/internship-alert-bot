@@ -68,6 +68,7 @@ def parse_iso_utc(value):
 
 
 GREENHOUSE_JOB_PATH_RE = re.compile(r"/jobs/(\d+)")
+ORACLE_JOB_PATH_RE = re.compile(r"/job/(\d+)")
 
 
 def job_id_key(url: str):
@@ -84,6 +85,14 @@ def job_id_key(url: str):
         match = GREENHOUSE_JOB_PATH_RE.search(parts.path)
         return f"job:greenhouse:{match.group(1)}" if match else None
     segments = [s for s in parts.path.split("/") if s]
+    if host.endswith(".myworkdayjobs.com") and "job" in segments:
+        return f"job:workday:{host.split('.')[0]}:{segments[-1].lower()}"
+    if host.endswith(".oraclecloud.com"):
+        match = ORACLE_JOB_PATH_RE.search(parts.path)
+        return f"job:oracle:{host}:{match.group(1)}" if match else None
+    if host == "jobs.smartrecruiters.com" and len(segments) >= 2:
+        match = re.match(r"\d+", segments[1])
+        return f"job:smartrecruiters:{match.group(0)}" if match else None
     if host in ("jobs.lever.co", "jobs.eu.lever.co", "jobs.ashbyhq.com") and len(segments) >= 2:
         return f"job:{'lever' if 'lever' in host else 'ashby'}:{segments[1].lower()}"
     return None

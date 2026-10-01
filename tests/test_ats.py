@@ -79,7 +79,8 @@ def test_fetch_ats_isolates_failing_board_but_raises_when_all_fail(monkeypatch):
 
 def test_watchlist_file_only_lists_supported_boards():
     boards = ats.load_watchlist()
-    assert boards and all(b["ats"] in ats.PARSERS and b["token"] and b["name"] for b in boards)
+    assert boards and all((b["ats"] in ats.PARSERS or b["ats"] in ats.CUSTOM_FETCHERS) and b["token"] and b["name"] for b in boards)
+    assert all("|" in b["token"] for b in boards if b["ats"] in ats.CUSTOM_FETCHERS)
 
 
 def test_fetch_ats_reports_every_successfully_fetched_board_even_with_zero_roles(monkeypatch):
@@ -107,3 +108,46 @@ def test_watchlist_names_are_clean():
     for board in ats.load_watchlist():
         name = board["name"]
         assert name == name.strip() and "&amp;" not in name and name.lower() != "internship"
+
+
+def test_workday_posted_on_parses_relative_days():
+    assert ats.workday_posted_on("Posted Today", TODAY) == TODAY
+    assert ats.workday_posted_on("Posted Yesterday", TODAY) == date(2026, 9, 30)
+    assert ats.workday_posted_on("Posted 3 Days Ago", TODAY) == date(2026, 9, 28)
+    assert ats.workday_posted_on("Posted 30+ Days Ago", TODAY) == date(2026, 8, 31)
+    assert ats.workday_posted_on(None, TODAY) is None
+
+
+def test_parse_workday_builds_job_url_and_date_only_posting():
+    board = {"name": "RTX", "ats": "workday", "token": "globalhr.wd5.myworkdayjobs.com|REC_RTX_Ext_Gateway"}
+    postings = [
+        {"title": "Summer 2027 Cyber Intern - Onsite", "externalPath": "/job/US-MA/Summer-2027-Cyber-Intern_01879253",
+         "postedOn": "Posted Today", "locationsText": "US-MA-CAMBRIDGE"},
+        {"title": "Senior Engineer", "externalPath": "/job/US-MA/Senior_1", "postedOn": "Posted Today"},
+    ]
+    items = ats.parse_workday(postings, board, TODAY)
+    assert len(items) == 1
+    item = items[0]
+    assert item["apply_url"] == "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA/Summer-2027-Cyber-Intern_01879253"
+    assert item["posted_date"] == TODAY and item["posted_at"] is None
+    assert item["feed"] == "workday:globalhr.wd5.myworkdayjobs.com|REC_RTX_Ext_Gateway"
+
+
+def test_parse_oracle_reads_requisition_list():
+    board = {"name": "Acme Bank", "ats": "oracle", "token": "egug.fa.us2.oraclecloud.com|CX_1"}
+    data = {"items": [{"requisitionList": [
+        {"Id": "26014649", "Title": "Cybersecurity Intern", "PostedDate": "2026-09-30", "PrimaryLocation": "Phoenix, AZ"},
+        {"Id": "1", "Title": "Senior Analyst", "PostedDate": "2026-09-30"},
+    ]}]}
+    items = ats.parse_oracle(data, board, TODAY)
+    assert [i["apply_url"] for i in items] == ["https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014649"]
+    assert items[0]["posted_date"] == date(2026, 9, 30)
+
+
+def test_parse_smartrecruiters_uses_released_date():
+    board = {"name": "Bosch", "ats": "smartrecruiters", "token": "BoschGroup"}
+    data = {"content": [{"id": "744000152821659", "name": "Security Engineering Intern", "releasedDate": "2026-10-01T02:56:36.840Z",
+                         "location": {"fullLocation": "Pittsburgh, PA", "remote": False}}]}
+    item = ats.parse_smartrecruiters(data, board, TODAY)[0]
+    assert item["apply_url"] == "https://jobs.smartrecruiters.com/BoschGroup/744000152821659"
+    assert item["posted_at"] == datetime(2026, 10, 1, 2, 56, 36, 840000, tzinfo=timezone.utc)
