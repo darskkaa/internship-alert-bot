@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T05:21:48.464642+00:00",
+  "last_checked_utc": "2026-10-01T05:32:21.549934+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4150,6 +4150,7 @@
     "https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Intern--Electrical-Engineering_JR16432-1",
     "https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Summer-2027_JR16957",
     "https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048",
+    "https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/XMLNAME-2027-Summer-Intern-Digital-Manufacturing-Engineering_JR16255",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Manufacturing-Intern---Mechanical-Engineer_JR-202619411",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Bowling-Green-Kentucky-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Industrial-Engineer-_JR-202619456",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Burton-Michigan-United-States-of-America/Packaging-Engineering-Intern_JR-202618311",
@@ -13642,6 +13643,7 @@
     "genentech 2027 spring intern analytical method validation and tech transfer",
     "genentech 2027 spring intern cell line development automation",
     "genentech 2027 spring intern pharmaceutical technical development bioassay",
+    "generac 2027 summer intern digital manufacturing engineering",
     "generac data science intern summer 2027",
     "generac electrical engineering intern summer 2027",
     "generac industrial engineering intern summer 2027",
@@ -18760,6 +18762,7 @@
     "job:workday:generac:mechanical-design-engineering-intern_jr14679",
     "job:workday:generac:mechanical-engineering-intern---summer-2027_jr16957",
     "job:workday:generac:mechanical-engineering-intern---transfer-switch---summer-2027_jr17048",
+    "job:workday:generac:xmlname-2027-summer-intern-digital-manufacturing-engineering_jr16255",
     "job:workday:generalmotors:packaging-engineering-intern_jr-202618311",
     "job:workday:generalmotors:summer-2027-intern---computational-design-intern_jr-202621454",
     "job:workday:generalmotors:xmlname-2027-summer-intern---digital-product--embedded-and-systems-engineering_jr-202620513",
