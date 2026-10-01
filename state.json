@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T15:22:19.015283+00:00",
+  "last_checked_utc": "2026-10-01T15:32:26.718133+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4537,6 +4537,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876474",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01873099",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683",
@@ -8767,6 +8768,7 @@
     "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26",
     "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26",
     "https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Intern---AI-Systems-and-Infrastructure-Engineering_JR109990",
+    "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---ATE-Process-Engineer-ID1_JR113196",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Prodcut-Test-Engineer-Intern_JR109996",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---ATE-Process-Engineer-ID1_JR113953",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448",
@@ -19154,6 +19156,7 @@
     "job:workday:globalhr:software-engineering-intern--summer-2027-_01865875",
     "job:workday:globalhr:software-engineering-intern--summer-2027-_01869486",
     "job:workday:globalhr:software-engineering-intern--summer-2027-_01870007",
+    "job:workday:globalhr:software-engineering-intern--summer-2027-_01870343",
     "job:workday:globalhr:software-engineering-intern--summer-2027-_01872878",
     "job:workday:globalhr:software-engineering-intern--summer-2027-_01873099",
     "job:workday:globalhr:software-engineering-intern--summer-2027-_01873235",
@@ -20075,6 +20078,7 @@
     "job:workday:microchiphr:intern-engineering--software-_r4091-26",
     "job:workday:micron:dram-prodcut-test-engineer-intern_jr109996",
     "job:workday:micron:intern---ai-systems-and-infrastructure-engineering_jr109990",
+    "job:workday:micron:intern---ate-process-engineer-id1_jr113196",
     "job:workday:micron:intern---ate-process-engineer-id1_jr113953",
     "job:workday:micron:intern---data-center-ssd-firmware_jr111461",
     "job:workday:micron:intern---dram-design-engineer_jr108448",
