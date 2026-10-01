@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T20:17:52.536543+00:00",
+  "last_checked_utc": "2026-10-01T20:22:29.281212+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3322,6 +3322,7 @@
     "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Technical-Learning-Solutions--TLS--Content-Design-Intern_248164W",
     "https://corteva.wd5.myworkdayjobs.com/corteva/job/Newark-Delaware-United-States/R-D-Intern--Automation-for-I-n-Vitro-Mammalian-Toxicology--_248127W",
     "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673",
+    "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945",
     "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-TN-Nashville/Technology-Intern---Nashville--TN--Summer-2027-_R39670",
     "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
     "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Technology-Intern---Arlington--VA--Summer-2027-_R39666",
@@ -12956,6 +12957,7 @@
     "costar group security engineer intern arlington va",
     "costar group security engineer intern richmond va",
     "costar group summer 2027 technology intern irvine ca",
+    "costar group summer 2027 technology intern sunnyvale ca",
     "costar group technology intern",
     "costar group technology intern arlington va summer 2027",
     "costar group technology intern multiple teams",
@@ -18792,6 +18794,7 @@
     "job:workday:costar:security-engineer-intern---arlington--va_r39727",
     "job:workday:costar:security-engineer-intern---richmond--va_r39726",
     "job:workday:costar:summer-2027-technology-intern---irvine--ca_r39673",
+    "job:workday:costar:summer-2027-technology-intern---sunnyvale--ca_r39945",
     "job:workday:costar:technology-intern---arlington--va--summer-2027-_r39666",
     "job:workday:costar:technology-intern---nashville--tn--summer-2027-_r39670",
     "job:workday:costar:technology-intern---richmond--va--summer-2027-_r39665",
