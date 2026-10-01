@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T12:32:38.213517+00:00",
+  "last_checked_utc": "2026-10-01T12:41:56.308091+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1482,6 +1482,7 @@
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Technology-Strategy---Technology-Advisory-Intern_R00288639",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Prague/Technology-Consulting-Internship_R00350278-1",
+    "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Cloud-DevOps-Engineer-Intern_14778770-1",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Cybersecurity-Consultant-Internship-Program--She-He-They-_R00350253",
@@ -10834,6 +10835,7 @@
     "accenture accenture indonesia internship program technology consulting",
     "accenture accenture technology internship program athens or thessaloniki",
     "accenture adobe experience cloud intern analyst martech digital experience internship program heshethey",
+    "accenture aimlops internship program shehethey",
     "accenture angular developer internship program shehethey",
     "accenture cloud devops engineer intern",
     "accenture cybersecurity analyst internship program shehethey",
@@ -17545,6 +17547,7 @@
     "job:workday:accenture:accenture-customer-innovation-network---innovation-intern_r00279814",
     "job:workday:accenture:accenture-indonesia-internship-program---technology---consulting_r00335993",
     "job:workday:accenture:accenture-technology-internship-program--athens-or-thessaloniki-_r00284645",
+    "job:workday:accenture:ai-mlops-internship-program--she-he-they-_r00352434",
     "job:workday:accenture:angular-developer-internship-program--she-he-they-_r00355473",
     "job:workday:accenture:cloud-devops-engineer-intern_14778770-1",
     "job:workday:accenture:cybersecurity-consultant-internship-program--she-he-they-_r00350253",
