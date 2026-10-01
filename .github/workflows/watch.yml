@@ -16,7 +16,13 @@ jobs:
   poll:
     runs-on: ubuntu-latest
     steps:
+      # Check out the branch tip at job start, not the triggering commit: a run
+      # queued behind another (Worker dispatch + cron, or a manual run) would
+      # otherwise start from the pre-run state.json and re-post everything the
+      # run ahead of it just posted.
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v5
         with:
