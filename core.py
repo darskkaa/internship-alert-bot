@@ -27,6 +27,7 @@ CYBER_COLOR = 0xe74c3c
 POLL_INTERVAL = int(os.getenv("POLL_INTERVAL_SECONDS", "600"))
 FRESHNESS_WINDOW_DAYS = 7
 FIRST_SIGHT_WINDOW_HOURS = 24
+BOARD_FRESHNESS_HOURS = 48
 REQUIRED_LISTING_KEYS = {
     "company", "role", "location", "apply_url", "category",
     "posted_date", "age_days", "age_label", "oa_lc_flag",
@@ -92,6 +93,18 @@ def _dedupe_keys(item: dict) -> set:
     if job_key:
         keys.add(job_key)
     return keys
+
+
+def _is_board_item(item: dict) -> bool:
+    return ":" in item.get("feed", "")
+
+
+def _board_item_is_fresh(item: dict, now: datetime, today) -> bool:
+    if item.get("posted_at") is not None:
+        return (now - item["posted_at"]).total_seconds() <= BOARD_FRESHNESS_HOURS * 3600
+    if item["posted_date"] is not None:
+        return (today - item["posted_date"]).days <= 1
+    return False
 
 
 def _posted_within(item: dict, now: datetime, hours: int) -> bool:
@@ -327,6 +340,13 @@ def run_once(state: dict) -> dict:
         # hiccup) can't be proven old, so they're kept, same as the existing
         # best-effort-not-authoritative treatment of other inferred fields.
         if item["posted_date"] is not None and (today - item["posted_date"]).days > FRESHNESS_WINDOW_DAYS:
+            continue
+        # Company boards are polled directly, so a genuinely new role shows up
+        # within one run of being posted. A board role that is unseen but
+        # already days old is backlog that just became visible (a filter or
+        # paging change, a board recovering from errors) - not news. Curated
+        # feeds keep the 7-day window because they add roles days late.
+        if _is_board_item(item) and not _board_item_is_fresh(item, now, today):
             continue
         # A feed seen for the first time (new source, new watchlist board) has
         # its existing backlog marked seen below without alerting, so adding

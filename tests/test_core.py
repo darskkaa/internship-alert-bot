@@ -711,3 +711,31 @@ def test_run_once_first_sight_date_only_feed_is_seeded_even_if_posted_today(monk
     core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
 
     assert posted == []
+
+
+def test_run_once_board_backlog_that_just_became_visible_does_not_alert(monkeypatch):
+    from datetime import datetime, timedelta, timezone
+
+    from sources import utc_today
+
+    def board_item(url, **fields):
+        item = _fake_listing("BAH", "Cyber Intern", url)
+        item.update(feed="workday:bah.wd1.myworkdayjobs.com|BAH_Jobs", **fields)
+        return item
+
+    old_date_only = board_item("https://bah.example/1", posted_date=utc_today() - timedelta(days=4))
+    new_date_only = board_item("https://bah.example/2", role="SOC Intern", posted_date=utc_today())
+    old_exact = board_item("https://bah.example/3", role="Red Team Intern", posted_date=None,
+                           posted_at=datetime.now(timezone.utc) - timedelta(days=3))
+    new_exact = board_item("https://bah.example/4", role="AppSec Intern", posted_date=None,
+                           posted_at=datetime.now(timezone.utc) - timedelta(hours=3))
+    dateless = board_item("https://bah.example/5", role="GRC Intern", posted_date=None)
+    monkeypatch.setattr(core, "SOURCES", [lambda: [old_date_only, new_date_only, old_exact, new_exact, dateless]])
+    posted = []
+    monkeypatch.setattr(core, "post_new_listings", lambda items: posted.extend(items))
+
+    state = core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x",
+                           "seeded_feeds": [TEST_FEED, "workday:bah.wd1.myworkdayjobs.com|BAH_Jobs"]})
+
+    assert sorted(i["role"] for i in posted) == ["AppSec Intern", "SOC Intern"]
+    assert {"https://bah.example/1", "https://bah.example/3", "https://bah.example/5"} <= set(state["seen"])
