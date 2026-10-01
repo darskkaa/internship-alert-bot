@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T23:11:53.605039+00:00",
+  "last_checked_utc": "2026-10-01T23:22:07.116028+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5495,6 +5495,7 @@
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/IT-SCM-Intern_J2465768",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Operations-Analytics---Reporting-Intern_J2465601",
     "https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1",
+    "https://jj.wd5.myworkdayjobs.com/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Asset-Management-Engineer-Co-Op_R-078283",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineering-Co-Op--Summer-2027_R-096736",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-op--Spring-2027_R-095792",
@@ -20148,6 +20149,7 @@
     "job:workday:jabil:operations-analytics---reporting-intern_j2465601",
     "job:workday:jabil:server-platform-intern_j2464685",
     "job:workday:jci:software-controls-engineering-grad-intern_wd30278205-1",
+    "job:workday:jj:asset-management-engineer-co-op_r-078283",
     "job:workday:jj:clinical-epidemiology-and-data-science-co-op_r-098453",
     "job:workday:jj:commercial-data-science---ai-co-op_r-099258",
     "job:workday:jj:commercial-data-science---ai-co-op_r-099381",
@@ -22007,6 +22009,7 @@
     "johnson electric it coop winter term 2027",
     "johnson electric lab technician apprentice electrical lab",
     "johnson electric maintenance electrical coop student",
+    "johnson johnson asset management engineer coop",
     "johnson johnson business intelligence coop",
     "johnson johnson clinical epidemiology and data science coop",
     "johnson johnson commercial data science ai coop",
