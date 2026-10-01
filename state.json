@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T13:42:34.485708+00:00",
+  "last_checked_utc": "2026-10-01T13:52:11.197459+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8581,6 +8581,7 @@
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Analog-Engineer-Intern---PhD_2502430-1",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525",
+    "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Design-Verification---Intern_2604481-1",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Design-Verification-Intern_2604493",
@@ -19903,6 +19904,7 @@
     "job:workday:marvell:firmware-engineer-intern_2604738-1",
     "job:workday:marvell:functional-validation-intern--bs---summer-2027_2604514",
     "job:workday:marvell:functional-validation-intern--bs---summer-2027_2604514-1",
+    "job:workday:marvell:ic-validation-engineer-intern---bs-ms---2027-co-op_2603925",
     "job:workday:marvell:ic-validation-engineer-intern--ms---summer-2027_2604515",
     "job:workday:marvell:ic-validation-engineer-intern--ms---summer-2027_2604515-1",
     "job:workday:marvell:ic-validation-engineer-intern_2603925",
@@ -21939,6 +21941,7 @@
     "marvell functional validation intern bs",
     "marvell functional validation intern bs summer 2027",
     "marvell ic validation engineer intern",
+    "marvell ic validation engineer intern bsms 2027 coop",
     "marvell ic validation engineer intern ms multiple teams",
     "marvell ic validation engineer intern ms summer 2027",
     "marvell intern software qa engineer",
