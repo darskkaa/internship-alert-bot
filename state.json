@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T14:22:24.667674+00:00",
+  "last_checked_utc": "2026-10-01T14:32:28.088373+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2536,6 +2536,7 @@
     "https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506",
     "https://caci.wd1.myworkdayjobs.com/external/job/Colorado-Springs-CO-US/Software-Test-Engineer-Intern---Summer-2027_332003",
     "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440",
+    "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Optical-Engineering-Intern---Summer-2027_332752",
     "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1",
     "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
     "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
@@ -10807,7 +10808,8 @@
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Mechanical-Engineering-Intern_R20310",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Sustaining-Mechanical-Engineer-Intern_R20313",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pawtucket-RI/Manufacturing-Engineering-Co-op_R20084",
-    "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pittsburgh-PA/Human-Factors-Engineering-Co-op-Intern_R20375"
+    "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pittsburgh-PA/Human-Factors-Engineering-Co-op-Intern_R20375",
+    "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pittsburgh-PA/Operations-Engineering-Co-Op---Spring-Summer_R20411"
   ],
   "seen_keys": [
     "1x ai residency intern",
@@ -12262,6 +12264,7 @@
     "caci configuration controldata management coop engineering department",
     "caci devopssoftware engineering intern summer 2027",
     "caci gmu scholar program intern",
+    "caci optical engineering intern summer 2027",
     "caci software developerdata scientist intern summer 2027",
     "caci software engineer coop spring summer 2027",
     "caci software engineer coop summer fall 2027",
@@ -18249,6 +18252,7 @@
     "job:workday:caci:aws-cloud-engineering-intern---summer-2027_331437",
     "job:workday:caci:devops-software-engineering-intern---summer-2027_331466",
     "job:workday:caci:devops-software-engineering-intern---summer-2027_331798",
+    "job:workday:caci:optical-engineering-intern---summer-2027_332752",
     "job:workday:caci:software-engineer-intern---summer-2027_331648",
     "job:workday:caci:software-engineer-intern---summer-2027_332776",
     "job:workday:caci:software-engineering-co-op---fall-2026_331472",
@@ -21399,6 +21403,7 @@
     "job:workday:zoll:manufacturing-engineering-co-op_r20084",
     "job:workday:zoll:manufacturing-engineering-co-op_r20300",
     "job:workday:zoll:mechanical-engineering-intern_r20310",
+    "job:workday:zoll:operations-engineering-co-op---spring-summer_r20411",
     "job:workday:zoll:sustaining-mechanical-engineer-intern_r20313",
     "john deere data analytics intern",
     "john deere information technology intern technology",
@@ -25684,6 +25689,7 @@
     "zoll medical corporation human factors and usability engineering coop",
     "zoll medical corporation manufacturing engineering coop",
     "zoll medical corporation mechanical engineering intern",
+    "zoll medical corporation operations engineering coop springsummer",
     "zoll medical corporation sustaining mechanical engineer intern",
     "zoomifier software development intern",
     "zurn elkay water solutions embedded firmware intern summer 2027",
