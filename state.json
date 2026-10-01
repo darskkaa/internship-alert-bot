@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T04:12:53.247378+00:00",
+  "last_checked_utc": "2026-10-01T04:20:51.976443+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -364,6 +364,7 @@
     "greenhouse:gitai",
     "greenhouse:goldenpetbrands",
     "greenhouse:graphcore",
+    "greenhouse:guidepointsecurity",
     "greenhouse:haizelabs",
     "greenhouse:harbingermotors",
     "greenhouse:haven",
@@ -2071,6 +2072,7 @@
     "https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004",
     "https://boards.greenhouse.io/figma/jobs/6200626004",
     "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
+    "https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004",
     "https://boards.greenhouse.io/lightmatter/jobs/5374627008?gh_jid=5374627008",
     "https://boards.greenhouse.io/lightmatter/jobs/5422712008?gh_jid=5422712008",
     "https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003",
@@ -12000,6 +12002,7 @@
     "guardian life life product development intern",
     "guardian life summer intern digital technology ai machine learning",
     "guardian life summer intern group benefits product management",
+    "guidepoint security gpsu cybersecurity spring internship",
     "guidestone software developer intern software development",
     "guidestone summer intern platform analyst",
     "guidestone summer intern software developer",
@@ -13605,6 +13608,7 @@
     "job:greenhouse:6147154004",
     "job:greenhouse:6147167004",
     "job:greenhouse:6147283004",
+    "job:greenhouse:6148707004",
     "job:greenhouse:6152263004",
     "job:greenhouse:6152695004",
     "job:greenhouse:6161289004",
