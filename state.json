@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T22:42:02.104910+00:00",
+  "last_checked_utc": "2026-10-01T23:01:58.454950+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9113,6 +9113,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Engineering-Intern---Manhattan-Beach--CA---Evergreen-_R10253708",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Intern-Optical-Engineer---Redondo-Beach-CA_R10254063",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250669",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
@@ -20661,6 +20662,7 @@
     "job:workday:ngc:xmlname-2027-hardware-electronics-engineer-intern---rolling-meadows-il_r10252779-1",
     "job:workday:ngc:xmlname-2027-hardware-mechanical-engineer-intern---rolling-meadows-il_r10252778",
     "job:workday:ngc:xmlname-2027-intern---systems-engineering---nuclear-survivability-ionizing-radiation_r10251198",
+    "job:workday:ngc:xmlname-2027-intern-optical-engineer---redondo-beach-ca_r10254063",
     "job:workday:ngc:xmlname-2027-intern-software-engineer_r10242395",
     "job:workday:ngc:xmlname-2027-intern-software-engineer_r10243573",
     "job:workday:ngc:xmlname-2027-software-digital-intern---rolling-meadows-il_r10252812",
@@ -23118,6 +23120,7 @@
     "northrop grumman 2027 engineering intern melbourne fl evergreen",
     "northrop grumman 2027 hardware electronics engineer intern rolling meadows il",
     "northrop grumman 2027 hardware mechanical engineer intern rolling meadows il",
+    "northrop grumman 2027 intern optical engineer redondo beach ca",
     "northrop grumman 2027 intern software engineer",
     "northrop grumman 2027 intern systems engineering nuclear survivabilityionizing radiation",
     "northrop grumman 2027 intern systems securitycybersecurity engineer",
