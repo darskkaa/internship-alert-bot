@@ -2,11 +2,11 @@ import json
 import logging
 import os
 import re
-from datetime import date, datetime, timedelta, timezone
+from datetime import date, datetime, timezone
+from datetime import time as dtime
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 import requests
-from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 
 log = logging.getLogger("internship-watch.sources")
@@ -23,8 +23,8 @@ def utc_today() -> date:
     return datetime.now(timezone.utc).date()
 
 # sources.py is imported by core.py before core.py calls load_dotenv(), so
-# a .env override of GITHUB_REPO/GITHUB_BRANCH/README_PATH below would never
-# take effect unless this module loads it too.
+# a .env override of GITHUB_REPO/GITHUB_BRANCH below would never take effect
+# unless this module loads it too.
 load_dotenv()
 
 
@@ -45,21 +45,6 @@ def classify_category(text: str) -> str:
     return "Other"
 
 
-def date_from_age(age_text: str, today: date):
-    age_text = age_text.strip()
-    m = re.match(r"^(\d+)d$", age_text)
-    if m:
-        days = int(m.group(1))
-        label = "today" if days == 0 else f"{days}d ago"
-        return today - timedelta(days=days), days, label
-    m = re.match(r"^(\d+)mo$", age_text)
-    if m:
-        months = int(m.group(1))
-        days = months * 30
-        return today - timedelta(days=days), days, f"~{months}mo ago"
-    return None, None, ""
-
-
 def age_from_date(posted: date, today: date):
     days = max((today - posted).days, 0)
     if days == 0:
@@ -70,11 +55,38 @@ def age_from_date(posted: date, today: date):
     return days, f"~{months}mo ago"
 
 
-def parse_vansh_date(date_text: str, today: date) -> date:
-    parsed = datetime.strptime(f"{date_text.strip()} {today.year}", "%b %d %Y").date()
-    if (parsed - today).days > 3:
-        parsed = parsed.replace(year=parsed.year - 1)
-    return parsed
+def parse_iso_utc(value):
+    if not value:
+        return None
+    try:
+        parsed = datetime.fromisoformat(value)
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
+
+
+GREENHOUSE_JOB_PATH_RE = re.compile(r"/jobs/(\d+)")
+
+
+def job_id_key(url: str):
+    # The same ATS posting reached via different feeds (Simplify, zshah, the
+    # board API) often carries a different company spelling and a different
+    # URL shape (careers-site ?gh_jid= vs job-boards.greenhouse.io), so
+    # company+role text alone misses it. The ATS's own job id doesn't vary.
+    parts = urlsplit(url)
+    host = parts.netloc.lower()
+    query = dict(parse_qsl(parts.query))
+    if query.get("gh_jid", "").isdigit():
+        return f"job:greenhouse:{query['gh_jid']}"
+    if host.endswith("greenhouse.io"):
+        match = GREENHOUSE_JOB_PATH_RE.search(parts.path)
+        return f"job:greenhouse:{match.group(1)}" if match else None
+    segments = [s for s in parts.path.split("/") if s]
+    if host in ("jobs.lever.co", "jobs.eu.lever.co", "jobs.ashbyhq.com") and len(segments) >= 2:
+        return f"job:{'lever' if 'lever' in host else 'ashby'}:{segments[1].lower()}"
+    return None
 
 
 def normalize_key(company: str, role: str) -> str:
@@ -84,39 +96,15 @@ def normalize_key(company: str, role: str) -> str:
     return text
 
 
-# Best-effort only: these README tables have no interview-process field at all,
-# so this can only match if a role title/company literally names the tool
-# (rare). It is not a real "no OA/no LeetCode" filter, just a free hint.
+# Best-effort only: the feeds have no interview-process field at all, so this
+# can only match if a role title/company literally names the tool (rare). It
+# is not a real "no OA/no LeetCode" filter, just a free hint.
 OA_LC_KEYWORDS = ("leetcode", "online assessment", "hackerrank", "codesignal", "coderpad")
 
 
 def check_oa_lc(text: str) -> bool:
     t = text.lower()
     return any(kw in t for kw in OA_LC_KEYWORDS)
-
-
-# Bounds each section on ANY "## ..." header, not just ones that match the
-# category pattern below — otherwise trailing content after a header format
-# changes (or a non-category "##" section, e.g. a footer) silently gets
-# folded into and misattributed to the *previous* matched category.
-ANY_HEADER_RE = re.compile(r"^## .+$", re.MULTILINE)
-CATEGORY_HEADER_RE = re.compile(r"^## [^\w]*([A-Za-z ,&]+) Internship Roles")
-
-
-def split_by_category(markdown_text: str):
-    boundaries = list(ANY_HEADER_RE.finditer(markdown_text))
-    sections = []
-    for i, m in enumerate(boundaries):
-        header_text = m.group(0)
-        header_match = CATEGORY_HEADER_RE.match(header_text)
-        if not header_match:
-            if "Internship Roles" in header_text:
-                log.warning("Category header didn't match expected pattern, skipping section: %r", header_text)
-            continue
-        start = m.end()
-        end = boundaries[i + 1].start() if i + 1 < len(boundaries) else len(markdown_text)
-        sections.append((header_match.group(1).strip(), markdown_text[start:end]))
-    return sections
 
 
 # Analytics-only query params known to be safe to drop — never remove a
@@ -135,158 +123,78 @@ def strip_tracking_params(url: str) -> str:
     return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(kept), parts.fragment))
 
 
-def parse_simplify(markdown_text: str, today: date) -> list:
+GITHUB_REPO = os.getenv("GITHUB_REPO", "SimplifyJobs/Summer2027-Internships")
+GITHUB_BRANCH = os.getenv("GITHUB_BRANCH", "dev")
+SIMPLIFY_LISTINGS_URL = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{GITHUB_BRANCH}/.github/scripts/listings.json"
+ZSHAH_JOBS_URL = "https://raw.githubusercontent.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/main/docs/api/jobs.json"
+
+# The Simplify feed carries every term the repo has ever tracked (Winter 2026,
+# Spring 2027, ...); only alert on the seasons this bot is for. Roles whose
+# only term is "N/A" have no stated season, so they are left out rather than
+# guessed at.
+ALLOWED_SEASONS = {"Summer 2027", "Fall 2026"}
+
+SIMPLIFY_CATEGORIES = {
+    "AI/ML/Data": "Data Science",
+    "Data Science, AI & Machine Learning": "Data Science",
+    "Software": "Software Engineering",
+    "Software Engineering": "Software Engineering",
+    "Hardware": "Hardware Engineering",
+    "Hardware Engineering": "Hardware Engineering",
+    "Product": "Product Management",
+    "Product Management": "Product Management",
+    "Quant": "Quantitative Finance",
+}
+
+
+def parse_simplify(data: list, today: date) -> list:
     listings = []
-    for header_text, section in split_by_category(markdown_text):
-        category = classify_category(header_text)
-        soup = BeautifulSoup(section, "html.parser")
-        last_company = None
-        for table in soup.find_all("table"):
-            header_row = table.find("tr")
-            if not header_row or "Company" not in header_row.get_text():
-                continue
-            for tr in table.find_all("tr")[1:]:
-                cells = tr.find_all("td")
-                if len(cells) < 4:
-                    continue
-                company_cell, role_cell, location_cell, apply_cell = cells[0], cells[1], cells[2], cells[3]
-                age_cell = cells[4] if len(cells) > 4 else None
-
-                company_text = company_cell.get_text(strip=True)
-                if company_text in ("↳", ""):
-                    company = last_company
-                else:
-                    company = re.sub(r"^[^\w]+", "", company_text).strip()
-                    last_company = company
-                if not company:
-                    continue
-
-                role = role_cell.get_text(strip=True)
-                location = ", ".join(location_cell.stripped_strings) or "N/A"
-
-                apply_link = apply_cell.find("a")
-                apply_url = apply_link["href"] if apply_link and apply_link.has_attr("href") else None
-                if not apply_url:
-                    continue
-                apply_url = strip_tracking_params(apply_url)
-
-                posted_date, age_days, age_label = None, None, ""
-                if age_cell is not None:
-                    posted_date, age_days, age_label = date_from_age(age_cell.get_text(strip=True), today)
-
-                listings.append({
-                    "company": company,
-                    "role": role,
-                    "location": location,
-                    "apply_url": apply_url,
-                    "category": category,
-                    "posted_date": posted_date,
-                    "age_days": age_days,
-                    "age_label": age_label,
-                    "oa_lc_flag": check_oa_lc(f"{company} {role}"),
-                    "sponsorship_flag": False,
-                    "citizenship_flag": False,
-                    "source": "Simplify",
-                })
-    return listings
-
-
-FLAG_SPONSORSHIP = "🛂"
-FLAG_CITIZENSHIP = "🇺🇸"
-FLAG_CLOSED = "🔒"
-
-
-def parse_vansh(markdown_text: str, today: date) -> list:
-    listings = []
-    last_company = None
-    in_table = False
-    found_header = False
-    for line in markdown_text.splitlines():
-        stripped = line.strip()
-        if not stripped.startswith("|"):
-            in_table = False
+    for entry in data:
+        # Closed/hidden roles stay in the feed forever (~74% of entries) and
+        # must never alert.
+        if not entry.get("active") or not entry.get("is_visible"):
             continue
-        cells = [c.strip() for c in stripped.strip("|").split("|")]
-        if len(cells) < 5:
-            continue
-        if cells[0].strip("*_ ").lower() == "company":
-            in_table = True
-            found_header = True
-            continue
-        if not in_table:
-            continue
-        if re.match(r"^-+$", cells[0]):
+        terms = [t for t in entry.get("terms") or [] if t in ALLOWED_SEASONS]
+        if not terms:
             continue
 
-        company_cell, role_cell, location_cell, apply_cell, date_cell = cells[:5]
-        combined_flags = f"{company_cell} {role_cell}"
-
-        company_text = BeautifulSoup(company_cell, "html.parser").get_text(strip=True)
-        if company_text in ("↳", ""):
-            company = last_company
-        else:
-            company = re.sub(r"^[^\w]+", "", company_text).strip()
-            last_company = company
-        if not company:
-            continue
-
-        if FLAG_CLOSED in combined_flags:
-            continue
-
-        role = BeautifulSoup(role_cell, "html.parser").get_text(strip=True)
-        role = re.sub(f"[{FLAG_SPONSORSHIP}{FLAG_CITIZENSHIP}]", "", role)
-        role = re.sub(r"\s+", " ", role).strip()
-
-        location_soup = BeautifulSoup(location_cell, "html.parser")
-        summary = location_soup.find("summary")
-        # .strip("*") because the source wraps the summary text in markdown
-        # bold ("**2 locations**"), which get_text() doesn't strip on its own.
-        location = summary.get_text(strip=True).strip("*") if summary else (", ".join(location_soup.stripped_strings) or "N/A")
-
-        apply_link = BeautifulSoup(apply_cell, "html.parser").find("a")
-        apply_url = apply_link["href"] if apply_link and apply_link.has_attr("href") else None
-        if not apply_url:
+        company = (entry.get("company_name") or "").strip()
+        role = (entry.get("title") or "").strip()
+        apply_url = entry.get("url")
+        if not company or not role or not apply_url:
             continue
         apply_url = strip_tracking_params(apply_url)
 
-        posted_date, age_days, age_label = None, None, ""
-        date_text = date_cell.strip()
-        if date_text:
-            try:
-                posted_date = parse_vansh_date(date_text, today)
-                age_days, age_label = age_from_date(posted_date, today)
-            except ValueError:
-                pass
+        posted_date, posted_dt, age_days, age_label = None, None, None, ""
+        stamp = entry.get("date_posted")
+        if isinstance(stamp, (int, float)) and stamp > 0:
+            posted_dt = datetime.fromtimestamp(stamp, timezone.utc)
+            posted_date = posted_dt.date()
+            age_days, age_label = age_from_date(posted_date, today)
 
+        sponsorship = entry.get("sponsorship")
         listings.append({
             "company": company,
             "role": role,
-            "location": location,
+            "location": ", ".join(entry.get("locations") or []) or "N/A",
             "apply_url": apply_url,
-            "category": classify_category(role),
+            "category": SIMPLIFY_CATEGORIES.get(entry.get("category")) or classify_category(role),
             "posted_date": posted_date,
+            "posted_at": posted_dt,
             "age_days": age_days,
             "age_label": age_label,
             "oa_lc_flag": check_oa_lc(f"{company} {role}"),
-            "sponsorship_flag": FLAG_SPONSORSHIP in combined_flags,
-            "citizenship_flag": FLAG_CITIZENSHIP in combined_flags,
-            "source": "Vansh",
+            "sponsorship_flag": sponsorship == "Does Not Offer Sponsorship",
+            "citizenship_flag": sponsorship == "U.S. Citizenship is Required",
+            "source": "Simplify",
+            "feed": "Simplify-json",
+            "season": ", ".join(terms),
         })
-
-    if not found_header:
-        log.warning("vansh parser never found a 'Company' header row — source format may have changed")
     return listings
 
 
-GITHUB_REPO = os.getenv("GITHUB_REPO", "SimplifyJobs/Summer2027-Internships")
-GITHUB_BRANCH = os.getenv("GITHUB_BRANCH", "dev")
-README_PATH = os.getenv("README_PATH", "README.md")
-SIMPLIFY_RAW_URL = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{GITHUB_BRANCH}/{README_PATH}"
-VANSH_RAW_URL = "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md"
-ZSHAH_JOBS_URL = "https://raw.githubusercontent.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/main/docs/api/jobs.json"
-
 # This source scrapes raw ATS postings (Greenhouse/Workday/etc.) rather than
-# being human-curated like the other two, so it also carries non-internship
+# being human-curated like Simplify, so it also carries non-internship
 # program types we're not set up to track - only pull these three.
 ZSHAH_ALLOWED_PROGRAMS = {"Internship", "Co-op", "Internship / Co-op"}
 
@@ -309,15 +217,20 @@ def parse_zshah(data: dict, today: date) -> list:
         apply_url = strip_tracking_params(apply_url)
 
         location = job.get("location") or "N/A"
+        season = job.get("season")
 
-        posted_date, age_days, age_label = None, None, ""
-        posted_at = job.get("posted_at")
-        if posted_at:
-            try:
-                posted_date = datetime.fromisoformat(posted_at).astimezone(timezone.utc).date()
-                age_days, age_label = age_from_date(posted_date, today)
-            except ValueError:
-                pass
+        posted_date, age_days, age_label, posted_dt = None, None, "", None
+        parsed = parse_iso_utc(job.get("posted_at"))
+        if parsed is not None:
+            posted_date = parsed.date()
+            age_days, age_label = age_from_date(posted_date, today)
+            # The feed labels each timestamp "exact" or "date_only"; trust
+            # that over guessing. Without the label, fall back to treating
+            # exactly 00:00:00 UTC as the date-only placeholder.
+            source_kind = job.get("posted_at_source")
+            has_real_time = source_kind == "exact" if source_kind else parsed.time() != dtime(0, 0)
+            if has_real_time:
+                posted_dt = parsed
 
         # Real sponsorship signal from ATS data (vs. the other sources' best-
         # effort keyword/emoji flags) - "offers"/"unknown" map to no flag,
@@ -331,6 +244,7 @@ def parse_zshah(data: dict, today: date) -> list:
             "apply_url": apply_url,
             "category": classify_category(role),
             "posted_date": posted_date,
+            "posted_at": posted_dt,
             "age_days": age_days,
             "age_label": age_label,
             "oa_lc_flag": check_oa_lc(f"{company} {role}"),
@@ -338,6 +252,7 @@ def parse_zshah(data: dict, today: date) -> list:
             "citizenship_flag": sponsorship == "citizens-only",
             "source": "Zshah",
             "program": program,
+            "season": season if season and season != "Not stated" else None,
             "salary": job.get("salary"),
             "skills": job.get("skills") or [],
             "remote": bool(job.get("remote")),
@@ -347,15 +262,9 @@ def parse_zshah(data: dict, today: date) -> list:
 
 
 def fetch_simplify() -> list:
-    resp = requests.get(SIMPLIFY_RAW_URL, timeout=30)
+    resp = requests.get(SIMPLIFY_LISTINGS_URL, timeout=60)
     resp.raise_for_status()
-    return parse_simplify(resp.text, utc_today())
-
-
-def fetch_vansh() -> list:
-    resp = requests.get(VANSH_RAW_URL, timeout=30)
-    resp.raise_for_status()
-    return parse_vansh(resp.text, utc_today())
+    return parse_simplify(json.loads(resp.content.decode("utf-8")), utc_today())
 
 
 def fetch_zshah() -> list:
@@ -367,4 +276,4 @@ def fetch_zshah() -> list:
     return parse_zshah(json.loads(resp.content.decode("utf-8")), utc_today())
 
 
-SOURCES = [fetch_simplify, fetch_vansh, fetch_zshah]
+SOURCES = [fetch_simplify, fetch_zshah]

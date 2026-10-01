@@ -3,9 +3,7 @@ from datetime import date, datetime, timezone
 from sources import (
     age_from_date,
     classify_category,
-    date_from_age,
     normalize_key,
-    parse_vansh_date,
     utc_today,
 )
 
@@ -16,33 +14,6 @@ def test_utc_today_matches_utc_clock_not_ambient_system_timezone():
     # to a full day depending on what machine/timezone runs the code.
     assert utc_today() == datetime.now(timezone.utc).date()
 
-
-def test_date_from_age_days():
-    posted, days, label = date_from_age("3d", date(2026, 8, 17))
-    assert posted == date(2026, 8, 14)
-    assert days == 3
-    assert label == "3d ago"
-
-
-def test_date_from_age_today():
-    posted, days, label = date_from_age("0d", date(2026, 8, 17))
-    assert posted == date(2026, 8, 17)
-    assert days == 0
-    assert label == "today"
-
-
-def test_date_from_age_months():
-    posted, days, label = date_from_age("1mo", date(2026, 8, 17))
-    assert posted == date(2026, 7, 18)
-    assert days == 30
-    assert label == "~1mo ago"
-
-
-def test_date_from_age_unrecognized():
-    posted, days, label = date_from_age("garbage", date(2026, 8, 17))
-    assert posted is None
-    assert days is None
-    assert label == ""
 
 
 def test_age_from_date_recent():
@@ -61,19 +32,6 @@ def test_age_from_date_over_a_month():
     days, label = age_from_date(date(2026, 6, 1), date(2026, 8, 17))
     assert days == 77
     assert label == "~3mo ago"
-
-
-def test_parse_vansh_date_same_year():
-    assert parse_vansh_date("Aug 14", date(2026, 8, 17)) == date(2026, 8, 14)
-
-
-def test_parse_vansh_date_rolls_back_year_when_naive_parse_lands_in_future():
-    # A late-December post ("Dec 30") viewed shortly after New Year's
-    # ("today" is Jan 3 of the *next* year) would parse as Dec 30 of
-    # *this* year if we naively used today.year — ~362 days in the
-    # future, which can't be a real "posted" date. Must roll back to
-    # last year, landing 4 days in the past instead.
-    assert parse_vansh_date("Dec 30", date(2027, 1, 3)) == date(2026, 12, 30)
 
 
 def test_classify_category_quant():
@@ -108,233 +66,8 @@ def test_normalize_key_differs_for_different_roles():
     assert normalize_key("Acme", "SWE Intern") != normalize_key("Acme", "PM Intern")
 
 
+
 from datetime import date as _date
-
-from sources import parse_simplify
-
-SIMPLIFY_FIXTURE = """
-## 💻 Software Engineering Internship Roles
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Acme">Acme</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Remote</td>
-<td><a href="https://acme.example/apply?utm_source=GHList&utm_medium=company&jobId=42">Apply</a></td>
-<td>2d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Backend Engineer Intern - LeetCode round required</td>
-<td>NYC</td>
-<td><a href="https://acme.example/apply2">Apply</a></td>
-<td>2d</td>
-</tr>
-</tbody>
-</table>
-
-## 📈 Quantitative Finance Internship Roles
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/QuantCo">QuantCo</a></strong></td>
-<td>Quant Trading Intern</td>
-<td>Chicago, IL</td>
-<td><a href="https://quantco.example/apply">Apply</a></td>
-<td>0d</td>
-</tr>
-</tbody>
-</table>
-"""
-
-
-def test_parse_simplify_extracts_category_from_section():
-    listings = parse_simplify(SIMPLIFY_FIXTURE, _date(2026, 8, 17))
-    categories = {item["company"]: item["category"] for item in listings}
-    assert categories["Acme"] == "Software Engineering"
-    assert categories["QuantCo"] == "Quantitative Finance"
-
-
-def test_parse_simplify_resolves_company_continuation():
-    listings = parse_simplify(SIMPLIFY_FIXTURE, _date(2026, 8, 17))
-    acme_roles = [item["role"] for item in listings if item["company"] == "Acme"]
-    assert "Backend Engineer Intern - LeetCode round required" in acme_roles
-
-
-def test_parse_simplify_infers_date_from_age():
-    listings = parse_simplify(SIMPLIFY_FIXTURE, _date(2026, 8, 17))
-    quantco = next(item for item in listings if item["company"] == "QuantCo")
-    assert quantco["posted_date"] == _date(2026, 8, 17)
-    assert quantco["age_label"] == "today"
-
-
-def test_parse_simplify_flags_oa_lc_keyword():
-    listings = parse_simplify(SIMPLIFY_FIXTURE, _date(2026, 8, 17))
-    backend = next(item for item in listings if "Backend" in item["role"])
-    assert backend["oa_lc_flag"] is True
-
-
-def test_parse_simplify_sets_source_and_no_vansh_only_flags():
-    listings = parse_simplify(SIMPLIFY_FIXTURE, _date(2026, 8, 17))
-    for item in listings:
-        assert item["source"] == "Simplify"
-        assert item["sponsorship_flag"] is False
-        assert item["citizenship_flag"] is False
-
-
-TRAILING_SECTION_FIXTURE = SIMPLIFY_FIXTURE + """
-
-## Off-Season / Archived
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/OldCo">OldCo</a></strong></td>
-<td>Archived Intern Role</td>
-<td>Remote</td>
-<td><a href="https://oldco.example/apply">Apply</a></td>
-<td>1mo</td>
-</tr>
-</tbody>
-</table>
-"""
-
-
-def test_parse_simplify_does_not_leak_trailing_non_category_section_into_last_category():
-    listings = parse_simplify(TRAILING_SECTION_FIXTURE, _date(2026, 8, 17))
-    companies = {item["company"] for item in listings}
-    assert "OldCo" not in companies
-
-
-def test_parse_simplify_strips_tracking_params_but_keeps_functional_ones():
-    listings = parse_simplify(SIMPLIFY_FIXTURE, _date(2026, 8, 17))
-    acme = next(item for item in listings if item["company"] == "Acme" and "Software" in item["role"])
-    assert acme["apply_url"] == "https://acme.example/apply?jobId=42"
-
-
-from sources import parse_vansh
-
-VANSH_FIXTURE = """
-| Company | Role | Location | Application/Link | Date Posted |
-| ------- | ---- | -------- | ---------------- | ----------- |
-| Acme | Software Engineer Intern 🇺🇸 | Remote | <a href="https://acme.example/apply?utm_source=github-vansh-ouckah&role=42">Apply</a> | Aug 16 |
-| ↳ | Backend Engineer Intern 🛂 | NYC | <a href="https://acme.example/apply2">Apply</a> | Aug 16 |
-| Closed Co | Some Intern 🔒 | Remote | <a href="https://closedco.example/apply">Apply</a> | Aug 10 |
-| <details><summary>**2 locations**</summary>Chicago, IL</br>Boston, MA</details> ignored | Quant Intern | <details><summary>**2 locations**</summary>Chicago, IL</br>Boston, MA</details> | <a href="https://multi.example/apply">Apply</a> | Aug 15 |
-"""
-
-
-def test_parse_vansh_extracts_flags():
-    listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
-    acme = next(item for item in listings if item["company"] == "Acme")
-    assert acme["citizenship_flag"] is True
-    assert acme["sponsorship_flag"] is False
-    backend = next(item for item in listings if "Backend" in item["role"])
-    assert backend["sponsorship_flag"] is True
-    assert backend["company"] == "Acme"  # continuation via ↳
-    assert backend["role"] == "Backend Engineer Intern"  # no leftover double space from flag stripping
-
-
-def test_parse_vansh_drops_closed_listings():
-    listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
-    companies = {item["company"] for item in listings}
-    assert "Closed Co" not in companies
-
-
-def test_parse_vansh_infers_age_from_date():
-    listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
-    acme = next(item for item in listings if item["company"] == "Acme")
-    assert acme["posted_date"] == _date(2026, 8, 16)
-    assert acme["age_label"] == "1d ago"
-
-
-def test_parse_vansh_categorizes_by_role_keyword():
-    listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
-    quant = next(item for item in listings if "Quant" in item["role"])
-    assert quant["category"] == "Quantitative Finance"
-
-
-def test_parse_vansh_strips_multi_location_to_summary():
-    listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
-    quant = next(item for item in listings if "Quant" in item["role"])
-    assert quant["location"] == "2 locations"
-
-
-def test_parse_vansh_sets_source():
-    listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
-    assert all(item["source"] == "Vansh" for item in listings)
-
-
-def test_parse_vansh_strips_tracking_params_but_keeps_functional_ones():
-    listings = parse_vansh(VANSH_FIXTURE, _date(2026, 8, 17))
-    acme = next(item for item in listings if item["company"] == "Acme" and "Software" in item["role"])
-    assert acme["apply_url"] == "https://acme.example/apply?role=42"
-
-
-CLOSED_THEN_OPEN_CONTINUATION_FIXTURE = """
-| Company | Role | Location | Application/Link | Date Posted |
-| ------- | ---- | -------- | ---------------- | ----------- |
-| CompanyA | SWE Intern | Remote | <a href="https://a.example/apply">Apply</a> | Aug 16 |
-| CompanyB | Closed Role Intern 🔒 | Remote | <a href="https://b1.example/apply">Apply</a> | Aug 16 |
-| ↳ | Open Role Intern | NYC | <a href="https://b2.example/apply">Apply</a> | Aug 15 |
-"""
-
-
-def test_parse_vansh_continuation_after_closed_row_keeps_correct_company():
-    listings = parse_vansh(CLOSED_THEN_OPEN_CONTINUATION_FIXTURE, _date(2026, 8, 17))
-    open_role = next(item for item in listings if "Open Role" in item["role"])
-    assert open_role["company"] == "CompanyB"
-    # the closed row itself must never appear
-    assert not any("Closed Role" in item["role"] for item in listings)
-
-
-def test_parse_vansh_handles_missing_or_malformed_date_gracefully():
-    fixture = """
-| Company | Role | Location | Application/Link | Date Posted |
-| ------- | ---- | -------- | ---------------- | ----------- |
-| WeirdCo | SWE Intern | Remote | <a href="https://weirdco.example/apply">Apply</a> | TBD |
-"""
-    listings = parse_vansh(fixture, _date(2026, 8, 17))
-    weirdco = next(item for item in listings if item["company"] == "WeirdCo")
-    assert weirdco["posted_date"] is None
-    assert weirdco["age_days"] is None
-    assert weirdco["age_label"] == ""
-
-
-BOLD_HEADER_FIXTURE = """
-| **Company** | **Role** | **Location** | **Application/Link** | **Date Posted** |
-| ------- | ---- | -------- | ---------------- | ----------- |
-| BoldCo | SWE Intern | Remote | <a href="https://boldco.example/apply">Apply</a> | Aug 16 |
-"""
-
-
-def test_parse_vansh_tolerates_markdown_bold_header():
-    listings = parse_vansh(BOLD_HEADER_FIXTURE, _date(2026, 8, 17))
-    assert any(item["company"] == "BoldCo" for item in listings)
-
-
-def test_parse_vansh_logs_warning_when_no_header_row_found(caplog):
-    fixture = """
-| Some Random Table | Not What We Expect |
-| ------- | ---- |
-| foo | bar |
-"""
-    with caplog.at_level("WARNING"):
-        listings = parse_vansh(fixture, _date(2026, 8, 17))
-    assert listings == []
-    assert any("header row" in record.message for record in caplog.records)
-
 
 from sources import parse_zshah
 
@@ -418,6 +151,14 @@ def test_parse_zshah_uses_exact_posted_at_timestamp():
     # 2026-08-14T17:35:22-04:00 -> 21:35:22 UTC -> still Aug 14 UTC.
     assert snorkel["posted_date"] == _date(2026, 8, 14)
     assert snorkel["age_days"] == 3
+    assert snorkel["posted_at"].isoformat() == "2026-08-14T21:35:22+00:00"
+
+
+def test_parse_zshah_midnight_utc_is_date_only_placeholder():
+    listings = parse_zshah(ZSHAH_FIXTURE, _date(2026, 8, 17))
+    acme = next(item for item in listings if item["company"] == "Acme Corp")
+    assert acme["posted_date"] == _date(2026, 8, 16)
+    assert acme["posted_at"] is None
 
 
 def test_parse_zshah_maps_sponsorship_enum_to_flags():
@@ -502,3 +243,108 @@ def test_parse_zshah_skips_job_missing_url():
                           "url": None, "posted_at": None, "sponsorship": "unknown", "program": "Internship"}]}
     listings = parse_zshah(fixture, _date(2026, 8, 17))
     assert listings == []
+
+
+def _zshah_job(**overrides):
+    job = {
+        "company": "TimeCo", "title": "SWE Intern", "url": "https://timeco.example/1",
+        "program": "Internship", "sponsorship": "unknown",
+    }
+    job.update(overrides)
+    return {"jobs": [job]}
+
+
+def test_parse_zshah_trusts_posted_at_source_date_only_even_with_nonmidnight_time():
+    data = _zshah_job(posted_at="2026-08-16T13:00:00Z", posted_at_source="date_only")
+    item = parse_zshah(data, _date(2026, 8, 17))[0]
+    assert item["posted_date"] == _date(2026, 8, 16)
+    assert item["posted_at"] is None
+
+
+def test_parse_zshah_trusts_posted_at_source_exact_even_at_midnight():
+    data = _zshah_job(posted_at="2026-08-16T00:00:00Z", posted_at_source="exact")
+    item = parse_zshah(data, _date(2026, 8, 17))[0]
+    assert item["posted_at"] is not None
+
+
+def test_parse_zshah_season_dropped_when_not_stated():
+    stated = parse_zshah(_zshah_job(season="Fall 2026"), _date(2026, 8, 17))[0]
+    unstated = parse_zshah(_zshah_job(season="Not stated"), _date(2026, 8, 17))[0]
+    assert stated["season"] == "Fall 2026"
+    assert unstated["season"] is None
+
+
+from sources import parse_simplify
+
+
+def _simplify_entry(**overrides):
+    entry = {
+        "company_name": "Acme", "title": "SWE Intern", "url": "https://acme.example/1?utm_source=Simplify&ref=Simplify&gh_jid=42",
+        "locations": ["New York, NY", "Remote in USA"], "date_posted": 1786000000, "terms": ["Summer 2027"],
+        "active": True, "is_visible": True, "category": "Software", "sponsorship": "Other",
+    }
+    entry.update(overrides)
+    return entry
+
+
+def test_parse_simplify_maps_core_fields_with_exact_time():
+    item = parse_simplify([_simplify_entry()], date(2026, 8, 17))[0]
+    assert item["company"] == "Acme"
+    assert item["location"] == "New York, NY, Remote in USA"
+    assert item["category"] == "Software Engineering"
+    assert item["posted_at"] == datetime.fromtimestamp(1786000000, timezone.utc)
+    assert item["posted_date"] == item["posted_at"].date()
+    assert item["season"] == "Summer 2027"
+    assert item["source"] == "Simplify"
+
+
+def test_parse_simplify_skips_inactive_and_hidden():
+    data = [_simplify_entry(active=False), _simplify_entry(is_visible=False, url="https://b.example/2")]
+    assert parse_simplify(data, date(2026, 8, 17)) == []
+
+
+def test_parse_simplify_filters_to_allowed_terms():
+    data = [
+        _simplify_entry(terms=["Winter 2026"], url="https://a.example/1"),
+        _simplify_entry(terms=["N/A"], url="https://a.example/2"),
+        _simplify_entry(terms=["Fall 2026", "Winter 2026"], url="https://a.example/3"),
+    ]
+    items = parse_simplify(data, date(2026, 8, 17))
+    assert [i["season"] for i in items] == ["Fall 2026"]
+
+
+def test_parse_simplify_maps_sponsorship_enum():
+    no_sponsor = parse_simplify([_simplify_entry(sponsorship="Does Not Offer Sponsorship")], date(2026, 8, 17))[0]
+    citizens = parse_simplify([_simplify_entry(sponsorship="U.S. Citizenship is Required")], date(2026, 8, 17))[0]
+    assert no_sponsor["sponsorship_flag"] is True and no_sponsor["citizenship_flag"] is False
+    assert citizens["citizenship_flag"] is True and citizens["sponsorship_flag"] is False
+
+
+def test_parse_simplify_strips_tracking_params_but_keeps_functional_ones():
+    item = parse_simplify([_simplify_entry()], date(2026, 8, 17))[0]
+    assert item["apply_url"] == "https://acme.example/1?gh_jid=42"
+
+
+def test_parse_simplify_falls_back_to_title_category_and_handles_missing_date():
+    item = parse_simplify([_simplify_entry(category="Mystery", title="Quantitative Trading Intern", date_posted=None)], date(2026, 8, 17))[0]
+    assert item["category"] == "Quantitative Finance"
+    assert item["posted_date"] is None and item["posted_at"] is None
+
+
+def test_parse_simplify_skips_entry_missing_url():
+    assert parse_simplify([_simplify_entry(url=None)], date(2026, 8, 17)) == []
+
+
+
+from sources import job_id_key
+
+
+def test_job_id_key_matches_greenhouse_job_across_url_shapes():
+    assert job_id_key("https://stripe.com/jobs/search?gh_jid=7123") == "job:greenhouse:7123"
+    assert job_id_key("https://job-boards.greenhouse.io/stripe/jobs/7123") == "job:greenhouse:7123"
+
+
+def test_job_id_key_lever_ashby_and_unknown():
+    assert job_id_key("https://jobs.lever.co/palantir/ABC-123/apply") == "job:lever:abc-123"
+    assert job_id_key("https://jobs.ashbyhq.com/ramp/uuid-1") == "job:ashby:uuid-1"
+    assert job_id_key("https://acme.com/careers/1") is None

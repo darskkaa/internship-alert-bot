@@ -1,6 +1,15 @@
 import json
 
+import pytest
+
 import core
+
+TEST_FEED = "seeded-test-feed"
+
+
+@pytest.fixture(autouse=True)
+def _treat_test_feed_as_already_seeded(monkeypatch):
+    monkeypatch.setattr(core, "LEGACY_FEEDS", [TEST_FEED])
 
 
 def test_load_state_defaults_seen_keys_when_missing(tmp_path, monkeypatch):
@@ -56,6 +65,7 @@ def _fake_listing(company, role, url, source="Simplify"):
         "sponsorship_flag": False,
         "citizenship_flag": False,
         "source": source,
+        "feed": TEST_FEED,
     }
 
 
@@ -252,14 +262,46 @@ def test_build_embed_sponsorship_and_citizenship_fields_optional():
 
 def test_build_embed_footer_names_source():
     embed = build_embed(_item(source="Vansh"))
-    assert embed["footer"]["text"] == "via Vansh"
+    assert embed["footer"]["text"] == "via Vansh · detected"
 
 
-def test_build_embed_includes_native_discord_timestamp():
-    embed = build_embed(_item(posted_date=date(2026, 8, 14)))
-    # Noon UTC, not midnight - midnight rolls back to "yesterday" once
-    # Discord converts it to a negative-UTC-offset viewer's local clock.
-    assert embed["timestamp"] == "2026-08-14T12:00:00+00:00"
+def test_build_embed_timestamp_is_detection_time():
+    from datetime import datetime, timezone
+
+    detected = datetime(2026, 8, 17, 15, 30, tzinfo=timezone.utc)
+    embed = build_embed(_item(posted_date=date(2026, 8, 14)), detected)
+    assert embed["timestamp"] == "2026-08-17T15:30:00+00:00"
+
+
+def test_build_embed_posted_field_uses_discord_markup_when_real_time_known():
+    from datetime import datetime, timezone
+
+    posted_at = datetime(2026, 8, 14, 21, 35, 22, tzinfo=timezone.utc)
+    embed = build_embed(_item(posted_at=posted_at))
+    posted_field = next(f for f in embed["fields"] if f["name"] == "📅 Posted")
+    ts = int(posted_at.timestamp())
+    assert posted_field["value"] == f"<t:{ts}:f> (<t:{ts}:R>)"
+
+
+def test_run_once_sorts_same_day_listings_by_real_posted_time(monkeypatch):
+    from datetime import datetime, timezone
+
+    from sources import utc_today
+
+    today = utc_today()
+    late = _fake_listing("LateCo", "SWE Intern", "https://lateco.example/1")
+    late["posted_date"] = today
+    late["posted_at"] = datetime.combine(today, datetime.min.time(), tzinfo=timezone.utc).replace(hour=20)
+    early = _fake_listing("EarlyCo", "SWE Intern", "https://earlyco.example/1")
+    early["posted_date"] = today
+    early["posted_at"] = datetime.combine(today, datetime.min.time(), tzinfo=timezone.utc).replace(hour=3)
+    monkeypatch.setattr(core, "SOURCES", [lambda: [late, early]])
+    posted = []
+    monkeypatch.setattr(core, "post_new_listings", lambda items: posted.extend(items))
+
+    core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
+
+    assert [item["company"] for item in posted] == ["EarlyCo", "LateCo"]
 
 
 def test_build_embed_truncates_overlong_title():
@@ -277,9 +319,10 @@ def test_build_embed_truncates_overlong_location():
     assert location_field["value"].endswith("…")
 
 
-def test_build_embed_omits_timestamp_when_posted_date_missing():
+def test_build_embed_still_stamps_detection_time_when_posted_date_missing():
     embed = build_embed(_item(posted_date=None))
-    assert "timestamp" not in embed
+    assert "timestamp" in embed
+    assert not any(f["name"] == "📅 Posted" for f in embed["fields"])
 
 
 def test_build_embed_tags_non_internship_program():
@@ -386,3 +429,230 @@ def test_build_embed_h1b_history_uses_thousands_separator():
     embed = build_embed(_item(h1b_approvals=1234))
     h1b_field = next(f for f in embed["fields"] if f["name"] == "📊 Employer H-1B history")
     assert "1,234" in h1b_field["value"]
+
+
+def test_save_state_skips_write_when_nothing_changed(tmp_path, monkeypatch):
+    state_file = tmp_path / "state.json"
+    monkeypatch.setattr(core, "STATE_FILE", state_file)
+    state = {"seen": ["x"], "seen_keys": ["k"], "last_checked_utc": None}
+
+    core.save_state(state)
+    first = state_file.read_text()
+    core.save_state({"seen": ["x"], "seen_keys": ["k"], "last_checked_utc": None})
+
+    assert state_file.read_text() == first
+
+
+def test_save_state_writes_when_seen_changes(tmp_path, monkeypatch):
+    state_file = tmp_path / "state.json"
+    monkeypatch.setattr(core, "STATE_FILE", state_file)
+    core.save_state({"seen": ["x"], "seen_keys": ["k"]})
+
+    core.save_state({"seen": ["x", "y"], "seen_keys": ["k"]})
+
+    assert json.loads(state_file.read_text())["seen"] == ["x", "y"]
+
+
+class _Resp:
+    def __init__(self, status_code):
+        self.status_code = status_code
+
+    def raise_for_status(self):
+        if self.status_code >= 400:
+            raise RuntimeError(f"HTTP {self.status_code}")
+
+    def json(self):
+        return {}
+
+
+def test_batch_embeds_splits_on_char_budget():
+    big = {"title": "t", "footer": {"text": "f"}, "fields": [{"name": "n", "value": "v" * 2000}]}
+    batches = core._batch_embeds([big, big, big, big])
+    assert [len(b) for b in batches] == [2, 2]
+
+
+def test_batch_embeds_caps_at_ten():
+    small = {"title": "t", "footer": {"text": "f"}, "fields": []}
+    batches = core._batch_embeds([small] * 23)
+    assert [len(b) for b in batches] == [10, 10, 3]
+
+
+def test_post_new_listings_falls_back_to_singles_on_400(monkeypatch):
+    sent = []
+
+    def fake_send(payload):
+        sent.append(payload)
+        bad = any(e["title"].startswith("Bad") for e in payload["embeds"])
+        return _Resp(400 if bad else 204)
+
+    monkeypatch.setattr(core, "_send", fake_send)
+    monkeypatch.setattr(core.time, "sleep", lambda s: None)
+    items = [_item(company="Good"), _item(company="Bad")]
+
+    core.post_new_listings(items)
+
+    assert [len(p["embeds"]) for p in sent] == [2, 1, 1]
+
+
+def test_run_once_notifies_after_repeated_source_failure(monkeypatch):
+    def broken():
+        raise RuntimeError("down")
+
+    notices = []
+    monkeypatch.setattr(core, "SOURCES", [broken])
+    monkeypatch.setattr(core, "_notify", notices.append)
+    state = {"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"}
+
+    for _ in range(core.FAILURE_ALERT_THRESHOLD + 2):
+        state = core.run_once(state)
+
+    assert len(notices) == 1
+    assert state["source_failures"]["broken"] == core.FAILURE_ALERT_THRESHOLD + 2
+
+
+def test_run_once_treats_empty_source_as_unhealthy_and_recovers(monkeypatch):
+    results = {"value": []}
+
+    def flaky():
+        return results["value"]
+
+    monkeypatch.setattr(core, "SOURCES", [flaky])
+    monkeypatch.setattr(core, "_notify", lambda text: None)
+    state = {"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"}
+
+    state = core.run_once(state)
+    assert state["source_failures"] == {"flaky": 1}
+
+    results["value"] = [_fake_listing("Acme", "SWE Intern", "https://acme.example/1")]
+    monkeypatch.setattr(core, "post_new_listings", lambda items: None)
+    state = core.run_once(state)
+    assert state["source_failures"] == {}
+
+
+def test_build_embed_shows_season_only_when_present():
+    shown = build_embed(_item(season="Summer 2027"))
+    assert any(f["name"] == "🗓️ Season" and f["value"] == "Summer 2027" for f in shown["fields"])
+    hidden = build_embed(_item(season=None))
+    assert not any(f["name"] == "🗓️ Season" for f in hidden["fields"])
+
+
+def test_run_once_silently_seeds_a_feed_seen_for_the_first_time(monkeypatch):
+    from sources import utc_today
+
+    legacy = _fake_listing("OldCo", "SWE Intern", "https://oldco.example/1")
+    legacy["posted_date"] = utc_today()
+    from datetime import timedelta
+
+    fresh_board = _fake_listing("BoardCo", "SWE Intern", "https://boardco.example/1")
+    fresh_board["posted_date"] = utc_today() - timedelta(days=3)
+    fresh_board["feed"] = "greenhouse:boardco"
+    monkeypatch.setattr(core, "SOURCES", [lambda: [legacy, fresh_board]])
+    posted = []
+    monkeypatch.setattr(core, "post_new_listings", lambda items: posted.extend(items))
+
+    state = core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
+
+    assert [item["company"] for item in posted] == ["OldCo"]
+    assert "https://boardco.example/1" in state["seen"]
+    assert "greenhouse:boardco" in state["seeded_feeds"]
+
+
+def test_run_once_alerts_on_a_seeded_feeds_next_new_listing(monkeypatch):
+    from sources import utc_today
+
+    item = _fake_listing("BoardCo", "SWE Intern", "https://boardco.example/2")
+    item["posted_date"] = utc_today()
+    item["feed"] = "greenhouse:boardco"
+    monkeypatch.setattr(core, "SOURCES", [lambda: [item]])
+    posted = []
+    monkeypatch.setattr(core, "post_new_listings", lambda items: posted.extend(items))
+
+    core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "seeded_feeds": ["greenhouse:boardco"], "last_checked_utc": "x"})
+
+    assert [i["company"] for i in posted] == ["BoardCo"]
+
+
+def test_run_once_seeds_quiet_feed_so_its_first_role_alerts_later(monkeypatch):
+    from sources import utc_today
+
+    def quiet_source():
+        return []
+
+    quiet_source.fetched_feeds = {"greenhouse:quietco"}
+    other = _fake_listing("Acme", "SWE Intern", "https://acme.example/9")
+    monkeypatch.setattr(core, "SOURCES", [quiet_source, lambda: [other]])
+    monkeypatch.setattr(core, "_notify", lambda text: None)
+    monkeypatch.setattr(core, "post_new_listings", lambda items: None)
+
+    state = core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
+    assert "greenhouse:quietco" in state["seeded_feeds"]
+
+    first_role = _fake_listing("QuietCo", "SWE Intern", "https://quietco.example/1")
+    first_role["posted_date"] = utc_today()
+    first_role["feed"] = "greenhouse:quietco"
+    posted = []
+    monkeypatch.setattr(core, "SOURCES", [lambda: [first_role]])
+    monkeypatch.setattr(core, "post_new_listings", lambda items: posted.extend(items))
+
+    core.run_once(state)
+
+    assert [i["company"] for i in posted] == ["QuietCo"]
+
+
+def test_run_once_first_sight_feed_still_alerts_roles_posted_in_last_day(monkeypatch):
+    from datetime import datetime, timedelta, timezone
+
+    just_posted = _fake_listing("BoardCo", "SWE Intern", "https://boardco.example/3")
+    just_posted["posted_date"] = None
+    just_posted["posted_at"] = datetime.now(timezone.utc) - timedelta(hours=2)
+    just_posted["feed"] = "greenhouse:boardco"
+    dateless = _fake_listing("BoardCo", "PM Intern", "https://boardco.example/4")
+    dateless["posted_date"] = None
+    dateless["feed"] = "greenhouse:boardco"
+    monkeypatch.setattr(core, "SOURCES", [lambda: [just_posted, dateless]])
+    posted = []
+    monkeypatch.setattr(core, "post_new_listings", lambda items: posted.extend(items))
+
+    core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
+
+    assert [i["role"] for i in posted] == ["SWE Intern"]
+
+
+def test_run_once_dedupes_same_ats_job_across_company_spellings(monkeypatch):
+    from sources import utc_today
+
+    simplify = _fake_listing("Anduril Industries", "Software Engineer Intern", "https://job-boards.greenhouse.io/andurilindustries/jobs/4242")
+    board = _fake_listing("Anduril", "Software Engineer Intern", "https://www.anduril.com/careers?gh_jid=4242")
+    for item in (simplify, board):
+        item["posted_date"] = utc_today()
+    monkeypatch.setattr(core, "SOURCES", [lambda: [simplify], lambda: [board]])
+    posted = []
+    monkeypatch.setattr(core, "post_new_listings", lambda items: posted.extend(items))
+
+    state = core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
+
+    assert len(posted) == 1
+    assert "job:greenhouse:4242" in state["seen_keys"]
+
+
+def test_post_new_listings_skips_single_rejected_embed_instead_of_raising(monkeypatch):
+    sent = []
+    monkeypatch.setattr(core, "_send", lambda payload: sent.append(payload) or _Resp(400))
+    monkeypatch.setattr(core.time, "sleep", lambda s: None)
+
+    core.post_new_listings([_item(company="Bad")])
+
+    assert len(sent) == 1
+
+
+def test_run_once_board_source_with_no_open_roles_is_healthy(monkeypatch):
+    def quiet_boards():
+        return []
+
+    quiet_boards.fetched_feeds = {"greenhouse:quietco"}
+    monkeypatch.setattr(core, "SOURCES", [quiet_boards])
+    monkeypatch.setattr(core, "post_new_listings", lambda items: None)
+
+    state = core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
+
+    assert state["source_failures"] == {}

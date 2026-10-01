@@ -1,0 +1,13 @@
+{
+  "name": "internship-alert-trigger",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-30",
+  "workers_dev": false,
+  "triggers": { "crons": ["*/10 * * * *"] },
+  "vars": {
+    "REPO": "darskkaa/internship-alert-bot",
+    "WORKFLOW": "watch.yml",
+    "REF": "main"
+  },
+  "observability": { "enabled": true, "traces": { "enabled": true } }
+}
