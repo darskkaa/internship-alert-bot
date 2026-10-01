@@ -11,13 +11,19 @@ from dotenv import load_dotenv
 
 from ats import fetch_ats, load_watchlist
 from sources import SOURCES as BASE_SOURCES
-from sources import job_id_key, normalize_key, utc_today
+from sources import is_cyber_role, job_id_key, normalize_key, utc_today
 
 load_dotenv()
 
 SOURCES = [*BASE_SOURCES, *([fetch_ats] if load_watchlist() else [])]
 WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
 ROLE_PING = os.getenv("DISCORD_ROLE_ID", "")
+# Optional second channel that receives only cybersecurity roles, in addition
+# to (never instead of) the main channel.
+CYBER_WEBHOOK_URL = os.getenv("DISCORD_CYBER_WEBHOOK_URL", "")
+CYBER_ROLE_PING = os.getenv("DISCORD_CYBER_ROLE_ID", "")
+MAIN_COLOR = 0x2ecc71
+CYBER_COLOR = 0xe74c3c
 POLL_INTERVAL = int(os.getenv("POLL_INTERVAL_SECONDS", "600"))
 FRESHNESS_WINDOW_DAYS = 7
 FIRST_SIGHT_WINDOW_HOURS = 24
@@ -93,7 +99,11 @@ def _posted_within(item: dict, now: datetime, hours: int) -> bool:
     return posted > datetime.min.replace(tzinfo=timezone.utc) and (now - posted).total_seconds() <= hours * 3600
 
 
-def build_embed(item: dict, detected_at: datetime | None = None) -> dict:
+def is_cyber_listing(item: dict) -> bool:
+    return bool(item.get("cyber")) or is_cyber_role(item["role"])
+
+
+def build_embed(item: dict, detected_at: datetime | None = None, color: int = MAIN_COLOR) -> dict:
     fields = [
         {"name": "📍 Location", "value": _truncate(item["location"], 1024), "inline": True},
         {"name": "🏷️ Category", "value": item["category"], "inline": True},
@@ -152,7 +162,7 @@ def build_embed(item: dict, detected_at: datetime | None = None) -> dict:
     embed = {
         "title": _truncate(f"{item['company']} — {item['role']}", 256),
         "url": item["apply_url"],
-        "color": 0x2ecc71,
+        "color": color,
         "fields": fields,
         "footer": {"text": f"via {item['source']} · detected"},
         # When the bot actually found it - the only timestamp that is always
@@ -191,23 +201,23 @@ def _batch_embeds(embeds: list) -> list:
     return batches
 
 
-def _send(payload: dict) -> requests.Response:
-    resp = requests.post(WEBHOOK_URL, json=payload, timeout=15)
+def _send(payload: dict, url: str | None = None) -> requests.Response:
+    url = url or WEBHOOK_URL
+    resp = requests.post(url, json=payload, timeout=15)
     if resp.status_code == 429:
         time.sleep(resp.json().get("retry_after", 2))
-        resp = requests.post(WEBHOOK_URL, json=payload, timeout=15)
+        resp = requests.post(url, json=payload, timeout=15)
     return resp
 
 
-def post_new_listings(new_listings: list) -> None:
-    mention = f"<@&{ROLE_PING}>" if ROLE_PING else None
-    detected_at = datetime.now(timezone.utc)
-    embeds = [build_embed(item, detected_at) for item in new_listings]
+def _post_to_channel(listings: list, url: str, role_id: str, color: int, detected_at: datetime) -> None:
+    mention = f"<@&{role_id}>" if role_id else None
+    embeds = [build_embed(item, detected_at, color) for item in listings]
     for batch in _batch_embeds(embeds):
         payload = {"embeds": batch}
         if mention:
             payload["content"] = mention
-        resp = _send(payload)
+        resp = _send(payload, url)
         if resp.status_code == 400:
             # One malformed embed would otherwise fail this batch on every
             # run forever (state is never saved), blocking all later alerts.
@@ -219,7 +229,7 @@ def post_new_listings(new_listings: list) -> None:
                 single = {"embeds": [embed]}
                 if mention:
                     single["content"] = mention
-                single_resp = _send(single)
+                single_resp = _send(single, url)
                 if single_resp.status_code == 400:
                     log.error("Discord rejected embed, skipping: %s", embed["title"])
                     continue
@@ -230,6 +240,19 @@ def post_new_listings(new_listings: list) -> None:
             resp.raise_for_status()
             mention = None
         time.sleep(1)
+
+
+def post_new_listings(new_listings: list) -> None:
+    detected_at = datetime.now(timezone.utc)
+    _post_to_channel(new_listings, WEBHOOK_URL, ROLE_PING, MAIN_COLOR, detected_at)
+    cyber = [item for item in new_listings if is_cyber_listing(item)]
+    if CYBER_WEBHOOK_URL and cyber:
+        # Best effort: the main channel already got these, and raising here
+        # would skip save_state and re-post them all to the main channel.
+        try:
+            _post_to_channel(cyber, CYBER_WEBHOOK_URL, CYBER_ROLE_PING, CYBER_COLOR, detected_at)
+        except Exception:
+            log.exception("Cyber channel post failed for %d listing(s)", len(cyber))
 
 
 def _notify(text: str) -> None:

@@ -348,3 +348,19 @@ def test_job_id_key_lever_ashby_and_unknown():
     assert job_id_key("https://jobs.lever.co/palantir/ABC-123/apply") == "job:lever:abc-123"
     assert job_id_key("https://jobs.ashbyhq.com/ramp/uuid-1") == "job:ashby:uuid-1"
     assert job_id_key("https://acme.com/careers/1") is None
+
+
+from sources import is_cyber_role
+
+
+def test_is_cyber_role_matches_security_titles():
+    for title in ("Cybersecurity Analyst Intern", "Offensive Security Intern (Summer 2027)", "SOC Analyst Intern",
+                  "Penetration Testing Intern", "Red Team Intern", "AppSec Engineer Intern", "Threat Intelligence Co-op",
+                  "Identity and Access Management Intern", "Incident Response Intern", "Cyber Research Internship"):
+        assert is_cyber_role(title), title
+
+
+def test_is_cyber_role_rejects_non_security_titles():
+    for title in ("Software Engineer Intern", "Securities Trading Intern", "Summer 2027 Intern, National Security Project",
+                  "Software Engineer Intern (Security Clearance Required)", "Social Media Intern", "Soccer Analytics Intern"):
+        assert not is_cyber_role(title), title

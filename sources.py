@@ -107,6 +107,23 @@ def check_oa_lc(text: str) -> bool:
     return any(kw in t for kw in OA_LC_KEYWORDS)
 
 
+# Routes roles to the cybersecurity channel. Whole-word matches only, so
+# "securities" (finance) and "social"/"soccer" never hit; the exclusions
+# catch the common non-security uses of "security" in intern titles.
+CYBER_RE = re.compile(
+    r"\b(cyber\w*|security|infosec|soc|siem|threat\w*|vulnerabilit\w*|pen(etration)?[ -]?test\w*"
+    r"|red[ -]team\w*|blue[ -]team\w*|purple[ -]team\w*|appsec|prodsec|devsecops|secops|offensive|defensive"
+    r"|incident response|digital forensic\w*|malware|reverse engineer\w*|exploit\w*|cryptograph\w*"
+    r"|grc|identity and access|iam|zero trust|privacy engineer\w*)\b",
+    re.I,
+)
+CYBER_EXCLUDE_RE = re.compile(r"\b(national security|social security|security clearance|homeland security policy)\b", re.I)
+
+
+def is_cyber_role(title: str) -> bool:
+    return bool(CYBER_RE.search(title)) and not CYBER_EXCLUDE_RE.search(title)
+
+
 # Analytics-only query params known to be safe to drop — never remove a
 # param we haven't confirmed is tracking-only, since some sources embed
 # functionally required IDs (job/requisition IDs, etc.) in the query string.
@@ -251,6 +268,9 @@ def parse_zshah(data: dict, today: date) -> list:
             "sponsorship_flag": sponsorship == "no-sponsorship",
             "citizenship_flag": sponsorship == "citizens-only",
             "source": "Zshah",
+            # zshah's own category tagging catches security roles whose titles
+            # use none of the keywords (e.g. "Detection Engineering Intern").
+            "cyber": job.get("category") == "Security",
             "program": program,
             "season": season if season and season != "Not stated" else None,
             "salary": job.get("salary"),

@@ -92,5 +92,7 @@ different, hand-maintained data source.
 
 - `DISCORD_WEBHOOK_URL` — required
 - `DISCORD_ROLE_ID` — optional
+- `DISCORD_CYBER_WEBHOOK_URL` — optional second channel; cybersecurity roles (security, SOC, pentest, red/blue team, AppSec, GRC, IAM, threat intel, incident response, forensics, ...) are also posted there, in red. Main channel is unchanged.
+- `DISCORD_CYBER_ROLE_ID` — optional role to ping in the cyber channel
 - `GITHUB_REPO` / `GITHUB_BRANCH` — swap the Simplify-format tracker repo
 - `POLL_INTERVAL_SECONDS` — Option B only, default 600

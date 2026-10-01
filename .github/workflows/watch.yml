@@ -34,6 +34,8 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           DISCORD_ROLE_ID: ${{ secrets.DISCORD_ROLE_ID }}
+          DISCORD_CYBER_WEBHOOK_URL: ${{ secrets.DISCORD_CYBER_WEBHOOK_URL }}
+          DISCORD_CYBER_ROLE_ID: ${{ secrets.DISCORD_CYBER_ROLE_ID }}
 
       - name: commit updated state
         run: |

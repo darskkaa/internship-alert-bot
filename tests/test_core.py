@@ -480,7 +480,7 @@ def test_batch_embeds_caps_at_ten():
 def test_post_new_listings_falls_back_to_singles_on_400(monkeypatch):
     sent = []
 
-    def fake_send(payload):
+    def fake_send(payload, url=None):
         sent.append(payload)
         bad = any(e["title"].startswith("Bad") for e in payload["embeds"])
         return _Resp(400 if bad else 204)
@@ -637,7 +637,7 @@ def test_run_once_dedupes_same_ats_job_across_company_spellings(monkeypatch):
 
 def test_post_new_listings_skips_single_rejected_embed_instead_of_raising(monkeypatch):
     sent = []
-    monkeypatch.setattr(core, "_send", lambda payload: sent.append(payload) or _Resp(400))
+    monkeypatch.setattr(core, "_send", lambda payload, url=None: sent.append(payload) or _Resp(400))
     monkeypatch.setattr(core.time, "sleep", lambda s: None)
 
     core.post_new_listings([_item(company="Bad")])
@@ -656,3 +656,43 @@ def test_run_once_board_source_with_no_open_roles_is_healthy(monkeypatch):
     state = core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "last_checked_utc": "x"})
 
     assert state["source_failures"] == {}
+
+
+def test_post_new_listings_also_routes_cyber_roles_to_cyber_channel(monkeypatch):
+    sent = []
+    monkeypatch.setattr(core, "_send", lambda payload, url=None: sent.append((url, payload)) or _Resp(204))
+    monkeypatch.setattr(core.time, "sleep", lambda s: None)
+    monkeypatch.setattr(core, "CYBER_WEBHOOK_URL", "https://cyber.example/hook")
+    items = [_item(role="SWE Intern"), _item(company="Sec", role="Offensive Security Intern"), _item(company="Z", role="Detection Engineer Intern", cyber=True)]
+
+    core.post_new_listings(items)
+
+    main = [p for url, p in sent if url == core.WEBHOOK_URL]
+    cyber = [p for url, p in sent if url == "https://cyber.example/hook"]
+    assert sum(len(p["embeds"]) for p in main) == 3
+    assert [e["title"] for p in cyber for e in p["embeds"]] == ["Sec — Offensive Security Intern", "Z — Detection Engineer Intern"]
+    assert all(e["color"] == core.CYBER_COLOR for p in cyber for e in p["embeds"])
+
+
+def test_cyber_channel_failure_never_breaks_main_posting(monkeypatch):
+    def fake_send(payload, url=None):
+        if url == "https://cyber.example/hook":
+            raise RuntimeError("cyber webhook down")
+        return _Resp(204)
+
+    monkeypatch.setattr(core, "_send", fake_send)
+    monkeypatch.setattr(core.time, "sleep", lambda s: None)
+    monkeypatch.setattr(core, "CYBER_WEBHOOK_URL", "https://cyber.example/hook")
+
+    core.post_new_listings([_item(role="Cybersecurity Analyst Intern")])
+
+
+def test_no_cyber_posts_when_cyber_webhook_unset(monkeypatch):
+    sent = []
+    monkeypatch.setattr(core, "_send", lambda payload, url=None: sent.append(url) or _Resp(204))
+    monkeypatch.setattr(core.time, "sleep", lambda s: None)
+    monkeypatch.setattr(core, "CYBER_WEBHOOK_URL", "")
+
+    core.post_new_listings([_item(role="Security Engineer Intern")])
+
+    assert sent == [core.WEBHOOK_URL]
