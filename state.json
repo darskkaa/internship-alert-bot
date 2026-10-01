@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-01T12:41:56.308091+00:00",
+  "last_checked_utc": "2026-10-01T12:52:12.331861+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4879,6 +4879,7 @@
     "https://higher.gs.com/roles/181628?type=students&utm_source=Simplify&ref=Simplify",
     "https://higher.gs.com/roles/182389?type=students",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Alamo-Tennessee-United-States-of-America/XMLNAME-2027-Summer-Engineering-Intern---Alamo_R0142889",
+    "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Batesburg-Leesville-South-Carolina-United-States-of-America/Intern---Test-Engineering_R0144019",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/XMLNAME-2027-Summer-Engineering-Internship---Jefferson-City_R0143607",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Nashville-Tennessee-United-States-of-America/Applications-Engineering-Internship_R0143934",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Nashville-Tennessee-United-States-of-America/Controls-Engineering-Internship_R0143937",
@@ -14241,6 +14242,7 @@
     "hitachi intern network engineering",
     "hitachi intern onboard software developer",
     "hitachi intern signalling engineer",
+    "hitachi intern test engineering",
     "hitachi internship software asset management",
     "hitachi onboard software developer intern",
     "hitachi research intern hardware implementation and validation energy storage and power electronics",
@@ -19227,6 +19229,7 @@
     "job:workday:hitachi:intern---network-engineering_r0145672-1",
     "job:workday:hitachi:intern---onboard-software-developer_r0145042",
     "job:workday:hitachi:intern---signalling-engineer_r0144122",
+    "job:workday:hitachi:intern---test-engineering_r0144019",
     "job:workday:hitachi:internship---software-asset-management_r0139768-1",
     "job:workday:hitachi:research-intern--hardware-implementation-and-validation--energy-storage-and-power-electronics-_r0144505",
     "job:workday:hitachi:research-science-intern--financial-innovation-lab_r0084929",
