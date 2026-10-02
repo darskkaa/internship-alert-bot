@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-02T18:52:08.484351+00:00",
+  "last_checked_utc": "2026-10-02T19:02:46.553582+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4675,6 +4675,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Manufacturing-Engineering-Intern--Summer-2027-_01872988",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Production-Test-Engineering-Intern--Summer-2027-_01872992",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Quality-Engineering-Intern--Summer-2027-_01879145",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Systems-Security-Engineering-Intern--Summer-2027-_01874755",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-Intern--2027-Summer-_01874513",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872991",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989",
@@ -19951,6 +19952,7 @@
     "job:workday:globalhr:systems-engineering-intern--summer-2027-_01873116",
     "job:workday:globalhr:systems-engineering-intern-2027--onsite-_01865648",
     "job:workday:globalhr:systems-engineering-intern_01872537",
+    "job:workday:globalhr:systems-security-engineering-intern--summer-2027-_01874755",
     "job:workday:globalhr:test-engineering-intern--summer-2027-_01872154",
     "job:workday:globalhr:vdsi---validation-planning-intern--summer-2027----onsite_01868407",
     "job:workday:globalhr:xmlname-2027-network-research-intern--next-gen-networks-r-d--onsite-_01878394",
@@ -24974,6 +24976,7 @@
     "rtx systems engineering intern onsite",
     "rtx systems engineering intern summer 2027",
     "rtx systems engineering internonsite",
+    "rtx systems security engineering intern summer 2027",
     "rtx systems technology intern",
     "rtx technical publications technical developer intern artificial intelligencemachine learning",
     "rtx test engineering intern",
