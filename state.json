@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-02T19:32:19.085635+00:00",
+  "last_checked_utc": "2026-10-02T19:42:09.067499+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8405,6 +8405,7 @@
     "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Business-Insights---Analytics-Intern---Animal-Nutrition_R-40421",
     "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/IT-Intern_R-40138",
     "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/River-Falls-WI-USA/WinField-United-Research---Development-Lab-Intern--Summer-2027_R-40232",
+    "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/River-Falls-WI-USA/WinField-United-Summer-Research-Technician-Intern---River-Falls--WI_R-40734",
     "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Virtual-USA/WinField-United-Summer-Research-Technician-Internship---Central_R-40719",
     "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
     "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Center-Design-Intern_R-00193261",
@@ -20602,6 +20603,7 @@
     "job:workday:landolakes:business-insights---analytics-intern---animal-nutrition_r-40421",
     "job:workday:landolakes:it-intern_r-40138",
     "job:workday:landolakes:winfield-united-research---development-lab-intern--summer-2027_r-40232",
+    "job:workday:landolakes:winfield-united-summer-research-technician-intern---river-falls--wi_r-40734",
     "job:workday:landolakes:winfield-united-summer-research-technician-internship---central_r-40719",
     "job:workday:leidos:ai-ml-intern_r-00192042",
     "job:workday:leidos:business-systems-ai-intern_r-00193770",
@@ -22640,6 +22642,7 @@
     "land olakes business insights analytics intern animal nutrition",
     "land olakes it intern",
     "land olakes winfield united research development lab intern summer 2027",
+    "land olakes winfield united summer research technician intern river falls wi",
     "land olakes winfield united summer research technician internship central",
     "later ai automation coop fall 2026",
     "later creator campaigns recruiter coop",
