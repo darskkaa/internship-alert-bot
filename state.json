@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-02T19:11:54.484726+00:00",
+  "last_checked_utc": "2026-10-02T19:32:19.085635+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1683,6 +1683,7 @@
     "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/AI-Solutions-Intern_R-011074",
     "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077",
     "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/IT-Performance-Analyst-Intern_R-011082",
+    "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Risk-Management-Intern_R-011096",
     "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Sales-Analytics-Intern_R-011098",
     "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086",
     "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087",
@@ -11515,6 +11516,7 @@
     "allied solutions data science intern data intelligence",
     "allied solutions it performance analyst intern",
     "allied solutions product management intern risk management",
+    "allied solutions risk management intern",
     "allied solutions sales analytics intern",
     "allied solutions software delivery management intern",
     "allied solutions software engineer intern",
@@ -18474,6 +18476,7 @@
     "job:workday:allegion:summer-intern--user-experience--ux--research_jr37497",
     "job:workday:allegion:summer-intern-mechanical-engineering_jr37420-1",
     "job:workday:alliance:autonomous-driving-applications-research-intern_r00209383",
+    "job:workday:alliedsolutions:risk-management-intern_r-011096",
     "job:workday:alliedsolutions:software-delivery-management-intern_r-011086",
     "job:workday:alliedsolutions:ux-design-intern_r-011093",
     "job:workday:allstate:quantum-algorithm-development-intern_r34881",
