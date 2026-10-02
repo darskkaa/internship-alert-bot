@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-02T20:33:03.404845+00:00",
+  "last_checked_utc": "2026-10-02T20:41:45.944387+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4314,6 +4314,7 @@
     "https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149",
     "https://generac.wd5.myworkdayjobs.com/external/job/Sussex-WI---USA/Intern-Engineering_JR17278",
     "https://generac.wd5.myworkdayjobs.com/external/job/Sussex-WI---USA/Intern-Engineering_JR17280",
+    "https://generac.wd5.myworkdayjobs.com/external/job/Sussex-WI---USA/Intern-Engineering_JR17284",
     "https://generac.wd5.myworkdayjobs.com/external/job/Sussex-WI---USA/Intern-Engineering_JR17285",
     "https://generac.wd5.myworkdayjobs.com/external/job/Sussex-WI---USA/Intern-Engineering_JR17287",
     "https://generac.wd5.myworkdayjobs.com/external/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Co-Op---Summer-Intern_JR17249",
@@ -19690,6 +19691,7 @@
     "job:workday:generac:intern--electrical-engineering_jr16432-1",
     "job:workday:generac:intern-engineering_jr17278",
     "job:workday:generac:intern-engineering_jr17280",
+    "job:workday:generac:intern-engineering_jr17284",
     "job:workday:generac:intern-engineering_jr17285",
     "job:workday:generac:intern-engineering_jr17287",
     "job:workday:generac:mechanical-design-engineering-intern_jr14679",
