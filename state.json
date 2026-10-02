@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-02T04:11:48.212278+00:00",
+  "last_checked_utc": "2026-10-02T05:11:40.025282+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3992,6 +3992,7 @@
     "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32361",
     "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32368",
     "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32376",
+    "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32378",
     "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382",
     "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32396",
     "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400",
@@ -17575,6 +17576,7 @@
     "job:oracle:fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com:32361",
     "job:oracle:fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com:32368",
     "job:oracle:fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com:32376",
+    "job:oracle:fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com:32378",
     "job:oracle:fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com:32382",
     "job:oracle:fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com:32400",
     "job:oracle:fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com:32455",
@@ -23062,6 +23064,7 @@
     "navy federal summer associate internship enterprise risk communications",
     "navy federal summer associate internship financial risk analyst",
     "navy federal summer associate internship fraud data governance",
+    "navy federal summer associate internship information security analyst",
     "navy federal summer associate internship internal audit data analytics",
     "navy federal summer associate internship internal audit it audit",
     "navy federal summer associate internship lending automation technology solutions",
