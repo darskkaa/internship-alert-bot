@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-02T16:11:55.874539+00:00",
+  "last_checked_utc": "2026-10-02T16:22:19.422241+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5457,6 +5457,7 @@
     "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457",
     "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791",
     "https://intel.wd1.myworkdayjobs.com/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
+    "https://intel.wd1.myworkdayjobs.com/external/job/Canada-Toronto/Thermal-Mechanical-Engineering-Undergraduate-Intern--GPU-Platforms_JR0287516",
     "https://intel.wd1.myworkdayjobs.com/external/job/PRC-Chengdu/AI-ML-Software-App-Development-Intern_JR0286946",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Module-Engineering-PhD-Intern_JR0286932",
@@ -15148,6 +15149,7 @@
     "intel technical sales intern bachelors",
     "intel technical sales intern graduate",
     "intel technology research 2d transistor engineer intern",
+    "intel thermal mechanical engineering undergraduate intern gpu platforms",
     "intelcom dragonfly ai data analyst intern",
     "intelcom dragonfly backend developer intern mobile application",
     "intelcom dragonfly business intelligence bi developer intern",
@@ -20321,6 +20323,7 @@
     "job:workday:intel:technical-sales---intern--bachelor-s_jr0286835",
     "job:workday:intel:technical-sales---intern--graduate_jr0286831",
     "job:workday:intel:technology-research-2d-transistor-engineer-intern_jr0287001",
+    "job:workday:intel:thermal-mechanical-engineering-undergraduate-intern--gpu-platforms_jr0287516",
     "job:workday:intelcomgroup:ai-data-analyst-intern_jr111568",
     "job:workday:intelcomgroup:back-end-developer-intern---mobile-application_jr111747",
     "job:workday:intelcomgroup:business-intelligence--bi--developer-intern_jr111555",
