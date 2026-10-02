@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-02T06:02:07.568229+00:00",
+  "last_checked_utc": "2026-10-02T06:32:00.156914+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6416,6 +6416,7 @@
     "https://job-boards.greenhouse.io/perpay/jobs/4536787007",
     "https://job-boards.greenhouse.io/phoenixcontact/jobs/7817228003",
     "https://job-boards.greenhouse.io/phoenixcontact/jobs/7964865003",
+    "https://job-boards.greenhouse.io/profluent/jobs/5441955008",
     "https://job-boards.greenhouse.io/prophet/jobs/4297897005",
     "https://job-boards.greenhouse.io/prophet/jobs/4702324005",
     "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
@@ -16296,6 +16297,7 @@
     "job:greenhouse:5439987008",
     "job:greenhouse:5441464008",
     "job:greenhouse:5441465008",
+    "job:greenhouse:5441955008",
     "job:greenhouse:5469298003",
     "job:greenhouse:5469305003",
     "job:greenhouse:5513756002",
@@ -24002,6 +24004,7 @@
     "procter gamble research and development phd intern",
     "procter gamble research and development phd intern life cycle assessment data science",
     "procter gamble research development scientistengineer intern freshmen sophomores and juniors",
+    "profluent intern software engineering",
     "prophet design intern",
     "prophet talent acquisition intern",
     "prospect equities backend frontend developer intern",
