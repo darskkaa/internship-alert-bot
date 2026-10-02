@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-02T15:21:51.466357+00:00",
+  "last_checked_utc": "2026-10-02T15:32:27.864921+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4283,6 +4283,7 @@
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aero-Thermal-Engineering_JR-202619861",
+    "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Systems-Calibration-Engineer--ADAS-Drive_JR-202621623",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
@@ -14212,6 +14213,7 @@
     "general motors 2027 summer intern manufacturing industrial engineer",
     "general motors 2027 summer intern motorsports aerothermal engineering",
     "general motors 2027 summer intern software engineer autonomous vehicle simulation",
+    "general motors 2027 summer intern systemscalibration engineer adas drive",
     "general motors 2027 summer manufacturing intern mechanical engineer",
     "general motors 2027 winter coop data engineering software developer",
     "general motors 2027 winter coop infotainment software developer",
@@ -19501,6 +19503,7 @@
     "job:workday:generalmotors:xmlname-2027-summer-intern---manufacturing-industrial-engineer-_jr-202619456",
     "job:workday:generalmotors:xmlname-2027-summer-intern---motorsports-aero-thermal-engineering_jr-202619861",
     "job:workday:generalmotors:xmlname-2027-summer-intern---software-engineer--autonomous-vehicle--simulation_jr-202621503",
+    "job:workday:generalmotors:xmlname-2027-summer-intern---systems-calibration-engineer--adas-drive_jr-202621623",
     "job:workday:generalmotors:xmlname-2027-summer-intern--global-customer-research-intern--master-mba-degree-_jr-202619679",
     "job:workday:generalmotors:xmlname-2027-summer-manufacturing-intern---mechanical-engineer_jr-202619411",
     "job:workday:generalmotors:xmlname-2027-winter-co-op-data-engineering-software-developer_jr-202618353",
