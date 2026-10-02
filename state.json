@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-02T01:41:39.956483+00:00",
+  "last_checked_utc": "2026-10-02T03:41:48.900770+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5412,6 +5412,7 @@
     "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314",
     "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457",
     "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791",
+    "https://intel.wd1.myworkdayjobs.com/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
     "https://intel.wd1.myworkdayjobs.com/external/job/PRC-Chengdu/AI-ML-Software-App-Development-Intern_JR0286946",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Module-Engineering-PhD-Intern_JR0286932",
@@ -14980,6 +14981,7 @@
     "intel ai solutions engineering undergraduate intern",
     "intel aiml software app development intern",
     "intel firmware development undergraduate engineering coop",
+    "intel graphics hardware validation undergraduate engineering intern",
     "intel module engineering phd intern",
     "intel module engineering phd intern 2027",
     "intel module engineering phd intern new 2027",
@@ -20105,6 +20107,7 @@
     "job:workday:intel:ai-solutions-engineering-graduate-intern_jr0286546",
     "job:workday:intel:ai-solutions-engineering-undergraduate-intern_jr0286629",
     "job:workday:intel:firmware-development-undergraduate-engineering-co-op_jr0286862",
+    "job:workday:intel:graphics-hardware-validation-undergraduate-engineering-intern_jr0287535",
     "job:workday:intel:module-engineering-phd-intern---wet-etch_jr0287047",
     "job:workday:intel:module-engineering-phd-intern-2027_jr0286876",
     "job:workday:intel:module-engineering-phd-intern-new-2027_jr0287020",
