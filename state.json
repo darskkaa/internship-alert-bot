@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-03T00:51:40.182516+00:00",
+  "last_checked_utc": "2026-10-03T01:11:22.619040+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4787,6 +4787,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Summer-Fall-2027-_01872236",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01873687",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-Op--2027-Summer-Fall----SOA-CAAS-Mainline-Platform--Onsite-_01879934",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems-Engineer---AVI-MIL-FMS--Onsite-_01872234",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Summer-Fall-Co-Op---Systems-Engineer---AVI-MIL-FMS-DAS--Onsite-_01872240",
@@ -20132,6 +20133,7 @@
     "job:workday:globalhr:systems-engineer-intern---helmet-displays--summer-2027----onsite_01867411",
     "job:workday:globalhr:systems-engineering-and-test-capabilities-intern---summer-2027_01866497",
     "job:workday:globalhr:systems-engineering-co-op---boeing-platforms-displays--summer-fall-_01871761",
+    "job:workday:globalhr:systems-engineering-co-op--2027-summer-fall----soa-caas-mainline-platform--onsite-_01879934",
     "job:workday:globalhr:systems-engineering-co-op--january-2027---hybrid-_01879457",
     "job:workday:globalhr:systems-engineering-intern--onsite-_01869271-1",
     "job:workday:globalhr:systems-engineering-intern--onsite_01874541",
@@ -25199,6 +25201,7 @@
     "rtx systems engineer intern onsite",
     "rtx systems engineering and test capabilities intern",
     "rtx systems engineering and test capabilities intern summer 2027",
+    "rtx systems engineering coop 2027 summerfall soa caas mainline platform onsite",
     "rtx systems engineering coop boeing platforms displays summerfall",
     "rtx systems engineering coop january 2027 hybrid",
     "rtx systems engineering intern",
