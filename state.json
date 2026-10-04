@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-04T11:41:43.742463+00:00",
+  "last_checked_utc": "2026-10-04T12:11:46.786856+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17771,6 +17771,7 @@
     "job:oracle:ebgj.fa.us2.oraclecloud.com:253437",
     "job:oracle:ebgj.fa.us2.oraclecloud.com:253444",
     "job:oracle:ebxr.fa.us2.oraclecloud.com:214401",
+    "job:oracle:ebxr.fa.us2.oraclecloud.com:214410",
     "job:oracle:ebxr.fa.us2.oraclecloud.com:214459",
     "job:oracle:ebxr.fa.us2.oraclecloud.com:214473",
     "job:oracle:ebxr.fa.us2.oraclecloud.com:214476",
