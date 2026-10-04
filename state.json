@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-04T22:41:58.306451+00:00",
+  "last_checked_utc": "2026-10-04T23:02:28.471296+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9527,6 +9527,7 @@
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645",
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775",
@@ -21492,6 +21493,7 @@
     "job:workday:nvidia:ai-research-intern--tao-multi-modal-model-development---2026_jr2021301",
     "job:workday:nvidia:applied-deep-learning-phd-research-intern--reinforcement-learning-for-llms---fall-2026_jr2012398",
     "job:workday:nvidia:applied-research-intern--nlp---fall-2026_jr2010488",
+    "job:workday:nvidia:data-processing-developer-technology-intern---2027_jr2024708",
     "job:workday:nvidia:deep-learning-performance-software-intern---2027_jr2025966",
     "job:workday:nvidia:developer-technology-engineering-intern---2027_jr2024122",
     "job:workday:nvidia:developer-technology-engineering-intern---compute-performance_jr2026775",
@@ -24036,6 +24038,7 @@
     "nvidia computer architecture and systems intern research",
     "nvidia computer architecture intern",
     "nvidia computer vision and deep learning intern",
+    "nvidia data processing developer technology intern 2027",
     "nvidia deep learning computer architecture intern",
     "nvidia deep learning intern deep learning applications and algorithms deep learning frameworks and libraries",
     "nvidia deep learning performance software intern 2027",
