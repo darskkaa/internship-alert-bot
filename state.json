@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-04T13:42:19.313748+00:00",
+  "last_checked_utc": "2026-10-04T14:11:58.573205+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3873,6 +3873,7 @@
     "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Data-_R6552",
     "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Data-Science_R6524-2",
     "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Data-_R6552-1",
+    "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Property-_R6553-1",
     "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Data-Science_R6524",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95808",
@@ -13827,6 +13828,7 @@
     "ellipsis labs software engineer",
     "ellipsis labs software engineer 2027 interns",
     "emc insurance claims intern data",
+    "emc insurance claims intern property",
     "emc insurance claims intern workers compensation",
     "emc insurance data science intern",
     "emc insurance intern claims data",
@@ -19656,6 +19658,7 @@
     "job:workday:emcins:intern---software-engineering_r6557-1",
     "job:workday:emcins:intern--claims--data-_r6552",
     "job:workday:emcins:intern--claims--data-_r6552-1",
+    "job:workday:emcins:intern--claims--property-_r6553-1",
     "job:workday:emcins:intern--data-science_r6524",
     "job:workday:emcins:intern--data-science_r6524-2",
     "job:workday:ensemblehp:data-scientist--ai_r048077",
@@ -23465,6 +23468,7 @@
     "micron technology intern technical customer management ai",
     "micron technology marketing analytics intern global communications marketing",
     "micron technology product test engineer intern dram",
+    "micron technology semiconductor research technology development intern",
     "micron technology technical customer management intern ai",
     "micron technology yield enhancement intern data analysis",
     "microsoft fullstack product engineer intern web services",
