@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-04T22:02:08.765594+00:00",
+  "last_checked_utc": "2026-10-04T22:41:58.306451+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7433,6 +7433,7 @@
     "https://jobs.ashbyhq.com/overviewenergy/1b927aa4-abf0-4a15-ae4a-7711925b3c10",
     "https://jobs.ashbyhq.com/overviewenergy/897ec42b-0848-455e-bac8-9fb6a7615b80",
     "https://jobs.ashbyhq.com/overviewenergy/ccdb875c-6d95-41af-a094-f593aaeefbb2",
+    "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true",
     "https://jobs.ashbyhq.com/perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f",
     "https://jobs.ashbyhq.com/perchwell/91b716b6-7db6-4bcd-9893-4d6007fa4ac9",
     "https://jobs.ashbyhq.com/perchwell/9d34fc9d-e235-44fc-bdf9-42e75223839a",
@@ -15630,6 +15631,7 @@
     "job:ashby:2bb6be67-d1a8-42f7-bb1b-64ee36bf613f",
     "job:ashby:2c147ccb-2557-40f8-aab9-64422cef220c",
     "job:ashby:2c833180-484f-4657-80e3-f822cf1a0285",
+    "job:ashby:2d00752c-b3f2-40e1-9c50-60147c858d0b",
     "job:ashby:2f60f46a-b2e2-4621-afea-cf1a0c12a315",
     "job:ashby:2f692a4d-91b4-4d0f-ae39-b38b68a24a27",
     "job:ashby:3061297c-a666-47be-a58a-b62881bf183d",
@@ -24373,6 +24375,7 @@
     "palomar holdings technical intern",
     "panasonic holdings backend cloud developer intern",
     "panasonic holdings data engineering intern",
+    "pangram labs ai research intern",
     "paragon forward deployed engineer fde intern",
     "parkdepot marketing analyst intern",
     "parsons bridge engineering intern",
@@ -24668,6 +24671,7 @@
     "primer software engineer intern full stack",
     "primer springsummer 2027 engineering intern",
     "primetals technologies it data analytics intern asset demand procurement",
+    "primient ai analyst intern",
     "primient ai analyst intern summer 2027",
     "primient digital data analytics intern",
     "principal financial group data and analytics intern multiple teams",
