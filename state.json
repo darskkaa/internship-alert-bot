@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-04T23:12:04.284889+00:00",
+  "last_checked_utc": "2026-10-04T23:21:59.121560+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9189,6 +9189,7 @@
     "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584",
     "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Technical-Customer-Management--AI_JR109454",
     "https://micron.wd1.myworkdayjobs.com/External/job/Meridian-ID/Intern---Marketing-Analytics_JR109458",
+    "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
     "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524",
     "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/NYC-1285/XMLNAME-2026-Commercial-Lending-Technology-Summer-Internship_R6688",
     "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2026-Americas-Risk-Management-Intern_R6933",
@@ -21207,6 +21208,7 @@
     "job:workday:micron:intern---ate-process-engineer-id1_jr113953",
     "job:workday:micron:intern---compute-system-compatibility-engineer_jr113627",
     "job:workday:micron:intern---data-center-ssd-firmware_jr111461",
+    "job:workday:micron:intern---design-engineer--hbm_jr111821",
     "job:workday:micron:intern---dram-design-engineer_jr108448",
     "job:workday:micron:intern---dram-design-engineer_jr108468",
     "job:workday:micron:intern---dry-etch-equipment-development-engineering_jr109987",
@@ -23495,6 +23497,7 @@
     "micron technology intern ate process engineer id1",
     "micron technology intern compute system compatibility engineer",
     "micron technology intern data center ssd firmware",
+    "micron technology intern design engineer hbm",
     "micron technology intern enterprise ssd customer support engineering",
     "micron technology intern firmware engineer",
     "micron technology intern it software engineer",
