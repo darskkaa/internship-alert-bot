@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-04T19:12:25.756096+00:00",
+  "last_checked_utc": "2026-10-04T20:51:40.813834+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8940,6 +8940,7 @@
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Automation-Engineer--12-months-_JR26091316",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Business-Technology_JR26081665",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081658",
+    "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Product-Designer_JR26080163",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Product-Management---Risk-Technology_JR26080874",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Risk-Analytics---Automation--8-months-_JR26080922",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Risk_JR26080231",
@@ -21018,6 +21019,7 @@
     "job:workday:manulife:winter-co-op-2027---business-technology_jr26081665",
     "job:workday:manulife:winter-co-op-2027---data-engineering_jr26081658",
     "job:workday:manulife:winter-co-op-2027---data-engineering_jr26081660",
+    "job:workday:manulife:winter-co-op-2027---product-designer_jr26080163",
     "job:workday:manulife:winter-co-op-2027---product-management---risk-technology_jr26080874",
     "job:workday:manulife:winter-co-op-2027---risk-analytics---automation--8-months-_jr26080922",
     "job:workday:manulife:winter-co-op-2027---risk_jr26080231",
@@ -23185,6 +23187,7 @@
     "manulife financial winter coop 2027 data analytics 8 months",
     "manulife financial winter coop 2027 data engineering",
     "manulife financial winter coop 2027 product analyst",
+    "manulife financial winter coop 2027 product designer",
     "manulife financial winter coop 2027 product management risk technology",
     "manulife financial winter coop 2027 quantitative analyst",
     "manulife financial winter coop 2027 risk",
