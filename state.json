@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-05T08:22:13.842534+00:00",
+  "last_checked_utc": "2026-10-05T09:42:10.629662+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9659,6 +9659,7 @@
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Software-Developer---Tools--m-f-d-_R-10060873-1",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Irvine/Systems-Engineer-Intern---Summer-2027_R-10064723",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Nijmegen/Internship---Business-Analyst--Commercial-Marketing---Business-Operations-_R-10062550",
+    "https://nxp.wd3.myworkdayjobs.com/careers/job/Nijmegen/Internship---Product-Engineering--ML-Model-Development-_R-10064264-1",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Nijmegen/Internship---Understanding-the-reliability-of-advanced-laminate-based-electronic-packages-at-NXP_R-10065970",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Noida/Internship----SoC--IP-Design---2024-_R-10052538",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/Embedded-Machine-Learning---Radar-Processing-Intern---Summer-2027_R-10065534",
@@ -21681,6 +21682,7 @@
     "job:workday:nxp:internship---business-analyst--commercial-marketing---business-operations-_r-10062550",
     "job:workday:nxp:internship---digital-design---generative-ai-support--m-f-d-_r-10064592",
     "job:workday:nxp:internship---digital-verification---generative-ai-support--m-f-d-_r-10064593",
+    "job:workday:nxp:internship---product-engineering--ml-model-development-_r-10064264-1",
     "job:workday:nxp:internship---understanding-the-reliability-of-advanced-laminate-based-electronic-packages-at-nxp_r-10065970",
     "job:workday:nxp:internship--automotive-customer-application-software-engineer--m-f-d-_r-10064842",
     "job:workday:nxp:internship--human-machine-interface--hmi--system-applications--f-m-d-_r-10065864-1",
@@ -24274,6 +24276,7 @@
     "nxp semiconductors internship digital verification generative ai support mfd",
     "nxp semiconductors internship humanmachine interface hmi system applications fmd",
     "nxp semiconductors internship people operations automation",
+    "nxp semiconductors internship product engineering ml model development",
     "nxp semiconductors internship reliability of advanced semiconductor packages",
     "nxp semiconductors internship robotics",
     "nxp semiconductors internship software application developer cryptographic validation system mfd",
