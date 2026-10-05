@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-05T22:11:39.771111+00:00",
+  "last_checked_utc": "2026-10-05T22:22:05.165676+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4450,6 +4450,7 @@
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Environmental-Engineer_JR-202619204",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---General-Motors-Economics-Intern_JR-202619691",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Lean-Material-Strategies---Warehouse-Management-Systems_JR-202620424",
+    "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
@@ -14789,6 +14790,7 @@
     "general motors 2027 summer intern digital product software engineering",
     "general motors 2027 summer intern environmental engineer",
     "general motors 2027 summer intern global customer research intern mastermba degree",
+    "general motors 2027 summer intern global manufacturing robotics automation",
     "general motors 2027 summer intern indycar race strategy analytics",
     "general motors 2027 summer intern indycar trackside engineering",
     "general motors 2027 summer intern lean material strategies warehouse management systems",
@@ -20352,6 +20354,7 @@
     "job:workday:generalmotors:xmlname-2027-summer-intern---machine-learning-engineer--av-ai-platform_jr-202621695",
     "job:workday:generalmotors:xmlname-2027-summer-intern---machine-learning-intern--autonomous-vehicles--software-validation--master-s-_jr-202621655",
     "job:workday:generalmotors:xmlname-2027-summer-intern---machine-learning-intern--autonomous-vehicles--software-validation--phd-_jr-202621649",
+    "job:workday:generalmotors:xmlname-2027-summer-intern---manufacturing-engineering-global-automation_jr-202619348",
     "job:workday:generalmotors:xmlname-2027-summer-intern---manufacturing-industrial-engineer-_jr-202619456",
     "job:workday:generalmotors:xmlname-2027-summer-intern---motorsports-aero-thermal-engineering_jr-202619861",
     "job:workday:generalmotors:xmlname-2027-summer-intern---pfmea-manufacturing-engineer_jr-202619950",
