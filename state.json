@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-05T13:12:09.500598+00:00",
+  "last_checked_utc": "2026-10-05T13:22:00.174048+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2620,6 +2620,7 @@
     "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Fall-2026_331472",
     "https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742",
     "https://caci.wd1.myworkdayjobs.com/external/job/Melbourne-FL-US/Manufacturing-Engineering-Intern---Summer-2027_332898",
+    "https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085",
     "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776",
     "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
     "https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041",
@@ -19338,6 +19339,7 @@
     "job:workday:caci:software-development-engineer-intern---summer-2027_332894-1",
     "job:workday:caci:software-development-intern---summer-2027_332790",
     "job:workday:caci:software-development-intern---summer-2027_333051",
+    "job:workday:caci:software-development-intern---summer-2027_333085",
     "job:workday:caci:software-engineer-intern---summer-2027_331648",
     "job:workday:caci:software-engineer-intern---summer-2027_332776",
     "job:workday:caci:software-engineer-intern---summer-2027_333037",
