@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-05T06:42:25.790867+00:00",
+  "last_checked_utc": "2026-10-05T07:01:47.704023+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5193,6 +5193,7 @@
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/XMLNAME-2027-Summer-Engineering-Internship---Jefferson-City_R0143607",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Nashville-Tennessee-United-States-of-America/Applications-Engineering-Internship_R0143934",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Nashville-Tennessee-United-States-of-America/Controls-Engineering-Internship_R0143937",
+    "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ogden-Utah-United-States/Applications-Engineering-Intern--BU40-_R0145029",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Co-op---Component-Engineering_R0140272",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Network-Engineering_R0145672-1",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042",
@@ -15085,6 +15086,7 @@
     "hitachi 2027 summer engineering intern raleigh",
     "hitachi 2027 summer engineering internship jefferson city",
     "hitachi 2027 summer mechanical engineering intern raleigh",
+    "hitachi applications engineering intern bu40",
     "hitachi applications engineering internship",
     "hitachi applications engineering internshipcoop",
     "hitachi controls engineering internship",
@@ -20469,6 +20471,7 @@
     "job:workday:hendrick:electrical-engineering-intern_r-83527-1",
     "job:workday:hendrick:race-engineer-intern_r-83372",
     "job:workday:hendrick:racing-performance-engineer---fall-2026-internship_r-81564",
+    "job:workday:hitachi:applications-engineering-intern--bu40-_r0145029",
     "job:workday:hitachi:applications-engineering-internship-co-op_r0144978",
     "job:workday:hitachi:applications-engineering-internship_r0143934",
     "job:workday:hitachi:co-op---component-engineering_r0140272",
