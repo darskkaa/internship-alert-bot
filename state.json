@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-05T06:01:50.124674+00:00",
+  "last_checked_utc": "2026-10-05T06:21:44.660381+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10363,6 +10363,7 @@
     "https://slihrms.wd3.myworkdayjobs.com/careers/job/USWABothell/Instrumentation---Controls-Engineering-Intern---Summer-2027_R-162442-1",
     "https://slihrms.wd3.myworkdayjobs.com/careers/job/USWABothell/Process-Engineering-Intern---Summer-2027_R-162014-1",
     "https://slihrms.wd3.myworkdayjobs.com/careers/job/USWABothell/Structural-Engineering-Intern---Summer-2027_R-162449-1",
+    "https://smithnephew.wd5.myworkdayjobs.com/External/job/POL---Wroclaw/IT-Service-Desk-Level-1-Intern_R91046",
     "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
     "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482",
     "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/New-Orleans-LA/Operations-Engineering-Intern--Summer-2027--Multiple-Locations-_115721",
@@ -22222,6 +22223,7 @@
     "job:workday:slihrms:water-resources-engineering-intern---summer-2027_r-162438-1",
     "job:workday:smithnephew:intern-ai-center-of-excellence-data-science_r92480-1",
     "job:workday:smithnephew:intern-robotics-software-engineering_r92482",
+    "job:workday:smithnephew:it-service-desk-level-1-intern_r91046",
     "job:workday:smucker:operations-engineering-intern--summer-2027--multiple-locations-_115721",
     "job:workday:smucker:packaging-engineering-intern--2027--6-8-month-co-op_115697",
     "job:workday:smucker:r-d-engineering-intern--co-op-2027--8-months-_115696",
@@ -25732,6 +25734,7 @@
     "smithnephew data science intern ai center of excellence",
     "smithnephew intern ai center of excellence data science",
     "smithnephew intern robotics software engineering",
+    "smithnephew it service desk level 1 intern",
     "smithnephew robotics software engineer intern",
     "smiths detection engineering intern",
     "smiths detection engineering intern braid design",
