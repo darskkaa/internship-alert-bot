@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-05T11:21:55.701110+00:00",
+  "last_checked_utc": "2026-10-05T11:42:34.115444+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9957,6 +9957,7 @@
     "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835?utm_source=Simplify&ref=Simplify",
     "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Engineering-Co-Op_R-31422",
     "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Highland-Heights-KY/IT-Intern_R-34910",
+    "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Muscat/Risk-and-Compliance-Intern_R-37129",
     "https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Data-Analyst-Intern_JR100964",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-Support-Intern_REQ_0000080506-1",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Guidance-and-Control-Research---Development-Internship_REQ_0000071517-1",
@@ -21933,6 +21934,7 @@
     "job:workday:primient:digital-data---analytics-intern---summer-2027_jreq7011",
     "job:workday:prysmiangroup:engineering-co-op_r-31422",
     "job:workday:prysmiangroup:it-intern_r-34910",
+    "job:workday:prysmiangroup:risk-and-compliance-intern_r-37129",
     "job:workday:psu:ai-ml-research-support-intern_req_0000080506-1",
     "job:workday:psu:embedded-systems-and-hardware-co-op_req_0000066566-2",
     "job:workday:psu:guidance-and-control-research---development-internship_req_0000071517-1",
@@ -24914,6 +24916,7 @@
     "prudential financial public credit summer investment analyst intern portfolio analysis group",
     "prysmian cables systems engineering coop",
     "prysmian cables systems it intern",
+    "prysmian cables systems risk and compliance intern",
     "psecu data analyst intern",
     "psiquantum quantum algorithms and compilation intern",
     "psp investments ai solutions intern external manager selection monitoring",
