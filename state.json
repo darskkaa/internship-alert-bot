@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-05T00:11:51.304778+00:00",
+  "last_checked_utc": "2026-10-05T00:42:01.799373+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9191,6 +9191,7 @@
     "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Technical-Customer-Management--AI_JR109454",
     "https://micron.wd1.myworkdayjobs.com/External/job/Meridian-ID/Intern---Marketing-Analytics_JR109458",
     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
+    "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528",
     "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524",
     "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/NYC-1285/XMLNAME-2026-Commercial-Lending-Technology-Summer-Internship_R6688",
     "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2026-Americas-Risk-Management-Intern_R6933",
@@ -21218,6 +21219,7 @@
     "job:workday:micron:intern---firmware-engineer_jr111584",
     "job:workday:micron:intern---it-software-engineer_jr111582",
     "job:workday:micron:intern---marketing-analytics_jr109458",
+    "job:workday:micron:intern---memory-design-engineer--hbm_jr112528",
     "job:workday:micron:intern---memory-systems-architecture---ai_jr112524",
     "job:workday:micron:intern---semiconductor-research---technology-development_jr110876",
     "job:workday:micron:intern---software-engineer_jr108550",
@@ -23503,6 +23505,7 @@
     "micron technology intern enterprise ssd customer support engineering",
     "micron technology intern firmware engineer",
     "micron technology intern it software engineer",
+    "micron technology intern memory design engineer hbm",
     "micron technology intern memory systems architecture ai",
     "micron technology intern semiconductor research technology development",
     "micron technology intern software engineer",
