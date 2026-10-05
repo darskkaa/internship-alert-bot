@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-05T16:51:50.081752+00:00",
+  "last_checked_utc": "2026-10-05T17:02:18.362627+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11483,6 +11483,7 @@
     "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Roseville-MN-55113/IT-Business-Management-Intern---MN--CO_JR115726",
     "https://xcelenergy.wd1.myworkdayjobs.com/External/job/St-Paul-MN-55109/DER-Interconnection-Engineering-Intern---MN--CO_JR115709-1",
     "https://xcelenergy.wd1.myworkdayjobs.com/External/job/St-Paul-MN-55117/Damage-Prevention-Intern---MN_JR115636-1",
+    "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Welch-MN-55089/Nuclear-Maintenance-Intern---MN_JR116370-1",
     "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Welch-MN-55089/Nuclear-Reactor-Engineer-Intern---MN_JR116032",
     "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Welch-MN-55089/Prairie-Island-Nuclear-Engineering-Intern---MN_JR116036-1",
     "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Birmingham-AL---Atlas/Intern--Electrical-Engineer_JR002767",
@@ -22979,6 +22980,7 @@
     "job:workday:xcelenergy:it-business-management-intern---mn--co_jr115726",
     "job:workday:xcelenergy:load-research---energy-and-demand-forecasting-intern_jr116604-1",
     "job:workday:xcelenergy:major-projects-engineering-intern-mn--wi_jr115815-1",
+    "job:workday:xcelenergy:nuclear-maintenance-intern---mn_jr116370-1",
     "job:workday:xcelenergy:nuclear-oversight-engineering-intern---mn_jr116031-1",
     "job:workday:xcelenergy:nuclear-reactor-engineer-intern---mn_jr116032",
     "job:workday:xcelenergy:nuclear-regulatory-affairs-licensing-engineer-intern---mn_jr116035-1",
@@ -27557,6 +27559,7 @@
     "xcel energy it infrastructure intern co",
     "xcel energy load research energy and demand forecasting intern",
     "xcel energy major projects engineering intern mn wi",
+    "xcel energy nuclear maintenance engineering intern mn",
     "xcel energy nuclear oversight engineering intern mn",
     "xcel energy nuclear reactor engineer intern mn",
     "xcel energy nuclear regulatory affairslicensing engineer intern mn",
