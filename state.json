@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-05T12:21:55.560843+00:00",
+  "last_checked_utc": "2026-10-05T13:12:09.500598+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2485,6 +2485,7 @@
     "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Arden---North-Carolina---USA/Quality-Engineering-Intern_R2026-3555",
     "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788",
     "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/IT-Technician-Intern_R2026-3203",
+    "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Component-Engineering-Intern_R2026-3933",
     "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electronics-Hardware-Design-Intern_R2026-3787",
     "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Jr-System-Bench-Architect-Intern--Year-Round-_R2026-3784",
     "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Power-Electronics-Intern--Year-Round-_R2026-3426",
@@ -12740,6 +12741,7 @@
     "booz allen university summer 27 enterprise cybersecurity vulnerability intern",
     "booz allen university systems engineer intern",
     "borgwarner automation and controls engineering intern",
+    "borgwarner component engineering intern",
     "borgwarner electronics hardware design intern",
     "borgwarner it technician intern",
     "borgwarner it technician intern industrial solutions",
@@ -19242,6 +19244,7 @@
     "job:workday:boeing:boeing-summer-2027-internship-program--paid----security---fire-operation--s-fo-_jr2026521717-1",
     "job:workday:boeing:engineering---technology-innovation--graduate-researcher-program---advanced-materials---structures-intern_jr2026523659",
     "job:workday:borgwarner:automation-and-controls-engineering-co-op_r2026-0976",
+    "job:workday:borgwarner:component-engineering-intern_r2026-3933",
     "job:workday:borgwarner:electronics-hardware-design-intern_r2026-3787",
     "job:workday:borgwarner:it-technician-intern_r2026-2600",
     "job:workday:borgwarner:it-technician-intern_r2026-3203",
@@ -23805,6 +23808,7 @@
     "n1 software engineer intern backend rust",
     "n1 software engineer intern fullstack",
     "nanopath diagnostics development coop jan 27 start",
+    "nanopath diagnostics development engineering coop jan 27 start",
     "nanopath research associate coop jan 27 start",
     "nanopath software development coop jan 27 start",
     "nasdaq product owner intern",
