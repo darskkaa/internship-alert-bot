@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-05T11:52:09.069465+00:00",
+  "last_checked_utc": "2026-10-05T12:03:15.770282+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5188,6 +5188,7 @@
     "https://higher.gs.com/roles/182389?type=students",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Alamo-Tennessee-United-States-of-America/XMLNAME-2027-Summer-Engineering-Intern---Alamo_R0142889",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Auburn-Hills-Michigan-United-States/Controls-Engineering-Internship-Co-op_R0143858",
+    "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Auburn-Hills-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0143857",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Batesburg-Leesville-South-Carolina-United-States-of-America/Intern---Industrial-Engineering_R0144157",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Batesburg-Leesville-South-Carolina-United-States-of-America/Intern---Test-Engineering_R0144019",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Holland-Michigan-United-States/Applications-Engineering-Internship-Co-op_R0144978",
@@ -20510,6 +20511,7 @@
     "job:workday:hitachi:intern---signalling-engineer_r0144122",
     "job:workday:hitachi:intern---test-engineering_r0144019",
     "job:workday:hitachi:internship---software-asset-management_r0139768-1",
+    "job:workday:hitachi:mechanical-engineering-internship-co-op_r0143857",
     "job:workday:hitachi:mechanical-engineering-internship-co-op_r0144975",
     "job:workday:hitachi:mechanical-engineering-internship-co-op_r0144977",
     "job:workday:hitachi:research-intern--hardware-implementation-and-validation--energy-storage-and-power-electronics-_r0144505",
