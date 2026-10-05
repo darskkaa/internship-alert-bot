@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-05T07:01:47.704023+00:00",
+  "last_checked_utc": "2026-10-05T07:51:46.133393+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9567,6 +9567,7 @@
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569",
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/DFT-Engineer--RDSS-Intern----2027_JR2026180",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538",
@@ -21583,6 +21584,7 @@
     "job:workday:nvent:mechanical-engineering-co-op--june---december-2027-_r23539",
     "job:workday:nvent:packaging-engineering-co-op--january---august-2027-_r23570",
     "job:workday:nvent:packaging-engineering-co-op--june---august-2027-_r23571",
+    "job:workday:nvidia:ai-compiler-formal-verification-intern_jr2027025",
     "job:workday:nvidia:ai-computing-software-development-intern---2027_jr2026164",
     "job:workday:nvidia:ai-computing-software-development-intern--llm-inference---2027_jr2026173",
     "job:workday:nvidia:ai-computing-software-intern--gpu-kernel-libraries---2027_jr2026170",
@@ -24130,6 +24132,7 @@
     "nvent mechanical engineering coop june dec 2027",
     "nvent packaging engineering coop january august 2027",
     "nvent packaging engineering coop june december 2027",
+    "nvidia ai compiler formal verification intern",
     "nvidia ai computing software development intern 2027",
     "nvidia ai computing software development intern llm inference 2027",
     "nvidia ai computing software intern gpu kernel libraries 2027",
