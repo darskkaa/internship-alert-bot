@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-05T12:03:15.770282+00:00",
+  "last_checked_utc": "2026-10-05T12:21:55.560843+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2486,6 +2486,7 @@
     "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788",
     "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/IT-Technician-Intern_R2026-3203",
     "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electronics-Hardware-Design-Intern_R2026-3787",
+    "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Jr-System-Bench-Architect-Intern--Year-Round-_R2026-3784",
     "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Power-Electronics-Intern--Year-Round-_R2026-3426",
     "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-GA---Atlanta/Supply-Chain---Data-Analytics---Analyst-Co-op_R29240",
     "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251",
@@ -12742,6 +12743,7 @@
     "borgwarner electronics hardware design intern",
     "borgwarner it technician intern",
     "borgwarner it technician intern industrial solutions",
+    "borgwarner jr system bench architect intern yearround",
     "borgwarner mechanical engineering intern year round",
     "borgwarner power electronics intern yearround",
     "borgwarner quality engineering intern",
@@ -19243,6 +19245,7 @@
     "job:workday:borgwarner:electronics-hardware-design-intern_r2026-3787",
     "job:workday:borgwarner:it-technician-intern_r2026-2600",
     "job:workday:borgwarner:it-technician-intern_r2026-3203",
+    "job:workday:borgwarner:jr-system-bench-architect-intern--year-round-_r2026-3784",
     "job:workday:borgwarner:mechanical-engineering-intern--year-round-_r2026-3788",
     "job:workday:borgwarner:power-electronics-intern--year-round-_r2026-3426",
     "job:workday:borgwarner:quality-engineering-intern_r2026-3555",
