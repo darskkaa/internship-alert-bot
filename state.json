@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-06T21:21:50.671295+00:00",
+  "last_checked_utc": "2026-10-06T21:31:41.570158+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9870,6 +9870,7 @@
     "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925",
     "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern--Disposables-Engineering-_REQ52924",
     "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Actuarial-Systems-Intern--Summer-2027_JR-46073",
+    "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171",
     "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705",
     "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705?utm_source=Simplify&ref=Simplify",
     "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Data---Analytics-Intern--Summer-2027_JR-46050",
@@ -22556,6 +22557,7 @@
     "job:workday:nordsonhcm:quality-engineering-intern_req52854",
     "job:workday:nordsonhcm:software-intern_req52945",
     "job:workday:northwesternmutual:actuarial-systems-intern--summer-2027_jr-46073",
+    "job:workday:northwesternmutual:enterprise-sustainability---impact-intern---modeling---analytics--summer-2027_jr-46171",
     "job:workday:northwesternmutual:investment-data---analytics-intern--summer-2027_jr-46050",
     "job:workday:northwesternmutual:public-investments-quantitative-analyst-intern--summer-2027_jr-45807",
     "job:workday:northwesternmutual:risk-product-accounting-intern--year-round_jr-46144",
@@ -25284,6 +25286,7 @@
     "northrop grumman test engineer intern",
     "northwestern mutual actuarial systems intern",
     "northwestern mutual actuarial systems intern summer 2027",
+    "northwestern mutual enterprise sustainability impact intern modeling analytics summer 2027",
     "northwestern mutual investment analyst intern private debt equity",
     "northwestern mutual investment data analytics intern",
     "northwestern mutual investment data analytics intern summer 2027",
