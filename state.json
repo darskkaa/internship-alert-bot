@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-06T21:41:46.117319+00:00",
+  "last_checked_utc": "2026-10-06T21:52:00.194625+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11808,6 +11808,7 @@
     "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Gas-Data-Intern--CO_JR116314-1",
     "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Gas-Engineering-Intern---CO--MN_JR116324-1",
     "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833",
+    "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Substation-Field-Engineering-Intern---CO_JR116609-1",
     "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Wildfire-Engineering-Intern--CO--TX_JR115750-1",
     "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Earth-TX-79031/Performance-Optimization-Reliability-Engineer-Intern--TX_JR115824-2",
     "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Eau-Claire-WI-54702/Dam-Safety-Engineer-Intern--WI_JR115604-2",
@@ -23884,6 +23885,7 @@
     "job:workday:xcelenergy:riverside-plant-engineering-intern---mn_jr115745-2",
     "job:workday:xcelenergy:substation-communication-engineering-intern---mn_jr115630-1",
     "job:workday:xcelenergy:substation-engineer-intern--tx_jr116575",
+    "job:workday:xcelenergy:substation-field-engineering-intern---co_jr116609-1",
     "job:workday:xcelenergy:substation-field-engineering-intern---mn_jr115616-1",
     "job:workday:xcelenergy:system-protection-engineering-intern--co_jr115752-1",
     "job:workday:xcelenergy:transmission-and-substation-engineering-standards-intern---mn--co_jr115718-1",
@@ -28626,6 +28628,7 @@
     "xcel energy riverside plant engineering intern mn",
     "xcel energy substation communication engineering intern mn",
     "xcel energy substation engineer intern tx",
+    "xcel energy substation field engineering intern co",
     "xcel energy substation field engineering intern mn",
     "xcel energy system protection engineering intern co",
     "xcel energy transmission and substation engineering standards intern mn co",
