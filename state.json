@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-06T11:02:18.771726+00:00",
+  "last_checked_utc": "2026-10-06T11:52:05.935103+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4838,6 +4838,8 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Production-Test-Engineering-Intern--Summer-2027-_01872992",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Quality-Engineering-Intern--Summer-2027-_01879145",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Systems-Security-Engineering-Intern--Summer-2027-_01874755",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Systems-Engineering-Intern--Summer-2027-_01870304",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-Intern--2027-Summer-_01874513",
@@ -20749,6 +20751,7 @@
     "job:workday:globalhr:electrical-design-engineer-intern--summer-2027-_01877254",
     "job:workday:globalhr:electrical-engineer-coop--rf-and-digital-design---january-2027---hybrid-_01874113",
     "job:workday:globalhr:electrical-engineer-intern---test_01874305",
+    "job:workday:globalhr:electrical-engineer-intern_01874283",
     "job:workday:globalhr:electrical-engineering-intern--summer-2027-_01864197-1",
     "job:workday:globalhr:electrical-engineering-intern--summer-2027-_01868034",
     "job:workday:globalhr:electrical-engineering-intern--summer-2027-_01876591",
@@ -20819,6 +20822,7 @@
     "job:workday:globalhr:software-engineer-co-op--summer-fall-2027----onsite_01871347",
     "job:workday:globalhr:software-engineer-intern---summer-2027-_01870613",
     "job:workday:globalhr:software-engineer-intern--summer-2027----onsite_01873017",
+    "job:workday:globalhr:software-engineer-intern_01874282",
     "job:workday:globalhr:software-engineering--intern--summer-2027-_01877561",
     "job:workday:globalhr:software-engineering--intern--summer-2027-_01878986",
     "job:workday:globalhr:software-engineering-co-op---embedded-linux--spring-summer-2027-_01876384",
