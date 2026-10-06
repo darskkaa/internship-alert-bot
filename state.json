@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-06T12:51:42.137606+00:00",
+  "last_checked_utc": "2026-10-06T13:02:24.672618+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5843,6 +5843,7 @@
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-op--Spring-2027_R-095792",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743",
+    "https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-Op_R-098898",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Clinical-Epidemiology-and-Data-Science-Co-op_R-098453",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Data-Science-Co-op_R-100341",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Medical-Device-Cybersecurity-Co-Op_R-099388",
@@ -21501,6 +21502,7 @@
     "job:workday:jj:data-science-co-op_r-100341",
     "job:workday:jj:electrical-engineering-co-op--summer-2027_r-096736",
     "job:workday:jj:electrical-engineering-intern---robotics-r-d_r-099626-1",
+    "job:workday:jj:gto-manufacturing-engineering-co-op_r-098898",
     "job:workday:jj:imm-clinical-scientist-intern_r-103304",
     "job:workday:jj:imm-computational-intern_r-103293",
     "job:workday:jj:manufacturing-engineering-co-op_r-102845",
@@ -23540,6 +23542,7 @@
     "johnson johnson data science coop summer 2027",
     "johnson johnson electrical engineer intern robotics rd",
     "johnson johnson electrical engineering coop",
+    "johnson johnson gto manufacturing engineering coop",
     "johnson johnson imm clinical scientist intern",
     "johnson johnson imm computational intern",
     "johnson johnson manufacturing engineering coop",
