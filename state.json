@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-06T07:21:38.446010+00:00",
+  "last_checked_utc": "2026-10-06T07:42:19.837885+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10436,6 +10436,7 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Workforce-Optimization---Strategies--Data-Science--Intern_202609-124186",
     "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Research-Student-1_R273410",
     "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Student-Researcher-I_R273459",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Brampton-Ontario-Canada/Intern--Technical-Sales---Consulting--Canada-_R26-5965-1",
@@ -22684,6 +22685,7 @@
     "job:workday:roche:intern_202609-124125",
     "job:workday:roche:internship---agentic-ai-for-environmental-regulatory-compliance_202609-124819",
     "job:workday:roche:student-internship-in-lab-automation--pharma-research---early-development-_202609-124621",
+    "job:workday:roche:workforce-optimization---strategies--data-science--intern_202609-124186",
     "job:workday:roche:xmlname-2027-spring-intern---analytical-method-validation-and-tech-transfer_202609-124354",
     "job:workday:roche:xmlname-2027-spring-intern---cell-line-development-automation_202609-123461",
     "job:workday:rochester:co-op-research-student-1_r273410",
@@ -25957,6 +25959,7 @@
     "roche data science intern master thesis student basel 6 monate",
     "roche internship agentic ai for environmental regulatory compliance",
     "roche student internship in lab automation pharma research early development",
+    "roche workforce optimization strategies data science intern",
     "rochester regional health rit coop data analytics services",
     "rochester regional health rit coop hospital it applications",
     "rocket lab flight software intern summer 2027",
