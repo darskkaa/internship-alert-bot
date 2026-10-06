@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-06T01:02:22.838520+00:00",
+  "last_checked_utc": "2026-10-06T01:31:47.116891+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9290,6 +9290,7 @@
     "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284876",
     "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711",
     "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625",
+    "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Security-Engineering---Enablement-Intern--Summer-2027---St-Louis--MO--US_R-284927",
     "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654",
     "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1",
     "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Technology-Risk-Management-Intern--Summer-2027---St-Louis--MO--US_R-284911",
@@ -21747,6 +21748,7 @@
     "job:workday:mastercard:platform-engineering-intern--summer-2027---st-louis--mo--us_r-284875",
     "job:workday:mastercard:product-management-intern--summer-2027---st-louis--mo--us-_r-287625",
     "job:workday:mastercard:product-management-intern--summer-2027---st-louis--mo--us-_r-287625-1",
+    "job:workday:mastercard:security-engineering---enablement-intern--summer-2027---st-louis--mo--us_r-284927",
     "job:workday:mastercard:site-reliability-engineering-intern--summer-2027---st-louis--mo--us_r-287654",
     "job:workday:mastercard:software-engineer-intern--summer-2027---united-states_r-287618-1",
     "job:workday:mastercard:technology-risk-management-intern--summer-2027---st-louis--mo--us_r-284911",
@@ -24031,6 +24033,7 @@
     "mastercard product management intern",
     "mastercard product management intern summer 2027",
     "mastercard product management intern summer 2027 st louis mo us",
+    "mastercard security engineering enablement intern summer 2027 st louis mo us",
     "mastercard site reliability engineering intern summer 2027 st louis mo us",
     "mastercard software engineer intern",
     "mastercard software engineer intern summer 2027 united states",
