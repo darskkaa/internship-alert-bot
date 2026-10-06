@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-06T07:42:19.837885+00:00",
+  "last_checked_utc": "2026-10-06T08:11:36.054200+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10355,6 +10355,7 @@
     "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537849",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/AI-Ecosystem-Intern_R-059276",
+    "https://redhat.wd5.myworkdayjobs.com/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Product-Manager-Intern_R-059060",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Co-op_R-059039",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Intern_R-059038",
@@ -22622,6 +22623,7 @@
     "job:workday:redhat:product-manager-intern_r-059060",
     "job:workday:redhat:software-engineer-co-op_r-059039",
     "job:workday:redhat:software-engineer-intern_r-059038",
+    "job:workday:redhat:software-engineering-intern_r-058560",
     "job:workday:redhat:software-engineering-internship--ireland-_r-059589",
     "job:workday:redhat:technical-product-intern_r-059526-1",
     "job:workday:regeneron:xmlname-2027-co-op-data-analytics---digital-tools--iops-_r50983-1",
@@ -25751,6 +25753,7 @@
     "red hat product manager intern",
     "red hat software engineer coop",
     "red hat software engineer intern",
+    "red hat software engineering intern",
     "red hat software engineering internship ireland",
     "red hat technical product intern",
     "red ventures data science intern launch program",
