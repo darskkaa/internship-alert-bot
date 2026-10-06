@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-06T02:52:03.922843+00:00",
+  "last_checked_utc": "2026-10-06T05:01:51.632642+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1804,6 +1804,7 @@
     "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659",
     "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Engineering--Summer-2027-_R-255335",
     "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Massachusetts---Cambridge/Undergrad-Co-op---DSTS---Chemical-Engineering----January---June-2027-_R-255684",
+    "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886",
     "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Quality--Manufacturing--Operations-and-or-Engineering_R-256495",
     "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Co-op---Computational-Safety-Modeling-for-Small-Molecules_R-257124",
     "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
@@ -12231,6 +12232,7 @@
     "amgen software engineer intern amgens technology medical organizations",
     "amgen software engineer intern technology medical organizations",
     "amgen undergrad coop dsts chemical engineering january june 2027",
+    "amgen undergrad coop interactive developer immersive course programmer for manufacturing",
     "amgen undergrad coop quality manufacturing operations andor engineering",
     "amgen undergrad intern data engineer amgens technology medical organizations summer 2027",
     "amgen undergrad intern data engineer technology ai data summer 2027",
@@ -19315,6 +19317,7 @@
     "job:workday:amgen:grad-intern---operations---engineering--summer-2027-_r-255349",
     "job:workday:amgen:grad-intern---software-engineer---amgen-s-technology---medical-organizations--summer-2027-_r-255745",
     "job:workday:amgen:undergrad-co-op---dsts---chemical-engineering----january---june-2027-_r-255684",
+    "job:workday:amgen:undergrad-co-op---interactive-developer---immersive-course-programmer-for-manufacturing_r-256886",
     "job:workday:amgen:undergrad-co-op---quality--manufacturing--operations-and-or-engineering_r-256495",
     "job:workday:amgen:undergrad-intern---data-engineer---amgen-s-technology---medical-organizations--summer-2027-_r-255708",
     "job:workday:amgen:undergrad-intern---data-scientist---amgen-s-technology---medical-organizations--summer-2027-_r-255704",
