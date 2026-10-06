@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-06T02:41:30.915796+00:00",
+  "last_checked_utc": "2026-10-06T02:52:03.922843+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2342,6 +2342,7 @@
     "https://boards.greenhouse.io/cloudflare/jobs/8199958",
     "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
     "https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790",
+    "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
     "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
     "https://boards.greenhouse.io/embed/job_app?token=243853",
     "https://boards.greenhouse.io/embed/job_app?token=6883068002",
@@ -17815,6 +17816,7 @@
     "job:greenhouse:8241790",
     "job:greenhouse:8243556",
     "job:greenhouse:8243732",
+    "job:greenhouse:8245197",
     "job:greenhouse:8245211",
     "job:greenhouse:8247554",
     "job:greenhouse:8247586",
