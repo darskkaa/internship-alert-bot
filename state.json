@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-06T09:12:32.274434+00:00",
+  "last_checked_utc": "2026-10-06T09:42:06.899651+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9052,6 +9052,7 @@
     "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Pila/Intern-Product-Management_361956",
     "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Kaunas---Donelaicio/IT-Security-Intern_JR-112427-2",
     "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Kaunas---Draugystes/New-Product-Implementation-Engineering-Intern---Electronics-Manufacturing_JR-112598-1",
+    "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Kaunas---Draugystes/Quality-Engineering-Intern_JR-112693-1",
     "https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624",
     "https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630",
     "https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664",
@@ -21610,6 +21611,7 @@
     "job:workday:lighting:manufacturing-engineering-intern--stagiaire-en-gnie-manufacturier_365634",
     "job:workday:littelfuse:it-security-intern_jr-112427-2",
     "job:workday:littelfuse:new-product-implementation-engineering-intern---electronics-manufacturing_jr-112598-1",
+    "job:workday:littelfuse:quality-engineering-intern_jr-112693-1",
     "job:workday:liveoakbancshares:summer-2027-intern--architecture-engineering_r-002630",
     "job:workday:lowes:exploratory-software-engineering---undergrad-internship---summer-2027_jr-02623542",
     "job:workday:lowes:merchandising-analyst---undergrad-internship---summer-2027_jr-02650526",
@@ -23843,6 +23845,7 @@
     "lightmatter silicon packaging engineer intern new grad",
     "littelfuse it security intern",
     "littelfuse new product implementation engineering intern electronics manufacturing",
+    "littelfuse quality engineering intern",
     "live oak bank architectureengineering intern",
     "live oak bank artificial intelligence enablement forwarddeployed engineering intern",
     "live oak bank data engineer intern multiple teams",
