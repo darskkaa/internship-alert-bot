@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-06T14:22:06.920865+00:00",
+  "last_checked_utc": "2026-10-06T14:32:15.223994+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3289,6 +3289,7 @@
     "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Supply---Trading-Intern_R000073904",
     "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Wells-Engineering-Intern_R000072390",
     "https://chevron.wd5.myworkdayjobs.com/University/job/Malabo-Equatorial-Guinea/Summer-Intern---IT-1_R000074164",
+    "https://chevron.wd5.myworkdayjobs.com/University/job/Malabo-Equatorial-Guinea/Summer-Intern---IT-2_R000074163",
     "https://chevron.wd5.myworkdayjobs.com/University/job/Richmond-California-United-States-of-America/XMLNAME-2026-2027-Facilities-Engineering-Operations-and-Turnarounds-Construction-Engineering-Intern_R000072376",
     "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Atlanta-GA-United-States-of-America/Intern---Capacity-Portfolio-Representative-Starting-Summer-2027_R49433-1",
     "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Charlotte-NC-United-States-of-America/Intern---Capacity-Portfolio-Representative-Starting-Summer-2027_R49434-1",
@@ -13526,6 +13527,7 @@
     "chevron corporation 20262027 wells engineering intern",
     "chevron corporation software engineer intern information technology software engineer",
     "chevron corporation summer intern it1",
+    "chevron corporation summer intern it2",
     "chicago trading company quant trading intern",
     "chicago trading company quant trading internship summer 2027",
     "chicago trading company quantitative trading intern",
@@ -19986,6 +19988,7 @@
     "job:workday:chemours:ai---data-science-intern_jr15013",
     "job:workday:chemours:chemical-engineering-spring-co-op_jr14977",
     "job:workday:chevron:summer-intern---it-1_r000074164",
+    "job:workday:chevron:summer-intern---it-2_r000074163",
     "job:workday:chevron:xmlname-2025-2026-facilities-engineering-civil-engineering-intern_r000072347",
     "job:workday:chevron:xmlname-2026-2027-earth-science-intern_r000072409",
     "job:workday:chevron:xmlname-2026-2027-facilities-engineering-chemical-engineering-intern_r000072335",
