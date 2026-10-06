@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-06T14:02:42.068468+00:00",
+  "last_checked_utc": "2026-10-06T14:07:03.855757+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10073,6 +10073,7 @@
     "https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/Research---Development-Summer-Internship--MSc--2027_R000160062",
     "https://pg.wd5.myworkdayjobs.com/1000/job/Novomoskovsk/Technical-Projects-Intern_R000147816",
     "https://pg.wd5.myworkdayjobs.com/1000/job/POMEZIA-PLANT--TECH-CENTER/Intelligent-Controls-and-Automation-Engineer-Internship_R000157957",
+    "https://pg.wd5.myworkdayjobs.com/1000/job/READING-TECH-CENTER/Mechanical-Engineering-Internship-2027_R000160050",
     "https://pg.wd5.myworkdayjobs.com/1000/job/SPITTAL-AD-DRAU-PLANT/Data-Activation---Asset-Management-Internship--m-w-d-_R000150400",
     "https://pg.wd5.myworkdayjobs.com/1000/job/San-Jos/IT-Students---Internship_R000159572",
     "https://pg.wd5.myworkdayjobs.com/1000/job/Schwalbach-Am-Taunus/Analytics---Insights-Internship--m-f-d-_R000150319",
@@ -22460,6 +22461,7 @@
     "job:workday:pg:it-security-internship_r000157502",
     "job:workday:pg:it-students---internship_r000159572",
     "job:workday:pg:manufacturing-process-engineer-internship_r000150008",
+    "job:workday:pg:mechanical-engineering-internship-2027_r000160050",
     "job:workday:pg:p-g-leadgen-internship-program-2027---process-engineer--dammam-_r000158844",
     "job:workday:pg:phd-intern---data-scientist---generative-ai-in-femcare_r000158406",
     "job:workday:pg:phd-r-d-intern---emotion---sensory-experience-research_r000158811",
@@ -25619,6 +25621,7 @@
     "procter gamble pg january 2027 start date analytics insights internship",
     "procter gamble pg january 2027 start date information technology internship",
     "procter gamble pg manufacturing process engineer internship",
+    "procter gamble pg mechanical engineering internship 2027",
     "procter gamble pg pg leadgen internship program 2027 process engineer dammam",
     "procter gamble pg phd intern data scientist generative ai in femcare",
     "procter gamble pg phd rd intern emotion sensory experience research",
