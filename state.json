@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-07T13:12:09.470252+00:00",
+  "last_checked_utc": "2026-10-07T13:22:36.711025+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9888,6 +9888,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10254007",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146",
@@ -22686,6 +22687,7 @@
     "job:workday:ngc:xmlname-2027-mechanical-engineer-intern---annapolis-md_r10251185",
     "job:workday:ngc:xmlname-2027-mechanical-engineer-intern---sunnyvale-ca_r10251428",
     "job:workday:ngc:xmlname-2027-mechanical-engineering-intern---chandler-az_r10254534",
+    "job:workday:ngc:xmlname-2027-software-developer-intern--chantilly-va_r10254863-1",
     "job:workday:ngc:xmlname-2027-software-digital-intern---rolling-meadows-il_r10252812",
     "job:workday:ngc:xmlname-2027-software-engineer-intern---linthicum-maryland_r10248910",
     "job:workday:ngc:xmlname-2027-software-engineer-intern---morrisville-nc_r10253768",
@@ -25459,6 +25461,7 @@
     "northrop grumman 2027 mechanical engineer intern annapolis md",
     "northrop grumman 2027 mechanical engineer intern sunnyvale ca",
     "northrop grumman 2027 mechanical engineering intern chandler az",
+    "northrop grumman 2027 software developer intern chantilly va",
     "northrop grumman 2027 software digital intern rolling meadows il",
     "northrop grumman 2027 software engineer intern linthicum maryland",
     "northrop grumman 2027 software engineer intern morrisville nc",
