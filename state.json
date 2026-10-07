@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-07T20:31:54.245034+00:00",
+  "last_checked_utc": "2026-10-07T20:41:35.112985+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4084,6 +4084,7 @@
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97039",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97042",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97047",
+    "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97068",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97071",
     "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003511",
     "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520",
@@ -19157,6 +19158,7 @@
     "job:oracle:emit.fa.ca3.oraclecloud.com:97039",
     "job:oracle:emit.fa.ca3.oraclecloud.com:97042",
     "job:oracle:emit.fa.ca3.oraclecloud.com:97047",
+    "job:oracle:emit.fa.ca3.oraclecloud.com:97068",
     "job:oracle:emit.fa.ca3.oraclecloud.com:97071",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81238",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81239",
