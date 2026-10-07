@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-07T13:22:36.711025+00:00",
+  "last_checked_utc": "2026-10-07T13:32:08.573540+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1805,6 +1805,7 @@
     "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Actuarial-Science_R39354",
     "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615",
     "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631",
+    "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Digital-Risk-and-Compliance_R39492",
     "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Product-Analytics_R39405",
     "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Salesforce-Technical-Consultant--Marketing---Hybrid-_R39535",
     "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Technology-Training---Learning_R39479",
@@ -12515,6 +12516,7 @@
     "american family insurance group summer 2027 intern cybersecurity",
     "american family insurance group summer 2027 intern data analyst",
     "american family insurance group summer 2027 intern data analytics",
+    "american family insurance group summer 2027 intern digital risk and compliance",
     "american family insurance group summer 2027 intern enterprise platform functions",
     "american family insurance group summer 2027 intern it cybersecurity",
     "american family insurance group summer 2027 intern product analytics",
@@ -19821,6 +19823,7 @@
     "job:workday:amfam:summer-2027-intern---cybersecurity_r39605",
     "job:workday:amfam:summer-2027-intern---data-analyst_r39615",
     "job:workday:amfam:summer-2027-intern---data-analytics_r39631",
+    "job:workday:amfam:summer-2027-intern---digital-risk-and-compliance_r39492",
     "job:workday:amfam:summer-2027-intern---it-cybersecurity_r39512",
     "job:workday:amfam:summer-2027-intern---product-analytics_r39405",
     "job:workday:amfam:summer-2027-intern---salesforce-technical-consultant--marketing---hybrid-_r39535",
