@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-07T01:12:01.617625+00:00",
+  "last_checked_utc": "2026-10-07T01:21:38.324799+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4934,6 +4934,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Production-Hardware-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872221",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-Intern--Summer-2027-_01873571",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01879944",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01868034",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01878820",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Systems-Engineering-Intern--Summer-2027-_01879193",
@@ -21234,6 +21235,7 @@
     "job:workday:globalhr:mechanical-engineer-intern---air-launched--effectors--2027-summer-_01879420",
     "job:workday:globalhr:mechanical-engineer-intern---test-equipment_01874237",
     "job:workday:globalhr:mechanical-engineer-intern--2027-summer-_01874513",
+    "job:workday:globalhr:mechanical-engineer-intern--summer-2027-_01879944",
     "job:workday:globalhr:mechanical-engineering-intern--summer-2027-_01873571",
     "job:workday:globalhr:mechanical-engineering-intern--summer-2027-_01876588",
     "job:workday:globalhr:mechanical-materials-engineer-intern_01880672",
@@ -26752,6 +26754,7 @@
     "rtx mechanical design engineering intern summer 2027",
     "rtx mechanical engineer intern 2027 summer",
     "rtx mechanical engineer intern air launched effectors 2027 summer",
+    "rtx mechanical engineer intern summer 2027",
     "rtx mechanical engineer intern test equipment",
     "rtx mechanical engineering intern summer 2027",
     "rtx mechanical materials engineer intern",
