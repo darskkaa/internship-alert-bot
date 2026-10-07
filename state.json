@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-07T12:41:47.595177+00:00",
+  "last_checked_utc": "2026-10-07T12:52:05.710914+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3507,6 +3507,7 @@
     "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W",
     "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",
     "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Technical-Learning-Solutions--TLS--Content-Design-Intern_248164W",
+    "https://corteva.wd5.myworkdayjobs.com/corteva/job/Mississippi-United-States/Crop-Health-R---D-Field-Science-Intern_248107W",
     "https://corteva.wd5.myworkdayjobs.com/corteva/job/Newark-Delaware-United-States/R-D-Intern--Automation-for-I-n-Vitro-Mammalian-Toxicology--_248127W",
     "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673",
     "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950",
@@ -14119,6 +14120,7 @@
     "corteva agentic ai engineer intern",
     "corteva ai engineer intern",
     "corteva crop health r d field science intern",
+    "corteva crop health r d field science intern possible locations include fl md ms ok",
     "corteva crop health r d field science intern possible locations include ia il in mo ne and tn",
     "corteva data science intern",
     "corteva data science summer intern",
@@ -20572,6 +20574,7 @@
     "job:workday:corteva:agentic-ai-engineer-intern_248210w",
     "job:workday:corteva:crop-health-r---d-field-science-intern_248075w",
     "job:workday:corteva:crop-health-r---d-field-science-intern_248094w",
+    "job:workday:corteva:crop-health-r---d-field-science-intern_248107w",
     "job:workday:corteva:data-science-summer-intern_248208w",
     "job:workday:corteva:engineering---maintenance-intern_248298w",
     "job:workday:corteva:r---d-intern---computational-chemistry_248117w",
