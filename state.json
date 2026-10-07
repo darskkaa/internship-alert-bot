@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-07T11:11:44.664208+00:00",
+  "last_checked_utc": "2026-10-07T11:41:39.964072+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10677,6 +10677,7 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Workforce-Optimization---Strategies--Data-Science--Intern_202609-124186",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536",
     "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Research-Student-1_R273410",
     "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Student-Researcher-I_R273459",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Brampton-Ontario-Canada/Intern--Technical-Sales---Consulting--Canada-_R26-5965-1",
@@ -23287,6 +23288,7 @@
     "job:workday:roberthalf:los-angeles-technology-consulting-intern---2027_jr-258931",
     "job:workday:roberthalf:new-york-technology-consulting-intern---2027_jr-258932",
     "job:workday:roberthalf:san-francisco-legal--risk-and-compliance-intern---2027_jr-258821",
+    "job:workday:roche:data-science-industrial-placement---multiple-roles-within-biostats--data-management--real-world-data-and-more_202609-122536",
     "job:workday:roche:data-science-intern---master-thesis-student--basel--6-monate-_202609-124516",
     "job:workday:roche:intern_202609-124125",
     "job:workday:roche:internship---agentic-ai-for-environmental-regulatory-compliance_202609-124819",
@@ -26655,6 +26657,7 @@
     "roblox summer 2027 software engineer intern",
     "roboforce robotics electrical engineering intern",
     "roche data science intern master thesis student basel 6 monate",
+    "roche data science intern multiple teams",
     "roche internship agentic ai for environmental regulatory compliance",
     "roche student internship in lab automation pharma research early development",
     "roche workforce optimization strategies data science intern",
