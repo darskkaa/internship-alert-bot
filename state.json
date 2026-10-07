@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-07T17:02:46.033333+00:00",
+  "last_checked_utc": "2026-10-07T17:11:49.544685+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3485,6 +3485,7 @@
     "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107937",
     "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110789",
     "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR111532",
+    "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/UI-UX-Designer-Intern---IT_JR111758",
     "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Vulnerability-Management-Engineering-Intern-_JR109639",
     "https://copart.wd12.myworkdayjobs.com/copart/job/US-Tech-InfraOps-729/Network-Engineering-Intern_JR110653",
     "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR109671",
@@ -14168,6 +14169,7 @@
     "copart software engineer intern",
     "copart software engineering intern",
     "copart technology product analyst intern",
+    "copart uiux designer intern it",
     "copart vulnerability management engineering intern",
     "core main intern ai intern copilot onsite st louis",
     "core main intern aiml data engineering onsite st louis",
@@ -20680,6 +20682,7 @@
     "job:workday:copart:technology-product-analyst-intern_jr107937",
     "job:workday:copart:technology-product-analyst-intern_jr110789",
     "job:workday:copart:technology-product-analyst-intern_jr111532",
+    "job:workday:copart:ui-ux-designer-intern---it_jr111758",
     "job:workday:copart:vulnerability-management-engineering-intern-_jr109639",
     "job:workday:coreandmain:intern---data-engineering----corp_45804",
     "job:workday:corteva:agentic-ai-engineer-intern_248210w",
