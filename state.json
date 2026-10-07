@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-07T06:42:07.352291+00:00",
+  "last_checked_utc": "2026-10-07T07:12:04.143865+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7080,6 +7080,7 @@
     "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003",
     "https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003",
     "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003",
+    "https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003",
     "https://job-boards.greenhouse.io/signifyd95/jobs/8240551",
     "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
     "https://job-boards.greenhouse.io/singlestore/jobs/8205514",
@@ -17911,6 +17912,7 @@
     "job:greenhouse:8013277003",
     "job:greenhouse:8014910",
     "job:greenhouse:8014915",
+    "job:greenhouse:8015269003",
     "job:greenhouse:8018847",
     "job:greenhouse:8018853",
     "job:greenhouse:8018856",
