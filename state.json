@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-07T17:22:13.794440+00:00",
+  "last_checked_utc": "2026-10-07T17:32:06.211610+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5044,6 +5044,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-Co-Op---Onsite_01871478",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op---Summer-Fall-2027-_01871480",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01879727",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern-----Summer-2027-_01867602",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01869486",
@@ -9929,6 +9930,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Systems-Engineer-Intern---Rolling-Meadows-IL_R10252497",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10251185",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10254985",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/XMLNAME-2027-Engineering-Intern---Hollywood--MD---Evergreen-_R10253725",
@@ -21485,6 +21487,7 @@
     "job:workday:globalhr:software-engineering-co-op--fall-spring-2027-_01872683",
     "job:workday:globalhr:software-engineering-co-op--january-2027---hybrid-_01874122",
     "job:workday:globalhr:software-engineering-co-op--spring-summer-2027-_01871645",
+    "job:workday:globalhr:software-engineering-co-op--spring-summer-2027-_01879727",
     "job:workday:globalhr:software-engineering-co-op--summer--fall-2027-_01873293",
     "job:workday:globalhr:software-engineering-co-op--summer-fall-2027-_01870194",
     "job:workday:globalhr:software-engineering-co-op--summer-fall-2027-_01871232",
@@ -22819,6 +22822,7 @@
     "job:workday:ngc:xmlname-2027-intern-software-engineer_r10243573",
     "job:workday:ngc:xmlname-2027-manufacturing-and-operations-engineering-intern---utah_r10254330",
     "job:workday:ngc:xmlname-2027-mechanical-engineer-intern---annapolis-md_r10251185",
+    "job:workday:ngc:xmlname-2027-mechanical-engineer-intern---annapolis-md_r10254985",
     "job:workday:ngc:xmlname-2027-mechanical-engineer-intern---ocean-springs-ms_r10251177",
     "job:workday:ngc:xmlname-2027-mechanical-engineer-intern---sunnyvale-ca_r10251428",
     "job:workday:ngc:xmlname-2027-mechanical-engineering-intern---chandler-az_r10254534",
