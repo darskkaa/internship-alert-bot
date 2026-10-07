@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-07T20:41:35.112985+00:00",
+  "last_checked_utc": "2026-10-07T20:51:47.878204+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5320,6 +5320,7 @@
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Security-Program-Management-Senior-Intern_R0059515",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Downers-Grove/Early-Careers---IT-QA-Intern_R0059504",
+    "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Downers-Grove/Early-Careers---Systems-Analyst-Intern--Downers-Grove-_R0059499",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/Richardson-Texas-HQ-1001-E-Lookout-Drive/Early-Careers---Developer-Intern--Compliance---Health-Quality-_R0059503",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Early-Careers---Automation-Programmer-Intern_R0059484",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505878",
@@ -15883,6 +15884,7 @@
     "hcsc early careers it qa intern",
     "hcsc early careers security program management senior intern",
     "hcsc early careers systems analyst intern",
+    "hcsc early careers systems analyst intern downers grove",
     "hcsc early careers technology delivery analyst intern",
     "hd supply artificial intelligence and data science intern artificial intelligence data science",
     "hd supply graduate intern artificial intelligence data science summer 2027",
@@ -21778,6 +21780,7 @@
     "job:workday:hcsc:early-careers---infrastructure-service-delivery-intern_r0059507",
     "job:workday:hcsc:early-careers---it-qa-intern_r0059504",
     "job:workday:hcsc:early-careers---security-program-management-senior-intern_r0059515",
+    "job:workday:hcsc:early-careers---systems-analyst-intern--downers-grove-_r0059499",
     "job:workday:hcsc:early-careers---systems-analyst-intern_r0059498",
     "job:workday:hcsc:early-careers---technology-delivery-analyst-intern_r0059497",
     "job:workday:hdsupply:graduate-intern--artificial-intelligence---data-science---summer-2027_r26004952",
@@ -25917,6 +25920,7 @@
     "nvidia phd research intern circuits 2027",
     "nvidia phd research intern crossdisciplinary vision science",
     "nvidia phd research intern crossdisciplinary vision science summer 2027",
+    "nvidia phd research intern efficient deep learning 2027",
     "nvidia phd research intern electronic design automation 2027",
     "nvidia phd research intern embodied and agentic ai 2027",
     "nvidia phd research intern fundamental generative ai 2027",
