@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-07T14:12:00.441096+00:00",
+  "last_checked_utc": "2026-10-07T14:32:28.352756+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8944,6 +8944,7 @@
     "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Virtual-USA/WinField-United-Summer-Research-Technician-Internship---Central_R-40719",
     "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
     "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767",
+    "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
     "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
     "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Center-Design-Intern_R-00193261",
     "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648",
@@ -22169,6 +22170,7 @@
     "job:workday:leidos:ai-ml-intern_r-00192042",
     "job:workday:leidos:business-systems-ai-intern_r-00193327",
     "job:workday:leidos:business-systems-ai-intern_r-00193767",
+    "job:workday:leidos:business-systems-ai-intern_r-00193769",
     "job:workday:leidos:business-systems-ai-intern_r-00193770",
     "job:workday:leidos:civil-engineer-intern_r-00191578",
     "job:workday:leidos:controls-engineer-intern_r-00193953",
