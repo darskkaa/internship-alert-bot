@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-07T12:11:52.377595+00:00",
+  "last_checked_utc": "2026-10-07T12:41:47.595177+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5055,6 +5055,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01878330",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Intern--Summer-2027-_01875743",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineering-Intern--Summer-2027-_01874955",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-Intern--Summer-2027-_01880852",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer---Intern--Onsite_01879053",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890-1",
@@ -21309,6 +21310,7 @@
     "job:workday:globalhr:mechanical-engineer-intern---test-equipment_01874237",
     "job:workday:globalhr:mechanical-engineer-intern--2027-summer-_01874513",
     "job:workday:globalhr:mechanical-engineer-intern--summer-2027-_01879944",
+    "job:workday:globalhr:mechanical-engineer-intern--summer-2027-_01880852",
     "job:workday:globalhr:mechanical-engineering-intern--summer-2027-_01873571",
     "job:workday:globalhr:mechanical-engineering-intern--summer-2027-_01876588",
     "job:workday:globalhr:mechanical-materials-engineer-intern_01880672",
