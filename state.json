@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-07T04:31:53.630228+00:00",
+  "last_checked_utc": "2026-10-07T06:42:07.352291+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3191,6 +3191,7 @@
     "https://careers.withwaymo.com/jobs?gh_jid=8257205",
     "https://careers.withwaymo.com/jobs?gh_jid=8257237",
     "https://careers.withwaymo.com/jobs?gh_jid=8257660",
+    "https://careers.withwaymo.com/jobs?gh_jid=8257801",
     "https://careers.zimmerbiomet.com/us/en/job/12688",
     "https://careers.zimmerbiomet.com/us/en/job/12745",
     "https://careers.zimmerbiomet.com/us/en/job/12746",
@@ -18254,6 +18255,7 @@
     "job:greenhouse:8257237",
     "job:greenhouse:8257369",
     "job:greenhouse:8257660",
+    "job:greenhouse:8257801",
     "job:greenhouse:8259714",
     "job:greenhouse:8401052002",
     "job:greenhouse:8402114002",
@@ -26883,6 +26885,7 @@
     "rtx systems engineering intern onsite",
     "rtx systems engineering intern summer 2027",
     "rtx systems engineering internonsite",
+    "rtx systems engineering test equipment intern",
     "rtx systems engineering test equipment intern summer 2027",
     "rtx systems security engineering intern summer 2027",
     "rtx systems technology intern",
@@ -28558,6 +28561,7 @@
     "waymo planner machine learning intern",
     "waymo product data science intern",
     "waymo quantitative software engineer intern",
+    "waymo research intern perception foundation models",
     "waymo salesforce product owner intern mba",
     "waymo scenes intern",
     "waymo software engineer intern bsms",
