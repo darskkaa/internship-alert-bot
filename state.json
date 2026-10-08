@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T02:12:05.107443+00:00",
+  "last_checked_utc": "2026-10-08T02:51:37.262135+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10018,6 +10018,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Intern-Optical-Engineer---Redondo-Beach-CA_R10254063",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250669",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Mechanical-Engineer-Intern---Sunnyvale-CA_R10251428",
@@ -23115,6 +23116,7 @@
     "job:workday:ngc:xmlname-2027-intern-software-engineer_r10242395",
     "job:workday:ngc:xmlname-2027-intern-software-engineer_r10243573",
     "job:workday:ngc:xmlname-2027-manufacturing-and-operations-engineering-intern---utah_r10254330",
+    "job:workday:ngc:xmlname-2027-manufacturing-engineer-intern---san-diego-ca_r10255134",
     "job:workday:ngc:xmlname-2027-materials-engineer-intern---sunnyvale-ca_r10255084",
     "job:workday:ngc:xmlname-2027-mechanical-engineer-intern---annapolis-md_r10251185",
     "job:workday:ngc:xmlname-2027-mechanical-engineer-intern---annapolis-md_r10254985",
@@ -25960,6 +25962,7 @@
     "northrop grumman 2027 intern systems engineering nuclear survivabilityionizing radiation",
     "northrop grumman 2027 intern systems securitycybersecurity engineer",
     "northrop grumman 2027 manufacturing and operations engineering intern utah",
+    "northrop grumman 2027 manufacturing engineer intern san diego ca",
     "northrop grumman 2027 materials engineer intern sunnyvale ca",
     "northrop grumman 2027 mechanical engineer intern annapolis md",
     "northrop grumman 2027 mechanical engineer intern ocean springs ms",
