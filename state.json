@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T22:02:06.363022+00:00",
+  "last_checked_utc": "2026-10-08T22:11:39.818613+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1726,6 +1726,7 @@
     "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Sales-Analytics-Intern_R-011098",
     "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086",
     "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087",
+    "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Talent-Acquisition---HR-Systems-Intern_R-011090",
     "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/UX-Design-Intern_R-011093",
     "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Data-Governance-Intern_R-011076",
     "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083",
@@ -12655,6 +12656,7 @@
     "allied solutions software delivery management intern",
     "allied solutions software engineer intern",
     "allied solutions software engineering intern",
+    "allied solutions talent acquisition hr systems intern",
     "allied solutions ux design intern",
     "alloy enterprises coop thermal test engineer fall 2026 julydecember",
     "allstate insurance company quantum algorithm development intern",
@@ -20356,6 +20358,7 @@
     "job:workday:alliance:trim---chassis-manufacturing-engineering-intern---summer-2027---canton--ms_r00214255",
     "job:workday:alliedsolutions:risk-management-intern_r-011096",
     "job:workday:alliedsolutions:software-delivery-management-intern_r-011086",
+    "job:workday:alliedsolutions:talent-acquisition---hr-systems-intern_r-011090",
     "job:workday:alliedsolutions:ux-design-intern_r-011093",
     "job:workday:allstate:quantum-algorithm-development-intern_r34881",
     "job:workday:altera:high-level-synthesis-engineer---intern_r03254",
