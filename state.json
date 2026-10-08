@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T03:11:48.517077+00:00",
+  "last_checked_utc": "2026-10-08T04:02:25.011362+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5988,6 +5988,7 @@
     "https://intel.wd1.myworkdayjobs.com/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
     "https://intel.wd1.myworkdayjobs.com/external/job/Canada-Toronto/Thermal-Mechanical-Engineering-Undergraduate-Intern--GPU-Platforms_JR0287516",
     "https://intel.wd1.myworkdayjobs.com/external/job/PRC-Chengdu/AI-ML-Software-App-Development-Intern_JR0286946",
+    "https://intel.wd1.myworkdayjobs.com/external/job/PRC-Shanghai/Firmware-and-Development-Tools-Intern_JR0287536",
     "https://intel.wd1.myworkdayjobs.com/external/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Module-Engineering-PhD-Intern_JR0286932",
@@ -16546,6 +16547,7 @@
     "intel cpu core physical design technical graduate intern spring",
     "intel data science and analytics phd intern",
     "intel epi module development engineer phd intern",
+    "intel firmware and development tools intern",
     "intel firmware development undergraduate engineering coop",
     "intel gpu ai accelerator hardware design undergraduate intern",
     "intel graphics hardware validation undergraduate engineering intern",
@@ -22361,6 +22363,7 @@
     "job:workday:intel:compiler-engineering-undergraduate-intern---sycl-runtime_jr0286849",
     "job:workday:intel:cpu-core-physical-design-technical-graduate-intern--spring_jr0287613",
     "job:workday:intel:data-science-and-analytics---phd-intern_jr0287859",
+    "job:workday:intel:firmware-and-development-tools-intern_jr0287536",
     "job:workday:intel:firmware-development-undergraduate-engineering-co-op_jr0286862",
     "job:workday:intel:gpu---ai-accelerator-hardware-design-undergraduate-intern_jr0287539",
     "job:workday:intel:graphics-hardware-validation-undergraduate-engineering-intern_jr0287535",
