@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T22:41:43.274852+00:00",
+  "last_checked_utc": "2026-10-08T22:52:02.659388+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1743,6 +1743,7 @@
     "https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551",
     "https://amat.wd1.myworkdayjobs.com/External/job/AlzenauDEU/Intern---Working-Student--m-f-d--for-PVD-Display-Engineering-in-Alzenau_R2627143",
     "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093",
+    "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Data-Analytics---Business-Operations-Spring-Co-Op-or-Summer-Intern--Bachelor-s-Master-s--Austin--TX-_R2626381",
     "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242",
     "https://amat.wd1.myworkdayjobs.com/External/job/FagareITA/Mechanical-Engineer--Intern-_R2626998",
     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230",
@@ -13093,6 +13094,7 @@
     "applied materials 2026 summer intern physics ai modeling engineering",
     "applied materials 2026 summer mechanical engineer intern masters santa clara ca",
     "applied materials 20262027 process engineer coop doctorate gloucester ma",
+    "applied materials 2027 data analytics business operations spring coop or summer intern bachelorsmasters austin tx",
     "applied materials 2027 manufacturing engineer summer internship bachelors austin tx",
     "applied materials 2027 software engineering intern masters santa clara ca",
     "applied materials 2027 spring electrical engineer controls pcb coop bs or ms gloucester ma",
@@ -20391,6 +20393,7 @@
     "job:workday:amat:xmlname-2026-process-engineer-co-op---adv-degree--gloucester--ma-_r2623409",
     "job:workday:amat:xmlname-2026-summer-intern---physics---ai-modeling-engineering_r2616095",
     "job:workday:amat:xmlname-2026-summer-mechanical-engineer-intern---masters--santa-clara--ca-_r2519236",
+    "job:workday:amat:xmlname-2027-data-analytics---business-operations-spring-co-op-or-summer-intern--bachelor-s-master-s--austin--tx-_r2626381",
     "job:workday:amat:xmlname-2027-manufacturing-engineer-summer-internship--bachelors-austin--tx-_r2626242",
     "job:workday:amat:xmlname-2027-software-engineering-intern--masters---santa-clara--ca-_r2628265",
     "job:workday:amat:xmlname-2027-spring-electrical-engineer-co-op-bs-or-ms--gloucester--ma-_r2628288-1",
