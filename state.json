@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T13:21:54.241002+00:00",
+  "last_checked_utc": "2026-10-08T13:32:11.316943+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9122,6 +9122,7 @@
     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00193937",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940",
+    "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00190766",
@@ -22666,6 +22667,7 @@
     "job:workday:leidos:software-developer-intern_r-00193914",
     "job:workday:leidos:software-development-intern_r-00193103",
     "job:workday:leidos:software-engineer-intern_r-00193933",
+    "job:workday:leidos:systems--integration-and-software-engineer-intern_r-00194152",
     "job:workday:leidos:systems-engineer-intern_r-00193940",
     "job:workday:leidos:technical-intern_r-00192448",
     "job:workday:leidos:technical-intern_r-00193820",
@@ -25034,6 +25036,7 @@
     "leidos software engineer intern",
     "leidos software engineer intern artificial intelligence",
     "leidos systems engineer intern",
+    "leidos systems integration and software engineer intern",
     "leidos technical intern",
     "leland growth ops intern courses events",
     "lennox international ai analytics intern",
