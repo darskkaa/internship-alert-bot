@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T09:42:14.727957+00:00",
+  "last_checked_utc": "2026-10-08T10:02:50.494922+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10814,6 +10814,7 @@
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/AI-Ecosystem-Intern_R-059276",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Brno---Tech-Park-Brno---C/InternSoftware-Engineering-Intern---Container-Tools--Brno--Czech-Republic-_R-059211",
+    "https://redhat.wd5.myworkdayjobs.com/jobs/job/Brno---Tech-Park-Brno---C/Linux-Systems-Engineering-Intern---Storage--Brno--Czech-Republic-_R-059156",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Brno---Tech-Park-Brno---C/Red-Hat-In-Vehicle-OS-Intern--Brno--Czech-Republic-_R-059214",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Brno---Tech-Park-Brno---C/SaaS-Full-Stack-Product-Engineering-Intern--Brno--Czech-Republic-_R-059212",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Brno---Tech-Park-Brno---C/SecureFlow-Foundry-Team---Software-Engineering-Intern--Brno--Czech-Republic-_R-059159",
@@ -23766,6 +23767,7 @@
     "job:workday:redhat:ai-ecosystem-intern_r-059053-1",
     "job:workday:redhat:ai-ecosystem-intern_r-059276",
     "job:workday:redhat:internsoftware-engineering-intern---container-tools--brno--czech-republic-_r-059211",
+    "job:workday:redhat:linux-systems-engineering-intern---storage--brno--czech-republic-_r-059156",
     "job:workday:redhat:product-manager-intern_r-059060",
     "job:workday:redhat:red-hat-in-vehicle-os-intern--brno--czech-republic-_r-059214",
     "job:workday:redhat:saas-full-stack-product-engineering-intern--brno--czech-republic-_r-059212",
@@ -27074,6 +27076,7 @@
     "red bull 2026 internship fall data science",
     "red hat ai ecosystem intern",
     "red hat internsoftware engineering intern container tools brno czech republic",
+    "red hat linux systems engineering intern storage brno czech republic",
     "red hat product manager intern",
     "red hat red hat in vehicle os linux kernel engineering intern brno czech republic",
     "red hat saas full stack product engineering intern brno czech republic",
@@ -27085,6 +27088,7 @@
     "red hat software engineering intern",
     "red hat software engineering intern cloud ide brno czech republic",
     "red hat software engineering intern community linux engineering brno czech republic",
+    "red hat software engineering intern container tools brno czech republic",
     "red hat software engineering intern developer hub security team brno czech republic",
     "red hat software engineering intern kernel maintainers team brno czech republic",
     "red hat software engineering intern pipeline value observability brno czech republic",
