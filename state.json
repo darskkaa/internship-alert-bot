@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T15:02:37.183943+00:00",
+  "last_checked_utc": "2026-10-08T15:12:09.493501+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9473,6 +9473,7 @@
     "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542",
     "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576",
     "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Analyst---Undergrad-Internship---Summer-2027_JR-02650526",
+    "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/PRO-Services-Reporting-Intern---Undergrad-Internship---Summer-2027-_JR-02672698",
     "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Corporate-Facilities---Undergrad-Internship---Summer-2027_JR-02650834-1",
     "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Data-Analytics_R-052053",
     "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Internal-Audit---Data-Analytics_R-053198",
@@ -22739,6 +22740,7 @@
     "job:workday:liveoakbancshares:summer-2027-intern--architecture-engineering_r-002630",
     "job:workday:lowes:exploratory-software-engineering---undergrad-internship---summer-2027_jr-02623542",
     "job:workday:lowes:merchandising-analyst---undergrad-internship---summer-2027_jr-02650526",
+    "job:workday:lowes:pro-services-reporting-intern---undergrad-internship---summer-2027-_jr-02672698",
     "job:workday:lowes:sales-tools---technology-intern---undergrad-internship---summer-2027_jr-02672870-1",
     "job:workday:lowes:services-technology---enablement---undergraduate-internship---summer-2027_jr-02672664",
     "job:workday:lowes:software-engineer---undergrad-internship---summer-2027_jr-02623576",
@@ -25144,6 +25146,7 @@
     "louisiana blue healthcare price and transparency data analyst intern",
     "lowes exploratory software engineer intern",
     "lowes merchandising analyst intern",
+    "lowes pro services reporting intern",
     "lowes sales tools technology intern undergrad internship summer 2027",
     "lowes services technology enablement undergraduate internship summer 2027",
     "lowes software engineer intern",
