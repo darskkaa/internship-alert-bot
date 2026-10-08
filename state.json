@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T14:51:46.362023+00:00",
+  "last_checked_utc": "2026-10-08T15:02:37.183943+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10064,6 +10064,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Engineering-Intern---Northridge-CA_R10254122-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Engineering-Intern---Northridge-CA_R10254123-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Intern-Optical-Engineer---Redondo-Beach-CA_R10254063",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255197",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250669",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134",
@@ -23240,6 +23241,7 @@
     "job:workday:ngc:xmlname-2027-engineering-intern---northridge-ca_r10254123-1",
     "job:workday:ngc:xmlname-2027-hardware-electronics-engineer-intern---rolling-meadows-il_r10252779-1",
     "job:workday:ngc:xmlname-2027-hardware-mechanical-engineer-intern---rolling-meadows-il_r10252778",
+    "job:workday:ngc:xmlname-2027-intern---airworthiness-engineer_r10255197",
     "job:workday:ngc:xmlname-2027-intern---systems-engineering---nuclear-survivability-ionizing-radiation_r10251198",
     "job:workday:ngc:xmlname-2027-intern---systems-engineering_r10254930",
     "job:workday:ngc:xmlname-2027-intern-optical-engineer---redondo-beach-ca_r10254063",
@@ -26116,6 +26118,7 @@
     "northrop grumman 2027 engineering intern northridge ca",
     "northrop grumman 2027 hardware electronics engineer intern rolling meadows il",
     "northrop grumman 2027 hardware mechanical engineer intern rolling meadows il",
+    "northrop grumman 2027 intern airworthiness engineer",
     "northrop grumman 2027 intern optical engineer redondo beach ca",
     "northrop grumman 2027 intern software engineer",
     "northrop grumman 2027 intern systems engineering",
