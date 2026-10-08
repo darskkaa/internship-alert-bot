@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T18:22:05.599401+00:00",
+  "last_checked_utc": "2026-10-08T18:32:19.773890+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4053,6 +4053,7 @@
     "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107378",
     "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107379",
     "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14706",
+    "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14781",
     "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14837",
     "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14838",
     "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14841",
@@ -10767,6 +10768,7 @@
     "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Tableau-Analytics-and-Business-Intelligence_R2026-2090",
     "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Phoenix-AZ/Summer-2027-Internship--Technology-Optimization-Project-Management_R2026-2023",
     "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Suwanee-GA/Summer-2027-Internship--Data-Center-Infrastructure-Management--DCIM-_R2026-1892",
+    "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-TX-Wilmer-2-DC3-DFW2DC3/Summer-2027-Internship--Facilities-Engineering-and-Commissioning_R2026-1971",
     "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-VA-Ashburn-1-DC1/Summer-2027-Internship--Enterprise-IT-Support_R2026-1986",
     "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/York-SC/Summer-2027-Internship--Construction-Development-Project-Engineer-Intern_R2026-1886",
     "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/York-SC/Summer-2027-Internship--Construction-Development-Project-Engineer-Intern_R2026-1968",
@@ -13577,6 +13579,7 @@
     "blue cross and blue shield of kansas rpa engineer intern",
     "blue cross blue shield of michigan 2027 summer intern data analytics hedis",
     "blue cross blue shield of michigan 2027 summer intern data analytics program performance",
+    "blue cross blue shield of michigan 2027 summer intern service analytics insights",
     "blue cross blue shield of michigan 2027 summer interninformation technology",
     "blue cross blue shield of michigan epidemiology biostatistics intern",
     "blue cross blue shield of michigan summer 2027 intern data science biostatistician",
@@ -19409,6 +19412,7 @@
     "job:oracle:ejia.fa.us6.oraclecloud.com:107378",
     "job:oracle:ejia.fa.us6.oraclecloud.com:107379",
     "job:oracle:ejko.fa.us2.oraclecloud.com:14706",
+    "job:oracle:ejko.fa.us2.oraclecloud.com:14781",
     "job:oracle:ejko.fa.us2.oraclecloud.com:14837",
     "job:oracle:ejko.fa.us2.oraclecloud.com:14838",
     "job:oracle:ejko.fa.us2.oraclecloud.com:14841",
