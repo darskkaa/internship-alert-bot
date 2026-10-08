@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T19:02:23.521017+00:00",
+  "last_checked_utc": "2026-10-08T19:11:45.053362+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5204,6 +5204,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01881158",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineering-Intern--Summer-2027-_01874955",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-Intern--Summer-2027-_01880852",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern---Test-Solutions_01881321",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer---Intern--Onsite_01879053",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890-1",
@@ -21891,6 +21892,7 @@
     "job:workday:globalhr:electrical-engineer-intern---test_01874305",
     "job:workday:globalhr:electrical-engineer-intern--summer2027--onsite-_01880018",
     "job:workday:globalhr:electrical-engineer-intern_01874283",
+    "job:workday:globalhr:electrical-engineering-intern---test-solutions_01881321",
     "job:workday:globalhr:electrical-engineering-intern--summer-2027-_01864197-1",
     "job:workday:globalhr:electrical-engineering-intern--summer-2027-_01868034",
     "job:workday:globalhr:electrical-engineering-intern--summer-2027-_01869155",
@@ -27730,6 +27732,7 @@
     "rtx electrical engineer intern test",
     "rtx electrical engineering intern",
     "rtx electrical engineering intern summer 2027",
+    "rtx electrical engineering intern test solutions",
     "rtx electrical firmware winterspring cooponsite",
     "rtx electrical production support engineer intern summer 2027",
     "rtx electrical project engineering intern summer 2027",
