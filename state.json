@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T10:11:59.177286+00:00",
+  "last_checked_utc": "2026-10-08T12:11:34.058085+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3585,6 +3585,7 @@
     "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682365",
     "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202683372",
     "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Governance-and-Management-Intern---Summer-2027_R202682353",
+    "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Co-op_R202683033",
     "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164",
     "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338",
     "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357",
@@ -14456,6 +14457,7 @@
     "cox cox conserves technical intern summer 2027",
     "cox cybersecurity intern summer 2027",
     "cox data governance and management intern",
+    "cox data scientist coop",
     "cox data scientist intern",
     "cox data scientist intern summer 2027 atlanta ga",
     "cox infrastructure automation intern summer 2027",
@@ -21043,6 +21045,7 @@
     "job:workday:cox:cybersecurity-intern---summer-2027_r202682365",
     "job:workday:cox:cybersecurity-intern---summer-2027_r202683372",
     "job:workday:cox:data-governance-and-management-intern---summer-2027_r202682353",
+    "job:workday:cox:data-scientist-co-op_r202683033",
     "job:workday:cox:data-scientist-intern---summer-2027--atlanta--ga-_r202682164",
     "job:workday:cox:infrastructure-automation-intern---summer-2027_r202682338",
     "job:workday:cox:infrastructure-operations-intern---summer-2027_r202682357",
