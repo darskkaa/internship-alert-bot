@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T23:21:43.504521+00:00",
+  "last_checked_utc": "2026-10-08T23:41:53.267655+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10408,6 +10408,7 @@
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647",
@@ -23704,6 +23705,7 @@
     "job:workday:nvidia:research-intern--efficient-deep-learning---2027_jr2025478",
     "job:workday:nvidia:research-intern--fundamental-generative-ai---2027_jr2025406",
     "job:workday:nvidia:research-intern--robotics---summer-2027_jr2025647",
+    "job:workday:nvidia:research-intern--spatial-intelligence---summer-2027_jr2027305",
     "job:workday:nvidia:silicon-software-engineer---system-and-ai--rdss-intern-_jr2025538",
     "job:workday:nvidia:software-cad-engineer--vlsi--rdss-intern-_jr2026181",
     "job:workday:nvidia:software-engineer--simulation-and-virtualization--rdss-intern-_jr2025783",
@@ -26627,6 +26629,7 @@
     "nvidia research intern electronic design automation",
     "nvidia research intern fundamental generative ai 2027",
     "nvidia research intern robotics",
+    "nvidia research intern spatial intelligence summer 2027",
     "nvidia robotics intern phd research",
     "nvidia silicon software engineer system and ai rdss intern",
     "nvidia software cad engineer vlsi rdss intern",
