@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T13:02:26.915807+00:00",
+  "last_checked_utc": "2026-10-08T13:12:01.976072+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10638,6 +10638,7 @@
     "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Engineering-Co-Op_R-31422",
     "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Highland-Heights-KY/IT-Intern_R-34910",
     "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Muscat/Risk-and-Compliance-Intern_R-37129",
+    "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Pozzuoli/AI-Software-Developer-Intern_R-37133",
     "https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Data-Analyst-Intern_JR100964",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-Support-Intern_REQ_0000080506-1",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Guidance-and-Control-Research---Development-Internship_REQ_0000071517-1",
@@ -23678,6 +23679,7 @@
     "job:workday:premierinc:software-engineer-intern_r0008480",
     "job:workday:primient:ai-analyst-intern---summer-2027_jreq7056",
     "job:workday:primient:digital-data---analytics-intern---summer-2027_jreq7011",
+    "job:workday:prysmiangroup:ai-software-developer-intern_r-37133",
     "job:workday:prysmiangroup:engineering-co-op_r-31422",
     "job:workday:prysmiangroup:it-intern_r-34910",
     "job:workday:prysmiangroup:risk-and-compliance-intern_r-37129",
@@ -26954,6 +26956,7 @@
     "protiviti technology consulting intern 2027",
     "prudential financial product and institutional client intern multiple teams",
     "prudential financial public credit summer investment analyst intern portfolio analysis group",
+    "prysmian cables systems ai software developer intern",
     "prysmian cables systems engineering coop",
     "prysmian cables systems it intern",
     "prysmian cables systems risk and compliance intern",
