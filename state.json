@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T19:21:43.307410+00:00",
+  "last_checked_utc": "2026-10-09T19:32:07.773775+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10039,6 +10039,7 @@
     "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461",
     "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Enterprise-SSD-Customer-Support-Engineering_JR111592",
     "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584",
+    "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542",
     "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Technical-Customer-Management--AI_JR109454",
     "https://micron.wd1.myworkdayjobs.com/External/job/Meridian-ID/Intern---Marketing-Analytics_JR109458",
     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
@@ -23580,6 +23581,7 @@
     "job:workday:micron:intern---semiconductor-research---technology-development_jr110876",
     "job:workday:micron:intern---smai-td-ai-engineering-team_jr112991",
     "job:workday:micron:intern---software-engineer_jr108550",
+    "job:workday:micron:intern---ssd-firmware---cicd_jr114542",
     "job:workday:micron:intern---technical-customer-management--ai_jr109454",
     "job:workday:micron:intern---yield-enhancement--data-analysis_jr109076",
     "job:workday:midlandsb:intern---ai-solutions-engineer_jr1461",
@@ -26238,6 +26240,7 @@
     "micron technology intern semiconductor research technology development",
     "micron technology intern smai td ai engineering team",
     "micron technology intern software engineer",
+    "micron technology intern ssd firmware cicd",
     "micron technology intern technical customer management ai",
     "micron technology marketing analytics intern global communications marketing",
     "micron technology product test engineer intern dram",
