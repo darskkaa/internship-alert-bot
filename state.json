@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T21:42:37.242988+00:00",
+  "last_checked_utc": "2026-10-09T22:11:55.095397+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1766,6 +1766,7 @@
     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658",
     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Mechanical-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2630657",
     "https://amat.wd1.myworkdayjobs.com/External/job/HefeiCHN/Customer-Engineer-Intern_R2628378",
+    "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Business-Operations-Technical-Porject-Manger-Intern--Bachelor-s--Santa-Clara--CA-_R2628088",
     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Global-Product-Support-Intern--Master-s--Santa-Clara--CA-_R2628947",
     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineer-Intern--Master-s--Santa-Clara--CA-_R2630072",
@@ -13303,6 +13304,7 @@
     "applied materials intern working student mfd for pvd display engineering in alzenau",
     "applied materials mechanical engineer intern",
     "applied materials software engineering intern masters",
+    "applied materials software engineering summer intern masters santa clara ca",
     "applied materials summer 2027 business operations technical project manger intern bachelors santa clara ca",
     "applied materials summer 2027 global technical learning center data analyst intern bachelorsmasters albany ny",
     "applied materials summer 2027 industrial engineer intern masters santa clara ca",
@@ -20684,6 +20686,7 @@
     "job:workday:amat:customer-engineer-intern_r2628378",
     "job:workday:amat:intern---working-student--m-f-d--for-pvd-display-engineering-in-alzenau_r2627143",
     "job:workday:amat:mechanical-engineer--intern-_r2626998",
+    "job:workday:amat:software-engineering-summer-intern--masters---santa-clara--ca-_r2630705",
     "job:workday:amat:summer-2027-business-operations-technical-porject-manger-intern--bachelor-s--santa-clara--ca-_r2628088",
     "job:workday:amat:summer-2027-global-product-support-intern--master-s--santa-clara--ca-_r2628947",
     "job:workday:amat:summer-2027-global-technical-learning-center-data-analyst-intern--bachelor-s-master-s--albany--ny-_r2627551",
