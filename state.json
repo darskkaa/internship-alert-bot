@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T21:11:55.240367+00:00",
+  "last_checked_utc": "2026-10-09T21:21:44.785585+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4540,6 +4540,7 @@
     "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076",
     "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/San-Jose/Technical-Program-Manager-1---Former-Intern_RP1038860",
     "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073",
+    "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/MPF-Servicing-Portfolio-Management-Intern_R2600490-1",
     "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477",
     "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---Credit-Risk_R2600436",
     "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---Enterprise-Risk-Management_R2600437",
@@ -15563,6 +15564,7 @@
     "fenwick west forward deployed operations intern",
     "fermilab valor vettech electrical internship summer 2027",
     "fhlbank chicago ai intern",
+    "fhlbank chicago mpf servicing portfolio management intern",
     "fhlbank chicago summer internship ai intern",
     "fhlbank chicago summer internship credit risk",
     "fhlbank chicago summer internship enterprise risk management",
@@ -21894,6 +21896,7 @@
     "job:workday:ffive:software-development-engineer-intern--seattle--wa-_rp1039073",
     "job:workday:ffive:software-engineering-intern_rp1038785",
     "job:workday:ffive:technical-program-manager-1---former-intern_rp1038860",
+    "job:workday:fhlbc:mpf-servicing-portfolio-management-intern_r2600490-1",
     "job:workday:fhlbc:summer-internship---ai-intern_r2600477",
     "job:workday:fhlbc:summer-internship---credit-risk_r2600436",
     "job:workday:fhlbc:summer-internship---enterprise-risk-management_r2600437",
