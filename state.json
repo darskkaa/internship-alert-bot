@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T14:32:49.097978+00:00",
+  "last_checked_utc": "2026-10-09T14:36:29.536306+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3872,6 +3872,7 @@
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017573",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017625",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017705",
+    "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435",
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997",
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606194",
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606457",
@@ -19444,6 +19445,7 @@
     "job:oracle:edbz.fa.us2.oraclecloud.com:25017573",
     "job:oracle:edbz.fa.us2.oraclecloud.com:25017625",
     "job:oracle:edbz.fa.us2.oraclecloud.com:25017705",
+    "job:oracle:eedu.fa.em3.oraclecloud.com:202605435",
     "job:oracle:eedu.fa.em3.oraclecloud.com:202605997",
     "job:oracle:eedu.fa.em3.oraclecloud.com:202606194",
     "job:oracle:eedu.fa.em3.oraclecloud.com:202606457",
@@ -28290,6 +28292,7 @@
     "schonfeld data science intern",
     "schonfeld fixed income intern",
     "schonfeld quant developer intern discretionary macro fixed income",
+    "schonfeld quantitative developer intern",
     "schonfeld quantitative research developer intern",
     "schonfeld quantitative research intern",
     "schonfeld quantitative researcher intern",
@@ -30061,6 +30064,7 @@
     "wtw early careers corporate risk and broking broking placement internship canada 2027",
     "wtw early careers health equity and wellbeing hew internship new york summer 2027",
     "wtw early careers intern conversion corporate risk and broking risk analytics enterprise risk consulting 2027",
+    "wtw software developer intern",
     "wurl data science intern",
     "ww grainger business analyst intern",
     "ww grainger business systems analyst intern",
