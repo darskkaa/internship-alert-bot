@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-08T23:41:53.267655+00:00",
+  "last_checked_utc": "2026-10-09T00:41:45.053681+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1517,6 +1517,8 @@
     "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R016758",
     "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740",
     "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Space-Object-Risk-Graduate-Intern_R016458",
+    "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Space-Systems-Architect-Graduate-Intern_R016773",
+    "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Space-Systems-Architecture-Undergrad-Intern_R016772",
     "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Systems-Integration-and-Test-Engineer-Graduate-Intern_R016696",
     "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2027-Systems-of-Systems-Portfolio-Analysis-Undergraduate-Intern_R016462",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
@@ -20228,6 +20230,8 @@
     "job:workday:aero:xmlname-2027-software-tools-and-assurance-engineering-grad-intern_r016753",
     "job:workday:aero:xmlname-2027-software-tools-and-assurance-intern_r016429",
     "job:workday:aero:xmlname-2027-space-object-risk-graduate-intern_r016458",
+    "job:workday:aero:xmlname-2027-space-systems-architect-graduate-intern_r016773",
+    "job:workday:aero:xmlname-2027-space-systems-architecture-undergrad-intern_r016772",
     "job:workday:aero:xmlname-2027-space-vehicle-and-ground-systems-graduate-intern_r016692",
     "job:workday:aero:xmlname-2027-space-vehicle-and-ground-systems-undergraduate-intern_r016691",
     "job:workday:aero:xmlname-2027-systems-integration-and-test-engineer-graduate-intern_r016696",
@@ -28812,6 +28816,8 @@
     "the aerospace corporation 2027 software tools and assurance engineering grad intern",
     "the aerospace corporation 2027 software tools and assurance intern",
     "the aerospace corporation 2027 space object risk graduate intern",
+    "the aerospace corporation 2027 space systems architect graduate intern",
+    "the aerospace corporation 2027 space systems architecture undergrad intern",
     "the aerospace corporation 2027 space vehicle and ground systems graduate intern",
     "the aerospace corporation 2027 space vehicle and ground systems undergraduate intern",
     "the aerospace corporation 2027 systems integration and test engineer graduate intern",
