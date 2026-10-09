@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T16:32:18.569996+00:00",
+  "last_checked_utc": "2026-10-09T16:51:51.023403+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1716,6 +1716,7 @@
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Process-Engineering-Intern---Summer-2027---Decherd--TN_R00214742",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Digital-Products---AI-Strategy-Intern---Summer-2027---Franklin--TN_R00214215",
+    "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/IS-IT-Intern---Summer-2027---Franklin--TN_R00214212",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Pricing-and-Cross-Car-Line-Analytics-Intern---Franklin--TN---Summer-2027_R00214245",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Safety-Engineering-Intern---Summer-2027---Franklin--TN-and-Smyrna--TN_R00214249",
@@ -20512,6 +20513,7 @@
     "job:workday:alliance:body-engineering-intern---summer-2027---canton--ms_r00214253",
     "job:workday:alliance:connected-car-business-development-intern---summer-2027---franklin--tn_r00214270",
     "job:workday:alliance:digital-products---ai-strategy-intern---summer-2027---franklin--tn_r00214215",
+    "job:workday:alliance:ea---cloud-intern---summer-2027---franklin--tn_r00214214",
     "job:workday:alliance:facilities-engineering-intern---summer-2027---decherd--tn_r00214273",
     "job:workday:alliance:facilities-engineering-intern---summer-2027---smyrna--tn_r00215063",
     "job:workday:alliance:field-quality-investigations-engineering-intern---summer-2027---smyrna--tn_r00214248",
@@ -26553,6 +26555,7 @@
     "nissan global body engineering intern summer 2027 canton ms",
     "nissan global connected car business development intern",
     "nissan global digital products ai strategy intern summer 2027 franklin tn",
+    "nissan global ea cloud intern summer 2027 franklin tn",
     "nissan global facilities engineering intern summer 2027 decherd tn",
     "nissan global facilities engineering intern summer 2027 smyrna tn",
     "nissan global field quality investigations engineering intern summer 2027 smyrna tn",
