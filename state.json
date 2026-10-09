@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T11:51:50.910844+00:00",
+  "last_checked_utc": "2026-10-09T12:12:34.673403+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10102,6 +10102,7 @@
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/GBR---London---London-Moorgate-WeWork/Student-Placement---IT-Developer-Analyst_R418573",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/IRL---Carlow---Carlow/New-Product-Introduction--Technical-Engineering-Internship_R412067",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/IRL---Tipperary---Ballydine/Engineering-Department-Intern_R411420",
+    "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---Formulation----Discovery-and-Technology-Research_R421952-1",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Optical-Imaging-Data-Science-Intern---Intern_R412885",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Data-Analytics-and-Insights---Intern_R413657",
@@ -23500,6 +23501,7 @@
     "job:workday:mpc:process-engineer-1_00022582",
     "job:workday:mpc:refining-chemical-engineering-intern-co-op-summer-2027_00024022",
     "job:workday:msd:engineering-department-intern_r411420",
+    "job:workday:msd:intern---formulation----discovery-and-technology-research_r421952-1",
     "job:workday:msd:new-product-introduction--technical-engineering-internship_r412067",
     "job:workday:msd:student-placement---it-developer-analyst_r418573",
     "job:workday:msd:xmlname-2027-future-talent-program---ai-ml-computational-toxicology---intern_r412871",
@@ -25909,6 +25911,7 @@
     "merck global data management and standards intern",
     "merck information science intern future talent program",
     "merck intern",
+    "merck intern formulation discovery and technology research",
     "merck it developer analyst intern",
     "merck medical data scientist intern",
     "merck new product introduction technical engineering internship",
