@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T08:12:19.001588+00:00",
+  "last_checked_utc": "2026-10-09T08:21:46.625668+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2027,6 +2027,7 @@
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388",
+    "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Mechanical-Engineering-Intern---Tooling_J000704864",
     "https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Data-and-Analytics-Intern_R26_845",
@@ -13158,6 +13159,7 @@
     "applied materials \u5ba2\u6237\u670d\u52a1\u5de5\u7a0b\u5e08\u5b9e\u4e60\u5c97customer engineer intern",
     "aptiv embedded software engineering intern",
     "aptiv engineering intern",
+    "aptiv intern compiler team",
     "aptiv linux software development intern",
     "aptiv manufacturing engineering intern metal technology",
     "aptiv mechanical engineering intern tooling",
@@ -20594,6 +20596,7 @@
     "job:workday:aptiv:embedded-software---engineering-intern_j000704386",
     "job:workday:aptiv:engineering-intern_j000704387",
     "job:workday:aptiv:engineering-intern_j000704388",
+    "job:workday:aptiv:intern---compiler-team_j000704385",
     "job:workday:aptiv:linux-software-development-intern_j000704398",
     "job:workday:aptiv:linux-software-development-intern_j000704399",
     "job:workday:aptiv:manufacturing-engineering-intern---metal-technology_j000704863",
