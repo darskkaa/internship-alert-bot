@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T14:36:29.536306+00:00",
+  "last_checked_utc": "2026-10-09T14:42:14.913853+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2783,6 +2783,7 @@
     "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108",
     "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/HOME-CA/AI---Agentic-AI---GenAI-Intern---IT--Fall-2026-_R56657",
     "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873",
+    "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
     "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904",
     "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Student---Intern---Network-Services_123912",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/Atlanta-GA-and-surrounding-areas/Exoskeleton-Design-and-Rehabilitation-Engineering-Intern_R8691",
@@ -14135,6 +14136,7 @@
     "cadence design systems software intern",
     "cadence solutions product management intern",
     "cadence solutions software engineer intern",
+    "cae cfin275 software engineering intern ai automation and business intelligence",
     "cae software developer coop",
     "cae student intern network services",
     "cae weapons simulation software coop",
@@ -21123,6 +21125,7 @@
     "job:workday:cadence:product-engineering-internship--electronics-hardware-design--fall-2026-_r54158-2",
     "job:workday:cadence:software-intern_r53282",
     "job:workday:cadence:software-intern_r53282-1",
+    "job:workday:cae:c-fin-275-software-engineering-intern--ai--automation-and-business-intelligence_123477-1",
     "job:workday:cae:software-developer-coop_123904",
     "job:workday:cae:student---intern---network-services_123912",
     "job:workday:cae:weapons-simulation-software-co-op_123873",
