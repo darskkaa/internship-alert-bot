@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T18:32:01.815835+00:00",
+  "last_checked_utc": "2026-10-09T18:41:58.804874+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3447,6 +3447,7 @@
     "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Milwaukee-WI-United-States-of-America/Intern---Associate-Portfolio-Representative---Starting-2027_R49512-1",
     "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Minneapolis-MN-United-States-of-America/Intern---Associate-Portfolio-Executive-Summer-2027_R49739-1",
     "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Oakbrook-Terrace-IL-United-States-of-America/Intern---Associate-Portfolio-Executive---Summer-2027_R49513-1",
+    "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Orange-CA-United-States-of-America/Intern---Capacity-Portfolio-Representative-Starting-Summer-2027_R49436-1",
     "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Plano-TX-United-States-of-America/Intern---Capacity-Portfolio-Representative-Starting-Summer-2027_R49435-1",
     "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686",
     "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Princeton-NJ/XMLNAME-2027-Undergraduate-Packaging-Engineer-Co-Op_R2026-15611",
@@ -10080,6 +10081,7 @@
     "https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Reliability-Engineer-Intern_R9818-1",
     "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756",
     "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Applications-Engineer-Intern_R-2025",
+    "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Applications-Engineer-Intern_R-2030",
     "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Applications-Engineering-Intern_R-2041",
     "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Field-Applications-Engineer-Intern--MPSNow-_R-2003",
     "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Product-Marketing-Engineer-Intern--Server-Telecom_R-1965-1",
@@ -21358,6 +21360,7 @@
     "job:workday:chrobinson:intern---capacity-portfolio-representative-starting-summer-2027_r49433-1",
     "job:workday:chrobinson:intern---capacity-portfolio-representative-starting-summer-2027_r49434-1",
     "job:workday:chrobinson:intern---capacity-portfolio-representative-starting-summer-2027_r49435-1",
+    "job:workday:chrobinson:intern---capacity-portfolio-representative-starting-summer-2027_r49436-1",
     "job:workday:chrobinson:intern---capacity-portfolio-representative-starting-summer-2027_r49437-1",
     "job:workday:chrobinson:intern---capacity-portfolio-representative-summer-2027_r49514-1",
     "job:workday:chrobinson:intern---capacity-portfolio-representative-summer-2027_r49654-1",
@@ -23601,6 +23604,7 @@
     "job:workday:momentive:summer-2027-reliability-engineer-intern_r9818-1",
     "job:workday:monolithicpower:ai-developer-intern_r-1756",
     "job:workday:monolithicpower:applications-engineer-intern_r-2025",
+    "job:workday:monolithicpower:applications-engineer-intern_r-2030",
     "job:workday:monolithicpower:applications-engineering-intern_r-2041",
     "job:workday:monolithicpower:field-applications-engineer-intern--mpsnow-_r-2003",
     "job:workday:monolithicpower:product-marketing-engineer-intern--server-telecom_r-1965-1",
