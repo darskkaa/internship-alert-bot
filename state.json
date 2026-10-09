@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T04:31:56.934775+00:00",
+  "last_checked_utc": "2026-10-09T04:41:42.833838+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11183,6 +11183,7 @@
     "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern---Computational-Medicinal-Chemistry--Cambridge--MA_R2865701",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Consumer-Experience-Product-Design-Cambridge-MA_R2866238",
+    "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Scoppito/Launches-Project-Portfolio-Management-Internship_R2874543",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Virology-Platform-Global-Antigen-Design--Waltham--MA_R2852131",
     "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/Intern---Data-Steward_Req1611816",
@@ -24342,6 +24343,7 @@
     "job:workday:salesforce:summer-2027-intern---tableau-research_jr363252",
     "job:workday:salesforce:summer-2027-intern---tableau-research_jr363252-1",
     "job:workday:sanofi:launches-project-portfolio-management-internship_r2874543",
+    "job:workday:sanofi:xmlname-2027-spring-co-op-data-science---digital-transformation--framingham--ma_r2854091",
     "job:workday:sanofi:xmlname-2027-spring-co-op-virology-platform-global-antigen-design--waltham--ma_r2852131",
     "job:workday:sanofi:xmlname-2027-summer-intern---computational-medicinal-chemistry--cambridge--ma_r2865701",
     "job:workday:sanofi:xmlname-2027-summer-intern-consumer-experience-product-design-cambridge-ma_r2866238",
@@ -28109,6 +28111,7 @@
     "samsara software engineering internship san francisco",
     "samsung research america dont see internships you are looking for",
     "sandhills global software development intern",
+    "sanofi 2027 spring coop data science digital transformation framingham ma",
     "sanofi 2027 spring coop virology platform global antigen design waltham ma",
     "sanofi 2027 summer intern computational medicinal chemistry cambridge ma",
     "sanofi 2027 summer intern consumer experience product design cambridge ma",
