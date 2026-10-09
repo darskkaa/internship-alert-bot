@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T07:02:34.989864+00:00",
+  "last_checked_utc": "2026-10-09T07:32:53.382674+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11781,6 +11781,7 @@
     "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op_REQ2026080361",
     "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Test-Tools-Engineering-Intern--Year-Round-_REQ2026079972",
     "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Internship--ICT-Service-Centre-Support-Engineer_JR35998",
+    "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Internship--Management-Systems---Business-Analysis_JR38332",
     "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/internship--Integrated-Financial---Sustainability-Analytics_JR38135",
     "https://vanguard.wd5.myworkdayjobs.com/contractors_restricted/job/Charlotte-NC/Data-Product-Analyst-Co-op_182921",
     "https://vanguard.wd5.myworkdayjobs.com/contractors_restricted/job/Malvern-PA/AfroTech---IT-Internship-Co-op---Entry-Level-Full-Time-Opportunities_182922",
@@ -24836,6 +24837,7 @@
     "job:workday:valeo:test-tools-engineering-intern--year-round-_req2026079972",
     "job:workday:vanderlande:internship--ict-service-centre-support-engineer_jr35998",
     "job:workday:vanderlande:internship--integrated-financial---sustainability-analytics_jr38135",
+    "job:workday:vanderlande:internship--management-systems---business-analysis_jr38332",
     "job:workday:vanguard:afrotech---it-internship-co-op---entry-level-full-time-opportunities_182922",
     "job:workday:vanguard:college-to-corporate-it-internship---application-development---tx-_181846",
     "job:workday:vanguard:college-to-corporate-it-internship---application-development--nc-_177681-1",
@@ -29481,6 +29483,7 @@
     "valstad software engineering intern 3d manufacturing applications",
     "vanderlande industries internship ict service centre support engineer",
     "vanderlande industries internship integrated financial sustainability analytics",
+    "vanderlande industries internship management systems business analysis",
     "vanguard afrotech it internshipcoop entry level full time opportunities",
     "vanguard application development intern",
     "vanguard college to corporate investment systems intern",
