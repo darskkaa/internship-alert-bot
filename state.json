@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T21:02:26.979309+00:00",
+  "last_checked_utc": "2026-10-09T21:11:55.240367+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5062,6 +5062,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern---Systems-Engineer--Onsite-_01868046",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern--Systems-Engineer--Onsite-_01868477",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Systems-Engineering-Intern_01872537",
+    "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Industrial-Engineering-Intern--Fall-2026---Remote-_01881164",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN05--10--50-Moulton-St--MOULTON-B5/Summer-2027-Cyber-Intern---Onsite_01879253",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/XMLNAME-2027-Network-Research-Intern--Next-Gen-Networks-R-D--Onsite-_01878394",
@@ -22346,6 +22347,7 @@
     "job:workday:globalhr:industrial-engineering-co-op--spring-summer-2027-_01874876",
     "job:workday:globalhr:industrial-engineering-co-op--spring-summer-2027-_01879702",
     "job:workday:globalhr:industrial-engineering-co-op--spring-summer-2027-_01879706",
+    "job:workday:globalhr:industrial-engineering-intern--fall-2026---remote-_01881164",
     "job:workday:globalhr:industrial-engineering-intern--summer-2027-_01879158",
     "job:workday:globalhr:industrial-engineering-intern--summer-2027-_01879919",
     "job:workday:globalhr:information-systems-engineer-intern_01877969",
@@ -28333,6 +28335,7 @@
     "rtx fpga engineering intern summer 2027onsite",
     "rtx hf systems intern onsite",
     "rtx industrial engineering coop springsummer 2027",
+    "rtx industrial engineering intern fall 2026 remote",
     "rtx industrial engineering intern summer 2027",
     "rtx information systems engineer intern",
     "rtx intern conversionsystems engineer i onsite",
