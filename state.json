@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T13:32:29.716094+00:00",
+  "last_checked_utc": "2026-10-09T13:42:04.799140+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2607,6 +2607,7 @@
     "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271",
     "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270",
     "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251",
+    "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-Op_R29275",
     "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Co-op----Audio-Tech_R29278",
     "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Associate-Customer-Quality-Engineer-Co-op_R29223",
     "https://bostonscientific.eightfold.ai/careers/job/563602813483103",
@@ -13871,6 +13872,7 @@
     "bose data analytics engineer coop",
     "bose data engineer coop",
     "bose data science coop nlp genai",
+    "bose electrical engineering coop",
     "bose embedded software engineer coop audio tech",
     "bose supply chain data analytics analyst coop",
     "boston scientific data engineer intern",
@@ -20968,6 +20970,7 @@
     "job:workday:boseallaboutme:data-analytics-engineer-co-op_r29271",
     "job:workday:boseallaboutme:data-engineer-co-op_r29270",
     "job:workday:boseallaboutme:data-science-co-op--nlp---genai-_r29251",
+    "job:workday:boseallaboutme:electrical-engineering-co-op_r29275",
     "job:workday:boseallaboutme:embedded-software-engineer-co-op----audio-tech_r29278",
     "job:workday:boseallaboutme:supply-chain---data-analytics---analyst-co-op_r29240",
     "job:workday:bpinternational:summer-intern---chemical-process-engineer---sophomore---blaine--wa_rq115374",
