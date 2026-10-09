@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T14:21:57.074786+00:00",
+  "last_checked_utc": "2026-10-09T14:32:49.097978+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3807,6 +3807,7 @@
     "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44732",
     "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44741",
     "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44969",
+    "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45023",
     "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/252684",
     "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/252714",
     "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253136",
@@ -13222,6 +13223,7 @@
     "arcadis electrical engineering intern coop",
     "arcadis environmental engineer intern",
     "arcadis structural engineer intern",
+    "arcadis water engineer coopintern",
     "arch capital group data and analytics intern",
     "arch capital group security operations intern",
     "architect labs member of technical staff research intern",
@@ -19402,6 +19404,7 @@
     "job:oracle:ebcs.fa.em2.oraclecloud.com:44732",
     "job:oracle:ebcs.fa.em2.oraclecloud.com:44741",
     "job:oracle:ebcs.fa.em2.oraclecloud.com:44969",
+    "job:oracle:ebcs.fa.em2.oraclecloud.com:45023",
     "job:oracle:ebgj.fa.us2.oraclecloud.com:252684",
     "job:oracle:ebgj.fa.us2.oraclecloud.com:252714",
     "job:oracle:ebgj.fa.us2.oraclecloud.com:253136",
