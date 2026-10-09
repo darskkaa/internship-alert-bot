@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T12:12:34.673403+00:00",
+  "last_checked_utc": "2026-10-09T12:22:16.174384+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11604,6 +11604,7 @@
     "https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/Year-Round-Intern---Automation-Testing-Frameworks_REQ-4834",
     "https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/Year-Round-Intern---Business-Systems-Analysis_REQ-4835",
     "https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/Year-Round-Intern---Stress-Testing---Liquidity-Management_REQ-4869",
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Internship---Scientist---Advanced-Technology_R-01345917",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Grand-Island-New-York-USA/Manufacturing-Engineering-Intern_R-01366890-1",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ho-Chi-Minh-City-Vietnam/Sr-Operations-Data-Analytics-Intern_R-01366619",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/XMLNAME-2027-IT---Digital-Internship_R-01366217",
@@ -24727,6 +24728,7 @@
     "job:workday:theocc:year-round-intern---data_req-4846",
     "job:workday:theocc:year-round-intern---desktop-engineering_req-4847",
     "job:workday:theocc:year-round-intern---stress-testing---liquidity-management_req-4869",
+    "job:workday:thermofisher:internship---scientist---advanced-technology_r-01345917",
     "job:workday:thermofisher:manufacturing-engineering-intern_r-01366890-1",
     "job:workday:thermofisher:project-engineering-co-op_r-01366590",
     "job:workday:thermofisher:sr-operations-data-analytics-intern_r-01366619",
@@ -29091,6 +29093,7 @@
     "thea energy integrated modeling intern springsummer 2027",
     "thea energy physics intern springsummer 2027",
     "thermo fisher scientific 2027 it digital internship",
+    "thermo fisher scientific internship scientist advanced technology",
     "thermo fisher scientific manufacturing engineering intern",
     "thermo fisher scientific project engineering coop",
     "thermo fisher scientific senior operations data analytics intern",
