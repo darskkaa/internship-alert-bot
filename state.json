@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-09T23:41:52.055167+00:00",
+  "last_checked_utc": "2026-10-10T00:42:01.235384+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2364,6 +2364,7 @@
     "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Process-Engineer--Hybrid-_R-102322",
     "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Structural-Engineer--Hybrid-_R-102314",
     "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Internship---GIS-Specialist--Hybrid-_R-102305-1",
+    "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133",
     "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444",
     "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1",
     "https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Associate-Software-Engineer-Co-op_JR-207560-1",
@@ -13728,6 +13729,7 @@
     "barr internship structural engineer hybrid",
     "barr internship water resources engineer hybrid",
     "barrios data and computer engineeringcomputer science intern",
+    "barrywehmiller software engineering intern dal",
     "base power accounting intern",
     "base power business operations intern commercial ops analytics",
     "base power business operations intern commercial partnerships",
@@ -21151,6 +21153,7 @@
     "job:workday:barr:internship---structural-engineer--hybrid-_r-102315",
     "job:workday:barr:internship---structural-engineer--hybrid-_r-102316",
     "job:workday:barr:internship---water-resources-engineer--hybrid-_r-102303",
+    "job:workday:barrywehmiller:software-engineering-intern---dal_r023133",
     "job:workday:basspro:cybersecurity-intern-summer-2027_r267444",
     "job:workday:basspro:it-developer-intern-summer-2027_r267441-1",
     "job:workday:baxter:associate-software-engineer-co-op_jr-207560-1",
