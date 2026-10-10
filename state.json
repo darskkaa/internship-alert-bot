@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-10T10:41:24.762425+00:00",
+  "last_checked_utc": "2026-10-10T17:51:37.781168+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -23655,6 +23655,8 @@
     "job:workday:marvell:test-engineering-intern--ms---summer-2027_2604002-1",
     "job:workday:marvell:test-equipment-engineer-intern_2603826",
     "job:workday:marvell:test-equipment-engineer-intern_2603826-1",
+    "job:workday:marvell:test-solutions-engineering-intern--bs---summer-2027_2603835",
+    "job:workday:marvell:test-solutions-engineering-intern--bs---summer-2027_2603835-1",
     "job:workday:massgeneralbrigham:bft-ccm-bft-summer-undergraduate-internship--research-animal-specialist_rq4052643",
     "job:workday:massgeneralbrigham:information-security-intern_rq4078693",
     "job:workday:mastercard:corporate-security-operations-intern--summer-2027---st-louis--mo--us_r-284925",
@@ -26219,6 +26221,7 @@
     "marvell test engineering intern ms summer 2027",
     "marvell test equipment engineer intern",
     "marvell test solutions engineering intern bs postsilicon hardware validation",
+    "marvell test solutions engineering intern bs summer 2027",
     "mass general brigham bft ccm bft summer undergraduate internship research animal specialist",
     "mass general brigham information security intern",
     "mastercard corporate security operations intern summer 2027 st louis mo us",
