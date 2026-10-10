@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-10T04:21:40.628833+00:00",
+  "last_checked_utc": "2026-10-10T07:22:39.130179+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10616,6 +10616,7 @@
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship----Robotics_R-10062364",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship-People-Operations-Automation_R-10066663",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship-Thesis---Signal-Processing-and-AI-for-autonomous-driving-_R-10064090",
+    "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Master-Thesis-Internship---AI-Driven-Transistor-Design-Exploration_R-10067224",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Master-Thesis-Internship---Intelligent-Thread-across-Semiconductor-Product-Lifecycle_R-10067003-1",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship---Digital-Design---Generative-AI-Support--m-f-d-_R-10064592",
@@ -24201,6 +24202,7 @@
     "job:workday:nxp:internship-people-operations-automation_r-10066663",
     "job:workday:nxp:internship-student-analog-mixed-signal-verification-f-m_r-10064672",
     "job:workday:nxp:internship-thesis---signal-processing-and-ai-for-autonomous-driving-_r-10064090",
+    "job:workday:nxp:master-thesis-internship---ai-driven-transistor-design-exploration_r-10067224",
     "job:workday:nxp:master-thesis-internship---intelligent-thread-across-semiconductor-product-lifecycle_r-10067003-1",
     "job:workday:nxp:photo-metro-equipment-engineering-intern---summer-2027_r-10064580",
     "job:workday:nxp:project-engineer---project-management-intern---summer-2027_r-10064585",
@@ -27206,6 +27208,7 @@
     "nxp semiconductors internship software test engineer javacard applications mfd",
     "nxp semiconductors internship student analog mixed signal verification fm",
     "nxp semiconductors internshipthesis signal processing and ai for autonomous driving",
+    "nxp semiconductors master thesis internship aidriven transistor design exploration",
     "nxp semiconductors master thesis internship intelligent thread across semiconductor product lifecycle",
     "nxp semiconductors microcontrollers system engineering intern",
     "nxp semiconductors photometro equipment engineering intern summer 2027",
