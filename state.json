@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-10T07:22:39.130179+00:00",
+  "last_checked_utc": "2026-10-10T09:41:48.177214+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12165,6 +12165,7 @@
     "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
     "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808",
     "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
+    "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813",
     "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811",
     "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
     "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-2027-Intern---Security---GRC_R12353",
@@ -25381,6 +25382,7 @@
     "job:workday:workday:machine-learning-engineer-intern_jr-0110806",
     "job:workday:workday:machine-learning-engineer-intern_jr-0110812",
     "job:workday:workday:product-manager-intern_jr-0110808",
+    "job:workday:workday:product-manager-intern_jr-0110813",
     "job:workday:workday:software-application-development-engineer-intern_jr-0110811",
     "job:workday:workday:software-development-engineer-intern_jr-0110810",
     "job:workday:workiva:spring---summer-2027-intern---security---grc_r12353",
