@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-11T20:51:55.911744+00:00",
+  "last_checked_utc": "2026-10-11T21:02:54.395012+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9361,6 +9361,7 @@
     "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403",
     "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Data-Science---Oncology_2630590",
+    "https://labcorp.wd1.myworkdayjobs.com/external/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Flow-Cytometry-Scientist_2634673",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---AWS-PostgreSQL-Database-Administrator_2632108",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795",
@@ -23380,6 +23381,7 @@
     "job:workday:labcorp:intern---commercial-analytics_2633615",
     "job:workday:labcorp:intern---data-science---oncology_2630590",
     "job:workday:labcorp:intern---financial-analytics---technology_2630761",
+    "job:workday:labcorp:intern---flow-cytometry-scientist_2634673",
     "job:workday:labcorp:intern---it-product-manager_2632185",
     "job:workday:labcorp:intern---network-infrastructure---automation-engineering_2632795",
     "job:workday:labcorp:intern---software-developer_2632330",
@@ -25817,6 +25819,7 @@
     "labcorp financial analytics technology intern financial analytics team",
     "labcorp intern aws postgresql database administrator",
     "labcorp intern data science oncology",
+    "labcorp intern flow cytometry scientist",
     "labcorp intern network infrastructure automation engineering",
     "labcorp intern software developer",
     "labcorp it product manager intern payer team",
