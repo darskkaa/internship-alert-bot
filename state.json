@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-12T15:59:16.109151+00:00",
+  "last_checked_utc": "2026-10-12T16:02:25.564176+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1464,6 +1464,7 @@
     "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125",
     "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Inside-Technical-Sales-Intern---Summer-2027_JR00044477",
     "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Market-Research---Analysis-Intern---Summer-2027_JR00045583",
+    "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568",
     "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Raleigh/Multiphysics---Engineering-Intern--Summer-2027_JR00048430",
     "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977",
     "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388",
@@ -20665,6 +20666,7 @@
     "job:workday:abb:inside-technical-sales-intern---summer-2027_jr00044477",
     "job:workday:abb:is-common-infrastructure-intern--summer-2027_jr00047125",
     "job:workday:abb:manufacturing-engineering-intern---summer-2027_jr00044977",
+    "job:workday:abb:manufacturing-engineering-intern---summer-2027_jr00047568",
     "job:workday:abb:market-research---analysis-intern---summer-2027_jr00045583",
     "job:workday:abb:mechanical-design-engineer-intern--summer-2027_jr00045727",
     "job:workday:abb:multiphysics---engineering-intern--summer-2027_jr00048430",
