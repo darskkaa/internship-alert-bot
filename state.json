@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-12T17:21:39.969028+00:00",
+  "last_checked_utc": "2026-10-12T17:32:37.186024+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1725,6 +1725,7 @@
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Process-Engineering-Intern---Summer-2027---Decherd--TN_R00214742",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290",
+    "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Corporate-Security-Intern---Summer-2027---Franklin--TN_R00214220",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Digital-Products---AI-Strategy-Intern---Summer-2027---Franklin--TN_R00214215",
@@ -20935,6 +20936,7 @@
     "job:workday:allegion:summer-intern---user-experience--ux-_jr37673-1",
     "job:workday:allegion:summer-intern--user-experience--ux--research_jr37497",
     "job:workday:allegion:summer-intern-mechanical-engineering_jr37420-1",
+    "job:workday:alliance:ai---data-analytics-intern---summer-2027---irving--tx-or-franklin--tn_r00214223",
     "job:workday:alliance:ai-agent-architect---summer-2027---farmington-hills--mi_r00214218",
     "job:workday:alliance:autonomous-driving-applications-research-intern_r00209383",
     "job:workday:alliance:body-engineering-intern---summer-2027---canton--ms_r00214253",
@@ -27174,6 +27176,7 @@
     "nisource software engineer intern",
     "nissan digital products ai strategy intern summer 2027 franklin tn",
     "nissan global ai agent architect intern",
+    "nissan global ai data analytics intern summer 2027 irving tx or franklin tn",
     "nissan global autonomous driving applications research intern",
     "nissan global body engineering intern summer 2027 canton ms",
     "nissan global connected car business development intern",
