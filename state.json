@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-12T16:12:11.686585+00:00",
+  "last_checked_utc": "2026-10-12T16:22:04.775368+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4720,6 +4720,9 @@
     "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1",
     "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2",
     "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237",
+    "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404-1",
+    "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405-2",
+    "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406-1",
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078",
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078?utm_source=Simplify&ref=Simplify",
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027---Returning-Students_R5030174-1",
@@ -22295,8 +22298,11 @@
     "job:workday:gdit:summer-2027-software-developer-internship_rq225469-1",
     "job:workday:gdit:summer-2027-software-developer-internship_rq225717-1",
     "job:workday:gdit:summer-2027-software-development-internship_rq228404",
+    "job:workday:gdit:summer-2027-software-development-internship_rq228404-1",
     "job:workday:gdit:summer-2027-software-development-internship_rq228405",
+    "job:workday:gdit:summer-2027-software-development-internship_rq228405-2",
     "job:workday:gdit:summer-2027-software-development-internship_rq228406",
+    "job:workday:gdit:summer-2027-software-development-internship_rq228406-1",
     "job:workday:geaerospace:digital-technology-intern---us---summer-2027---returning-students_r5030092-2",
     "job:workday:geaerospace:eid-intern---fluids-systems_r5038310-1",
     "job:workday:geaerospace:eid-intern---systems-engineer-intern_r5040963",
