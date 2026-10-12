@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-12T17:32:37.186024+00:00",
+  "last_checked_utc": "2026-10-12T17:41:47.672182+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3837,6 +3837,7 @@
     "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294",
     "https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineer-Intern--Summer-2027-_R16300",
     "https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294",
+    "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Cleveland-NC-US/Logistics-Engineer-Intern_DT-20179-1",
     "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Detroit-MI-US/Battery-Engineering-Intern_DT-20094",
     "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Detroit-MI-US/Performance---OBD-Engineering-Intern_DT-20102",
     "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Detroit-MI-US/Portable-In-Use-Emissions-Test-Engineer-Internship_DT-19974",
@@ -15137,6 +15138,7 @@
     "daimler truck battery engineering intern",
     "daimler truck data science intern",
     "daimler truck functional vehicle testing and validation intern",
+    "daimler truck logistics engineer intern",
     "daimler truck pe design engineer intern",
     "daimler truck performance obd engineering intern",
     "daimler truck portable inuse emissions test engineer internship",
@@ -22037,6 +22039,7 @@
     "job:workday:dtna:battery-engineering-intern_dt-20094",
     "job:workday:dtna:data-science-intern_dt-20166-1",
     "job:workday:dtna:functional-vehicle-testing-and-validation-intern_dt-20134",
+    "job:workday:dtna:logistics-engineer-intern_dt-20179-1",
     "job:workday:dtna:pe-design-engineer-intern_dt-20028",
     "job:workday:dtna:performance---obd-engineering-intern_dt-20102",
     "job:workday:dtna:portable-in-use-emissions-test-engineer-internship_dt-19974",
