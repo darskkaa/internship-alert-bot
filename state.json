@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-12T05:01:46.731652+00:00",
+  "last_checked_utc": "2026-10-12T05:41:41.487076+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11676,6 +11676,7 @@
     "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Office-TC-Energy-Cente/Student-Intern--Engineering_JR-10742",
     "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Intern--Work-Management-Capabilities---Platforms_JR-10951",
     "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Business-Management-Analyst--BMA-_R_1510120",
+    "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Business-Systems-Analyst--BSA-_R_1516078",
     "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cloud-DevOps_R_1510235",
     "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cyber-Security_R_1510103",
     "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236",
@@ -25098,6 +25099,7 @@
     "job:workday:td:cyber-security-co-op-intern---jedi-partnership_r_1512330",
     "job:workday:td:equity-research-intern-co-op_r_1515835",
     "job:workday:td:xmlname-2027-spring-co-op---global-technology---solutions---business-management-analyst--bma-_r_1510120",
+    "job:workday:td:xmlname-2027-spring-co-op---global-technology---solutions---business-systems-analyst--bsa-_r_1516078",
     "job:workday:td:xmlname-2027-spring-co-op---global-technology---solutions---cloud-devops_r_1510235",
     "job:workday:td:xmlname-2027-spring-co-op---global-technology---solutions---cyber-security_r_1510103",
     "job:workday:td:xmlname-2027-spring-co-op---global-technology---solutions---data-analyst_r_1510236",
@@ -29311,6 +29313,7 @@
     "tc energy student intern engineering",
     "tc energy work management capabilities platforms intern",
     "td bank 2027 spring coop global technology solutions business management analyst bma",
+    "td bank 2027 spring coop global technology solutions business systems analyst bsa",
     "td bank 2027 spring coop global technology solutions clouddevops",
     "td bank 2027 spring coop global technology solutions cyber security",
     "td bank 2027 spring coop global technology solutions data analyst",
