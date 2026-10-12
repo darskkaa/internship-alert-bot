@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-12T05:41:41.487076+00:00",
+  "last_checked_utc": "2026-10-12T06:02:02.358453+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11529,6 +11529,7 @@
     "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Electrical-Engineering-Intern--Summer-2027-_R0030741",
     "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Software-Engineering-Intern--Summer-2027-_R0030760",
     "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Ainsworth-NE/Summer-Engineering-Intern---District-8---Ainsworth-and-Valentine_JR2026-00029799",
+    "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Chadron-NE/Summer-Engineering-Intern---District-5---Chadron_JR2026-00029797",
     "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Kearney-NE/Summer-Engineering-Intern---District-4---Kearney_JR2026-00029796",
     "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Geotechnical---Materials-Engineering-Intern_JR2026-00028824",
     "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Student-Intern---Traffic-Engineering_JR2026-00029537",
@@ -24988,6 +24989,7 @@
     "job:workday:son:summer-engineering-intern---district-1---lincoln_jr2026-00029794",
     "job:workday:son:summer-engineering-intern---district-3---norfolk_jr2026-00029795",
     "job:workday:son:summer-engineering-intern---district-4---kearney_jr2026-00029796",
+    "job:workday:son:summer-engineering-intern---district-5---chadron_jr2026-00029797",
     "job:workday:son:summer-engineering-intern---district-6---north-platte_jr2026-00029798",
     "job:workday:son:summer-engineering-intern---district-8---ainsworth-and-valentine_jr2026-00029799",
     "job:workday:sonos:audio-systems-engineering-co-op_r2827-2",
@@ -29126,6 +29128,7 @@
     "state of nebraska summer engineering intern district 1 lincoln",
     "state of nebraska summer engineering intern district 3 norfolk",
     "state of nebraska summer engineering intern district 4 kearney",
+    "state of nebraska summer engineering intern district 5 chadron",
     "state of nebraska summer engineering intern district 6 north platte",
     "state of nebraska summer engineering intern district 8 ainsworth and valentine",
     "state of north carolina data analytics intern",
