@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-11T23:01:53.946255+00:00",
+  "last_checked_utc": "2026-10-12T00:31:49.760654+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3928,6 +3928,7 @@
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606194",
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606457",
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606475",
+    "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606572",
     "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334344",
     "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334345",
     "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334396",
@@ -19711,6 +19712,7 @@
     "job:oracle:eedu.fa.em3.oraclecloud.com:202606194",
     "job:oracle:eedu.fa.em3.oraclecloud.com:202606457",
     "job:oracle:eedu.fa.em3.oraclecloud.com:202606475",
+    "job:oracle:eedu.fa.em3.oraclecloud.com:202606572",
     "job:oracle:eeho.fa.us2.oraclecloud.com:334344",
     "job:oracle:eeho.fa.us2.oraclecloud.com:334345",
     "job:oracle:eeho.fa.us2.oraclecloud.com:334396",
