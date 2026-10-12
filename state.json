@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-12T07:12:24.094472+00:00",
+  "last_checked_utc": "2026-10-12T07:41:48.977753+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3783,6 +3783,8 @@
     "https://dmainc.wd5.myworkdayjobs.com/dma/job/Lisle-IL/IT-Quality-Assurance-Intern---Summer-2027_REQ657",
     "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Internship---Research---Development--BS-MS-_R2068806",
     "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Internship---Research---Development--PhD-_R2068810",
+    "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Terneuzen-NLD/Talent-Pool-for-Campus-Internship-2027---Manufacturing---Engineering_R2069018",
+    "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Terneuzen-NLD/Talent-Pool-for-Campus-Internship-2027---Research---Development_R2069017",
     "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55298",
     "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55872",
     "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55873",
@@ -15181,6 +15183,8 @@
     "dotdash meredith cloud platform engineering intern",
     "dow chemical company 20262027 campus internship research development bsms",
     "dow chemical company 20262027 campus internship research development phd",
+    "dow chemical company talent pool for campus internship 2027 manufacturing engineering",
+    "dow chemical company talent pool for campus internship 2027 research development",
     "dow jones data analyst intern",
     "dow jones data analyst intern internship program",
     "dow jones marketing data science intern",
@@ -21832,6 +21836,8 @@
     "job:workday:dmainc:it-quality-assurance-intern---summer-2027_req657",
     "job:workday:dmainc:it-support-intern---summer-2027_req638-1",
     "job:workday:dmainc:software-development-intern---summer-2027_req636",
+    "job:workday:dow:talent-pool-for-campus-internship-2027---manufacturing---engineering_r2069018",
+    "job:workday:dow:talent-pool-for-campus-internship-2027---research---development_r2069017",
     "job:workday:dow:xmlname-2026-2027-campus-internship---research---development--bs-ms-_r2068806",
     "job:workday:dow:xmlname-2026-2027-campus-internship---research---development--phd-_r2068810",
     "job:workday:dowjones:summer-2027-internship-program---data-analyst-intern_job_req_55294",
