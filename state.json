@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-12T21:51:34.260320+00:00",
+  "last_checked_utc": "2026-10-12T22:02:13.411876+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2065,7 +2065,9 @@
     "https://apply.workable.com/wallstreetquants/j/8CB119E789/",
     "https://apply.workable.com/western-magnetics/j/E366930F3F/",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376",
+    "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375",
+    "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704381",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert---Engineering-Intern_J000704374",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineering-Intern_J000704372",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert-Engineering-Intern_J000704377",
@@ -21281,8 +21283,10 @@
     "job:workday:applebank:xmlname-2027-summer-intern--information-security_2026-1416",
     "job:workday:applebank:xmlname-2027-summer-intern--it-data--analytics----automation_2026-1414",
     "job:workday:aptiv:cloud-engineer-intern_j000704376",
+    "job:workday:aptiv:cloud-engineer-intern_j000704380",
     "job:workday:aptiv:cloud-software-engineer-intern_j000704375",
     "job:workday:aptiv:embedded-software---engineering-intern_j000704386",
+    "job:workday:aptiv:engineering-intern_j000704381",
     "job:workday:aptiv:engineering-intern_j000704387",
     "job:workday:aptiv:engineering-intern_j000704388",
     "job:workday:aptiv:hvp-cert---engineering-intern_j000704374",
