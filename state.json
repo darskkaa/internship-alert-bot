@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-13T23:32:23.546228+00:00",
+  "last_checked_utc": "2026-10-13T23:42:19.756047+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4631,6 +4631,7 @@
     "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40856",
     "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40892",
     "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122",
+    "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41124",
     "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168",
     "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41181",
     "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41182",
@@ -20727,6 +20728,7 @@
     "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40856",
     "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40892",
     "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41122",
+    "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41124",
     "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41168",
     "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41181",
     "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41182",
@@ -28050,6 +28052,7 @@
     "nokia optical system engineer coop",
     "nokia optical systems group coop",
     "nokia optical test coop",
+    "nokia optoelectronics test development coop",
     "nokia optoelectronics test mech development intern",
     "nokia photonic test coop",
     "nokia software engineer coop deepfield",
