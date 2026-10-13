@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-12T23:41:50.294160+00:00",
+  "last_checked_utc": "2026-10-13T00:02:17.833069+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10716,6 +10716,7 @@
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern--LLM-Inference---2027_JR2026173",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1",
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701",
@@ -24651,6 +24652,7 @@
     "job:workday:nvidia:ai-infrastructure-and-frameworks-intern--cosmos-lab---2027_jr2025559",
     "job:workday:nvidia:ai-research-intern--tao-multi-modal-model-development---2026_jr2021301",
     "job:workday:nvidia:apac-ecommerce-backend-intern---2027_jr2027030",
+    "job:workday:nvidia:applied-deep-learning-algorithm-intern--autonomous-driving---2027_jr2027181",
     "job:workday:nvidia:applied-deep-learning-phd-research-intern--reinforcement-learning-for-llms---fall-2026_jr2012398",
     "job:workday:nvidia:applied-research-intern--nlp---fall-2026_jr2010488",
     "job:workday:nvidia:cpu-compiler-intern---2027_jr2027251",
@@ -27703,6 +27705,7 @@
     "nvidia ai infrastructure and frameworks intern cosmos lab 2027",
     "nvidia ai research intern tao multimodal model development 2026",
     "nvidia apac ecommerce backend intern 2027",
+    "nvidia applied deep learning algorithm intern autonomous driving 2027",
     "nvidia applied deep learning phd research intern reinforcement learning for llms",
     "nvidia applied deep learning phd research intern reinforcement learning for llms fall 2026",
     "nvidia applied research intern nlp fall 2026",
