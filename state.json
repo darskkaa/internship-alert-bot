@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-13T16:03:47.759647+00:00",
+  "last_checked_utc": "2026-10-13T16:12:56.564197+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2412,6 +2412,7 @@
     "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133",
     "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444",
     "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1",
+    "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/Product-Engineer-Co-Op_R267071",
     "https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Associate-Software-Engineer-Co-op_JR-207560-1",
     "https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/XMLNAME-2027-Technology-Summer-Internship---Cybersecurity---Technology-Risk_73016",
     "https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/XMLNAME-2027-Technology-Summer-Internship---Infrastructure-Engineering_73018",
@@ -14163,6 +14164,7 @@
     "bass pro shops cybersecurity intern summer 2027",
     "bass pro shops it developer intern",
     "bass pro shops it developer intern summer 2027",
+    "bass pro shops product engineer coop",
     "baxter international associate data scientist coop",
     "bdo canada coop or intern cyber cloud security january 2027",
     "bdo canada coop or intern data analytics january 2027",
@@ -21751,6 +21753,7 @@
     "job:workday:barrywehmiller:software-engineering-intern---dal_r023133",
     "job:workday:basspro:cybersecurity-intern-summer-2027_r267444",
     "job:workday:basspro:it-developer-intern-summer-2027_r267441-1",
+    "job:workday:basspro:product-engineer-co-op_r267071",
     "job:workday:baxter:associate-software-engineer-co-op_jr-207560-1",
     "job:workday:bbh:xmlname-2027-internal-audit---information-technology---cybersecurity-summer-internship_72899",
     "job:workday:bbh:xmlname-2027-investment-research-group-summer-internship_72881",
