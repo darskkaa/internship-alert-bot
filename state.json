@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-13T20:32:45.667251+00:00",
+  "last_checked_utc": "2026-10-13T20:52:37.511097+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5782,6 +5782,8 @@
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008253",
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008255",
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008262",
+    "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008292",
+    "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008293",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007510",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442",
@@ -20736,6 +20738,8 @@
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008253",
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008255",
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008262",
+    "job:oracle:hdhl.fa.us6.oraclecloud.com:1008292",
+    "job:oracle:hdhl.fa.us6.oraclecloud.com:1008293",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26007510",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26008230",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26008442",
@@ -30075,6 +30079,7 @@
     "stantec roadway design coop student infrastructure fall 2026spring 2027",
     "stantec roadway design coop student infrastructure fallspring 2026",
     "stantec roadway design intern infrastructure summer 2027",
+    "stantec structural engineering intern buildings summer 2027",
     "stantec structural engineering interncoop infrastructure summer 2027",
     "stantec structural engineering interncoop transportation summer 2027",
     "stantec technology intern ict summer 2027",
