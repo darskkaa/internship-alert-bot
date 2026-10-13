@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-13T02:02:01.765487+00:00",
+  "last_checked_utc": "2026-10-13T02:21:51.379548+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10605,6 +10605,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10255683-1",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Vehicle-Engineering_R10255699",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Manufacturing-and-Operations-Engineering-Intern---UTAH_R10254330",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Data-Analytics-Intern---Clearfield-UT_R10250086",
@@ -24546,6 +24547,7 @@
     "job:workday:ngc:xmlname-2027-intern-software-engineer_r10242395",
     "job:workday:ngc:xmlname-2027-intern-software-engineer_r10243573",
     "job:workday:ngc:xmlname-2027-intern-vehicle-engineering---ca-ok-nd_r10248142",
+    "job:workday:ngc:xmlname-2027-intern-vehicle-engineering_r10255699",
     "job:workday:ngc:xmlname-2027-manufacturing-and-operations-engineering-intern---utah_r10254330",
     "job:workday:ngc:xmlname-2027-manufacturing-engineer-intern---commerce-ca_r10255136",
     "job:workday:ngc:xmlname-2027-manufacturing-engineer-intern---san-diego-ca_r10255134",
@@ -27624,6 +27626,7 @@
     "northrop grumman 2027 intern systems engineering",
     "northrop grumman 2027 intern systems engineering nuclear survivabilityionizing radiation",
     "northrop grumman 2027 intern systems securitycybersecurity engineer",
+    "northrop grumman 2027 intern vehicle engineering",
     "northrop grumman 2027 intern vehicle engineering ca ok nd",
     "northrop grumman 2027 manufacturing and operations engineering intern utah",
     "northrop grumman 2027 manufacturing engineer intern commerce ca",
