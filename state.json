@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-13T00:02:17.833069+00:00",
+  "last_checked_utc": "2026-10-13T00:11:31.080041+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10720,6 +10720,7 @@
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701",
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
@@ -24712,6 +24713,7 @@
     "job:workday:nvidia:silicon-software-engineer---system-and-ai--rdss-intern-_jr2025538",
     "job:workday:nvidia:software-cad-engineer--vlsi--rdss-intern-_jr2026181",
     "job:workday:nvidia:software-engineer--simulation-and-virtualization--rdss-intern-_jr2025783",
+    "job:workday:nvidia:software-engineering-intern--deep-learning---2027_jr2027596",
     "job:workday:nvidia:software-engineering-intern--dlfw-comms---2027_jr2025701",
     "job:workday:nvidia:software-engineering-intern--dynamo---fall-2026_jr2022295",
     "job:workday:nvidia:software-engineering-intern--nccl---2026_jr2022645",
@@ -27804,6 +27806,7 @@
     "nvidia software engineer intern",
     "nvidia software engineer simulation and virtualization rdss intern",
     "nvidia software engineering intern",
+    "nvidia software engineering intern deep learning 2027",
     "nvidia software engineering intern dlfw comms 2027",
     "nvidia software engineering intern dynamo fall 2026",
     "nvidia software engineering intern nccl 2026",
