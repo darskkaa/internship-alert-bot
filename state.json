@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-13T03:41:53.386005+00:00",
+  "last_checked_utc": "2026-10-13T04:02:13.743174+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5382,6 +5382,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01871448",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/FPGA-Design-Intern--Summer-2027-_01870290",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/JEDI-Network-Systems-Engineer-2027-Spring-Summer-Co-op---Onsite_01873473",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Summer--Fall-2027-_01873293",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01871884",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01874556",
@@ -22981,6 +22982,7 @@
     "job:workday:globalhr:intern-conversion-systems-engineer-i--onsite-_01866833",
     "job:workday:globalhr:intern-conversion-systems-engineer-i--onsite-_01866850",
     "job:workday:globalhr:intern-systems-engineer---onsite-_01867818",
+    "job:workday:globalhr:jedi-network-systems-engineer-2027-spring-summer-co-op---onsite_01873473",
     "job:workday:globalhr:manufacturing-electrical-engineering-co-op---spring-summer-2027-_01870639",
     "job:workday:globalhr:manufacturing-electrical-engineering-co-op--spring-summer-2027-_01870653",
     "job:workday:globalhr:manufacturing-electrical-engineering-co-op--spring-summer-2027-_01871448",
@@ -29171,6 +29173,7 @@
     "rtx intern engineering",
     "rtx intern industrial engineering summer 2027",
     "rtx intern systems engineer onsite",
+    "rtx jedi network systems engineer 2027 springsummer coop onsite",
     "rtx manufacturing electrical engineering coop springsummer 2027",
     "rtx manufacturing electrical engineering intern summer 2027",
     "rtx manufacturing engineer intern 1st shift on site aeroestructuras",
