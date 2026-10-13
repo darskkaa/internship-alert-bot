@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-13T07:13:12.173038+00:00",
+  "last_checked_utc": "2026-10-13T07:23:28.343323+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11604,6 +11604,7 @@
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Analytical-Science-Intern---MSAT_R2873804",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Engineering-Intern_R2873345",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Product-Supply-Process-Engineering-Intern_R2873359-1",
+    "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Quality-Systems-Intern_R2872831-1",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Site-Portfolio-Intern_R2873717",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Validation-Engineering-Intern_R2873342",
     "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/Intern---Data-Steward_Req1611816",
@@ -25395,6 +25396,7 @@
     "job:workday:sanofi:engineering-intern_r2873345",
     "job:workday:sanofi:launches-project-portfolio-management-internship_r2874543",
     "job:workday:sanofi:product-supply-process-engineering-intern_r2873359-1",
+    "job:workday:sanofi:quality-systems-intern_r2872831-1",
     "job:workday:sanofi:site-portfolio-intern_r2873717",
     "job:workday:sanofi:validation-engineering-intern_r2873342",
     "job:workday:sanofi:xmlname-2027-spring-co-op-data-science---digital-transformation--framingham--ma_r2854091",
@@ -29348,6 +29350,7 @@
     "sanofi engineering intern",
     "sanofi launches project portfolio management internship",
     "sanofi product supply process engineering intern",
+    "sanofi quality systems intern",
     "sanofi site portfolio intern",
     "sanofi validation engineering intern",
     "santander intern data steward",
