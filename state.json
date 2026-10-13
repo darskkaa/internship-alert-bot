@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-13T16:23:09.912460+00:00",
+  "last_checked_utc": "2026-10-13T16:32:57.745229+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3988,6 +3988,7 @@
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017625",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017705",
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435",
+    "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605906",
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997",
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606194",
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606457",
@@ -20185,6 +20186,7 @@
     "job:oracle:edbz.fa.us2.oraclecloud.com:25017625",
     "job:oracle:edbz.fa.us2.oraclecloud.com:25017705",
     "job:oracle:eedu.fa.em3.oraclecloud.com:202605435",
+    "job:oracle:eedu.fa.em3.oraclecloud.com:202605906",
     "job:oracle:eedu.fa.em3.oraclecloud.com:202605997",
     "job:oracle:eedu.fa.em3.oraclecloud.com:202606194",
     "job:oracle:eedu.fa.em3.oraclecloud.com:202606457",
@@ -24343,6 +24345,7 @@
     "job:workday:marvell:electrical-validation-intern--bs---summer-2027_2603795",
     "job:workday:marvell:electrical-validation-intern--bs---summer-2027_2603795-1",
     "job:workday:marvell:firmware-engineer-intern---bs-ms---2027-co-op_2604959",
+    "job:workday:marvell:firmware-engineer-intern--bs---summer-2027_2604461",
     "job:workday:marvell:firmware-engineer-intern--bs---summer-2027_2604461-1",
     "job:workday:marvell:firmware-engineer-intern--ms---summer-2027_2604513",
     "job:workday:marvell:firmware-engineer-intern--ms---summer-2027_2604513-1",
@@ -31420,6 +31423,7 @@
     "wtw early careers corporate risk and broking crb internship mahoney placement multiple locations 2027",
     "wtw early careers health equity and wellbeing hew internship new york summer 2027",
     "wtw early careers intern conversion corporate risk and broking risk analytics enterprise risk consulting 2027",
+    "wtw intern conversion only early careers insurance consulting technology pc analyst 2027",
     "wtw software developer intern",
     "wurl data science intern",
     "ww grainger business analyst intern",
