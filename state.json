@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-13T17:03:10.081907+00:00",
+  "last_checked_utc": "2026-10-13T17:12:43.403162+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10623,6 +10623,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Engineering-Intern---Northridge-CA_R10254122-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Engineering-Intern---Northridge-CA_R10254123-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Vehicle-Engineering---CA-OK-ND_R10248142",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern---Manhatten-Beach-CA_R10255685",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Intern-Optical-Engineer---Redondo-Beach-CA_R10254063",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255197",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150",
@@ -24714,6 +24715,7 @@
     "job:workday:ngc:xmlname-2027-cyber-software-engineer-intern---tampa-fl_r10249530",
     "job:workday:ngc:xmlname-2027-cyber-systems-engineer-intern-tampa-fl_r10249196",
     "job:workday:ngc:xmlname-2027-electrical-design-and-technology-internship---linthicum-md_r10254010",
+    "job:workday:ngc:xmlname-2027-electrical-engineer-intern---manhatten-beach-ca_r10255685",
     "job:workday:ngc:xmlname-2027-electrical-engineer-intern--mcclellan-ca_r10255116",
     "job:workday:ngc:xmlname-2027-electrical-systems-engineer-intern---baltimore-md_r10255010",
     "job:workday:ngc:xmlname-2027-embedded-software-engineer-intern---rolling-meadows-il_r10252790",
@@ -27818,6 +27820,7 @@
     "northrop grumman 2027 cyber systems engineer interntampa fl",
     "northrop grumman 2027 cybersecurity analyst intern boulder co",
     "northrop grumman 2027 electrical design and technology internship linthicum md",
+    "northrop grumman 2027 electrical engineer intern manhatten beach ca",
     "northrop grumman 2027 electrical engineer intern mcclellan ca",
     "northrop grumman 2027 electricalsystems engineer intern baltimore md",
     "northrop grumman 2027 embedded software engineer intern baltimore md",
