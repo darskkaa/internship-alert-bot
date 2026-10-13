@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-13T11:43:45.348541+00:00",
+  "last_checked_utc": "2026-10-13T12:03:29.316328+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11608,6 +11608,7 @@
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Virology-Platform-Global-Antigen-Design--Waltham--MA_R2852131",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Analytical-Science-Intern---MSAT_R2873804",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Engineering-Intern_R2873345",
+    "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Integrated-Manufacturing-Systems-Intern_R2873923",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Product-Supply-Process-Engineering-Intern_R2873359-1",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Quality-Systems-Intern_R2872831-1",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Site-Portfolio-Intern_R2873717",
@@ -25406,6 +25407,7 @@
     "job:workday:salesforce:summer-2027-intern---ui-ux-designer_jr363342",
     "job:workday:sanofi:analytical-science-intern---msat_r2873804",
     "job:workday:sanofi:engineering-intern_r2873345",
+    "job:workday:sanofi:integrated-manufacturing-systems-intern_r2873923",
     "job:workday:sanofi:launches-project-portfolio-management-internship_r2874543",
     "job:workday:sanofi:product-supply-process-engineering-intern_r2873359-1",
     "job:workday:sanofi:quality-systems-intern_r2872831-1",
@@ -29362,6 +29364,7 @@
     "sanofi 2027 summer intern consumer experience product design cambridge ma",
     "sanofi analytical science intern msat",
     "sanofi engineering intern",
+    "sanofi integrated manufacturing systems intern",
     "sanofi launches project portfolio management internship",
     "sanofi product supply process engineering intern",
     "sanofi quality systems intern",
