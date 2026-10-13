@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-13T07:33:07.628003+00:00",
+  "last_checked_utc": "2026-10-13T08:45:39.046970+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11593,6 +11593,7 @@
     "https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
     "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1",
     "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+    "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Summer-2027-Intern---UI-UX-Designer_JR363342",
     "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1",
     "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252",
     "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771",
@@ -25395,6 +25396,7 @@
     "job:workday:salesforce:summer-2027-intern---software-engineer_jr340771-1",
     "job:workday:salesforce:summer-2027-intern---tableau-research_jr363252",
     "job:workday:salesforce:summer-2027-intern---tableau-research_jr363252-1",
+    "job:workday:salesforce:summer-2027-intern---ui-ux-designer_jr363342",
     "job:workday:sanofi:analytical-science-intern---msat_r2873804",
     "job:workday:sanofi:engineering-intern_r2873345",
     "job:workday:sanofi:launches-project-portfolio-management-internship_r2874543",
@@ -29335,6 +29337,7 @@
     "salesforce summer 2027 intern mba business value strategic selling consultant healthcare life sciences",
     "salesforce summer 2027 intern software engineer",
     "salesforce summer 2027 intern tableau research",
+    "salesforce summer 2027 intern uiux designer",
     "salesforce tableau research intern",
     "samaya ml research intern",
     "samsara account development representative intern atlanta",
