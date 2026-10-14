@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-14T15:22:36.905057+00:00",
+  "last_checked_utc": "2026-10-14T15:32:51.300776+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9758,6 +9758,7 @@
     "https://labcorp.wd1.myworkdayjobs.com/external/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Histology-Scientist_2635684-1",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Workload-Analytics-and-Dashboard-Development-Analyst_2634601",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---AWS-PostgreSQL-Database-Administrator_2632108",
+    "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Facilities---Engineering_2635310",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Developer_2632330",
@@ -24495,6 +24496,7 @@
     "job:workday:labcorp:intern---aws-postgresql-database-administrator_2632108",
     "job:workday:labcorp:intern---commercial-analytics_2633615",
     "job:workday:labcorp:intern---data-science---oncology_2630590",
+    "job:workday:labcorp:intern---facilities---engineering_2635310",
     "job:workday:labcorp:intern---financial-analytics---technology_2630761",
     "job:workday:labcorp:intern---flow-cytometry-scientist_2634673",
     "job:workday:labcorp:intern---histology-scientist_2635684-1",
@@ -27094,6 +27096,7 @@
     "labcorp financial analytics technology intern financial analytics team",
     "labcorp intern aws postgresql database administrator",
     "labcorp intern data science oncology",
+    "labcorp intern facilities engineering",
     "labcorp intern flow cytometry scientist",
     "labcorp intern histology scientist",
     "labcorp intern network infrastructure automation engineering",
