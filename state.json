@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-14T18:22:43.050493+00:00",
+  "last_checked_utc": "2026-10-14T18:42:44.545976+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2503,6 +2503,7 @@
     "https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007",
     "https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007",
     "https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007",
+    "https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007",
     "https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007",
     "https://boards.greenhouse.io/andurilindustries/jobs/5265158007",
     "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007",
@@ -13895,6 +13896,7 @@
     "anduril 2027 electrical engineer intern",
     "anduril 2027 firmware engineer intern",
     "anduril 2027 flight software engineer intern",
+    "anduril 2027 flight test engineer intern",
     "anduril 2027 industrial engineer intern",
     "anduril 2027 manufacturing engineer intern",
     "anduril 2027 manufacturing optimization engineer intern",
@@ -19050,6 +19052,7 @@
     "job:greenhouse:5257674007",
     "job:greenhouse:5257682007",
     "job:greenhouse:5257690007",
+    "job:greenhouse:5257709007",
     "job:greenhouse:5258901007",
     "job:greenhouse:5258913007",
     "job:greenhouse:5259347007",
