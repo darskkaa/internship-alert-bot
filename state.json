@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-14T09:12:18.761776+00:00",
+  "last_checked_utc": "2026-10-14T09:22:29.850233+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10933,6 +10933,7 @@
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248",
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Remote/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2026322",
@@ -25251,6 +25252,7 @@
     "job:workday:nvidia:software-engineering-intern--nccl---2026_jr2022645",
     "job:workday:nvidia:software-engineering-intern--nsight-systems---2026_jr2007248",
     "job:workday:nvidia:sparse-linear-algebra-libraries-intern---summer-2027_jr2027429",
+    "job:workday:nvidia:system-software-engineering-intern--gpu---2027_jr2025334",
     "job:workday:nvidia:tools-and-methodology-engineer--cad-dft--rdss-intern-_jr2026887",
     "job:workday:nxp:ai-verification-engineering-intern_r-10066766",
     "job:workday:nxp:cmp-implant-engineer-intern---summer-2027_r-10064576",
@@ -28420,6 +28422,7 @@
     "nvidia software engineering intern nccl 2026",
     "nvidia software engineering intern nsight systems 2026",
     "nvidia sparse linear algebra libraries intern",
+    "nvidia system software engineering intern gpu 2027",
     "nvidia systems software engineering intern",
     "nvidia tools and methodology engineer cad dft rdss intern",
     "nxp semiconductors 2026 intern information system engineer",
