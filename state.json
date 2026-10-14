@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-14T21:02:32.905613+00:00",
+  "last_checked_utc": "2026-10-14T21:12:26.511596+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1750,6 +1750,7 @@
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Tax-Technology-Intern---Summer-2027---Franklin--TN_R00214237",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383",
+    "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Research-Application-Intern---Summer-2027---Santa-Clara--CA_R00214272",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Facilities-Engineering-Intern---Summer-2027---Smyrna--TN_R00215063",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Field-Quality-Investigations-Engineering-Intern---Summer-2027---Smyrna--TN_R00214248",
@@ -21844,6 +21845,7 @@
     "job:workday:alliance:product-safety-engineering-intern---summer-2027---franklin--tn-and-smyrna--tn_r00214249",
     "job:workday:alliance:purchasing-aftersales-intern---summer-2027---franklin--tn_r00214278",
     "job:workday:alliance:raw-materials-engineering-intern---summer-2027---decherd--tn_r00214290",
+    "job:workday:alliance:research-application-intern---summer-2027---santa-clara--ca_r00214272",
     "job:workday:alliance:sap-platform-intern--finance-purchasing----summer-2027---franklin--tn_r00214217",
     "job:workday:alliance:supplier-management-engineering--sme--intern---summer-2027---smyrna--tn_r00214288",
     "job:workday:alliance:systems-engineer-intern---summer-2027---canton--ms_r00214882",
@@ -28522,6 +28524,7 @@
     "nissan global product safety engineering intern summer 2027 franklin tn and smyrna tn",
     "nissan global purchasing aftersales intern",
     "nissan global raw materials engineering intern summer 2027 decherd tn",
+    "nissan global research application intern summer 2027 santa clara ca",
     "nissan global sap platform intern financepurchasing summer 2027 franklin tn",
     "nissan global supplier management engineering sme intern summer 2027 smyrna tn",
     "nissan global systems engineer intern summer 2027",
