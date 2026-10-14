@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-14T08:52:20.870694+00:00",
+  "last_checked_utc": "2026-10-14T09:02:55.333392+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7824,6 +7824,8 @@
     "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007",
     "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007",
     "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007",
+    "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007",
+    "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007",
     "https://job-boards.greenhouse.io/testnisc/jobs/8167883",
     "https://job-boards.greenhouse.io/testnisc/jobs/8167884",
     "https://job-boards.greenhouse.io/testnisc/jobs/8167886",
@@ -18903,6 +18905,8 @@
     "job:greenhouse:5260444007",
     "job:greenhouse:5260960007",
     "job:greenhouse:5263015007",
+    "job:greenhouse:5264407007",
+    "job:greenhouse:5264424007",
     "job:greenhouse:5264881007",
     "job:greenhouse:5265097007",
     "job:greenhouse:5265158007",
@@ -30629,6 +30633,8 @@
     "tenstorrent risc5 cpu intern",
     "tenstorrent silicon intern physical design dft usa",
     "tenstorrent software engineering intern power modeling ai tools",
+    "tenstorrent systems intern validation software design architecture packaging canada",
+    "tenstorrent systems intern validation software design architecture packaging usa",
     "terranova controlsrobotics intern",
     "terranova embedded systems intern",
     "terranova mechanicaltest engineering intern",
