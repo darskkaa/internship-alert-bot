@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-14T07:12:34.349599+00:00",
+  "last_checked_utc": "2026-10-14T08:52:20.870694+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11797,6 +11797,7 @@
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern---Computational-Medicinal-Chemistry--Cambridge--MA_R2865701",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Consumer-Experience-Product-Design-Cambridge-MA_R2866238",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091",
+    "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-6-mois-communication-scientifique_R2874270",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Scoppito/Launches-Project-Portfolio-Management-Internship_R2874543",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Virology-Platform-Global-Antigen-Design--Waltham--MA_R2852131",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Analytical-Science-Intern---MSAT_R2873804",
@@ -25880,6 +25881,7 @@
     "job:workday:sanofi:product-supply-process-engineering-intern_r2873359-1",
     "job:workday:sanofi:quality-systems-intern_r2872831-1",
     "job:workday:sanofi:site-portfolio-intern_r2873717",
+    "job:workday:sanofi:stage-6-mois-communication-scientifique_r2874270",
     "job:workday:sanofi:validation-engineering-intern_r2873342",
     "job:workday:sanofi:xmlname-2027-spring-co-op-data-science---digital-transformation--framingham--ma_r2854091",
     "job:workday:sanofi:xmlname-2027-spring-co-op-virology-platform-global-antigen-design--waltham--ma_r2852131",
@@ -29910,6 +29912,7 @@
     "sanofi analytical science intern msat",
     "sanofi engineering intern",
     "sanofi integrated manufacturing systems intern",
+    "sanofi internship 6 months scientific communication",
     "sanofi launches project portfolio management internship",
     "sanofi product supply process engineering intern",
     "sanofi quality systems intern",
