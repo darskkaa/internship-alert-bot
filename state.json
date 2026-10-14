@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-14T21:42:32.416563+00:00",
+  "last_checked_utc": "2026-10-14T21:52:29.197086+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10217,6 +10217,7 @@
     "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Engineering_R-002634",
     "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664",
     "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643",
+    "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885",
     "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Sales-Tools---Technology-Intern---Undergrad-Internship---Summer-2027_JR-02672870-1",
     "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Services-Technology---Enablement---Undergraduate-Internship---Summer-2027_JR-02672664",
     "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542",
@@ -24834,6 +24835,7 @@
     "job:workday:littelfuse:new-product-implementation-engineering-intern---electronics-manufacturing_jr-112598-1",
     "job:workday:littelfuse:quality-engineering-intern_jr-112693-1",
     "job:workday:liveoakbancshares:summer-2027-intern--architecture-engineering_r-002630",
+    "job:workday:lnw:intern-software-engineering_r322885",
     "job:workday:lowes:exploratory-software-engineering---undergrad-internship---summer-2027_jr-02623542",
     "job:workday:lowes:merchandising-analyst---undergrad-internship---summer-2027_jr-02650526",
     "job:workday:lowes:pro-services-reporting-intern---undergrad-internship---summer-2027-_jr-02672698",
@@ -27531,6 +27533,7 @@
     "life fitness mechanical engineering intern ramsey mn",
     "life fitness product management intern",
     "life fitness revenue operations intern data analytics",
+    "light wonder intern software engineering",
     "lightcast software engineer intern 1076",
     "lightguide inc product innovation coop",
     "lightmatter photonics characterization intern new grad",
