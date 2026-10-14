@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-14T00:12:31.815293+00:00",
+  "last_checked_utc": "2026-10-14T00:22:21.588558+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9671,6 +9671,7 @@
     "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044",
     "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1",
     "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1",
+    "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1",
     "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1",
     "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1",
     "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Optical-Engineer-Intern_2641712-1",
@@ -24276,6 +24277,7 @@
     "job:workday:kla:applications-engineering--intern_2641540",
     "job:workday:kla:applications-engineering--intern_2641540-1",
     "job:workday:kla:computer-vision-machine-learning-intern_2641921",
+    "job:workday:kla:computer-vision-machine-learning-intern_2641921-1",
     "job:workday:kla:electrical-design-engineering-intern_2641708",
     "job:workday:kla:intern---plm-bi---analytics_2641568",
     "job:workday:kla:intern---plm-bi---analytics_2641568-2",
@@ -26824,6 +26826,7 @@
     "kla corporation algorithm engineering intern gpucuda",
     "kla corporation applications development engineering intern bbp",
     "kla corporation applications engineering intern",
+    "kla corporation computer visionmachine learning intern",
     "kla corporation mechanical design engineer intern",
     "kla corporation mechanical engineering intern",
     "kla corporation mechatronics engineering internship",
