@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-14T10:42:28.697965+00:00",
+  "last_checked_utc": "2026-10-14T11:22:29.226101+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11176,6 +11176,7 @@
     "https://parsons.wd5.myworkdayjobs.com/search/job/AE---Dubai/Engineering-Intern--UAE-National-_R171287",
     "https://parsons.wd5.myworkdayjobs.com/search/job/BH---Manama/Intern_R186237",
     "https://parsons.wd5.myworkdayjobs.com/search/job/SA---Abha/Co-op-Trainee--Industrial-Engineering---Saudi-National-_R187105",
+    "https://parsons.wd5.myworkdayjobs.com/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299",
     "https://parsons.wd5.myworkdayjobs.com/search/job/US---CO-Denver/Bridge-Engineering-Intern_R186212",
     "https://parsons.wd5.myworkdayjobs.com/search/job/US---CO-Denver/Roadway-Engineering-Intern_R186268",
     "https://parsons.wd5.myworkdayjobs.com/search/job/US---CO-Westminster/Construction-Engineering-Intern---Summer-2027_R185972",
@@ -25409,6 +25410,7 @@
     "job:workday:parsons:roadway-engineering-intern---summer-2027_r187080",
     "job:workday:parsons:roadway-engineering-intern_r186268",
     "job:workday:parsons:software-engineer-co-op---ts-sci_r187147",
+    "job:workday:parsons:software-engineering-intern--summer-2027-_r187299",
     "job:workday:parsons:structural-engineer-intern---summer-2027_r185393",
     "job:workday:parsons:structural-engineering-intern---summer-2027_r185639",
     "job:workday:parsons:structural-engineering-intern---summer-2027_r185689",
@@ -28738,6 +28740,7 @@
     "parsons roadway engineering intern springsummer 2027",
     "parsons roadway engineering intern summer 2027",
     "parsons software engineer coop tssci",
+    "parsons software engineering intern summer 2027",
     "parsons software intern summer 2027",
     "parsons structural engineer intern summer 2027",
     "parsons structural engineering intern summer 2027",
