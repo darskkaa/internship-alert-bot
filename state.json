@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-14T11:22:29.226101+00:00",
+  "last_checked_utc": "2026-10-14T11:52:18.751208+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11988,6 +11988,7 @@
     "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643",
     "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
     "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543",
+    "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Schlieren/Product-Management-Intern--Consumer-Electronics----12-Months_JR-119747-1",
     "https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551",
     "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571",
     "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--January-2027-12-Months-_R10437",
@@ -26067,6 +26068,7 @@
     "job:workday:sonos:software-engineering-co-op--signal-processing-_r2821-2",
     "job:workday:sonyglobal:account-management---business-analytics-intern_jr-119543",
     "job:workday:sonyglobal:firmware-design---summer-internship_jr-119579-1",
+    "job:workday:sonyglobal:product-management-intern--consumer-electronics----12-months_jr-119747-1",
     "job:workday:soti:data-scientist--intern--jan-2027-12-months-_r10571",
     "job:workday:soti:performance-test-engineer-intern--january-2027-12-months-_r10437",
     "job:workday:soti:software-developer-intern---soti-mobicontrol-apple-hq--january-2027-12-months-_r10551",
@@ -30257,6 +30259,7 @@
     "sony firmware design summer internship",
     "sony interactive entertainment technical designer intern",
     "sony intern information security risk and compliance",
+    "sony product management intern consumer electronics 12 months",
     "sony research intern on generative and protective ai for content creation",
     "sony sony research internship on audio processing and machine learning",
     "sorting robotics robotics engineer coop intern",
