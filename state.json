@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-14T19:32:19.704395+00:00",
+  "last_checked_utc": "2026-10-14T19:42:43.439160+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5219,6 +5219,7 @@
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Field-Application-Engineering-Intern--Summer-2027-_JR-2604222",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Sales-Account-Manager-Intern--Electrical-Engineering--Santa-Clara--Summer-2027-_JR-2604217",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/APL-Quantum-Intern--Summer-2027-_JR-2604434",
+    "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604587",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604588",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604613",
@@ -6408,6 +6409,7 @@
     "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1",
     "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
     "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1",
+    "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603518",
     "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1",
     "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380",
     "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252",
@@ -23489,6 +23491,7 @@
     "job:workday:globalfoundries:advanced-manufacturing-engineering-intern--jan-jun-2027-_jr-2603835",
     "job:workday:globalfoundries:advanced-manufacturing-engineering-intern--jan-jun-2027-_jr-2603836",
     "job:workday:globalfoundries:advanced-manufacturing-engineering-intern--jan-jun-2027-_jr-2603838",
+    "job:workday:globalfoundries:advanced-manufacturing-engineering-intern--process---equipment--summer-2027-_jr-2604578",
     "job:workday:globalfoundries:advanced-manufacturing-engineering-intern--process---equipment--summer-2027-_jr-2604587",
     "job:workday:globalfoundries:advanced-manufacturing-engineering-intern--process---equipment--summer-2027-_jr-2604588",
     "job:workday:globalfoundries:advanced-manufacturing-engineering-intern--process---equipment--summer-2027-_jr-2604613",
@@ -24310,6 +24313,7 @@
     "job:workday:iatinsurancegroup:system-administrator-internship_jr100415",
     "job:workday:iatinsurancegroup:tier-2-it-support-internship_jr100400",
     "job:workday:icf:xmlname-2027-summer-intern--ai-engineer--reston--va-_r2603312-1",
+    "job:workday:icf:xmlname-2027-summer-intern--ai-engineer--reston--va-_r2603518",
     "job:workday:icf:xmlname-2027-summer-intern--data-analytics--reston--va-or-remote-_r2603382-1",
     "job:workday:icf:xmlname-2027-summer-intern--data-engineer--reston--va-or-remote-_r2603380",
     "job:workday:icf:xmlname-2027-summer-intern--data-scientist--reston--va--denver--co--remote-_r2603252",
