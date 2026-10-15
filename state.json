@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-15T01:22:33.942245+00:00",
+  "last_checked_utc": "2026-10-15T01:42:13.966831+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11916,6 +11916,7 @@
     "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Physical-AI--OTTO-at-Rockwell-Automation-_R26-6872",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-6732",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Brampton-Ontario-Canada/Intern--Technical-Sales---Consulting--Canada-_R26-5965-2",
+    "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706-1",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1",
@@ -26259,6 +26260,7 @@
     "job:workday:rockwellautomation:co-op--ai-software-engineering--6-8-months-_r26-6982",
     "job:workday:rockwellautomation:co-op--ai-software-engineering--6-8-months-_r26-6982-1",
     "job:workday:rockwellautomation:co-op--electrical-engineer--june---dec-2027-_r26-7706",
+    "job:workday:rockwellautomation:co-op--electrical-engineer--june---dec-2027-_r26-7706-1",
     "job:workday:rockwellautomation:co-op--hardware-development-engineer--jan---july-2027-_r26-6638",
     "job:workday:rockwellautomation:co-op--hardware-development-engineer--jan---july-2027-_r26-6638-1",
     "job:workday:rockwellautomation:co-op--hardware-development-engineer--june---dec-2027-_r26-6891",
@@ -30181,6 +30183,7 @@
     "rockwell automation coop robotics research data engineering otto at rockwell automation",
     "rockwell automation coop robotics research physical ai otto at rockwell automation",
     "rockwell automation coop user experience robotics otto by rockwell automation",
+    "rockwell automation electrical engineer coop",
     "rockwell automation hardware development engineer coop",
     "rockwell automation intern ai software engineering juneaugust 2027",
     "rockwell automation intern application engineer",
