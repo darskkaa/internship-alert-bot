@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-15T14:12:47.322426+00:00",
+  "last_checked_utc": "2026-10-15T14:22:35.733837+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6763,6 +6763,7 @@
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Shepherdsville-Kentucky-United-States-of-America/Product-Analyst-Co-op_R-101018",
+    "https://jj.wd5.myworkdayjobs.com/JJ/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-104450",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/AI-Excellence--Decision-Enablement-Intern_R-102881",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/IMM-Clinical-Scientist-Intern_R-103304",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/IMM-Computational-Intern_R-103293",
@@ -24804,6 +24805,7 @@
     "job:workday:jj:clinical-epidemiology-and-data-science-co-op_r-098453",
     "job:workday:jj:commercial-data-science---ai-co-op_r-099258",
     "job:workday:jj:commercial-data-science---ai-co-op_r-099381",
+    "job:workday:jj:data-operations---analytics-spring-co-op_r-104450",
     "job:workday:jj:data-science-co-op--summer-2027_r-096746",
     "job:workday:jj:data-science-co-op_r-100341",
     "job:workday:jj:electrical-engineering-co-op--summer-2027_r-096736",
@@ -27329,6 +27331,7 @@
     "johnson johnson business intelligence coop",
     "johnson johnson clinical epidemiology and data science coop",
     "johnson johnson commercial data science ai coop",
+    "johnson johnson data operations analytics spring coop",
     "johnson johnson data science coop",
     "johnson johnson data science coop summer 2027",
     "johnson johnson electrical engineer intern robotics rd",
