@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-15T01:42:13.966831+00:00",
+  "last_checked_utc": "2026-10-15T01:52:24.963972+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10690,6 +10690,7 @@
     "https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Lenox/Risk-Summer-Intern---College-Program-2027_R_368045",
     "https://mmc.wd1.myworkdayjobs.com/mmc/job/Charlotte---Carnegie-Boulevard/Environmental-Consulting-and-Risk-Management-Intern_R_368602",
     "https://mmc.wd1.myworkdayjobs.com/mmc/job/Chicago---155-Wacker/Marsh-Risk-Early-Career-Program--Summer-Intern-2027---Brokerage---Central-Market_R_369618",
+    "https://mmc.wd1.myworkdayjobs.com/mmc/job/George-Town---Lebuh/Intern---Risk-Management--Penang-_R_369110-1",
     "https://mmc.wd1.myworkdayjobs.com/mmc/job/Los-Angeles---West-5th/Marsh-Risk-Early-Career-Program--Summer-Intern-2027---Brokerage---West-Market_R_369622",
     "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Marsh-Risk-Early-Career-Program--Summer-Intern-2027---Brokerage---New-York_R_369484",
     "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Summer-Intern--Master-s-Finance-Innovation---Technology--FIT---New-York--2027_R_369586",
@@ -25270,6 +25271,7 @@
     "job:workday:mizuho:xmlname-2027-americas-risk-management-internship_r7474",
     "job:workday:mmc:actuarial-science-intern_r_368596",
     "job:workday:mmc:environmental-consulting-and-risk-management-intern_r_368602",
+    "job:workday:mmc:intern---risk-management--penang-_r_369110-1",
     "job:workday:mmc:marsh-risk-early-career-program--summer-intern-2027---brokerage---central-market_r_369618",
     "job:workday:mmc:marsh-risk-early-career-program--summer-intern-2027---brokerage---east-market_r_369483",
     "job:workday:mmc:marsh-risk-early-career-program--summer-intern-2027---brokerage---new-york_r_369484",
@@ -27846,6 +27848,7 @@
     "marsh environmental consulting and risk management intern",
     "marsh finance innovation technology intern masters finance innovation technology",
     "marsh government health consulting informatics intern college program",
+    "marsh intern risk management penang",
     "marsh marsh risk early career program summer intern 2027 brokerage central market",
     "marsh marsh risk early career program summer intern 2027 brokerage east market",
     "marsh marsh risk early career program summer intern 2027 brokerage new york",
