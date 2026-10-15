@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-15T16:12:30.934958+00:00",
+  "last_checked_utc": "2026-10-15T16:22:27.220871+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2691,6 +2691,7 @@
     "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Analytics-Business-Operations-Intern--Commercial-Services-_JR2026526157-1",
     "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Analytics-Business-Operations-Intern--Government-Services-_JR2026526163-1",
     "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1",
+    "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/POL---Gdansk-Poland/Intern-Software-Engineer_JR2026492187-1",
     "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659",
     "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1",
     "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?utm_source=Simplify&ref=Simplify",
@@ -22615,6 +22616,7 @@
     "job:workday:boeing:data-science-intern_jr2026526159-1",
     "job:workday:boeing:engineering---technology-innovation--graduate-researcher-program---advanced-materials---structures-intern_jr2026523659",
     "job:workday:boeing:intern-software-engineer_jr2026492187",
+    "job:workday:boeing:intern-software-engineer_jr2026492187-1",
     "job:workday:borgwarner:automation-and-controls-engineering-co-op_r2026-0976",
     "job:workday:borgwarner:co-op-undergrad-technical_r2026-3712-1",
     "job:workday:borgwarner:component-engineering-intern_r2026-3933",
