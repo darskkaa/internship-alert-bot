@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-15T12:12:20.635989+00:00",
+  "last_checked_utc": "2026-10-15T12:32:37.878394+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10627,6 +10627,7 @@
     "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309-2",
     "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625",
     "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021",
+    "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Warsaw-Mazowieckie-Poland/Intern-Business-Analytics---Product-Allocation_R78095",
     "https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579",
     "https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/IT-User-Experience-Intern--Summer-2027_R000698305",
     "https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302",
@@ -25268,6 +25269,7 @@
     "job:workday:medtronic:engineering-intern-summer-2027---candidates-attending-2026-o4u-engineering-conference_r75847",
     "job:workday:medtronic:engineering-intern-summer-2027---candidates-attending-2026-shpe-national-convention_r76309-2",
     "job:workday:medtronic:engineering-intern-summer-2027--candidates-attending-2026-swe-national-conference-_r76021",
+    "job:workday:medtronic:intern-business-analytics---product-allocation_r78095",
     "job:workday:medtronic:it-intern---summer-2027_r73625",
     "job:workday:medtronic:software-engineering-intern---summer-2027_r73630",
     "job:workday:medtronic:software-engineering-intern---summer-2027_r73630-1",
@@ -28094,6 +28096,7 @@
     "medtronic engineering intern summer 2027 candidates attending 2026 o4u engineering conference",
     "medtronic engineering intern summer 2027 candidates attending 2026 shpe national convention",
     "medtronic engineering intern summer 2027 candidates attending 2026 swe national conference",
+    "medtronic intern business analytics product allocation",
     "medtronic it intern summer 2027",
     "medtronic software engineer intern",
     "medtronic software engineering intern",
