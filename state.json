@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-15T02:22:14.376294+00:00",
+  "last_checked_utc": "2026-10-15T02:52:33.862281+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5232,6 +5232,7 @@
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Advanced-Manufacturing-Engineering-Intern--Jan-Jun-2027-_JR-2603741",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Advanced-Manufacturing-Engineering-Intern--Jan-Jun-2027-_JR-2603742",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Advanced-Manufacturing-Engineering-Intern--Jan-Jun-2027-_JR-2603830",
+    "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Advanced-Manufacturing-Engineering-Intern--Jan-Jun-2027-_JR-2603831",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Advanced-Manufacturing-Engineering-Intern--Jan-Jun-2027-_JR-2603833",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Advanced-Manufacturing-Engineering-Intern--Jan-Jun-2027-_JR-2603835",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Advanced-Manufacturing-Engineering-Intern--Jan-Jun-2027-_JR-2603836",
@@ -10401,6 +10402,7 @@
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081658-1",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663-1",
+    "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1",
@@ -23657,6 +23659,7 @@
     "job:workday:globalfoundries:advanced-manufacturing-engineering-intern--jan-jun-2027-_jr-2603741",
     "job:workday:globalfoundries:advanced-manufacturing-engineering-intern--jan-jun-2027-_jr-2603742",
     "job:workday:globalfoundries:advanced-manufacturing-engineering-intern--jan-jun-2027-_jr-2603830",
+    "job:workday:globalfoundries:advanced-manufacturing-engineering-intern--jan-jun-2027-_jr-2603831",
     "job:workday:globalfoundries:advanced-manufacturing-engineering-intern--jan-jun-2027-_jr-2603833",
     "job:workday:globalfoundries:advanced-manufacturing-engineering-intern--jan-jun-2027-_jr-2603835",
     "job:workday:globalfoundries:advanced-manufacturing-engineering-intern--jan-jun-2027-_jr-2603836",
@@ -25011,6 +25014,7 @@
     "job:workday:manulife:summer-intern-2027---product-management---risk-technology_jr26080875",
     "job:workday:manulife:summer-intern-2027---risk_jr26080238",
     "job:workday:manulife:summer-intern-2027---software-engineering--12-months-_jr26091053",
+    "job:workday:manulife:summer-intern-2027---software-engineering--12-months-_jr26091053-1",
     "job:workday:manulife:summer-intern-2027---software-engineering--8-months-_jr26081685",
     "job:workday:manulife:summer-intern-2027---software-engineering_jr26081680",
     "job:workday:manulife:summer-intern-2027---software-engineering_jr26081684",
