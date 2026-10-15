@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-15T04:12:19.597189+00:00",
+  "last_checked_utc": "2026-10-15T04:22:24.136192+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6627,6 +6627,7 @@
     "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Information-Security-Intern_REQ-2385",
     "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Network-Affairs-Intern_REQ-2403",
     "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Design-Intern_REQ-2388",
+    "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Risk-Specialist-intern_REQ-2282",
     "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Tester-Intern_REQ-2398",
     "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Technical-Analyst-Intern_REQ-2394",
     "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Technology-Business-Analyst-Intern_REQ-2390",
@@ -18152,6 +18153,7 @@
     "interac information security intern",
     "interac network affairs intern",
     "interac product design intern",
+    "interac risk specialist intern",
     "interac software tester intern",
     "interac technical analyst intern",
     "interac technology business analyst intern",
@@ -24659,6 +24661,7 @@
     "job:workday:interac:information-security-intern_req-2385",
     "job:workday:interac:network-affairs-intern_req-2403",
     "job:workday:interac:product-design-intern_req-2388",
+    "job:workday:interac:risk-specialist-intern_req-2282",
     "job:workday:interac:software-tester-intern_req-2398",
     "job:workday:interac:technical-analyst-intern_req-2394",
     "job:workday:interac:technology-business-analyst-intern_req-2390",
