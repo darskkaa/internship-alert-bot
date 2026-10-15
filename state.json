@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-15T07:12:34.270857+00:00",
+  "last_checked_utc": "2026-10-15T09:02:32.015134+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11238,6 +11238,7 @@
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Beijing/GenAI-Field-Application-Engineer-Intern_R-10066532",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Beijing/GenAI-Field-Application-Engineer-Intern_R-10066606",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Beijing/GenAI-Field-Application-Engineer-Intern_R-10066609",
+    "https://nxp.wd3.myworkdayjobs.com/careers/job/Brno/AI-Software-developer---Intern_R-10064017-1",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Brno/Embedded-SW-Developer-Intern---Security_R-10066538-1",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Catania/Internship-Student-Analog-Mixed-Signal-verification-F-M_R-10064672",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673",
@@ -25771,6 +25772,7 @@
     "job:workday:nvidia:sparse-linear-algebra-libraries-intern---summer-2027_jr2027429",
     "job:workday:nvidia:system-software-engineering-intern--gpu---2027_jr2025334",
     "job:workday:nvidia:tools-and-methodology-engineer--cad-dft--rdss-intern-_jr2026887",
+    "job:workday:nxp:ai-software-developer---intern_r-10064017-1",
     "job:workday:nxp:ai-verification-engineering-intern_r-10066766",
     "job:workday:nxp:cmp-implant-engineer-intern---summer-2027_r-10064576",
     "job:workday:nxp:data-analytics-engineer-intern---summer-2027_r-10065538",
@@ -29036,6 +29038,7 @@
     "nxp semiconductors 2026 intern information system engineer",
     "nxp semiconductors 2027 intern ai tool development intern",
     "nxp semiconductors 2027 intern customer quality engineer intern",
+    "nxp semiconductors ai software developer intern",
     "nxp semiconductors ai verification engineering intern",
     "nxp semiconductors aiml asic design and implementation automation intern summer 2027",
     "nxp semiconductors analog validation intern summer 2027",
