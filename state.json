@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-15T04:22:24.136192+00:00",
+  "last_checked_utc": "2026-10-15T04:52:58.031968+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5620,6 +5620,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01875725",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01874145",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Systems-Engineering-Intern-2027---Onsite_01878041",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Mechanical-Materials-Engineer-Intern_01880672",
@@ -23972,6 +23973,7 @@
     "job:workday:globalhr:summer-2027--intern-air-combat-training--systems-engineering--onsite-_01865658",
     "job:workday:globalhr:summer-2027-cyber-intern---onsite_01879253",
     "job:workday:globalhr:summer-2027-embedded-software-engineering-intern--onsite-_01878014",
+    "job:workday:globalhr:summer-2027-rf-systems-engineer-intern---onsite_01880963",
     "job:workday:globalhr:summer-2027-software-engineering-intern--onsite-_01873645",
     "job:workday:globalhr:summer-engineering-intern--summer-2027-_01882181",
     "job:workday:globalhr:systems-engineer---intern--onsite_01879053",
@@ -30463,6 +30465,7 @@
     "rtx summer 2027 cyber intern onsite",
     "rtx summer 2027 embedded software engineering intern onsite",
     "rtx summer 2027 intern air combat training systems engineering onsite",
+    "rtx summer 2027 rf systems engineer intern onsite",
     "rtx summer engineering intern summer 2027",
     "rtx systems coop",
     "rtx systems engineer coop avi mil fmsdas",
