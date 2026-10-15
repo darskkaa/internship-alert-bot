@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-15T23:12:17.370595+00:00",
+  "last_checked_utc": "2026-10-15T23:22:32.333743+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7649,6 +7649,7 @@
     "https://job-boards.greenhouse.io/momentenergy/jobs/4434573009",
     "https://job-boards.greenhouse.io/momentenergy/jobs/4434575009",
     "https://job-boards.greenhouse.io/momentenergy/jobs/4434577009",
+    "https://job-boards.greenhouse.io/momentenergy/jobs/4455115009",
     "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003",
     "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967468003",
     "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003",
@@ -19182,6 +19183,7 @@
     "job:greenhouse:4448972009",
     "job:greenhouse:4449670009",
     "job:greenhouse:4449991009",
+    "job:greenhouse:4455115009",
     "job:greenhouse:4476000008",
     "job:greenhouse:4526301007",
     "job:greenhouse:4536787007",
@@ -28720,6 +28722,7 @@
     "moment energy mechanical engineer coop",
     "moment energy mechanical engineering coop",
     "moment energy software engineering coop",
+    "moment energy test engineering coop",
     "momentive data science intern enterprise reporting analytics",
     "momentive environmental protection intern",
     "momentive product management intern specialty additives",
