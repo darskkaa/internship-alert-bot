@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-15T22:42:29.496406+00:00",
+  "last_checked_utc": "2026-10-15T22:52:12.440744+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1573,6 +1573,7 @@
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Newport/Hardware-Engineering---Electronics-Degree-Apprenticeship_JR10433054",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Newport/Software-Engineering-Degree-Apprenticeship_JR10433575",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Radio-Frequency--RF--Test-System-Engineering-Placement--12-months-_JR10428274",
+    "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term---Engineering_JR10411965",
     "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655-1",
     "https://aig.wd1.myworkdayjobs.com/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655",
     "https://aig.wd1.myworkdayjobs.com/early_careers/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Summer-Intern--Technology---United-States--Charlotte--NC--Houston--TX----Jersey-City--NJ_JR2603638",
@@ -13733,6 +13734,7 @@
     "airbus hardware engineering apprentice",
     "airbus intern frontend developer",
     "airbus intern system integration developer",
+    "airbus longterm internship engineering",
     "airbus longterm internship quality engineering",
     "airbus master in airframe technology 2027 mair2027 internship",
     "airbus radio frequency intern",
@@ -22068,6 +22070,7 @@
     "job:workday:ag:hardware-engineering---electronics-degree-apprenticeship_jr10433054",
     "job:workday:ag:intern-frontend-developer_jr10451058",
     "job:workday:ag:intern-system-integration-developer_jr10451063",
+    "job:workday:ag:long-term---engineering_jr10411965",
     "job:workday:ag:long-term-internship---quality-engineering_jr10446781",
     "job:workday:ag:master-in-airframe-technology-2027--mair2027--internship-_jr10448000",
     "job:workday:ag:radio-frequency--rf--test-system-engineering-placement--12-months-_jr10428274",
