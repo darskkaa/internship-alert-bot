@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-15T14:42:49.651288+00:00",
+  "last_checked_utc": "2026-10-15T14:52:39.932069+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11776,6 +11776,7 @@
     "https://rb.wd5.myworkdayjobs.com/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern---Technology-Group---Junior_R-0000033072",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Oklahoma-City-OK/Internship--Supervision-and-Risk-Management--SRM---Summer-2027--Oklahoma-City_R-0000033264-1",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Omaha-NE/Internship--Supervision-and-Risk-Management--SRM---Summer-2027--Omaha_R-0000033267-1",
+    "https://rb.wd5.myworkdayjobs.com/FRS/job/Philadelphia-PA/Electrical-Engineer---Project-Management---Co-Op--hourly-non-benefit-_R-0000033755",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Business-Survey-Internship_R-0000033218",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Technical-Internship_R-0000033194",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/Summer-2027-Academic-Research-Internship_R-0000033215-1",
@@ -26234,6 +26235,7 @@
     "job:workday:raymondjames:xmlname-2027-summer-internship-program---information-technology--st-petersburg--fl-_r-0012940",
     "job:workday:raymondjames:xmlname-2027-summer-internship-program---private-client-banking-strategy--analytics----sales-intern--st-petersburg--fl-_r-0013001",
     "job:workday:raymondjames:xmlname-2027-summer-internship-program---risk-management-intern--st-petersburg--fl-_r-0012955",
+    "job:workday:rb:electrical-engineer---project-management---co-op--hourly-non-benefit-_r-0000033755",
     "job:workday:rb:enterprise-risk-management-intern---2027_r-0000033621",
     "job:workday:rb:federal-reserve-summer-2027-research-business-survey-internship_r-0000033218",
     "job:workday:rb:federal-reserve-summer-2027-technical-internship_r-0000033194",
@@ -31536,6 +31538,7 @@
     "the federal reserve system computer science and software engineering intern",
     "the federal reserve system data science and business analytics intern",
     "the federal reserve system data science intern",
+    "the federal reserve system electrical engineer project management coop hourlynonbenefit",
     "the federal reserve system enterprise risk management intern 2027",
     "the federal reserve system federal reserve summer 2027 research business survey internship",
     "the federal reserve system federal reserve summer technical 2027 internship",
