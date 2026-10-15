@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-15T18:36:07.412873+00:00",
+  "last_checked_utc": "2026-10-15T18:42:23.980443+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12043,6 +12043,7 @@
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Marketing-Engineer_R26-7211-1",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Technical-Sales---Consulting--USA-_R26-5962-2",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1",
+    "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2",
     "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Information-Systems---Technology_REQ_243093",
     "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Data---Analytics-Services_REQ_243644",
     "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Hospital-IT-Applications_REQ_243646",
@@ -26557,6 +26558,7 @@
     "job:workday:rockwellautomation:intern--technical-sales---consulting--usa-_r26-5962-2",
     "job:workday:rockwellautomation:intern--test-engineering--milwaukee--wi-_r26-7553",
     "job:workday:rockwellautomation:intern--test-engineering--milwaukee--wi-_r26-7553-1",
+    "job:workday:rockwoolgroup:associate-product-management-intern_r0036805-2",
     "job:workday:rrhs:rit-co-op--data---analytics-services_req_243644",
     "job:workday:rrhs:rit-co-op--hospital-it-applications_req_243646",
     "job:workday:rrhs:rit-co-op--information-systems---technology_req_243093",
@@ -30495,6 +30497,7 @@
     "rockwell automation intern technical sales consulting canada",
     "rockwell automation intern technical sales consulting usa",
     "rockwell automation intern test engineering milwaukee wi",
+    "rockwool group associate product management intern",
     "rothesay 2027 summer internship programme quantitative strategist",
     "rothesay 2027 summer internship programme trading and asset origination",
     "rothesay quantitative strategist intern",
