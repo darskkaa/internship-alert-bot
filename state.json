@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-15T14:22:35.733837+00:00",
+  "last_checked_utc": "2026-10-15T14:28:38.968617+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6705,6 +6705,7 @@
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Server-Platform-Intern_J2464685",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/Automation-Engineering-Intern_J2466618",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/IT-Programmer-Analyst-Intern_J2466637",
+    "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Salt-Lake-CityGrantsville-UT/Engineering-Internships---Salt-Lake-City--UT_J2468445",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2465581",
@@ -18270,6 +18271,7 @@
     "jabil automation engineering intern",
     "jabil computer systems analyst intern",
     "jabil data engineer intern",
+    "jabil engineering internships salt lake city ut",
     "jabil engineering internships st petersbrug fl",
     "jabil industrial engineer intern",
     "jabil it programmer analyst intern",
@@ -24778,6 +24780,7 @@
     "job:workday:jabil:automation-engineering-intern_j2466618",
     "job:workday:jabil:computer-systems-analyst-intern_j2464586-1",
     "job:workday:jabil:data-engineering-intern_j2465581",
+    "job:workday:jabil:engineering-internships---salt-lake-city--ut_j2468445",
     "job:workday:jabil:engineering-internships---st-petersbrug--fl_j2468437",
     "job:workday:jabil:industrial-engineer-intern_j2460247",
     "job:workday:jabil:it-programmer-analyst-intern_j2466637",
