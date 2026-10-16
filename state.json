@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T06:11:49.873059+00:00",
+  "last_checked_utc": "2026-10-16T07:21:55.202874+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1474,6 +1474,7 @@
     "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388",
     "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00048328",
     "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/France---Issy-les-Moulineaux/Field-Technical-Engineer--Intern---Paris---6-Months_31162067",
+    "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Pakistan---Karachi/Project-Intern---Validation_31165015",
     "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Puerto-Rico---Barceloneta/COOP-Engineering-Student_31158635",
     "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Puerto-Rico---Barceloneta/COOP-Student---Engineering_31094887",
     "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432",
@@ -13562,6 +13563,7 @@
     "abbott coop engineering student",
     "abbott coop student engineering",
     "abbott field technical engineer intern paris 6 months",
+    "abbott project intern validation",
     "abbvie 2027 business technology solutions intern cloud engineering undergraduate",
     "abbvie 2027 business technology solutions intern cybersecurity undergraduate",
     "abbvie 2027 business technology solutions intern data software engineering undergraduate",
@@ -22033,6 +22035,7 @@
     "job:workday:abbott:coop-engineering-student_31158635",
     "job:workday:abbott:coop-student---engineering_31094887",
     "job:workday:abbott:field-technical-engineer--intern---paris---6-months_31162067",
+    "job:workday:abbott:project-intern---validation_31165015",
     "job:workday:abbott:xmlname-2027-it-cancer-diagnostics-intern_31162235",
     "job:workday:abbott:xmlname-2027-it-intern_31159432",
     "job:workday:abbott:xmlname-2027-science--medical-affairs--cancer-diagnostics-intern_31162766",
