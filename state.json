@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T21:02:22.320053+00:00",
+  "last_checked_utc": "2026-10-16T21:11:55.711389+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5394,6 +5394,7 @@
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Environmental-Engineering-Intern--Summer-2027-_JR-2604239",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/GF-Labs-Research-Program-Management-Intern--Summer-2027-_JR-2604430",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Human-Resources-Intern--HR-Analytics--Summer-2027-_JR-2604494",
+    "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Process-Integration-Intern--ULP-CMOS-Technology-Development--Summer-2027-_JR-2604358",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Product-Business-Unit-Finance-Intern--Summer-2026-_JR-2502830",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Quantum-Technology-Services-Intern--Summer-2027-_JR-2604438",
@@ -17634,6 +17635,7 @@
     "globalfoundries gf labs research program management intern summer 2027",
     "globalfoundries human resources intern hr analytics",
     "globalfoundries human resources intern hr analytics summer 2027",
+    "globalfoundries industrial engineering intern summer 2027",
     "globalfoundries intern fab engineering ae",
     "globalfoundries ip design engineering intern fall 2026",
     "globalfoundries machine learning generative ai intern janjun 2027",
@@ -24347,6 +24349,7 @@
     "job:workday:globalfoundries:gf-labs-research-am-and-fae-support-intern--summer-2027--_jr-2604431",
     "job:workday:globalfoundries:gf-labs-research-program-management-intern--summer-2027-_jr-2604430",
     "job:workday:globalfoundries:human-resources-intern--hr-analytics--summer-2027-_jr-2604494",
+    "job:workday:globalfoundries:industrial-engineering-intern--summer-2027-_jr-2604575",
     "job:workday:globalfoundries:intern---fab-engineering--ae-_jr-2504307",
     "job:workday:globalfoundries:ip-program-management---quality-intern--jan-jun-2027-_jr-2604350",
     "job:workday:globalfoundries:job-posting-title-advanced-manufacturing-process-engineering-intern--sophomore--summer-2027-_jr-2604664",
@@ -28132,6 +28135,7 @@
     "k2 space simulation software engineering intern summer 2027",
     "k2 space software engineer intern summer 2027",
     "k2 space software engineering intern summer 2027",
+    "k2 space space operations engineering intern summer 2027",
     "k2 space supply chain internship summer 2027",
     "k2 space vehicle operations engineering intern summer 2027",
     "kainos placement technologist intern",
