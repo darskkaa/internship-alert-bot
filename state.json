@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T10:02:14.482598+00:00",
+  "last_checked_utc": "2026-10-16T10:12:10.337139+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11825,6 +11825,7 @@
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Calgary_754211WD-1",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/May-2027---Cloud--Data-and-AI---Summer-Intern---Montreal_753364WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ottawa/May-2027---Cloud--Data-and-AI---Summer-Intern---Ottawa_752827WD",
+    "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rubano/Technology-EPM-Junior-Consultant---Internship---Rubano--Padova-_702780WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/May-2027---Cloud--Data-and-AI---Summer-Intern---Toronto_745713WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/September-2027---Data-Enablement--CPA----8-month-Co-op---Toronto_754065WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Toronto_754067WD",
@@ -26616,6 +26617,7 @@
     "job:workday:pwc:strategy--deals-technology-strategy-senior-associate-intern---summer-2027_765701wd",
     "job:workday:pwc:tax---japanese-business-network---intern---summer-2027_756404wd",
     "job:workday:pwc:technology-consulting-senior-associate-intern---summer-2027_765627wd",
+    "job:workday:pwc:technology-epm-junior-consultant---internship---rubano--padova-_702780wd",
     "job:workday:pwc:transfer-pricing---japanese-business-network---intern---summer-2027_756415wd",
     "job:workday:q2ebanking:xmlname-2027-summer-internship---data-science_req-12796",
     "job:workday:q2ebanking:xmlname-2027-summer-internship---data-science_req-12799",
@@ -30229,6 +30231,7 @@
     "pricewaterhousecoopers pwc tax innovation delivery experience intern product management",
     "pricewaterhousecoopers pwc tax japanese business network intern summer 2027",
     "pricewaterhousecoopers pwc technology consulting senior associate intern summer 2027",
+    "pricewaterhousecoopers pwc technology epm junior consultant internship rubano padova",
     "pricewaterhousecoopers pwc transfer pricing japanese business network jbn intern summer 2027",
     "primer software engineer intern full stack",
     "primer springsummer 2027 engineering intern",
