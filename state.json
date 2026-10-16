@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T11:41:48.497346+00:00",
+  "last_checked_utc": "2026-10-16T12:12:04.823888+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11030,6 +11030,7 @@
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/GBR---London---London-Moorgate-WeWork/Student-Placement---IT-Developer-Analyst_R418573",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/IRL---Carlow---Carlow/New-Product-Introduction--Technical-Engineering-Internship_R412067",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/IRL---Tipperary---Ballydine/Engineering-Department-Intern_R411420",
+    "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---BSc--HLO--or-MSc-Biology--Life-sciences---Poultry-R-D_R422847-1",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---Formulation----Discovery-and-Technology-Research_R421952-1",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Optical-Imaging-Data-Science-Intern---Intern_R412885",
@@ -25943,6 +25944,7 @@
     "job:workday:mpc:process-engineer-1_00022582",
     "job:workday:mpc:refining-chemical-engineering-intern-co-op-summer-2027_00024022",
     "job:workday:msd:engineering-department-intern_r411420",
+    "job:workday:msd:intern---bsc--hlo--or-msc-biology--life-sciences---poultry-r-d_r422847-1",
     "job:workday:msd:intern---formulation----discovery-and-technology-research_r421952-1",
     "job:workday:msd:new-product-introduction--technical-engineering-internship_r412067",
     "job:workday:msd:student-placement---it-developer-analyst_r418573",
@@ -28665,6 +28667,7 @@
     "merck global data management and standards intern",
     "merck information science intern future talent program",
     "merck intern",
+    "merck intern bsc hlo or msc biology life sciences poultry rd",
     "merck intern formulation discovery and technology research",
     "merck it developer analyst intern",
     "merck medical data scientist intern",
