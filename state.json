@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T14:51:51.066328+00:00",
+  "last_checked_utc": "2026-10-16T15:02:13.975840+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1790,6 +1790,7 @@
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Smyrna--TN_R00214880",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/New-Model-Tech-Quality-Validation-Engineer-Intern---Summer-2027---Smyrna--TN_R00214251",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Process-Engineering-Intern---Summer-2027---Smyrna--TN_R00214285",
+    "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Robotics-Programmer-Intern---Summer-2027---Smyrna--TN_R00214302",
     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Supplier-Management-Engineering--SME--Intern---Summer-2027---Smyrna--TN_R00214288",
     "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/AI-Solutions-Intern_R-011074",
     "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077",
@@ -21309,6 +21310,7 @@
     "job:oracle:ejia.fa.us6.oraclecloud.com:107296",
     "job:oracle:ejia.fa.us6.oraclecloud.com:107298",
     "job:oracle:ejia.fa.us6.oraclecloud.com:107302",
+    "job:oracle:ejia.fa.us6.oraclecloud.com:107307",
     "job:oracle:ejia.fa.us6.oraclecloud.com:107322",
     "job:oracle:ejia.fa.us6.oraclecloud.com:107354",
     "job:oracle:ejia.fa.us6.oraclecloud.com:107356",
@@ -22404,6 +22406,7 @@
     "job:workday:alliance:qa-dyno-assembly-engineer-intern---summer-2027---decherd--tn_r00214292",
     "job:workday:alliance:raw-materials-engineering-intern---summer-2027---decherd--tn_r00214290",
     "job:workday:alliance:research-application-intern---summer-2027---santa-clara--ca_r00214272",
+    "job:workday:alliance:robotics-programmer-intern---summer-2027---smyrna--tn_r00214302",
     "job:workday:alliance:sap-platform-intern--finance-purchasing----summer-2027---franklin--tn_r00214217",
     "job:workday:alliance:supplier-management-engineering--sme--intern---summer-2027---smyrna--tn_r00214288",
     "job:workday:alliance:systems-engineer-intern---summer-2027---canton--ms_r00214882",
@@ -29325,6 +29328,7 @@
     "nissan global raw materials engineering intern summer 2027 decherd tn",
     "nissan global research application intern",
     "nissan global research application intern summer 2027 santa clara ca",
+    "nissan global robotics programmer intern summer 2027 smyrna tn",
     "nissan global sap platform intern financepurchasing summer 2027 franklin tn",
     "nissan global supplier management engineering sme intern summer 2027 smyrna tn",
     "nissan global systems engineer intern summer 2027",
