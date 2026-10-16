@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T08:41:55.084718+00:00",
+  "last_checked_utc": "2026-10-16T08:51:50.889781+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1575,6 +1575,8 @@
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Newport/Hardware-Engineering---Electronics-Degree-Apprenticeship_JR10433054",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Newport/Software-Engineering-Degree-Apprenticeship_JR10433575",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Radio-Frequency--RF--Test-System-Engineering-Placement--12-months-_JR10428274",
+    "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360",
+    "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027-----Cybersecurity-CTI_JR10450775",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term---Engineering_JR10411965",
     "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655-1",
     "https://aig.wd1.myworkdayjobs.com/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655",
@@ -13762,6 +13764,8 @@
     "air products summer interncoopmechanical engineering 2027",
     "airbnb strategic finance analytics intern",
     "airbnb strategic finance analytics intern mba",
+    "airbus atr internship 2027 cybersecurity cti",
+    "airbus atr internship geospatial data science fm",
     "airbus hardware engineering apprentice",
     "airbus intern frontend developer",
     "airbus intern system integration developer",
@@ -22124,6 +22128,8 @@
     "job:workday:aero:xmlname-2027-systems-of-systems-portfolio-analysis-undergraduate-intern_r016462",
     "job:workday:aes:relay-engineer---engineering-services-co-op--fall-2027-_r1064792",
     "job:workday:aes:t-d-performance-and-reliability-engineering-intern--summer-2027-_r1064841",
+    "job:workday:ag:atr---internship--geospatial-data-science--f-m-_jr10448360",
+    "job:workday:ag:atr---internship-2027-----cybersecurity-cti_jr10450775",
     "job:workday:ag:hardware-engineering---electronics-degree-apprenticeship_jr10433054",
     "job:workday:ag:intern-frontend-developer_jr10451058",
     "job:workday:ag:intern-system-integration-developer_jr10451063",
