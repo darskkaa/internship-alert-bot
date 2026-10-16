@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T04:41:44.688350+00:00",
+  "last_checked_utc": "2026-10-16T05:31:59.876132+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6780,6 +6780,7 @@
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Engineering-Internships---Florence--KY_J2468521",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/IT-Programmer-Analyst-Intern_J2466637",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Engineering-Internships---Memphis--TN_J2468449",
+    "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Intern---Data-Services-Squad--DSS-_J2468608",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Salt-Lake-CityGrantsville-UT/Engineering-Internships---Salt-Lake-City--UT_J2468445",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Computer-Systems-Analyst-Intern_J2464586-1",
@@ -18500,6 +18501,7 @@
     "jabil engineering internships salt lake city ut",
     "jabil engineering internships st petersbrug fl",
     "jabil industrial engineer intern",
+    "jabil intern data services squad dss",
     "jabil it programmer analyst intern",
     "jabil it scm intern",
     "jabil operations analytics reporting intern",
@@ -25117,6 +25119,7 @@
     "job:workday:jabil:engineering-internships---salt-lake-city--ut_j2468445",
     "job:workday:jabil:engineering-internships---st-petersbrug--fl_j2468437",
     "job:workday:jabil:industrial-engineer-intern_j2460247",
+    "job:workday:jabil:intern---data-services-squad--dss-_j2468608",
     "job:workday:jabil:it-programmer-analyst-intern_j2466637",
     "job:workday:jabil:it-scm-intern_j2465768",
     "job:workday:jabil:operations-analytics---reporting-intern_j2465601",
