@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T12:21:59.819804+00:00",
+  "last_checked_utc": "2026-10-16T12:32:07.663978+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6576,6 +6576,7 @@
     "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1",
     "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603518",
     "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521",
+    "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Cloud-Engineer--AWS-Azure---Reston--VA-_R2603554",
     "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1",
     "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380",
     "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252",
@@ -18226,6 +18227,7 @@
     "icf 2027 summer intern software developer reston va",
     "icf 2027 summer intern software engineer reston va",
     "icf international 2027 summer intern ai engineer reston va",
+    "icf international 2027 summer intern cloud engineer awsazure reston va",
     "icf international 2027 summer intern data analytics reston va or remote",
     "icf international 2027 summer intern data engineer reston va or remote",
     "icf international 2027 summer intern data scientist reston va denver co remote",
@@ -24996,6 +24998,7 @@
     "job:workday:icf:xmlname-2027-summer-intern--ai-engineer--reston--va-_r2603312-1",
     "job:workday:icf:xmlname-2027-summer-intern--ai-engineer--reston--va-_r2603518",
     "job:workday:icf:xmlname-2027-summer-intern--ai-engineer--reston--va-_r2603521",
+    "job:workday:icf:xmlname-2027-summer-intern--cloud-engineer--aws-azure---reston--va-_r2603554",
     "job:workday:icf:xmlname-2027-summer-intern--data-analytics--reston--va-or-remote-_r2603382-1",
     "job:workday:icf:xmlname-2027-summer-intern--data-engineer--reston--va-or-remote-_r2603380",
     "job:workday:icf:xmlname-2027-summer-intern--data-scientist--reston--va--denver--co--remote-_r2603252",
