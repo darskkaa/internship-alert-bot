@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T16:52:00.704863+00:00",
+  "last_checked_utc": "2026-10-16T17:02:16.416395+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10918,6 +10918,7 @@
     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Engineer--HIG-HBM-DTPCO_JR113618",
     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528",
+    "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112529",
     "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524",
     "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461",
     "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---Associate-Solutions-Engineer---Data-Warehouse_JR1462",
@@ -20120,6 +20121,7 @@
     "job:greenhouse:7822989003",
     "job:greenhouse:7827254003",
     "job:greenhouse:7828531003",
+    "job:greenhouse:7837252003",
     "job:greenhouse:7838577",
     "job:greenhouse:7845193003",
     "job:greenhouse:7848371",
@@ -25904,6 +25906,7 @@
     "job:workday:micron:intern---it-software-engineer_jr113941",
     "job:workday:micron:intern---marketing-analytics_jr109458",
     "job:workday:micron:intern---memory-design-engineer--hbm_jr112528",
+    "job:workday:micron:intern---memory-design-engineer--hbm_jr112529",
     "job:workday:micron:intern---memory-systems-architecture---ai_jr112524",
     "job:workday:micron:intern---next-gen-hbm-platform-arch_jr112993",
     "job:workday:micron:intern---process-integration-engineer_jr114192",
