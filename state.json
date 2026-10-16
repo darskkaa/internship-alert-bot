@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T13:32:21.471197+00:00",
+  "last_checked_utc": "2026-10-16T13:42:00.990069+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2166,6 +2166,7 @@
     "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1",
     "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717",
     "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659",
+    "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada---Mississauga/AI-Business-Support-Specialist-Intern_R-261993",
     "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415",
     "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Epidemiology---Real-World-Science-Intern_R-259238",
     "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927",
@@ -14585,6 +14586,7 @@
     "astranis software engineer intern enterprise systems fall 2026",
     "astranis technical project management intern summer 2027",
     "astranis thermal intern summer 2027",
+    "astrazeneca ai business support specialist intern",
     "astreya ai infrastructure dc design intern",
     "atc asset management intern",
     "atc intern civil engineering summer 2027",
@@ -22602,6 +22604,7 @@
     "job:workday:assurant:summer-2027-intern--product-analyst-intern---housing_r-115659",
     "job:workday:assurant:summer-2027-intern--software-engineering-intern_r-115727",
     "job:workday:assurant:summer-2027-intern--software-engineering-intern_r-115727-1",
+    "job:workday:astrazeneca:ai-business-support-specialist-intern_r-261993",
     "job:workday:astrazeneca:co-op--development-operations-ai---automation-enablement-intern_r-260415",
     "job:workday:astrazeneca:epidemiology---real-world-science-intern_r-259238",
     "job:workday:astreya:ai-infrastructure-dc-design-intern_r0017927",
