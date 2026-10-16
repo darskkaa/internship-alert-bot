@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T18:11:53.416131+00:00",
+  "last_checked_utc": "2026-10-16T18:22:03.212178+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3598,6 +3598,7 @@
     "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cloud-Security-Incident-Response-Analyst-Intern--Undergraduate---Summer-2027-_1667738-1",
     "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
     "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-and-Analytics-Summer-2027-Intern--Undergraduate-_1660515",
+    "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Enterprise-Risk-Management---Corporate-Sustainability-Intern--Graduate---Summer-_1659617",
     "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662089",
     "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091",
     "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Robotics-Interns_JR107983-1",
@@ -15623,6 +15624,7 @@
     "centene data and analytics intern undergraduate",
     "centene data and analytics summer 2027 intern undergraduate",
     "centene data governance ai enablement intern undergraduate summer 2027",
+    "centene enterprise risk management corporate sustainability intern graduate summer",
     "centene medical economics analyst intern",
     "centene medical economics intern",
     "centene people analytics intern undergraduate",
@@ -23300,6 +23302,7 @@
     "job:workday:centene:cloud-security-incident-response-analyst-intern--undergraduate---summer-2027-_1667738-1",
     "job:workday:centene:cybersecurity-summer-2027-intern--undergraduate-_1660514",
     "job:workday:centene:data-and-analytics-summer-2027-intern--undergraduate-_1660515",
+    "job:workday:centene:enterprise-risk-management---corporate-sustainability-intern--graduate---summer-_1659617",
     "job:workday:centene:medical-economics-analyst-intern--undergraduate---summer-2027-_1662248-1",
     "job:workday:centene:medical-economics-intern--undergraduate---summer-2027-_1662089",
     "job:workday:centene:medical-economics-intern--undergraduate---summer-2027-_1662091",
