@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T09:12:10.802337+00:00",
+  "last_checked_utc": "2026-10-16T09:41:55.087101+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1566,6 +1566,7 @@
     "https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027",
     "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Relay-Engineer---Engineering-Services-Co-Op--Fall-2027-_R1064792",
     "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/T-D-Performance-and-Reliability-Engineering-Intern--Summer-2027-_R1064841",
+    "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Backend-Developer_JR10451110",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Frontend-Developer_JR10451058",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-System-Integration-Developer_JR10451063",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/MASTER-IN-AIRFRAME-TECHNOLOGY-2027--MAIR2027--INTERNSHIP-_JR10448000",
@@ -13789,6 +13790,7 @@
     "airbus atr internship electrical hybrid systems fm",
     "airbus atr internship geospatial data science fm",
     "airbus hardware engineering apprentice",
+    "airbus intern backend developer",
     "airbus intern frontend developer",
     "airbus intern system integration developer",
     "airbus longterm internship engineering",
@@ -22163,6 +22165,7 @@
     "job:workday:ag:atr--internship-2027---ia-assistant-for-avionics-systems-designer_jr10450466",
     "job:workday:ag:atr-internship-2027--stress-repair-engineer_jr10450734",
     "job:workday:ag:hardware-engineering---electronics-degree-apprenticeship_jr10433054",
+    "job:workday:ag:intern-backend-developer_jr10451110",
     "job:workday:ag:intern-frontend-developer_jr10451058",
     "job:workday:ag:intern-system-integration-developer_jr10451063",
     "job:workday:ag:long-term---engineering_jr10411965",
