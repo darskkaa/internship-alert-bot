@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T12:32:07.663978+00:00",
+  "last_checked_utc": "2026-10-16T12:42:03.928764+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1584,6 +1584,7 @@
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027----AI---Data-Engineering---Automated-Technical-Knowledge-Extraction_JR10447326",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027----Aerodynamics-Engineer-H-F_JR10450441",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027----Loads-Engineer-H-F_JR10450450",
+    "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027---AI-and-structural-in--service-repairs_JR10450722",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027---Engineering-Performance_JR10450542",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027---Impact-of-input-errors-on-takeoff-performance-and-prototyping-of-an-algorithm-for-detection_JR10449589",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027---Structure-Fleet-Support-Daily-repair-Engineer_JR10450674",
@@ -13789,6 +13790,7 @@
     "airbnb strategic finance analytics intern",
     "airbnb strategic finance analytics intern mba",
     "airbus atr internship 2027 aerodynamics engineer hf",
+    "airbus atr internship 2027 ai and structural in service repairs",
     "airbus atr internship 2027 ai data engineering automated technical knowledge extraction",
     "airbus atr internship 2027 automatic generator of aircraft performance database",
     "airbus atr internship 2027 avionics system interface assistant",
@@ -22181,6 +22183,7 @@
     "job:workday:ag:atr---internship-2027----aerodynamics-engineer-h-f_jr10450441",
     "job:workday:ag:atr---internship-2027----ai---data-engineering---automated-technical-knowledge-extraction_jr10447326",
     "job:workday:ag:atr---internship-2027----loads-engineer-h-f_jr10450450",
+    "job:workday:ag:atr---internship-2027---ai-and-structural-in--service-repairs_jr10450722",
     "job:workday:ag:atr---internship-2027---engineering-performance_jr10450542",
     "job:workday:ag:atr---internship-2027---impact-of-input-errors-on-takeoff-performance-and-prototyping-of-an-algorithm-for-detection_jr10449589",
     "job:workday:ag:atr---internship-2027---structure-fleet-support-daily-repair-engineer_jr10450674",
