@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T20:02:22.842285+00:00",
+  "last_checked_utc": "2026-10-16T20:21:55.905356+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4503,6 +4503,7 @@
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97613",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97670",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97678",
+    "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97692",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97698",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97804",
     "https://energynorthwest.wd1.myworkdayjobs.com/External/job/Richland-WA/Civil---Mechanical-Engineering-Intern---Year-Round_REQ26_352",
@@ -11885,6 +11886,7 @@
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Guidance-and-Control-Research---Development-Internship_REQ_0000071517-1",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Smeal-Research-Intelligence--SRI-_REQ_0000083297-1",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Teaching-Assistant---BA-840_REQ_0000083427-1",
+    "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000082444-1",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000083104-1",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000076869",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
@@ -21482,6 +21484,7 @@
     "job:oracle:emit.fa.ca3.oraclecloud.com:97613",
     "job:oracle:emit.fa.ca3.oraclecloud.com:97670",
     "job:oracle:emit.fa.ca3.oraclecloud.com:97678",
+    "job:oracle:emit.fa.ca3.oraclecloud.com:97692",
     "job:oracle:emit.fa.ca3.oraclecloud.com:97698",
     "job:oracle:emit.fa.ca3.oraclecloud.com:97804",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81238",
@@ -26792,6 +26795,7 @@
     "job:workday:psu:guidance-and-control-research---development-internship_req_0000071517-1",
     "job:workday:psu:part-time-research-assistant---smeal-research-intelligence--sri-_req_0000083297-1",
     "job:workday:psu:part-time-teaching-assistant---ba-840_req_0000083427-1",
+    "job:workday:psu:r-d-engineer-intern_req_0000082444-1",
     "job:workday:psu:r-d-engineer-intern_req_0000083104-1",
     "job:workday:psu:r-d-engineer-intern_req_0000083331",
     "job:workday:psu:research-and-development-engineering-intern_req_0000076214-1",
