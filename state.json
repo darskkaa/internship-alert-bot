@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T02:12:16.323739+00:00",
+  "last_checked_utc": "2026-10-16T04:21:52.394955+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12089,6 +12089,7 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Portfolio-Strategy-and-Insights-Interns--Basel--up-to-12-months-_202606-116569-1",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Workforce-Optimization---Strategies--Data-Science--Intern_202609-124186",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Enterprise-Master-Data-Management---Intern_202609-124194",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Technology-Support-Intern---Mandarin-Speaker--Open-to-All-Majors-_202610-125573",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/Workforce-Optimization---Strategies--Data-Science--Intern_202610-125516",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536",
@@ -26732,6 +26733,7 @@
     "job:workday:roberthalf:san-francisco-legal--risk-and-compliance-intern---2027_jr-258821",
     "job:workday:roche:data-science-industrial-placement---multiple-roles-within-biostats--data-management--real-world-data-and-more_202609-122536",
     "job:workday:roche:data-science-intern---master-thesis-student--basel--6-monate-_202609-124516",
+    "job:workday:roche:enterprise-master-data-management---intern_202609-124194",
     "job:workday:roche:intern_202609-124125",
     "job:workday:roche:internship---agentic-ai-for-environmental-regulatory-compliance_202609-124819",
     "job:workday:roche:portfolio-strategy-and-insights-interns--basel--up-to-12-months-_202606-116569-1",
@@ -30670,6 +30672,7 @@
     "roboforce robotics electrical engineering intern",
     "roche data science intern master thesis student basel 6 monate",
     "roche data science intern multiple teams",
+    "roche enterprise master data management intern",
     "roche internship agentic ai for environmental regulatory compliance",
     "roche portfolio strategy and insights interns basel up to 12 months",
     "roche student internship in lab automation pharma research early development",
