@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-16T23:21:36.564274+00:00",
+  "last_checked_utc": "2026-10-17T00:21:50.911926+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11218,6 +11218,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Mgr-Electronics-Engineering-1---Ground-Systems-Intern-Development-Manager_R10256522",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Engineering-Intern---Manhattan-Beach--CA---Evergreen-_R10253708",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111",
@@ -26279,6 +26280,7 @@
     "job:workday:newperkinelmer:data-science-intern--asset-intelligence_req-058421",
     "job:workday:newrez:xmlname-2027-summer-internship---investor-reporting-data-systems_r10352",
     "job:workday:newrez:xmlname-2027-summer-internship---software-developer_r10390",
+    "job:workday:ngc:mgr-electronics-engineering-1---ground-systems-intern-development-manager_r10256522",
     "job:workday:ngc:xmlname-2027---mechanical-engineer-intern--mcclellan-ca_r10255111",
     "job:workday:ngc:xmlname-2027-college-technical-intern---mclean-va_r10253146",
     "job:workday:ngc:xmlname-2027-computer-engineer-intern---manhattan-beach-ca_r10255835",
@@ -29726,6 +29728,7 @@
     "northrop grumman electronics engineering intern",
     "northrop grumman embedded software engineer intern",
     "northrop grumman hardware electronics engineer intern",
+    "northrop grumman mgr electronics engineering 1 ground systems intern development manager",
     "northrop grumman software developer intern",
     "northrop grumman software digital intern",
     "northrop grumman software embedded engineer intern",
