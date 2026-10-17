@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-17T00:21:50.911926+00:00",
+  "last_checked_utc": "2026-10-17T00:51:41.131449+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12291,6 +12291,7 @@
     "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/USA-TX-Dallas-13155-Noel-Road/Enterprise-Data-Integration-and-Migration-Consulting-Intern---Summer-2027_JR116784",
     "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Application-Development_R0020820-1",
     "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1",
+    "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1",
     "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/London/AI-Enabled-Business-Solutions-Intern_R0020589-1",
     "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Development_R0020820",
     "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822",
@@ -27159,6 +27160,7 @@
     "job:workday:ryan:summer-2027-intern--software-development_r0020822",
     "job:workday:ryan:summer-2027-intern--software-development_r0020822-1",
     "job:workday:ryan:summer-2027-intern--software-engineering_r0020843",
+    "job:workday:ryan:summer-2027-intern--software-engineering_r0020843-1",
     "job:workday:ryancompanies:business-intelligence-intern--mission-critical_r-101961",
     "job:workday:ryancompanies:civil-engineer-intern_r-102178",
     "job:workday:ryancompanies:field-engineer-intern_r-101963",
