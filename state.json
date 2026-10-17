@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-17T13:41:40.201763+00:00",
+  "last_checked_utc": "2026-10-17T17:01:26.230455+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5995,6 +5995,8 @@
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/Downers-Grove-3500-Lacey-Road/Early-Careers---Technology-Delivery-Analyst-Intern_R0059497",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Automation-Programmer-Intern_R0059484",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505",
+    "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477",
+    "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Governance--Risk---Compliance--GRC--Intern_R0059509",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Infrastructure-Engineer-Intern_R0059506",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Infrastructure-Service-Delivery-Intern_R0059507",
@@ -17971,6 +17973,8 @@
     "hcsc early careers automation programmer intern",
     "hcsc early careers developer intern",
     "hcsc early careers enterprise data analyst intern",
+    "hcsc early careers finance application developer intern",
+    "hcsc early careers finance data analytics developer intern",
     "hcsc early careers governance risk compliance grc intern",
     "hcsc early careers infrastructure engineer intern",
     "hcsc early careers infrastructure service delivery intern",
@@ -24845,6 +24849,8 @@
     "job:workday:hcsc:early-careers---automation-programmer-intern_r0059484",
     "job:workday:hcsc:early-careers---developer-intern--compliance---health-quality-_r0059503",
     "job:workday:hcsc:early-careers---enterprise-data-analyst-intern_r0059505",
+    "job:workday:hcsc:early-careers---finance-application-developer-intern_r0059477",
+    "job:workday:hcsc:early-careers---finance-data---analytics-developer-intern_r0059478",
     "job:workday:hcsc:early-careers---governance--risk---compliance--grc--intern_r0059509",
     "job:workday:hcsc:early-careers---infrastructure-engineer-intern_r0059506",
     "job:workday:hcsc:early-careers---infrastructure-service-delivery-intern_r0059507",
