@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-17T00:51:41.131449+00:00",
+  "last_checked_utc": "2026-10-17T01:36:47.466838+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6025,6 +6025,7 @@
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506814",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506918",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506970",
+    "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506972",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506991",
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007361",
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007497",
@@ -21769,6 +21770,7 @@
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506814",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506918",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506970",
+    "job:oracle:hctz.fa.us2.oraclecloud.com:2506972",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506991",
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1007361",
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1007497",
@@ -31457,6 +31459,7 @@
     "ryan companies safety engineer intern",
     "ryan companies scheduling engineer intern",
     "ryan software development intern",
+    "ryan software engineer intern",
     "ryan summer 2027 intern software development",
     "ryan summer 2027 intern software engineering",
     "rystad energy analyst intern summer 2027",
@@ -32719,6 +32722,7 @@
     "toast engineer intern",
     "together ai hardware security engineer intern summer 2027",
     "together ai research engineer intern frontier speculative decoding summer 2027",
+    "together ai research intern",
     "together ai research intern frontier agents",
     "together ai research intern frontier agents summer 2027",
     "together ai research intern frontier speculative decoding summer 2027",
