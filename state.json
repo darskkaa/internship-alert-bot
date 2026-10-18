@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-18T21:22:09.200640+00:00",
+  "last_checked_utc": "2026-10-18T23:02:03.227667+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5925,6 +5925,7 @@
     "https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---New-Jersey---Warren/XMLNAME-2027-Undergraduate-Summer-Internship--Scientific-Affairs---Wellness---Nutrition_548434",
     "https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---New-York---Oak-Hill/XMLNAME-2027-Co-Op--Engineering--6-months--Jan-start-_548919",
     "https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Virginia---Richmond/XMLNAME-2027--Summer-Intern--VCU-School-of-Pharmaceutical-Sciences-Intern_548425",
+    "https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Virginia---Richmond/XMLNAME-2027-Co-Op--Pilot-Plant-Engineering--6-months--Jan-start-_548418",
     "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Bethlehem/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology--Cloud---DevOps_R000110210",
     "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Bethlehem/XMLNAME-2027-Guardian-Summer-Intern--Financial-Reporting---Accounting_R000110131",
     "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Bethlehem/XMLNAME-2027-Guardian-Summer-Intern--HR-Technology-Knowledge-Management---AI-Operations_R000110260",
@@ -17959,6 +17960,7 @@
     "haize labs research intern",
     "haize labs software engineer intern",
     "haleon 2027 coop engineering 6 months jan start",
+    "haleon 2027 coop pilot plant engineering 6 months jan start",
     "haleon 2027 graduate summer internship scientific affairs wellness nutrition",
     "haleon 2027 summer intern vcu school of pharmaceutical sciences intern",
     "haleon 2027 undergraduate summer internship scientific affairs wellness nutrition",
@@ -24811,6 +24813,7 @@
     "job:workday:gsk:internship---oncology-marketing---product-management--feb-mar-2027-to-aug-sept-2027-_449612-1",
     "job:workday:gsknch:xmlname-2027--summer-intern--vcu-school-of-pharmaceutical-sciences-intern_548425",
     "job:workday:gsknch:xmlname-2027-co-op--engineering--6-months--jan-start-_548919",
+    "job:workday:gsknch:xmlname-2027-co-op--pilot-plant-engineering--6-months--jan-start-_548418",
     "job:workday:gsknch:xmlname-2027-graduate-summer-internship--scientific-affairs---wellness---nutrition_548435",
     "job:workday:gsknch:xmlname-2027-undergraduate-summer-internship--scientific-affairs---wellness---nutrition_548434",
     "job:workday:guardianlife:xmlname-2027-guardian-summer-intern---fp-a-and-management-reporting_r000110212",
