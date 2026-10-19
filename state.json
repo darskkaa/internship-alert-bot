@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T09:02:26.617962+00:00",
+  "last_checked_utc": "2026-10-19T09:12:16.418752+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8760,6 +8760,7 @@
     "https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
     "https://jobs.ashbyhq.com/leland/23c6dd75-cc1e-457b-a666-2fbf944540e1",
     "https://jobs.ashbyhq.com/lendable/a2214edc-39e3-4c70-8a09-875bb991062f/application?embed=true",
+    "https://jobs.ashbyhq.com/lendable/e001dc0b-6e0f-46a7-95ba-38a3733db2f4/application?embed=true",
     "https://jobs.ashbyhq.com/mach9/6189f940-38ab-4235-80fb-1dda13966435/application?embed=true",
     "https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8",
     "https://jobs.ashbyhq.com/maxinsights/afbc425f-9543-460d-8f78-792a8017d060",
@@ -19289,6 +19290,7 @@
     "job:ashby:df2e8a16-c9b2-4603-8bc6-b78a4addb04c",
     "job:ashby:df7891e3-088a-4ed8-9403-7d2757eee2c5",
     "job:ashby:df9254b5-e323-411a-a36f-57bd24a3de56",
+    "job:ashby:e001dc0b-6e0f-46a7-95ba-38a3733db2f4",
     "job:ashby:e00c49b7-44c1-4f0c-af3c-2c7a7402185b",
     "job:ashby:e0805db2-f584-47d2-9b9e-ef31ced8c11f",
     "job:ashby:e0fd8f07-9552-4d0c-b83f-5cf494e67d13",
@@ -28552,6 +28554,7 @@
     "leidos technical intern",
     "leland growth ops intern courses events",
     "lendable credit analyst intern",
+    "lendable intern",
     "lennox international ai analytics intern",
     "lennox international ai engineering intern summer 2027",
     "lennox international hardware engineering coop",
