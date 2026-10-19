@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-18T23:02:03.227667+00:00",
+  "last_checked_utc": "2026-10-19T00:42:04.813989+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2131,6 +2131,7 @@
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375",
+    "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704361",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704362",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704381",
@@ -14567,6 +14568,7 @@
     "aptiv cloud engineering intern",
     "aptiv cloud software engineer intern",
     "aptiv embedded software engineering intern",
+    "aptiv engineer intern",
     "aptiv engineering intern",
     "aptiv hvpcert engineering intern",
     "aptiv intern compiler team",
@@ -22802,6 +22804,7 @@
     "job:workday:aptiv:cloud-engineering-intern_j000704383",
     "job:workday:aptiv:cloud-software-engineer-intern_j000704375",
     "job:workday:aptiv:embedded-software---engineering-intern_j000704386",
+    "job:workday:aptiv:engineering-intern_j000691719",
     "job:workday:aptiv:engineering-intern_j000704361",
     "job:workday:aptiv:engineering-intern_j000704362",
     "job:workday:aptiv:engineering-intern_j000704381",
