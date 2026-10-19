@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T02:22:08.174479+00:00",
+  "last_checked_utc": "2026-10-19T04:01:59.287886+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10123,6 +10123,7 @@
     "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2",
     "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817",
     "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821",
+    "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280-2",
     "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
     "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044",
     "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1",
@@ -25629,6 +25630,7 @@
     "job:workday:kla:software-engineering-intern_2641581-1",
     "job:workday:kla:software-engineering-intern_2641821",
     "job:workday:kla:software-engineering-intern_2641821-2",
+    "job:workday:kla:tax---data-analytics-intern_2642280-2",
     "job:workday:kokosing:fall-2026-co-op_r-102048",
     "job:workday:kyndryl:marketing-internship--marketing-analysis_r-70007-1",
     "job:workday:kyndryl:marketing-internship--marketing-analytics_r-69403",
@@ -28343,6 +28345,7 @@
     "kla corporation software engineer intern ai",
     "kla corporation software engineering intern",
     "kla corporation software engineering intern c unix",
+    "kla corporation tax data analytics intern",
     "kla electrical design engineering intern",
     "kla mechanical design engineer intern",
     "kla mechanical engineering intern",
