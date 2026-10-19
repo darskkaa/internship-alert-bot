@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T14:52:39.280822+00:00",
+  "last_checked_utc": "2026-10-19T15:03:21.522436+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6626,6 +6626,7 @@
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155562",
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157903",
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158088",
+    "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160178",
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160397",
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160530",
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522",
@@ -6641,6 +6642,7 @@
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157903",
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158088",
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957",
+    "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160178",
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160397",
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160530",
     "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637",
@@ -22024,6 +22026,7 @@
     "job:oracle:ibqbjb.fa.ocs.oraclecloud.com:157903",
     "job:oracle:ibqbjb.fa.ocs.oraclecloud.com:158088",
     "job:oracle:ibqbjb.fa.ocs.oraclecloud.com:158957",
+    "job:oracle:ibqbjb.fa.ocs.oraclecloud.com:160178",
     "job:oracle:ibqbjb.fa.ocs.oraclecloud.com:160397",
     "job:oracle:ibqbjb.fa.ocs.oraclecloud.com:160530",
     "job:oracle:ibwujb.fa.ocs.oraclecloud.com:10637",
