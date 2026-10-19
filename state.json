@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T06:42:00.186012+00:00",
+  "last_checked_utc": "2026-10-19T07:02:24.483192+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11472,6 +11472,7 @@
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Tools-and-Methodology-Engineer--CAD-DFT--RDSS-Intern-_JR2026887",
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488",
@@ -26525,6 +26526,7 @@
     "job:workday:nvidia:applied-research-intern--nlp---fall-2026_jr2010488",
     "job:workday:nvidia:cpu-compiler-intern---2027_jr2027251",
     "job:workday:nvidia:data-processing-developer-technology-intern---2027_jr2024708",
+    "job:workday:nvidia:data-processing-developer-technology-intern---2027_jr2027948",
     "job:workday:nvidia:deep-learning-performance-software-intern---2027_jr2025966",
     "job:workday:nvidia:developer-technology-engineering-intern---2027_jr2024122",
     "job:workday:nvidia:developer-technology-engineering-intern---compute-performance_jr2026775",
