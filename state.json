@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T21:32:23.935538+00:00",
+  "last_checked_utc": "2026-10-19T21:52:23.611279+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6192,6 +6192,7 @@
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010928",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295",
+    "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012073",
     "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9286",
     "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113826",
     "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113827",
@@ -16899,6 +16900,7 @@
     "emerson electric hardware design engineer intern",
     "emerson electric intelligent automation coop",
     "emerson electric machine learning rd coop",
+    "emerson electric mechanical engineer coop julydecember",
     "emerson electric product engineering coop",
     "emerson electric quality engineering coop",
     "emerson electric sales and application engineering coop",
@@ -22153,6 +22155,7 @@
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26010928",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26011003",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26011295",
+    "job:oracle:hdjq.fa.us2.oraclecloud.com:26012073",
     "job:oracle:hdks.fa.ca2.oraclecloud.com:9286",
     "job:oracle:hdnn.fa.us6.oraclecloud.com:113826",
     "job:oracle:hdnn.fa.us6.oraclecloud.com:113827",
