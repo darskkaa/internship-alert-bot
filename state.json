@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T09:42:04.741080+00:00",
+  "last_checked_utc": "2026-10-19T09:52:15.631176+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2223,6 +2223,7 @@
     "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d",
     "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0",
     "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Intern--Engineering_JR105055",
+    "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472-1",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433-1",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Intern--Software-Engineer_26WD101095-1",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2",
@@ -2237,6 +2238,7 @@
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1",
+    "https://autodesk.wd1.myworkdayjobs.com/uni/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472",
     "https://autodesk.wd1.myworkdayjobs.com/uni/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433",
     "https://autodesk.wd1.myworkdayjobs.com/uni/job/Krakw-POL/Intern--Software-Engineer_26WD101095",
     "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1",
@@ -22901,6 +22903,8 @@
     "job:workday:autodesk:intern--software-developer--stagiaire-en-dveloppement-logiciel_26wd101114-1",
     "job:workday:autodesk:intern--software-engineer_26wd101095",
     "job:workday:autodesk:intern--software-engineer_26wd101095-1",
+    "job:workday:autodesk:intern--software-engineer_26wd101472",
+    "job:workday:autodesk:intern--software-engineer_26wd101472-1",
     "job:workday:autodesk:intern-software-developer--stagiaire-en-dveloppement-logiciel_26wd100398-1",
     "job:workday:autodesk:intern-software-developer--stagiaire-en-dveloppement-logiciel_26wd100398-2",
     "job:workday:autodesk:phd-researcher--agentic-3d-modeling-in-immersive-environments_26wd101374",
