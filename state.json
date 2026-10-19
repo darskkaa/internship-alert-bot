@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T20:22:55.984572+00:00",
+  "last_checked_utc": "2026-10-19T20:37:36.866695+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6831,6 +6831,7 @@
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Graduate-Intern_JR0286546",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629",
+    "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Cloud-Analytics---Application-PhD-Intern_JR0288170",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Module-Development-Engineer-PhD-Intern-New-2027_JR0287950",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Module-Engineer-PhD-Intern-New-2027_JR0287951",
@@ -18823,6 +18824,7 @@
     "intel ai solutions engineering undergraduate intern",
     "intel aidriven physical design engineering phd intern",
     "intel aiml software app development intern",
+    "intel cloud analytics application phd intern",
     "intel compiler engineering intern",
     "intel compiler engineering undergraduate intern sycl runtime",
     "intel cpu core physical design technical graduate intern spring",
@@ -25674,6 +25676,7 @@
     "job:workday:intel:ai-solution-architect-graduate-intern_jr0287530",
     "job:workday:intel:ai-solutions-engineering-graduate-intern_jr0286546",
     "job:workday:intel:ai-solutions-engineering-undergraduate-intern_jr0286629",
+    "job:workday:intel:cloud-analytics---application-phd-intern_jr0288170",
     "job:workday:intel:compiler-engineering-intern_jr0287934",
     "job:workday:intel:compiler-engineering-undergraduate-intern---sycl-runtime_jr0286849",
     "job:workday:intel:cpu-core-physical-design-technical-graduate-intern--spring_jr0287613",
