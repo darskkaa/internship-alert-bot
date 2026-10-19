@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T08:52:20.132271+00:00",
+  "last_checked_utc": "2026-10-19T09:02:26.617962+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6673,6 +6673,7 @@
     "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Contingent-Worker_REQ-10123442",
     "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---2_REQ-10123439",
     "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---3_REQ-10123437",
+    "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/ESG-Risk-Internship_REQ-10121708",
     "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Luxembourg-Sige-Lux-House/INTERNSHIP---Portfolio-Management_REQ-10122906",
     "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620",
     "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621",
@@ -18548,6 +18549,7 @@
     "ing cybersecurity intern 1",
     "ing cybersecurity intern 2",
     "ing cybersecurity intern 3",
+    "ing esg risk internship",
     "ing intern in risk hub model development department",
     "ing internship in interest rate risk",
     "ing internship portfolio management",
@@ -25319,6 +25321,7 @@
     "job:workday:ing:contingent-worker_req-10123442",
     "job:workday:ing:cybersecurity-intern---2_req-10123439",
     "job:workday:ing:cybersecurity-intern---3_req-10123437",
+    "job:workday:ing:esg-risk-internship_req-10121708",
     "job:workday:ing:intern-in-risk-hub-model-development-department_req-10123138-1",
     "job:workday:ing:internship---portfolio-management_req-10122906",
     "job:workday:ing:internship-in-interest-rate-risk_req-10123300",
