@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T18:12:11.611879+00:00",
+  "last_checked_utc": "2026-10-19T18:22:15.036854+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1538,6 +1538,7 @@
     "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
     "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
     "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261",
+    "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/XMLNAME-2027-Intern--Software-Engineer_R173019",
     "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R19884",
     "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804",
     "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Sensor-Modeling-and-Simulation-Grad-Intern_R016875",
@@ -22594,6 +22595,7 @@
     "job:workday:adobe:xmlname-2027-intern---security-engineer_r173000",
     "job:workday:adobe:xmlname-2027-intern---software-engineer_r171666",
     "job:workday:adobe:xmlname-2027-intern--software-engineer_r173015",
+    "job:workday:adobe:xmlname-2027-intern--software-engineer_r173019",
     "job:workday:adobe:xmlname-2027-mba-intern---product-manager_r172261",
     "job:workday:aep:data-scientist-intern---columbus--oh_r19884",
     "job:workday:aero:xmlname-2027-cloud-solutions-engineer---site-reliability-grad-intern_r016715",
