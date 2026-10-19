@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T13:02:31.059273+00:00",
+  "last_checked_utc": "2026-10-19T13:32:09.492470+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10221,6 +10221,7 @@
     "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00192042",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193394",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193413",
+    "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00194798",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Technician-Co-Op_R-00191451",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Flight-Test-and-Integration-Summer-Intern_R-00193562-1",
@@ -25734,6 +25735,7 @@
     "job:workday:leidos:data-science-intern_r-00193937",
     "job:workday:leidos:electrical-hardware-design-engineering-intern_r-00193394",
     "job:workday:leidos:electrical-hardware-design-engineering-intern_r-00193413",
+    "job:workday:leidos:electrical-hardware-design-engineering-intern_r-00194798",
     "job:workday:leidos:electronics-technician-co-op_r-00191451",
     "job:workday:leidos:embedded-design-engineering-intern---firmware_r-00193574",
     "job:workday:leidos:engineering-projects-intern_r-00194672",
