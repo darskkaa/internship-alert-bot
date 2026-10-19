@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T23:52:09.033841+00:00",
+  "last_checked_utc": "2026-10-19T23:58:01.599748+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8170,6 +8170,7 @@
     "https://job-boards.greenhouse.io/rocketlab/jobs/7998598003",
     "https://job-boards.greenhouse.io/rocketlab/jobs/8000958003",
     "https://job-boards.greenhouse.io/rocketlab/jobs/8003529003",
+    "https://job-boards.greenhouse.io/rocketlab/jobs/8007202003",
     "https://job-boards.greenhouse.io/rocketlab/jobs/8013277003",
     "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8760590002",
     "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8784142002",
@@ -20766,6 +20767,7 @@
     "job:greenhouse:8005202003",
     "job:greenhouse:8005821003",
     "job:greenhouse:8005846003",
+    "job:greenhouse:8007202003",
     "job:greenhouse:8007788",
     "job:greenhouse:8008645003",
     "job:greenhouse:8010158003",
@@ -31736,6 +31738,7 @@
     "rocket lab usa fluid component intern summer 2027",
     "rocket lab usa fluid systems intern summer 2027",
     "rocket lab usa ground systems engineering intern",
+    "rocket lab usa ground systems engineering intern summer 2027",
     "rocket lab usa ground systems mechanical engineering intern neutron",
     "rocket lab usa hitl engineering intern summer 2027",
     "rocket lab usa indirect procurement intern summer 2027",
