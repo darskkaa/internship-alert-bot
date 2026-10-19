@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T15:22:15.337439+00:00",
+  "last_checked_utc": "2026-10-19T15:32:20.763737+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10673,6 +10673,7 @@
     "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/IT-Desktop-Engineer---Co-Op-Intern_20261458",
     "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Liquid-Crystal-on-Silicon-Research-Co-op-Intern_20261202",
     "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Mechanical-Engineering-Co-op-Student_20261194",
+    "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms-and-Analytics-Engineering-Co-op-Intern_20261547",
     "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261193",
     "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261208",
     "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Engineer-Co-op-Intern_20261183",
@@ -25960,6 +25961,7 @@
     "job:workday:lumentum:it-desktop-engineer---co-op-intern_20261458",
     "job:workday:lumentum:liquid-crystal-on-silicon-research-co-op-intern_20261202",
     "job:workday:lumentum:mechanical-engineering-co-op-student_20261194",
+    "job:workday:lumentum:optical-algorithms-and-analytics-engineering-co-op-intern_20261547",
     "job:workday:lumentum:optical-verification-engineer-co-op-intern_20261193",
     "job:workday:lumentum:optical-verification-engineer-co-op-intern_20261208",
     "job:workday:lumentum:process-engineer-co-op-intern_20261183",
@@ -28814,6 +28816,7 @@
     "lumentum it desktop engineer coopintern",
     "lumentum liquid crystal on silicon research coopintern",
     "lumentum mechanical engineering coop student",
+    "lumentum optical algorithms and analytics engineering coopintern",
     "lumentum optical verification engineer coopintern",
     "lumentum process engineer coopintern",
     "lumentum reliability test automation engineer coopintern",
