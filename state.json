@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T00:42:04.813989+00:00",
+  "last_checked_utc": "2026-10-19T02:22:08.174479+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11580,6 +11580,7 @@
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Tianjin-DAC/XMLNAME-2027-Intern---Customer-Quality-Engineer-Intern_R-10065020-1",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Tianjin-Teda/AI-Verification-Engineering-Intern_R-10066766",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Tianjin-Teda/DFT-Verification-intern_R-10066777",
+    "https://nxp.wd3.myworkdayjobs.com/careers/job/Tianjin-Teda/XMLNAME-2027-Intern---STA-agent-developer-Intern_R-10066785",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Tianjin-Teda/XMLNAME-2027-Intern--AI-tool-development-Intern_R-10067254",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Tianjin-Xinghua/XMLNAME-2026-Intern---Information-System-Engineer_R-10059867",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037",
@@ -26636,6 +26637,7 @@
     "job:workday:nxp:web-application-developer_r-10062194-1",
     "job:workday:nxp:xmlname-2026-intern---information-system-engineer_r-10059867",
     "job:workday:nxp:xmlname-2027-intern---customer-quality-engineer-intern_r-10065020-1",
+    "job:workday:nxp:xmlname-2027-intern---sta-agent-developer-intern_r-10066785",
     "job:workday:nxp:xmlname-2027-intern--ai-tool-development-intern_r-10067254",
     "job:workday:nyp:summer-2027-finance-internship-program--patient-access-westchester_00888341",
     "job:workday:oceanspray:fsqa-compliance---systems-intern_r5425",
@@ -29968,6 +29970,7 @@
     "nxp semiconductors 2026 intern information system engineer",
     "nxp semiconductors 2027 intern ai tool development intern",
     "nxp semiconductors 2027 intern customer quality engineer intern",
+    "nxp semiconductors 2027 intern sta agent developer intern",
     "nxp semiconductors ai future of hr research intern",
     "nxp semiconductors ai software developer intern",
     "nxp semiconductors ai verification engineering intern",
@@ -31670,6 +31673,7 @@
     "sentry software engineer intern summer 2027",
     "sep software engineer intern",
     "sep software engineering intern summer 2027 in person",
+    "sequence holdings engineer intern",
     "sequence holdings software engineer intern",
     "serval software engineer intern",
     "servicenow ai engineering associate software engineer intern",
