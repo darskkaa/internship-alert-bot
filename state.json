@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T12:02:19.409664+00:00",
+  "last_checked_utc": "2026-10-19T12:32:27.494090+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4851,6 +4851,7 @@
     "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119830",
     "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119920",
     "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119924",
+    "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773",
     "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260789",
     "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260794",
     "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795",
@@ -17779,6 +17780,7 @@
     "gm financial intern data science",
     "gm financial intern it support technician",
     "gm financial intern oracle application developer",
+    "gm financial intern portfolio analytics",
     "gm financial intern pricing analytics product development",
     "gm financial intern risk consumer",
     "gm financial intern software development engineer",
@@ -21786,6 +21788,7 @@
     "job:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119830",
     "job:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119920",
     "job:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119924",
+    "job:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260773",
     "job:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260789",
     "job:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260794",
     "job:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260795",
