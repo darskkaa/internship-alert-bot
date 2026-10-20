@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-20T21:22:30.644217+00:00",
+  "last_checked_utc": "2026-10-20T21:32:12.940061+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3631,6 +3631,7 @@
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Test-Engineering-Intern---Summer_30220233",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Data-Analytics-Intern---Summer_30220000",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Intern--ChemMtrlsEngrg_30220163",
+    "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Systems-Engineering-Intern---Summer_30220210",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Quality-Engineering-Intern---Summer_30220256-1",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220247",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161",
@@ -16106,6 +16107,7 @@
     "carrier global mechanical engineering intern summer",
     "carrier global quality engineering intern summer",
     "carrier global software engineering intern summer",
+    "carrier global systems engineering intern summer",
     "carrier global test engineering intern summer",
     "cartesian applied mlcs phd internship 6 months",
     "cartesian iap software engineering intern 2027",
@@ -24108,6 +24110,7 @@
     "job:workday:carrier:mechanical-engineering-intern---summer_30220247",
     "job:workday:carrier:quality-engineering-intern---summer_30220256-1",
     "job:workday:carrier:software-engineering-intern---summer_30220161",
+    "job:workday:carrier:systems-engineering-intern---summer_30220210",
     "job:workday:carrier:test-engineering-intern---summer_30220233",
     "job:workday:cat:engineering-student-internship--tijuana--mx-_r0000397243",
     "job:workday:cat:engineering-student-internship_r0000397241",
