@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-20T17:12:25.978619+00:00",
+  "last_checked_utc": "2026-10-20T17:22:16.005450+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12719,6 +12719,7 @@
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Mechanical-Engineering-Intern_2026-23436",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Power-Engineering-Intern_2026-22717",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Research-Intern---Business-Development_2026-19576-1",
+    "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-24190",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231",
     "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622",
     "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3615",
@@ -28038,6 +28039,7 @@
     "job:workday:selinc:software-engineer-intern_2026-21231",
     "job:workday:selinc:software-engineer-intern_2026-22958",
     "job:workday:selinc:software-engineer-intern_2026-23076",
+    "job:workday:selinc:software-engineer-intern_2026-24190",
     "job:workday:selinc:software-engineering-intern---power-systems_2026-22933",
     "job:workday:semtech:ai-workflow---operations-intern_req3640",
     "job:workday:semtech:analog-design-engineer-intern_req3622",
