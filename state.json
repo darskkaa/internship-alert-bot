@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-20T09:41:09.508581+00:00",
+  "last_checked_utc": "2026-10-20T09:52:05.245491+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11640,6 +11640,7 @@
     "https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Mechanical-Engineering-and-Design-Co-op--June---December-2027-_R23573",
     "https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Packaging-Engineering-Co-op--January---August-2027-_R23570",
     "https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Packaging-Engineering-Co-op--June---August-2027-_R23571",
+    "https://nvent.wd5.myworkdayjobs.com/nVent/job/Prejmer-RO/Business-Intelligence---Data-Analytics-Intern--1-year_R23586",
     "https://nvent.wd5.myworkdayjobs.com/nVent/job/Richland-MS-US/Engineering-Co-Op-Opportunities_R23659",
     "https://nvent.wd5.myworkdayjobs.com/nVent/job/Solon-OH-US/Electrical-Engineering-Co-Op_R23593",
     "https://nvent.wd5.myworkdayjobs.com/nVent/job/Solon-OH-US/Mechanical-Engineering-Co-Op--Jan---Aug-2027-_R23577",
@@ -27034,6 +27035,7 @@
     "job:workday:ntst:security-analyst-future--summer-2027-internship-_r015669",
     "job:workday:ntst:software-engineer-intern--summer-2027-internship-_r015667",
     "job:workday:ntst:technical-analyst-intern---summer-2027-internship-_r015665",
+    "job:workday:nvent:business-intelligence---data-analytics-intern--1-year_r23586",
     "job:workday:nvent:electrical-controls-engineering-co-op--january---august-2027-_r23894",
     "job:workday:nvent:electrical-controls-engineering-co-op_r23626",
     "job:workday:nvent:electrical-engineering-co-op_r23593",
@@ -30443,6 +30445,7 @@
     "nuclear promise x software developer intern digital transformation",
     "nucor commodity markets analyst intern",
     "nutanix support analytics operations intern",
+    "nvent business intelligence data analytics intern 1 year",
     "nvent electrical engineering coop june dec 2027",
     "nvent electricalcontrols engineering coop january august 2027",
     "nvent electricalcontrols engineering coop june december 2027",
