@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-20T12:02:31.441637+00:00",
+  "last_checked_utc": "2026-10-20T12:22:15.388652+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1904,6 +1904,7 @@
     "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-North-WI/MPI-Engineering-Co-op_REQ_95253",
     "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ARP-Millville-NJ/Engineering-Intern_REQ_97055",
     "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
+    "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Erie-ERPA-PA/Tooling-Design-Engineering-Intern--Summer-2027-_REQ_97446",
     "https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Crisis-Management-Data---Analytics-Intern_033895-1",
     "https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Crisis-Management-Meteorology-Intern_033896-2",
     "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Civil-Engineering-Fall-Co-Op_034021-1",
@@ -14427,6 +14428,7 @@
     "amcor it audit intern",
     "amcor mpi engineering coop",
     "amcor process engineering coop",
+    "amcor tooling design engineering intern summer 2027",
     "amd ags libraries interncoop",
     "amd ai agentic flow for gpu asic design coop intern",
     "amd ai engineering intern",
@@ -23141,6 +23143,7 @@
     "job:workday:amcor:it-audit-intern_req_96510",
     "job:workday:amcor:mpi-engineering-co-op_req_95253",
     "job:workday:amcor:process-engineering-co-op_req_95254",
+    "job:workday:amcor:tooling-design-engineering-intern--summer-2027-_req_97446",
     "job:workday:ameren:civil-engineering-fall-co-op_034021-1",
     "job:workday:ameren:civil-engineering-spring-co-op_034024-1",
     "job:workday:ameren:crisis-management-data---analytics-intern_033895-1",
