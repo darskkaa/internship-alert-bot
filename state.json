@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-20T21:42:21.851273+00:00",
+  "last_checked_utc": "2026-10-20T21:52:14.233441+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1839,6 +1839,7 @@
     "https://altera.wd1.myworkdayjobs.com/altera/job/Regus-Madhapur/AI-Automation-Intern_R03334",
     "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----Intern_R03324",
+    "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/High-Level-Synthesis-Engineer---Intern_R03254",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252",
@@ -23313,6 +23314,7 @@
     "job:workday:allstate:supply-management---data-analytics-intern--summer-2027-_r36103",
     "job:workday:altera:ai-automation-intern_r03334",
     "job:workday:altera:fpga-ip-design-engineer----intern_r03324",
+    "job:workday:altera:fpga-ip-design-engineer---intern_r03299",
     "job:workday:altera:high-level-synthesis-engineer---intern_r03254",
     "job:workday:altera:quartus-compiler-software---intern_r03108",
     "job:workday:altera:software-engineer----intern_r03252",
