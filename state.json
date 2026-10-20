@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-19T23:58:01.599748+00:00",
+  "last_checked_utc": "2026-10-20T01:22:18.753155+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11164,6 +11164,7 @@
     "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Equipment-Engineer-Intern---SHPE_JR114746",
     "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Intern---Equipment-Engineer_JR114818",
     "https://micron.wd1.myworkdayjobs.com/External/job/Meridian-ID/Intern---Marketing-Analytics_JR109458",
+    "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823",
     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452",
     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545",
@@ -26567,6 +26568,7 @@
     "job:workday:micron:equipment-engineer-intern---shpe_jr114744",
     "job:workday:micron:equipment-engineer-intern---shpe_jr114746",
     "job:workday:micron:intern---ai-systems-and-infrastructure-engineering_jr109990",
+    "job:workday:micron:intern---asic-validation_jr111823",
     "job:workday:micron:intern---ate-process-engineer-id1_jr113196",
     "job:workday:micron:intern---ate-process-engineer-id1_jr113953",
     "job:workday:micron:intern---compute-system-compatibility-engineer_jr113627",
@@ -29652,6 +29654,7 @@
     "micron technology dry etch equipment development engineering intern",
     "micron technology equipment engineer intern shpe",
     "micron technology intern ai systems and infrastructure engineering",
+    "micron technology intern asic validation",
     "micron technology intern ate process engineer id1",
     "micron technology intern compute system compatibility engineer",
     "micron technology intern data center ssd firmware",
