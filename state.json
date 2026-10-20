@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-20T18:22:08.739133+00:00",
+  "last_checked_utc": "2026-10-20T18:32:23.640235+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4610,6 +4610,8 @@
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97807",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97816",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97889",
+    "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97953",
+    "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97954",
     "https://energynorthwest.wd1.myworkdayjobs.com/External/job/Richland-WA/Civil---Mechanical-Engineering-Intern---Year-Round_REQ26_352",
     "https://energynorthwest.wd1.myworkdayjobs.com/External/job/Richland-WA/Engineering-Intern---Year-Round_REQ26_351",
     "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003511",
@@ -22127,6 +22129,8 @@
     "job:oracle:emit.fa.ca3.oraclecloud.com:97807",
     "job:oracle:emit.fa.ca3.oraclecloud.com:97816",
     "job:oracle:emit.fa.ca3.oraclecloud.com:97889",
+    "job:oracle:emit.fa.ca3.oraclecloud.com:97953",
+    "job:oracle:emit.fa.ca3.oraclecloud.com:97954",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81238",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81239",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81240",
