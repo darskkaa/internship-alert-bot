@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-20T22:12:21.632526+00:00",
+  "last_checked_utc": "2026-10-20T22:13:53.769523+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2319,6 +2319,7 @@
     "https://avav.wd1.myworkdayjobs.com/avav/job/Pottstown-PA/Electrical-Engineer-Intern_9103",
     "https://avav.wd1.myworkdayjobs.com/avav/job/Pottstown-PA/Manufacturing-Engineering-Intern_9104",
     "https://avav.wd1.myworkdayjobs.com/avav/job/Pottstown-PA/Mechanical-Engineering-Intern_8627",
+    "https://avav.wd1.myworkdayjobs.com/avav/job/San-Diego-CA/Software-Engineering-Intern_8828",
     "https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Finance-Systems-Intern_8899",
     "https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Production-Engineering-Intern_8887",
     "https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Quality-Engineering-Intern_8586",
@@ -23620,6 +23621,7 @@
     "job:workday:avav:software-engineering-intern_8613",
     "job:workday:avav:software-engineering-intern_8797",
     "job:workday:avav:software-engineering-intern_8813",
+    "job:workday:avav:software-engineering-intern_8828",
     "job:workday:avav:software-engineering-intern_8940",
     "job:workday:avav:software-engineering-intern_9094",
     "job:workday:avav:summer-2027-aeromechanical-engineering-intern_8387",
