@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-20T10:12:17.227556+00:00",
+  "last_checked_utc": "2026-10-20T10:22:13.364678+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12469,6 +12469,7 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Portfolio-Strategy-and-Insights-Interns--Basel--up-to-12-months-_202606-116569-1",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Workforce-Optimization---Strategies--Data-Science--Intern_202609-124186",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Cape-Town/Roche-Next-Generation-Sequencing--NGS----Agentic-AI-Engineering-Support-Internship_202610-126801-1",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kuwait/Field-Service-Assistant-Engineer-Intern_202610-126627",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Enterprise-Master-Data-Management---Intern_202609-124194",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Technology-Support-Intern---Mandarin-Speaker--Open-to-All-Majors-_202610-125573",
@@ -27699,6 +27700,7 @@
     "job:workday:roche:intern_202609-124125",
     "job:workday:roche:internship---agentic-ai-for-environmental-regulatory-compliance_202609-124819",
     "job:workday:roche:portfolio-strategy-and-insights-interns--basel--up-to-12-months-_202606-116569-1",
+    "job:workday:roche:roche-next-generation-sequencing--ngs----agentic-ai-engineering-support-internship_202610-126801-1",
     "job:workday:roche:student-internship-in-lab-automation--pharma-research---early-development-_202609-124621",
     "job:workday:roche:technology-support-intern---mandarin-speaker--open-to-all-majors-_202610-125573",
     "job:workday:roche:workforce-optimization---strategies--data-science--intern_202609-124186",
@@ -31775,6 +31777,7 @@
     "roche field service assistant engineer intern",
     "roche internship agentic ai for environmental regulatory compliance",
     "roche portfolio strategy and insights interns basel up to 12 months",
+    "roche roche nextgeneration sequencing ngs agentic ai engineering support internship",
     "roche student internship in lab automation pharma research early development",
     "roche technology support intern mandarin speaker open to all majors",
     "roche workforce optimization strategies data science intern",
