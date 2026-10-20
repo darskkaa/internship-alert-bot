@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-20T19:42:18.661124+00:00",
+  "last_checked_utc": "2026-10-20T19:52:22.292247+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4143,6 +4143,7 @@
     "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Fort-Mill-SC-US/Reliability-Engineering-Intern_DT-19828",
     "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Gaffney-SC-US/Mechanical-Product-Design-Intern_DT-20265-1",
     "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Gastonia-NC-US/Automation-Engineer-Intern_DT-19944-1",
+    "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Hibbing-MN-US/Electrical-Engineering-Intern_DT-20320-1",
     "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Mount-Holly-NC-US/Truck-Operating-Systems--TOS---Intern_DT-19940-1",
     "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Applied-Data---Technology-Intern_DT-20262-1",
     "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Data-Science-Intern_DT-20166-1",
@@ -16731,6 +16732,7 @@
     "daimler truck automation engineer intern",
     "daimler truck battery engineering intern",
     "daimler truck data science intern",
+    "daimler truck electrical engineering intern",
     "daimler truck functional vehicle testing and validation intern",
     "daimler truck logistics engineer intern",
     "daimler truck mechanical product design intern",
@@ -24470,6 +24472,7 @@
     "job:workday:dtna:automation-engineer-intern_dt-19944-1",
     "job:workday:dtna:battery-engineering-intern_dt-20094",
     "job:workday:dtna:data-science-intern_dt-20166-1",
+    "job:workday:dtna:electrical-engineering-intern_dt-20320-1",
     "job:workday:dtna:functional-vehicle-testing-and-validation-intern_dt-20134",
     "job:workday:dtna:logistics-engineer-intern_dt-20179-1",
     "job:workday:dtna:mechanical-product-design-intern_dt-20265-1",
