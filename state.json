@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-20T18:02:40.360174+00:00",
+  "last_checked_utc": "2026-10-20T18:22:08.739133+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5566,6 +5566,7 @@
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Sophomore--Summer-2027-_JR-2604648",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Yield-and-Characterization-Engineer-Intern--Summer-2027-_JR-2604638",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---Engineering_01873565",
+    "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/PL-14-WARSZAWA-049--Ul-Moktowska-49--MOKTOWSKA/System-Engineer-Intern---Poland_01883096",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Power-Electrical-Engineer-Intern--Summer-2027----Onsite_01876775",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Electrical-Production-Support-Engineer-Intern--Summer-2027-_01871115",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Eng-Intern---S3E_01878712",
@@ -25400,6 +25401,7 @@
     "job:workday:globalhr:summer-2027-software-engineering-intern--onsite-_01873645",
     "job:workday:globalhr:summer-engineering-intern--summer-2027-_01882181",
     "job:workday:globalhr:system-administrator-intern--summer-2027-_01879679",
+    "job:workday:globalhr:system-engineer-intern---poland_01883096",
     "job:workday:globalhr:systems-engineer---intern--onsite_01879053",
     "job:workday:globalhr:systems-engineer-co-op--spring-summer-2027----onsite_01873686",
     "job:workday:globalhr:systems-engineer-intern---helmet-displays--summer-2027----onsite_01867411",
@@ -32321,6 +32323,7 @@
     "rtx summer 2027 rf systems engineer intern onsite",
     "rtx summer engineering intern summer 2027",
     "rtx system administrator intern summer 2027",
+    "rtx system engineer intern poland",
     "rtx systems coop",
     "rtx systems engineer coop avi mil fmsdas",
     "rtx systems engineer coop aviation military foreign military sales",
