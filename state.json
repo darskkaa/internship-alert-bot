@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-20T13:32:35.914717+00:00",
+  "last_checked_utc": "2026-10-20T13:42:19.537486+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6133,6 +6133,7 @@
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Early-Careers---Automation-Programmer-Intern_R0059484",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Early-Careers---Security-Engineering-Senior-Intern_R0059512",
+    "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Early-Careers---Technology-Delivery-Analyst-Intern_R0059494",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505878",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506307",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506420",
@@ -25428,6 +25429,7 @@
     "job:workday:hcsc:early-careers---sr-infrastructure-intern_r0056033",
     "job:workday:hcsc:early-careers---systems-analyst-intern--downers-grove-_r0059499",
     "job:workday:hcsc:early-careers---systems-analyst-intern_r0059498",
+    "job:workday:hcsc:early-careers---technology-delivery-analyst-intern_r0059494",
     "job:workday:hcsc:early-careers---technology-delivery-analyst-intern_r0059497",
     "job:workday:hdsupply:graduate-intern--artificial-intelligence---data-science---summer-2027_r26004952",
     "job:workday:heidelbergmaterials:chemical-engineer-intern_jr10018189",
