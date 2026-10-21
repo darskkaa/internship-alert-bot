@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-21T19:22:15.602089+00:00",
+  "last_checked_utc": "2026-10-21T19:32:14.620181+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4338,6 +4338,7 @@
     "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/job/40077",
     "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/job/40117",
     "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/job/40227",
+    "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/job/41119",
     "https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20761",
     "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257",
     "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257?utm_source=Simplify&ref=Simplify",
@@ -18632,6 +18633,7 @@
     "greenheck group manufacturing engineer coop",
     "greenheck group value engineering coop",
     "greenwood village south data science intern",
+    "greenwood village south information technology it intern",
     "greenwood village south infrastructure intern",
     "greenwood village south it service desk intern",
     "greenwood village south market research internship",
@@ -22229,6 +22231,7 @@
     "job:oracle:eexs.fa.us2.oraclecloud.com:40077",
     "job:oracle:eexs.fa.us2.oraclecloud.com:40117",
     "job:oracle:eexs.fa.us2.oraclecloud.com:40227",
+    "job:oracle:eexs.fa.us2.oraclecloud.com:41119",
     "job:oracle:eezy.fa.ca2.oraclecloud.com:20761",
     "job:oracle:efet.fa.us2.oraclecloud.com:218257",
     "job:oracle:efsp.fa.us6.oraclecloud.com:1436",
