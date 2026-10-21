@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-21T18:32:45.779060+00:00",
+  "last_checked_utc": "2026-10-21T18:42:49.861131+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3731,6 +3731,7 @@
     "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Intern-4_JR107037",
     "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108346-1",
     "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108551-1",
+    "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108557-1",
     "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1",
     "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929",
     "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Engineer-1--Firmware--Intern-Conversion-_JR31660",
@@ -24452,6 +24453,7 @@
     "job:workday:centific:speech-intern-4_jr107037",
     "job:workday:centific:technical-intern--masters-or-phd-_jr108346-1",
     "job:workday:centific:technical-intern--masters-or-phd-_jr108551-1",
+    "job:workday:centific:technical-intern--masters-or-phd-_jr108557-1",
     "job:workday:ceritypartners:investment-data---technology-analyst-internship_r929",
     "job:workday:ceritypartners:xmlname-2027-summer-risk-management-strategy-analyst-internship_r918-1",
     "job:workday:chamberlain:engineer-1--firmware--intern-conversion-_jr31660",
