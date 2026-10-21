@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-21T10:12:05.499409+00:00",
+  "last_checked_utc": "2026-10-21T10:22:27.148585+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1590,6 +1590,7 @@
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Backend-Developer_JR10451110",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Frontend-Developer_JR10451058",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-System-Integration-Developer_JR10451063",
+    "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Cyber-Security-Internships---2027_JR10452362",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/MASTER-IN-AIRFRAME-TECHNOLOGY-2027--MAIR2027--INTERNSHIP-_JR10448000",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Quality-Engineering_JR10446781",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Summer-Internship---Digital-AI-Transformation_JR10437881",
@@ -14439,6 +14440,7 @@
     "airbus atr internship electrical hybrid systems fm",
     "airbus atr internship flight data analysis and ia",
     "airbus atr internship geospatial data science fm",
+    "airbus cyber security internships 2027",
     "airbus hardware engineering apprentice",
     "airbus intern backend developer",
     "airbus intern frontend developer",
@@ -23217,6 +23219,7 @@
     "job:workday:ag:atr--internship-2027---automatic-generator-of-aircraft-performance-database_jr10450467",
     "job:workday:ag:atr--internship-2027---ia-assistant-for-avionics-systems-designer_jr10450466",
     "job:workday:ag:atr-internship-2027--stress-repair-engineer_jr10450734",
+    "job:workday:ag:cyber-security-internships---2027_jr10452362",
     "job:workday:ag:hardware-engineering---electronics-degree-apprenticeship_jr10433054",
     "job:workday:ag:intern-backend-developer_jr10451110",
     "job:workday:ag:intern-frontend-developer_jr10451058",
