@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-21T18:22:41.962360+00:00",
+  "last_checked_utc": "2026-10-21T18:32:45.779060+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2250,6 +2250,7 @@
     "https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Operations-Engineering-Summer-2027_R0003302",
     "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Business-Systems-Analyst-Intern_R255113",
     "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255141",
+    "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255268",
     "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Risk-Co-op_R255217",
     "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125",
     "https://ats.rippling.com/ampersand-biomedicines/jobs/be3f5479-379e-4d48-9bd1-82a69b2dcfd3",
@@ -23828,6 +23829,7 @@
     "job:workday:atcllc:intern-audit-and-risk-management-summer-2027_r0003313",
     "job:workday:atcllc:intern-operations-engineering-summer-2027_r0003302",
     "job:workday:athene:business-systems-analyst-intern_r255113",
+    "job:workday:athene:operations-reporting---analytics-intern_r255268",
     "job:workday:athene:risk-co-op_r255217",
     "job:workday:athene:software-developer-internship-_r255125",
     "job:workday:austintexas:intern--engineering_jr105055",
