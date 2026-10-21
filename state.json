@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-21T01:42:17.202168+00:00",
+  "last_checked_utc": "2026-10-21T02:02:17.805527+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9219,6 +9219,7 @@
     "https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633",
     "https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application?embed=true",
     "https://jobs.ashbyhq.com/rho/0cfabf20-f2d7-4b39-af4e-1afada85738b",
+    "https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4",
     "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5",
     "https://jobs.ashbyhq.com/rhoda-ai/ecadb13f-b6cd-4070-9a31-80c9fa355fe4",
     "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9",
@@ -19513,6 +19514,7 @@
     "job:ashby:2c147ccb-2557-40f8-aab9-64422cef220c",
     "job:ashby:2c833180-484f-4657-80e3-f822cf1a0285",
     "job:ashby:2d00752c-b3f2-40e1-9c50-60147c858d0b",
+    "job:ashby:2de33083-782f-489e-9b91-f40761a36bf4",
     "job:ashby:2f60f46a-b2e2-4621-afea-cf1a0c12a315",
     "job:ashby:2f692a4d-91b4-4d0f-ae39-b38b68a24a27",
     "job:ashby:3061297c-a666-47be-a58a-b62881bf183d",
@@ -32148,6 +32150,7 @@
     "rho client service intern",
     "rhoda ai product manager robot data systems internship",
     "rhoda ai robot software engineer internship",
+    "rhoda ai software engineer intern inference",
     "rhombus software engineer intern",
     "rhombus software engineering intern summer 2027",
     "richemont business analytics intern",
