@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-21T09:12:28.609251+00:00",
+  "last_checked_utc": "2026-10-21T09:22:16.924392+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11132,6 +11132,7 @@
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/VN---Da-Nang/Physical-Design-Intern_2604559",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514-1",
+    "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Yokneam/Design-Engineer-Intern_2604491",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
@@ -26879,6 +26880,7 @@
     "job:workday:marvell:board-product-engineer-intern--bs---summer-2027_2603833-1",
     "job:workday:marvell:data-center-silicon-hardware-engineering-intern---bs---2027-co-op_2604525",
     "job:workday:marvell:data-center-silicon-hardware-engineering-intern---winter-2027_2604525",
+    "job:workday:marvell:design-engineer-intern_2604491",
     "job:workday:marvell:design-for-test-intern--bs---summer-2027_2604511",
     "job:workday:marvell:design-for-test-intern--bs---summer-2027_2604511-1",
     "job:workday:marvell:design-for-test-intern--ms---summer-2027_2603788",
@@ -29932,6 +29934,7 @@
     "marvell board product engineer intern bs summer 2027",
     "marvell data center silicon hardware engineering intern bs 2027 coop",
     "marvell data center silicon hardware engineering intern coop bs",
+    "marvell design engineer intern",
     "marvell design for test intern",
     "marvell design for test intern bs summer 2027",
     "marvell design for test intern ms",
