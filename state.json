@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-21T15:32:30.864177+00:00",
+  "last_checked_utc": "2026-10-21T15:52:28.651802+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8015,6 +8015,7 @@
     "https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003",
     "https://job-boards.greenhouse.io/knowbe4/jobs/8870749002",
     "https://job-boards.greenhouse.io/knowbe4/jobs/8871835002",
+    "https://job-boards.greenhouse.io/knowbe4/jobs/8903101002",
     "https://job-boards.greenhouse.io/later/jobs/8604889002",
     "https://job-boards.greenhouse.io/later/jobs/8643138002",
     "https://job-boards.greenhouse.io/later/jobs/8802804002",
@@ -12611,6 +12612,7 @@
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Waterford-City/Software-Engineering-Internship--Ireland-_R-059589",
     "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Grafton-Wisconsin-United-States/Information-Technology-Summer-Intern_R26_04545-1",
     "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Engineering-Summer-Intern_R26_04578-2",
+    "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Radford-Virginia-United-States/Engineering-Summer-Intern_R26_04578-2",
     "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1",
     "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1",
     "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1",
@@ -21807,6 +21809,7 @@
     "job:greenhouse:8899671002",
     "job:greenhouse:8899673002",
     "job:greenhouse:8902681002",
+    "job:greenhouse:8903101002",
     "job:lever:00fbde18-a387-4c9f-97d4-77059aec7b56",
     "job:lever:02ac2964-5362-4ff2-934c-b122ba26c365",
     "job:lever:0310fbd1-a2a8-4c0f-a842-86e05ae7d98e",
@@ -29621,6 +29624,7 @@
     "knobelsdorff enterprises power systems engineer intern",
     "knobelsdorff enterprises project manager intern automation",
     "knobelsdorff enterprises project manager intern electrical",
+    "knowbe4 ai customer success intern",
     "knowbe4 associate product manager intern hybrid",
     "knowbe4 software engineer intern remote",
     "koch industries business analytics insights intern",
