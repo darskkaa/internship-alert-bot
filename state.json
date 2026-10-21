@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-21T05:42:18.799565+00:00",
+  "last_checked_utc": "2026-10-21T06:02:24.943393+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12926,6 +12926,7 @@
     "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Electrical-Engineering_R92957",
     "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952",
     "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Systems-Engineering_R92955-1",
+    "https://smithnephew.wd5.myworkdayjobs.com/External/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958",
     "https://smithnephew.wd5.myworkdayjobs.com/External/job/POL---Wroclaw/IT-Service-Desk-Level-1-Intern_R91046",
     "https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508",
     "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
@@ -28410,6 +28411,7 @@
     "job:workday:smithnephew:intern-electrical-engineering_r92957",
     "job:workday:smithnephew:intern-embedded-software-engineering_r92952",
     "job:workday:smithnephew:intern-mechanical-engineering_r92508",
+    "job:workday:smithnephew:intern-mechanical-engineering_r92958",
     "job:workday:smithnephew:intern-robotics-software-engineering_r92482",
     "job:workday:smithnephew:intern-systems-engineering_r92955-1",
     "job:workday:smithnephew:it-service-desk-level-1-intern_r91046",
