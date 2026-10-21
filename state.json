@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-21T03:32:07.304819+00:00",
+  "last_checked_utc": "2026-10-21T03:52:14.601240+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5632,6 +5632,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/RSE---Systems-Engineering-Intern-2027--Onsite-_01867325",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/RSE---Systems-Engineering-Intern-2027--Onsite-_01867566",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Summer-2027--Intern-Air-Combat-Training--Systems-Engineering--Onsite-_01865658",
+    "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineer-Co-Op---Algorithms--Spring-Summer-2027----Onsite_01881510",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineer-Intern---Helmet-Displays--Summer-2027----Onsite_01867411",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Co-Op-Systems-Engineering_01879621",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518",
@@ -25610,6 +25611,7 @@
     "job:workday:globalhr:system-administrator-intern--summer-2027-_01879679",
     "job:workday:globalhr:system-engineer-intern---poland_01883096",
     "job:workday:globalhr:systems-engineer---intern--onsite_01879053",
+    "job:workday:globalhr:systems-engineer-co-op---algorithms--spring-summer-2027----onsite_01881510",
     "job:workday:globalhr:systems-engineer-co-op--spring-summer-2027----onsite_01873686",
     "job:workday:globalhr:systems-engineer-intern---helmet-displays--summer-2027----onsite_01867411",
     "job:workday:globalhr:systems-engineer-intern--onsite_01876452",
@@ -32608,6 +32610,7 @@
     "rtx system administrator intern summer 2027",
     "rtx system engineer intern poland",
     "rtx systems coop",
+    "rtx systems engineer coop algorithms springsummer 2027 onsite",
     "rtx systems engineer coop avi mil fmsdas",
     "rtx systems engineer coop aviation military foreign military sales",
     "rtx systems engineer coop springsummer 2027",
