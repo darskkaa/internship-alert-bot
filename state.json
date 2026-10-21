@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-21T13:32:20.234815+00:00",
+  "last_checked_utc": "2026-10-21T13:52:18.428808+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5078,6 +5078,7 @@
     "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Research-Intern--Multi-Asset-Research-Team_2135361",
     "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Master-s-and-PhD-students_2135370",
     "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905",
+    "https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135960",
     "https://fmr.wd1.myworkdayjobs.com/targeted/job/Dublin-Ireland/Fidelity-Center-for-Applied-Technology--FCAT--Innovation-Ecosystem--Europe-Internship_2137228",
     "https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Intern--Risk_2135245",
     "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712",
@@ -17591,6 +17592,7 @@
     "fhlbank chicago summer internship market risk earnings analysis",
     "fhlbank chicago summer internship model risk management",
     "fidelity investments coop design researcher",
+    "fidelity investments coop machine learning",
     "fidelity investments coop software engineer",
     "fidelity investments equity research analyst intern summer 2027",
     "fidelity investments fidelity center for applied technology fcat innovation ecosystem europe internship",
@@ -24934,6 +24936,7 @@
     "job:workday:flir:systems-technologies-intern_req37282",
     "job:workday:flowserve:engineering-co-op_r-21092",
     "job:workday:fmr:co-op--design-researcher_2127393",
+    "job:workday:fmr:co-op--machine-learning_2135960",
     "job:workday:fmr:co-op--software-engineer_2135200",
     "job:workday:fmr:equity-research-analyst-intern---summer-2027_2135338",
     "job:workday:fmr:fidelity-center-for-applied-technology--fcat--innovation-ecosystem--europe-internship_2137228",
