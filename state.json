@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-21T05:32:03.498340+00:00",
+  "last_checked_utc": "2026-10-21T05:42:18.799565+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11345,6 +11345,7 @@
     "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Americas-Risk-Management-Internship_R7474",
     "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657",
     "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Rochester-NY/XMLNAME-2027-Summer-Reliability-Engineering-Co-op_R20163",
+    "https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2",
     "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Summer-Intern--Master-s-Finance-Innovation---Technology--FIT---New-York--2027_R_369586",
     "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073",
     "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696",
@@ -27070,6 +27071,7 @@
     "job:workday:mizuho:xmlname-2026-commercial-lending-technology-summer-internship_r6688",
     "job:workday:mizuho:xmlname-2027-americas-risk-management-internship_r7474",
     "job:workday:mksinst:xmlname-2027-summer-reliability-engineering-co-op_r20163",
+    "job:workday:mlse:business-strategy---product-management--ai--intern_jr0000887-2",
     "job:workday:mmc:actuarial-science-intern_r_368596",
     "job:workday:mmc:environmental-consulting-and-risk-management-intern_r_368602",
     "job:workday:mmc:intern---risk-management--penang-_r_369110-1",
@@ -29835,6 +29837,7 @@
     "manulife financial winter coop 2027 software engineering",
     "manulife financial winter coop 2027 software engineering 8 months",
     "manulife financial winter coop 2027 technology enablement analyst",
+    "maple leaf sports entertainment partnership mlse business strategy product management ai intern",
     "marathon petroleum associate business systems analyst next generation operations ngo intern to fulltime conversion",
     "marathon petroleum associate business systems analyst refining reliability and maintenance intern to fulltime conversion",
     "marathon petroleum environmental engineer 1 intern to fulltime conversion",
