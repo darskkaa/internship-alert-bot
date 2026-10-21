@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-21T21:02:10.872583+00:00",
+  "last_checked_utc": "2026-10-21T21:22:04.398285+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11709,6 +11709,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern---Survivability-Engineer_R10256592",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Vehicle-Engineering---CA-OK-ND_R10248142",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern---Manhatten-Beach-CA_R10255685",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern---Redondo-Beach-CA_R10257204",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Intern-Optical-Engineer---Redondo-Beach-CA_R10254063",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255197",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435",
@@ -27583,6 +27584,7 @@
     "job:workday:ngc:xmlname-2027-cyber-systems-engineer-intern-tampa-fl_r10249196",
     "job:workday:ngc:xmlname-2027-electrical-design-and-technology-internship---linthicum-md_r10254010",
     "job:workday:ngc:xmlname-2027-electrical-engineer-intern---manhatten-beach-ca_r10255685",
+    "job:workday:ngc:xmlname-2027-electrical-engineer-intern---redondo-beach-ca_r10257204",
     "job:workday:ngc:xmlname-2027-electrical-engineer-intern--mcclellan-ca_r10255116",
     "job:workday:ngc:xmlname-2027-electrical-engineering-intern-----vandenberg-ca_r10256590",
     "job:workday:ngc:xmlname-2027-electrical-systems-engineer-intern---baltimore-md_r10255010",
@@ -31152,6 +31154,7 @@
     "northrop grumman 2027 electrical design and technology internship linthicum md",
     "northrop grumman 2027 electrical engineer intern manhatten beach ca",
     "northrop grumman 2027 electrical engineer intern mcclellan ca",
+    "northrop grumman 2027 electrical engineer intern redondo beach ca",
     "northrop grumman 2027 electrical engineering intern vandenberg ca",
     "northrop grumman 2027 electricalsystems engineer intern baltimore md",
     "northrop grumman 2027 embedded software engineer intern baltimore md",
