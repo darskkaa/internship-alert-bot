@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-22T11:42:01.346959+00:00",
+  "last_checked_utc": "2026-10-22T11:51:48.739755+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12799,6 +12799,7 @@
     "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Product-Technical-Development---Laboratory--Wet-Lab-or-Dry-Lab--Focus_202610-126499",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-AI-for-Laboratory-Automation--Pharma-Research---Early-Development-_202610-125772",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Portfolio-Strategy-and-Insights-Interns--Basel--up-to-12-months-_202606-116569-1",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Student-Internship-in-Device-Development-and-Verification-Engineering--Basel--9-12-months-_202610-126054",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621",
@@ -28546,6 +28547,7 @@
     "job:workday:roche:industrial-placement-student-cs-coe-ddc-data-capability_202610-124915",
     "job:workday:roche:intern_202609-124125",
     "job:workday:roche:internship---agentic-ai-for-environmental-regulatory-compliance_202609-124819",
+    "job:workday:roche:internship-in-ai-for-laboratory-automation--pharma-research---early-development-_202610-125772",
     "job:workday:roche:portfolio-strategy-and-insights-interns--basel--up-to-12-months-_202606-116569-1",
     "job:workday:roche:roche-next-generation-sequencing--ngs----agentic-ai-engineering-support-internship_202610-126801-1",
     "job:workday:roche:student-internship-in-device-development-and-verification-engineering--basel--9-12-months-_202610-126054",
@@ -32789,6 +32791,7 @@
     "roche enterprise master data management intern",
     "roche field service assistant engineer intern",
     "roche internship agentic ai for environmental regulatory compliance",
+    "roche internship in ai for laboratory automation pharma research early development",
     "roche portfolio strategy and insights interns basel up to 12 months",
     "roche roche nextgeneration sequencing ngs agentic ai engineering support internship",
     "roche student internship in device development and verification engineering basel 912 months",
