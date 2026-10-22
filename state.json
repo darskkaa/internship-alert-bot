@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-22T10:11:49.450771+00:00",
+  "last_checked_utc": "2026-10-22T10:42:07.551989+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12729,6 +12729,7 @@
     "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692",
     "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Analyst-Intern_R119377",
     "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955",
+    "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Intern_R119888",
     "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Alaska/Drilling-Engineering-Intern---Silverwind-Exploration-Project--Summer-2027-_84059-1",
     "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Alaska/Subsurface-Engineering-Intern_84011-1",
     "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/Electrical-Engineering-Intern_84100",
@@ -28477,6 +28478,7 @@
     "job:workday:relx:data-analyst-intern_r119377",
     "job:workday:relx:data-science-intern_r118955",
     "job:workday:relx:data-science-internship_r118691-1",
+    "job:workday:relx:intern_r119888",
     "job:workday:relx:product-management-intern--government_r118611",
     "job:workday:relx:product-management-intern--insurance_r118879",
     "job:workday:relx:software-engineer-internship_r118692",
@@ -30060,6 +30062,7 @@
     "lexisnexis legal professional data science intern",
     "lexisnexis legal professional software engineer intern",
     "lexisnexis risk solutions data analyst intern",
+    "lexisnexis risk solutions data science fraud analytics placement intern",
     "lexisnexis risk solutions data science intern",
     "lexisnexis risk solutions data science internship",
     "lexisnexis risk solutions product management intern government",
