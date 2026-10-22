@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-22T15:52:00.158454+00:00",
+  "last_checked_utc": "2026-10-22T16:02:32.495512+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14377,7 +14377,8 @@
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pawtucket-RI/Manufacturing-Engineering-Co-op_R20084",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pawtucket-RI/Manufacturing-Engineering-Co-op_R20367",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pittsburgh-PA/Human-Factors-Engineering-Co-op-Intern_R20375",
-    "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pittsburgh-PA/Operations-Engineering-Co-Op---Spring-Summer_R20411"
+    "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pittsburgh-PA/Operations-Engineering-Co-Op---Spring-Summer_R20411",
+    "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/US-CA-San-Jose/Manufacturing-Engineering-Intern_R20618"
   ],
   "seen_keys": [
     "1x ai residency intern",
@@ -29655,6 +29656,7 @@
     "job:workday:zoll:manufacturing-engineering-co-op_r20084",
     "job:workday:zoll:manufacturing-engineering-co-op_r20300",
     "job:workday:zoll:manufacturing-engineering-co-op_r20367",
+    "job:workday:zoll:manufacturing-engineering-intern_r20618",
     "job:workday:zoll:mechanical-engineering-intern_r20310",
     "job:workday:zoll:operations-engineering-co-op---spring-summer_r20411",
     "job:workday:zoll:sustaining-mechanical-engineer-intern_r20313",
@@ -35661,6 +35663,7 @@
     "zoll medical corporation biomedical engineering coop",
     "zoll medical corporation human factors and usability engineering coop",
     "zoll medical corporation manufacturing engineering coop",
+    "zoll medical corporation manufacturing engineering intern",
     "zoll medical corporation mechanical engineering intern",
     "zoll medical corporation operations engineering coop springsummer",
     "zoll medical corporation sustaining mechanical engineer intern",
