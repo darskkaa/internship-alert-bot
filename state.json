@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-22T07:11:55.846589+00:00",
+  "last_checked_utc": "2026-10-22T07:41:55.743999+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12761,6 +12761,7 @@
     "https://richemont.wd3.myworkdayjobs.com/richemont/job/MEYRIN/Data-Project-Management-Intern_JR131779",
     "https://richemont.wd3.myworkdayjobs.com/richemont/job/MEYRIN/Data-Scientist-Intern_JR129875-1",
     "https://richemont.wd3.myworkdayjobs.com/richemont/job/MEYRIN/Digital-Analytics-Intern---6-months-internship_JR134538",
+    "https://richemont.wd3.myworkdayjobs.com/richemont/job/MEYRIN/Supply-Chain-Planning-Product-Management-Intern-_JR135190-1",
     "https://richemont.wd3.myworkdayjobs.com/richemont/job/MEYRIN/Technology-Procurement-Intern_JR131328",
     "https://richemont.wd3.myworkdayjobs.com/richemont/job/MEYRIN/Test-Management-Intern_JR132208",
     "https://richemont.wd3.myworkdayjobs.com/richemont/job/PLAN-LES-OUATES/Data-and-AI-Intern_JR134288",
@@ -28500,6 +28501,7 @@
     "job:workday:richemont:data-scientist-intern_jr129875-1",
     "job:workday:richemont:digital-analytics-intern---6-months-internship_jr134538",
     "job:workday:richemont:logistic-digital---data-intern_jr132522",
+    "job:workday:richemont:supply-chain-planning-product-management-intern-_jr135190-1",
     "job:workday:richemont:technology-procurement-intern_jr131328",
     "job:workday:richemont:test-management-intern_jr132208",
     "job:workday:risepoint:analytics-solutions-co-op_jr101354",
@@ -32663,6 +32665,7 @@
     "richemont data scientist intern",
     "richemont digital analytics intern 6 months internship",
     "richemont logistic digital data intern",
+    "richemont supply chain planning product management intern",
     "richemont technology procurement intern",
     "richemont test management intern",
     "ridgeline software engineer intern",
