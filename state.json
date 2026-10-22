@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-22T14:12:06.752002+00:00",
+  "last_checked_utc": "2026-10-22T14:21:52.224541+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3822,6 +3822,7 @@
     "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668",
     "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets--Electronic-Trading---Summer-2027-Analyst--4-months-_2618801",
     "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets--Summer-2027-Analyst-or-Associate--12-months-_2618796",
+    "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
     "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Optimization---Process-Engineering-Analyst-Co-op--16-Month-Term-_2618669",
     "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Process-Engineering-Analyst--Continuous-Improvement----Data-Insights-Co-op--12-to-16-month-Term-_2619157",
     "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1",
@@ -16613,6 +16614,7 @@
     "cibc analyst enterprise data and records coop",
     "cibc global markets analyst electronic trading",
     "cibc global markets analyst or associate months",
+    "cibc machine learning engineer coop",
     "cibc optimization process engineering analyst coop 16 month term",
     "cibc process engineering analyst continuous improvement data insights coop 12 to 16 month term",
     "cibc software engineer intern",
@@ -24708,6 +24710,7 @@
     "job:workday:cibc:advanced-analytics-and-ai-co-op_2621440",
     "job:workday:cibc:advanced-analytics-and-ai-co-op_2621440-1",
     "job:workday:cibc:analyst--enterprise-data-and-records-co-op_2621668",
+    "job:workday:cibc:machine-learning-engineer-co-op_2621721",
     "job:workday:cibc:optimization---process-engineering-analyst-co-op--16-month-term-_2618669",
     "job:workday:cibc:process-engineering-analyst--continuous-improvement----data-insights-co-op--12-to-16-month-term-_2619157",
     "job:workday:cibc:xmlname-2027-summer-intern---software-engineering_2618322",
