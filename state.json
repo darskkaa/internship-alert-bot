@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-22T03:42:03.117774+00:00",
+  "last_checked_utc": "2026-10-22T04:41:59.682265+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2197,6 +2197,7 @@
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/ADAS-Engineering-Intern---Camera-Perception_J000705551",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Quality-Engineering-Intern_J000702994",
+    "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399",
     "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400",
@@ -15276,6 +15277,7 @@
     "aptiv mechanical engineering intern tooling",
     "aptiv product analyst intern",
     "aptiv quality engineering intern",
+    "aptiv software development intern",
     "aptiv software engineering intern",
     "aptura exib mba intern",
     "aptura investment banking intern ai evaluation",
@@ -23918,6 +23920,7 @@
     "job:workday:aptiv:mechanical-engineering-intern---tooling_j000704864",
     "job:workday:aptiv:product-analyst-intern_j000704400",
     "job:workday:aptiv:quality-engineering-intern_j000702994",
+    "job:workday:aptiv:software-development-intern_j000704861",
     "job:workday:aptiv:software-engineering-intern_j000704368-1",
     "job:workday:archgroup:data-and-analytics-intern_r26_845",
     "job:workday:archgroup:security-operations-intern_r26_1016",
