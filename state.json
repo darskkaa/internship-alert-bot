@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-22T16:52:04.698693+00:00",
+  "last_checked_utc": "2026-10-22T17:02:10.210540+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6251,6 +6251,8 @@
     "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---AIR-GROUP-BUILDING-KYARP/UPS-Technology-Group-Summer-2027-Internship---KY_R26029755",
     "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---BAYONNE-CENTER-NJBAY/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Bayonne-NJ_R26030793",
     "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---CHICAGO-AREA-CONSOLIDATION-HUB-ILHOD/XMLNAME-2027-Summer-Engineering-Intern_R26039037",
+    "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---DALLAS-TXDAL/XMLNAME-2027-Summer-Engineering-Intern_R26039035",
+    "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---EARTH-CITY-MOEAR/XMLNAME-2027-Summer-Engineering-Intern_R26039265",
     "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---IS-MARYLAND-MDROA/UPS-Technology-Group-Summer-2027-Internship---MD_R26029757",
     "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---JEFFERSON-HUB-ILJEF/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Chicago-IL_R26030597",
     "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---OLYMPIC-CAOLY/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Los-Angeles-CA---Fremont-CA_R26030706",
@@ -26227,7 +26229,9 @@
     "job:workday:hcmportal:xmlname-2027-industrial-engineering-summer-intern---los-angeles-ca---fremont-ca_r26030706",
     "job:workday:hcmportal:xmlname-2027-industrial-engineering-summer-intern---portland--or_r26030709",
     "job:workday:hcmportal:xmlname-2027-industrial-engineering-summer-intern---salt-lake-city--ut_r26030699",
+    "job:workday:hcmportal:xmlname-2027-summer-engineering-intern_r26039035",
     "job:workday:hcmportal:xmlname-2027-summer-engineering-intern_r26039037",
+    "job:workday:hcmportal:xmlname-2027-summer-engineering-intern_r26039265",
     "job:workday:hcsc:early-careers---automation-programmer-intern_r0059484",
     "job:workday:hcsc:early-careers---developer-intern--compliance---health-quality-_r0059503",
     "job:workday:hcsc:early-careers---enterprise-data-analyst-intern_r0059505",
