@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-22T18:21:53.853717+00:00",
+  "last_checked_utc": "2026-10-22T18:31:59.218991+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6068,6 +6068,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Product-Quality-Engineering-Intern--Summer-2027-_01871830",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Systems-Engineering-Intern_01876483",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Test-Engineering-Intern--Summer-2027-_01883803-1",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-CHARLOTTE-2730--2730-W-Tyvola-Rd--TYVOLA/ERP-Systems-Transformations-Intern--Summer-2027-_01879765",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879553",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879721",
@@ -13328,6 +13329,7 @@
     "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Biomedical-Engineering---New-Jersey_R572594-1",
     "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Mechanical-Engineering---New-Jersey_R572605-1",
     "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1",
+    "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345",
     "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601",
     "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Electrical-Engineering---Michigan_R572609",
     "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603",
@@ -26136,6 +26138,7 @@
     "job:workday:globalhr:systems-security-engineering-intern--summer-2027-_01874755",
     "job:workday:globalhr:tcma-systems-engineering-intern---summer-2027-onsite_01867372",
     "job:workday:globalhr:test-engineering-intern--summer-2027-_01872154",
+    "job:workday:globalhr:test-engineering-intern--summer-2027-_01883803-1",
     "job:workday:globalhr:test-engineering-specialist-co-op--onsite-_01874746",
     "job:workday:globalhr:turbine-aero-thermal-systems-intern--summer-2027---onsite-_01882307",
     "job:workday:globalhr:vdsi---validation-planning-intern--summer-2027----onsite_01868407",
@@ -33812,6 +33815,7 @@
     "soti performance test engineer intern january 2027 12 months",
     "soti software developer intern january 2027 12 months",
     "soti software developer intern may 2027",
+    "soti software developer intern may 2027 12 months",
     "soti software developer intern soti mobicontrol apple hq january 2027 12 months",
     "southern star central gas pipeline gis analyst intern",
     "southstate bank quantitative intern",
