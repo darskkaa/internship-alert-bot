@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-22T18:02:21.499451+00:00",
+  "last_checked_utc": "2026-10-22T18:11:59.625888+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6042,6 +6042,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01878330",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Intern--Summer-2027-_01875743",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01881158",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Analog-and-Power-Design-Electrical-Engineering-Intern--Summer-2027-_01871778",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineering-Intern--Summer-2027-_01874955",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-Intern--Summer-2027-_01880852",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437",
@@ -25836,6 +25837,7 @@
     "job:workday:globalhr:aftermarket-and-sustainment-engineering---structures-engineer-co-op--january-2027---hybrid-_01874274",
     "job:workday:globalhr:ai-engineering-intern--summer-2027-_01880596",
     "job:workday:globalhr:air-systems-design---integration-intern--summer-2027---onsite-_01872885",
+    "job:workday:globalhr:analog-and-power-design-electrical-engineering-intern--summer-2027-_01871778",
     "job:workday:globalhr:application-portfolio-support-intern--summer-2027-_01879981",
     "job:workday:globalhr:auxiliary-power-unit---mechanical-engineer-co-op--january-2027---hybrid-_01874717",
     "job:workday:globalhr:avionics-test-engineering--systems-engineer-intern--onsite-_01876518",
@@ -33121,6 +33123,7 @@
     "rtx ai engineering intern",
     "rtx ai engineering intern summer 2027",
     "rtx air systems design integration intern summer 2027 onsite",
+    "rtx analog and power design electrical engineering intern summer 2027",
     "rtx application portfolio support intern summer 2027",
     "rtx artificial intelligence machine learning methods intern",
     "rtx auxiliary power unit mechanical engineer coop january 2027 hybrid",
