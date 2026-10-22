@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-22T13:02:17.134639+00:00",
+  "last_checked_utc": "2026-10-22T13:12:18.750806+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12983,6 +12983,7 @@
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Analytical-Science-Intern---MSAT_R2873804",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Engineering-Intern_R2873345",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Integrated-Manufacturing-Systems-Intern_R2873923",
+    "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Manufacturing-Sciences-Intern_R2875201",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Pre-Filled-Syringe-Process-Engineering-Intern_R2875164",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Product-Supply-Process-Engineering-Intern_R2873359-1",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Quality-Systems-Intern_R2872831-1",
@@ -28730,6 +28731,7 @@
     "job:workday:sanofi:integrated-manufacturing-systems-intern_r2873923",
     "job:workday:sanofi:internship-6-months-data-and-ia-engineer_r2873938",
     "job:workday:sanofi:launches-project-portfolio-management-internship_r2874543",
+    "job:workday:sanofi:manufacturing-sciences-intern_r2875201",
     "job:workday:sanofi:pre-filled-syringe-process-engineering-intern_r2875164",
     "job:workday:sanofi:product-supply-process-engineering-intern_r2873359-1",
     "job:workday:sanofi:quality-systems-intern_r2872831-1",
@@ -33269,6 +33271,7 @@
     "sanofi internship 6 months data and ia engineer",
     "sanofi internship 6 months scientific communication",
     "sanofi launches project portfolio management internship",
+    "sanofi manufacturing sciences intern",
     "sanofi pre filled syringe process engineering intern",
     "sanofi product supply process engineering intern",
     "sanofi quality systems intern",
