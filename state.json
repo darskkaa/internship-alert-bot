@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-22T23:11:31.881545+00:00",
+  "last_checked_utc": "2026-10-22T23:31:50.969929+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1863,6 +1863,7 @@
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193",
+    "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373",
     "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Greenbelt-MD/NASA-Goddard-Intern-Career-and-Networking-Fair_R-100709",
     "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Mechanical-Engineering-Intern_R-100764",
     "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---Georgia/Intern--Research-on-CFD-Analysis-with-Hybrid-Mesh-Adaptation-for-High-Speed-Configurations_R-100770",
@@ -14952,6 +14953,7 @@
     "altera corporation high level synthesis engineer intern",
     "altera corporation quartus compiler software intern",
     "altera corporation software engineer intern",
+    "altera corporation software intern",
     "altera corporation undergrad intern technical",
     "altice usa data engineer intern",
     "amazon 2027 frontier ai robotics internship undergraduate united states frontier ai robotics frontier ai robotics",
@@ -24023,6 +24025,7 @@
     "job:workday:altera:software-engineer----intern_r03252",
     "job:workday:altera:software-engineer----intern_r03320",
     "job:workday:altera:software-engineer---intern_r03193",
+    "job:workday:altera:software-intern_r03373",
     "job:workday:altera:undergrad-intern-technical_r03001",
     "job:workday:amainc:intern--research-on-cfd-analysis-with-hybrid-mesh-adaptation-for-high-speed-configurations_r-100770",
     "job:workday:amainc:mechanical-engineering-intern_r-100764",
