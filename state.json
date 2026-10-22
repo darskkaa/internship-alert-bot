@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-22T12:51:55.822374+00:00",
+  "last_checked_utc": "2026-10-22T13:02:17.134639+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13914,6 +13914,7 @@
     "https://wonder.wd1.myworkdayjobs.com/WG/job/New-York-NY/Process-and-Data-Analysis-Engineer-Intern_JR101325",
     "https://wonder.wd1.myworkdayjobs.com/WG/job/New-York-NY/Robotics-Systems-Engineer-Intern_JR101321",
     "https://wonder.wd1.myworkdayjobs.com/WG/job/New-York-NY/Supply-Chain-Analytics-Intern_JR101320",
+    "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Drake-Campus/Engineering-Co-Op_JR114033",
     "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus/Engineering-Internship-Summer-2027_JR113067",
     "https://woodward.wd5.myworkdayjobs.com/woodward/job/Niles-IL-US/SAP-S-4-HANA-Analyst-Intern-Summer-2027_JR112066",
     "https://woodward.wd5.myworkdayjobs.com/woodward/job/Rockford---Loves-Park-Campus-LPC/Technical-Writing-Intern-Summer-2027_JR112243",
@@ -29463,6 +29464,7 @@
     "job:workday:wonder:supply-chain-analytics-intern_jr101320",
     "job:workday:woodward:engineering-co-op---design-engineering---zeeland--mi--summer-2027-_jr112252",
     "job:workday:woodward:engineering-co-op---manufacturing-engineering---zeeland--mi--summer-2027-_jr112088",
+    "job:workday:woodward:engineering-co-op_jr114033",
     "job:workday:woodward:engineering-internship-summer-2027_jr113067",
     "job:workday:woodward:technical-writing-intern-summer-2027_jr112243",
     "job:workday:workday:cybersecurity-engineer-intern_jr-0110809",
@@ -35337,6 +35339,7 @@
     "wonder process and data analysis engineer intern",
     "wonder robotics systems engineer intern",
     "wonder supply chain analytics intern",
+    "woodward governor engineering coop",
     "woodward governor engineering coop design engineering zeeland mi summer 2027",
     "woodward governor engineering coop manufacturing engineering zeeland mi summer 2027",
     "woodward governor engineering internship summer 2027",
