@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-22T20:11:51.421662+00:00",
+  "last_checked_utc": "2026-10-22T20:21:40.961750+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13277,6 +13277,7 @@
     "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643",
     "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
     "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
+    "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Virginia/Research-Intern---Self-evolving-Multimodal-Foundation-Models_JR-119804",
     "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543",
     "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Schlieren/Product-Management-Intern--Consumer-Electronics----12-Months_JR-119747-1",
     "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Weybridge/Data-Quality---Systems-Intern---Student-Placement-Year_JR-119746-1",
@@ -29133,6 +29134,7 @@
     "job:workday:sonyglobal:engineering-intern--ai-ethics-_jr-119784",
     "job:workday:sonyglobal:firmware-design---summer-internship_jr-119579-1",
     "job:workday:sonyglobal:product-management-intern--consumer-electronics----12-months_jr-119747-1",
+    "job:workday:sonyglobal:research-intern---self-evolving-multimodal-foundation-models_jr-119804",
     "job:workday:sonyglobal:technology-marketing---communications-intern---student-placement-year_jr-119745-1",
     "job:workday:soti:cloud-administrator--intern-_r10569",
     "job:workday:soti:data-scientist--intern--jan-2027-12-months-_r10571",
@@ -33866,6 +33868,7 @@
     "sony product management intern consumer electronics 12 months",
     "sony research engineer intern ethical creative and protective ai lab",
     "sony research intern on generative and protective ai for content creation",
+    "sony research intern selfevolving multimodal foundation models",
     "sony sony research internship on audio processing and machine learning",
     "sony technology marketing communications intern student placement year",
     "sorting robotics robotics engineer coop intern",
