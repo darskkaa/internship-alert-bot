@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-22T13:51:59.521640+00:00",
+  "last_checked_utc": "2026-10-22T14:02:26.290631+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5502,6 +5502,7 @@
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IN--Indianapolis---8250-Haverstick-Road/Intern-Engineering-Designer--Water_6443",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--ME--Falmouth---12-Northbrook-Drive/Intern-Engineering-Designer--Bridge_6493",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--MI--Ann-Arbor---206-South-5th-Avenue/Engineering-Intern--Buildings_6511",
+    "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NH--Auburn---254-Rockingham-Road/Intern-Engineering-Designer--Aviation_6585",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NJ--Parsippany---6-Campus-Drive/Intern-Engineering-Designer--Bridge_6513",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--PA--Philadelphia---1700-Market-Street/Intern-Engineering-Designer---Water_6439",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--VA--Alexandria---5301-Shawnee-Road/Intern-Engineering-Designer--Bridge_6446",
@@ -25567,6 +25568,7 @@
     "job:workday:gi:intern-engineering-designer---water_6439",
     "job:workday:gi:intern-engineering-designer---water_6442-1",
     "job:workday:gi:intern-engineering-designer--aviation_6473",
+    "job:workday:gi:intern-engineering-designer--aviation_6585",
     "job:workday:gi:intern-engineering-designer--bridge_6437",
     "job:workday:gi:intern-engineering-designer--bridge_6441-1",
     "job:workday:gi:intern-engineering-designer--bridge_6444",
