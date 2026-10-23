@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-23T00:21:52.279430+00:00",
+  "last_checked_utc": "2026-10-23T01:02:03.213607+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10774,6 +10774,7 @@
     "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Flight-Test-and-Integration-Summer-Intern_R-00193562-1",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Laser-Air-Monitoring-System---Engineering-Intern_R-00192851",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Lunar-Terrain-Vehicle---Engineering-Intern_R-00192848",
+    "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Lunar-Terrain-Vehicle---Engineering-Intern_R-00195252",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-Engineer-Summer-Intern_R-00191782",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Missile-Systems-Engineer-Intern_R-00195265",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Engineer-Intern_R-00191986",
@@ -27346,6 +27347,7 @@
     "job:workday:leidos:jr-software-engineer-intern_r-00192184",
     "job:workday:leidos:laser-air-monitoring-system---engineering-intern_r-00192851",
     "job:workday:leidos:lunar-terrain-vehicle---engineering-intern_r-00192848",
+    "job:workday:leidos:lunar-terrain-vehicle---engineering-intern_r-00195252",
     "job:workday:leidos:mechanical-design-engineer-summer-intern_r-00191782",
     "job:workday:leidos:mechanical-engineering-intern_r-00193159",
     "job:workday:leidos:missile-systems-engineer-intern_r-00195265",
