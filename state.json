@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-23T20:41:38.639879+00:00",
+  "last_checked_utc": "2026-10-23T20:51:44.324204+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13540,6 +13540,7 @@
     "https://sonyglobal.wd1.myworkdayjobs.com/Sony_Europe_Careers/job/Weybridge/Data-Quality---Systems-Intern---Student-Placement-Year_JR-119746",
     "https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551",
     "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638",
+    "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614",
     "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Cloud-Administrator--Intern-_R10569",
     "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571",
     "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--January-2027-12-Months-_R10437",
@@ -29745,6 +29746,7 @@
     "job:workday:sonyglobal:research-intern---self-evolving-multimodal-foundation-models_jr-119804",
     "job:workday:sonyglobal:technology-marketing---communications-intern---student-placement-year_jr-119745-1",
     "job:workday:soti:associate-product-manager-intern--may-2027---12-months-_r10638",
+    "job:workday:soti:associate-product-manager-intern--soti-xsight---may-2027---12-months-_r10614",
     "job:workday:soti:cloud-administrator--intern-_r10569",
     "job:workday:soti:data-scientist--intern--jan-2027-12-months-_r10571",
     "job:workday:soti:performance-test-engineer-intern--january-2027-12-months-_r10437",
@@ -34580,6 +34582,7 @@
     "sony technology marketing communications intern student placement year",
     "sorting robotics robotics engineer coop intern",
     "soti associate product manager intern may 2027 12 months",
+    "soti associate product manager intern soti xsight may 2027 12 months",
     "soti cloud administrator intern",
     "soti data scientist intern jan 2027 12 months",
     "soti performance test engineer intern january 2027 12 months",
