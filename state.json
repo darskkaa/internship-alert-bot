@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-23T11:31:39.367274+00:00",
+  "last_checked_utc": "2026-10-23T11:41:28.899486+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1503,6 +1503,7 @@
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Athens/Accenture-Technology-Internship-Program--Athens-or-Thessaloniki-_R00284645",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00345312",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Data-AI-Tech---as-of-February-2027_R00356309",
+    "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Engineering-Intern----Supply-Chain_R00366461",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Management-Consulting--AI---Data---as-of-February-2027_R00355578",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest-Millennium-Gardens/Talent-Pool---buda-Job-Fair---Electrical-engineer-intern_R00364910",
@@ -14645,6 +14646,7 @@
     "accenture health technology internship",
     "accenture hr it finance intern uae nationals only",
     "accenture internship dataai tech as of february 2027",
+    "accenture internship engineering intern supply chain",
     "accenture internship management consulting ai data as of february 2027",
     "accenture internship risk",
     "accenture internship security as of february 2027",
@@ -23771,6 +23773,7 @@
     "job:workday:accenture:health---public-services-technology-internship_r00358078",
     "job:workday:accenture:hr--it---finance-intern--uae-nationals-only-_r00362240",
     "job:workday:accenture:internship---data-ai-tech---as-of-february-2027_r00356309",
+    "job:workday:accenture:internship---engineering-intern----supply-chain_r00366461",
     "job:workday:accenture:internship---management-consulting--ai---data---as-of-february-2027_r00355578",
     "job:workday:accenture:internship---risk_r00337862",
     "job:workday:accenture:internship---technology-strategy---transformation-luxembourg---as-of-february-2027_r00355951",
