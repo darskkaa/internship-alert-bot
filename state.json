@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-23T12:41:32.068030+00:00",
+  "last_checked_utc": "2026-10-23T12:51:39.890928+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3073,6 +3073,7 @@
     "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Production-Engineering-Intern---Summer-2027_333767",
     "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1",
     "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
+    "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999",
     "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
     "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120",
     "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1",
@@ -16550,6 +16551,7 @@
     "caci ai prompt engineer intern",
     "caci ai systems engineer intern summer 2027",
     "caci aws cloud engineering intern summer 2027",
+    "caci cleared software engineer intern summer 2027",
     "caci configuration controldata management coop engineering department",
     "caci cyber analyst intern summer 2027",
     "caci cyber security intern summer 2027",
@@ -24827,6 +24829,7 @@
     "job:workday:caci:aerospace-engineer-intern---summer-2027_333648",
     "job:workday:caci:ai-prompt-engineer-high-school-intern---summer-2027_332816-1",
     "job:workday:caci:aws-cloud-engineering-intern---summer-2027_331437",
+    "job:workday:caci:cleared-software-engineer-intern---summer-2027_331999",
     "job:workday:caci:cyber-analyst-intern---summer-2027_333161",
     "job:workday:caci:cyber-security-intern---summer-2027_333046",
     "job:workday:caci:devops-software-engineering-intern---summer-2027_331466",
