@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-23T22:41:39.207531+00:00",
+  "last_checked_utc": "2026-10-23T23:01:49.039563+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5066,6 +5066,7 @@
     "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11182",
     "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11183",
     "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11186",
+    "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/391876",
     "https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15623",
     "https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15624",
     "https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15799",
@@ -14354,6 +14355,7 @@
     "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa",
     "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
     "https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027",
+    "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
     "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
     "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us",
     "https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security",
@@ -23325,6 +23327,7 @@
     "job:oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com:11182",
     "job:oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com:11183",
     "job:oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com:11186",
+    "job:oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com:391876",
     "job:oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:15623",
     "job:oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:15624",
     "job:oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:15799",
@@ -31403,6 +31406,7 @@
     "maximor ai software engineering intern",
     "maxinsights data operations intern",
     "maxinsights data operationscomputer science intern",
+    "mayo clinic undergraduate intern neurology ai",
     "mbda electronic engineer intern",
     "mc dean engineering intern cim",
     "mc dean engineering intern i2cs",
