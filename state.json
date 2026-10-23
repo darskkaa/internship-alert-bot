@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-23T12:51:39.890928+00:00",
+  "last_checked_utc": "2026-10-23T13:01:55.747192+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12122,6 +12122,7 @@
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181",
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Computer-Architecture-Intern---2027_JR2026052",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701",
@@ -28337,6 +28338,7 @@
     "job:workday:nvidia:applied-research-intern--integrated-sensing-and-communications--isac--nvidia-aerial---summer-2027_jr2028027",
     "job:workday:nvidia:applied-research-intern--nlp---fall-2026_jr2010488",
     "job:workday:nvidia:asic-verification-intern---summer-2027_jr2027982",
+    "job:workday:nvidia:computer-architecture-intern---2027_jr2026052",
     "job:workday:nvidia:cpu-compiler-intern---2027_jr2027251",
     "job:workday:nvidia:data-processing-developer-technology-intern---2027_jr2024708",
     "job:workday:nvidia:data-processing-developer-technology-intern---2027_jr2027948",
@@ -31963,6 +31965,7 @@
     "nvidia autonomous vehicles and robotics intern",
     "nvidia computer architecture and systems intern research",
     "nvidia computer architecture intern",
+    "nvidia computer architecture intern 2027",
     "nvidia computer vision and deep learning intern",
     "nvidia cpu compiler intern",
     "nvidia data processing developer technology intern 2027",
