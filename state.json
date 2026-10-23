@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-23T03:11:37.904383+00:00",
+  "last_checked_utc": "2026-10-23T05:31:41.694149+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13809,6 +13809,7 @@
     "https://ursamajor.com/careers/?gh_jid=4746827005",
     "https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false",
     "https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false",
+    "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Bank-Credit-Risk-Analyst-Intern_R0121998",
     "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Decision-Science-Analyst-Intern_R0120923",
     "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Technical-Product-Management-Intern_R0120759",
     "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Future-Leaders-Program---Data-Intern_R0120824",
@@ -29697,6 +29698,7 @@
     "job:workday:upbound:software-engineer-intern_r-100762",
     "job:workday:upbound:technology-business-operations-intern_r-100766",
     "job:workday:upbound:user-experience-intern_r-100778",
+    "job:workday:usaa:bank-credit-risk-analyst-intern_r0121998",
     "job:workday:usaa:decision-science-analyst-intern_r0120923",
     "job:workday:usaa:digital-technical-product-management-intern_r0120759",
     "job:workday:usaa:future-leaders-program---data-intern_r0120824",
@@ -35297,6 +35299,7 @@
     "us foods intern software engineer digital commerce hybrid onsite remote",
     "us foods intern software engineer legacy systems hybrid onsite remote",
     "usaa aiml engineer intern",
+    "usaa bank credit risk analyst intern",
     "usaa data intern future leaders program",
     "usaa data scientist intern",
     "usaa decision science analyst intern",
