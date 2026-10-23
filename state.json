@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-23T07:01:56.894100+00:00",
+  "last_checked_utc": "2026-10-23T08:11:47.545425+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11779,6 +11779,7 @@
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/IRL---Tipperary---Ballydine/Engineering-Department-Intern_R411420",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---BSc--HLO--or-MSc-Biology--Life-sciences---Poultry-R-D_R422847-1",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---Formulation----Discovery-and-Technology-Research_R421952-1",
+    "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---HBO-WO-Business-administration-or-Data-Analytics---Intellectual-Property_R421707-1",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---Life-Sciences-Molecular-Virology---Discovery---Technology_R423484-2",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Translational-Sciences-and-Outsourcing---Intern_R413062",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
@@ -28007,6 +28008,7 @@
     "job:workday:msd:engineering-department-intern_r411420",
     "job:workday:msd:intern---bsc--hlo--or-msc-biology--life-sciences---poultry-r-d_r422847-1",
     "job:workday:msd:intern---formulation----discovery-and-technology-research_r421952-1",
+    "job:workday:msd:intern---hbo-wo-business-administration-or-data-analytics---intellectual-property_r421707-1",
     "job:workday:msd:intern---life-sciences-molecular-virology---discovery---technology_r423484-2",
     "job:workday:msd:new-product-introduction--technical-engineering-internship_r412067",
     "job:workday:msd:student-placement---it-developer-analyst_r418573",
@@ -31017,6 +31019,7 @@
     "merck intern",
     "merck intern bsc hlo or msc biology life sciences poultry rd",
     "merck intern formulation discovery and technology research",
+    "merck intern hbowo business administration or data analytics intellectual property",
     "merck intern life sciencesmolecular virology discovery technology",
     "merck it developer analyst intern",
     "merck medical data scientist intern",
