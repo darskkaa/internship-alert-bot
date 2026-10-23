@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-23T18:43:18.915843+00:00",
+  "last_checked_utc": "2026-10-23T18:51:39.210605+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13829,6 +13829,7 @@
     "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Intern_R-52317",
     "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Research-Operations---Marketing---Communications-Intern_R-53349",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Automated-Test-Engineering-Intern--16-Month-Internship-_R58004",
+    "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1",
@@ -29943,6 +29944,7 @@
     "job:workday:travelers:research-operations---marketing---communications-intern_r-53349",
     "job:workday:trimble:automated-test-engineering-intern--16-month-internship-_r58004",
     "job:workday:trimble:hardware-software-testing-intern_r57677-1",
+    "job:workday:trimble:navigation---machine-learning-engineering-intern--16-months-_r57980",
     "job:workday:trimble:people-development-ai---digital-learning-intern_r57819",
     "job:workday:trimble:product-management-intern_r57675-1",
     "job:workday:trimble:product-management-intern_r57893",
@@ -35543,6 +35545,7 @@
     "trimble agriculture product management intern",
     "trimble automated test engineering intern 16month internship",
     "trimble hardwaresoftware testing intern",
+    "trimble navigation machine learning engineering intern 16 months",
     "trimble people development ai digital learning intern",
     "trimble product management intern",
     "trimble software engineer intern",
