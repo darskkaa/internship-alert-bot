@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-23T16:41:38.921623+00:00",
+  "last_checked_utc": "2026-10-23T16:51:58.080680+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2024,6 +2024,7 @@
     "https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Enterprise-Data-Intern_R39510",
     "https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Enterprise-Data-Intern_R39527",
     "https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Intern---Data-Engineering_R39426",
+    "https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462",
     "https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675",
     "https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674",
     "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39510",
@@ -15364,6 +15365,7 @@
     "american family insurance group internal data and analytics intern summer 2027",
     "american family insurance group it network monitoring observability intern",
     "american family insurance group ml ops intern",
+    "american family insurance group product data engineering intern hybrid",
     "american family insurance group software engineering intern",
     "american family insurance group summer 2027 consumer research and insights intern",
     "american family insurance group summer 2027 data analyst intern agency performance insights and operations",
@@ -24345,6 +24347,7 @@
     "job:workday:amfam:internal-data-and-analytics-intern---summer-2027_r39401",
     "job:workday:amfam:ml-ops-intern_r39493",
     "job:workday:amfam:observability-intern_r39399",
+    "job:workday:amfam:product-data-engineering-intern--hybrid-_r39462",
     "job:workday:amfam:summer-2027-data-analyst-intern---agency-performance--insights-and-operations_r39513",
     "job:workday:amfam:summer-2027-intern---actuarial-science_r39354",
     "job:workday:amfam:summer-2027-intern---application-development--hybrid-_r39458",
