@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-23T14:51:46.273031+00:00",
+  "last_checked_utc": "2026-10-23T15:02:02.797516+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3730,6 +3730,7 @@
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Data-Analytics-Intern---Summer_30220000",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Intern--ChemMtrlsEngrg_30220163",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Systems-Engineering-Intern---Summer_30220210",
+    "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Systems-Engineering-Intern---Summer_30220556-1",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Quality-Engineering-Intern---Summer_30220256-1",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220247",
@@ -25030,6 +25031,7 @@
     "job:workday:carrier:quality-engineering-intern---summer_30220256-1",
     "job:workday:carrier:software-engineering-intern---summer_30220161",
     "job:workday:carrier:systems-engineering-intern---summer_30220210",
+    "job:workday:carrier:systems-engineering-intern---summer_30220556-1",
     "job:workday:carrier:test-engineering-intern---summer_30220233",
     "job:workday:cat:engineering-student-internship--tijuana--mx-_r0000397243",
     "job:workday:cat:engineering-student-internship_r0000397241",
