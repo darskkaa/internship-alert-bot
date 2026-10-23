@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-23T14:29:26.298239+00:00",
+  "last_checked_utc": "2026-10-23T14:31:57.517898+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5731,6 +5731,7 @@
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Technical-Accounting-Intern--Summer-2027-_JR-2604485",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051",
+    "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Junior--Summer-2027-_JR-2604658",
@@ -14586,7 +14587,8 @@
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pawtucket-RI/Manufacturing-Engineering-Co-op_R20367",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pittsburgh-PA/Human-Factors-Engineering-Co-op-Intern_R20375",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pittsburgh-PA/Operations-Engineering-Co-Op---Spring-Summer_R20411",
-    "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/US-CA-San-Jose/Manufacturing-Engineering-Intern_R20618"
+    "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/US-CA-San-Jose/Manufacturing-Engineering-Intern_R20618",
+    "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/US-CA-San-Jose/Manufacturing-Engineering-Intern_R20619"
   ],
   "seen_keys": [
     "1x ai residency intern",
@@ -18885,6 +18887,7 @@
     "globalfoundries intern fab engineering ae",
     "globalfoundries ip design engineering intern fall 2026",
     "globalfoundries machine learning generative ai intern janjun 2027",
+    "globalfoundries new product development test engineer intern summer 2027",
     "globalfoundries power technology development integration intern janjun 2027",
     "globalfoundries process integration intern ulp cmos technology development summer 2027",
     "globalfoundries production control engineering intern",
@@ -26135,6 +26138,7 @@
     "job:workday:globalfoundries:ip-program-management---quality-intern--jan-jun-2027-_jr-2604350",
     "job:workday:globalfoundries:job-posting-title-advanced-manufacturing-process-engineering-intern--sophomore--summer-2027-_jr-2604664",
     "job:workday:globalfoundries:machine-learning---generative-ai-intern--jan-jun-2027-_jr-2604518",
+    "job:workday:globalfoundries:new-product-development-test-engineer-intern--summer-2027-_jr-2603957",
     "job:workday:globalfoundries:power-technology-development-integration-intern--jan-jun-2027-_jr-2604405",
     "job:workday:globalfoundries:process-integration-intern--ulp-cmos-technology-development--summer-2027-_jr-2604358",
     "job:workday:globalfoundries:product-business-unit-finance-intern--summer-2026-_jr-2502830",
@@ -30118,6 +30122,7 @@
     "job:workday:zoll:manufacturing-engineering-co-op_r20300",
     "job:workday:zoll:manufacturing-engineering-co-op_r20367",
     "job:workday:zoll:manufacturing-engineering-intern_r20618",
+    "job:workday:zoll:manufacturing-engineering-intern_r20619",
     "job:workday:zoll:mechanical-engineering-intern_r20310",
     "job:workday:zoll:operations-engineering-co-op---spring-summer_r20411",
     "job:workday:zoll:sustaining-mechanical-engineer-intern_r20313",
