@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-23T21:32:01.652989+00:00",
+  "last_checked_utc": "2026-10-23T21:41:40.117918+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5216,6 +5216,7 @@
     "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512",
     "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IA-Des-Moines/Engineering-Intern_WD231822",
     "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700",
+    "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-MI-Coopersville/Process-Engineering-Intern_WD232511",
     "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
     "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Montreal-QC-TDY/Intern---3D-Validation-Station-Software-Designer_REQ36804",
     "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Manufacturing-Engineer-Co-Op_REQ36603",
@@ -18471,6 +18472,7 @@
     "flagship pioneering terrana bioinformatics coop computational biology data science",
     "flex engineering intern",
     "flex manufacturing data analytics coop",
+    "flex process engineering intern",
     "flint engineering intern summer 2027",
     "flow traders quantitative trading intern",
     "flow traders quantitative trading intern summer 2027",
@@ -25918,6 +25920,7 @@
     "job:workday:fis:intern--software-engineer--fis-university-program_jr0309512",
     "job:workday:flextronics:engineering-intern_wd231822",
     "job:workday:flextronics:manufacturing-data---analytics-co-op---spring-2027_wd229700",
+    "job:workday:flextronics:process-engineering-intern_wd232511",
     "job:workday:flir:computer-engineering-intern_req29119",
     "job:workday:flir:eadsim-mbse-intern--summer-2027-_req36670-1",
     "job:workday:flir:eadsim-software-engineering-intern--summer-2027-_req36667",
