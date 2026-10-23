@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-23T08:11:47.545425+00:00",
+  "last_checked_utc": "2026-10-23T08:21:57.482373+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1622,6 +1622,7 @@
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027---Engineering-Performance_JR10450542",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027---Impact-of-input-errors-on-takeoff-performance-and-prototyping-of-an-algorithm-for-detection_JR10449589",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027---Structure-Fleet-Support-Daily-repair-Engineer_JR10450674",
+    "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027---Type-Rating-Practical-Training-Test-Bench-and-associated-material_JR10447592",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR--Internship-2027---Automatic-Generator-of-Aircraft-Performance-Database_JR10450467",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR--Internship-2027---IA-Assistant-for-Avionics-systems-designer_JR10450466",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR-Internship-2027--Stress-Repair-Engineer_JR10450734",
@@ -14832,6 +14833,7 @@
     "airbus atr internship 2027 loads engineer hf",
     "airbus atr internship 2027 stressrepair engineer",
     "airbus atr internship 2027 structure fleet support daily repair engineer",
+    "airbus atr internship 2027 type rating practical training test bench and associated material",
     "airbus atr internship customer services digital transformation for repair engineering",
     "airbus atr internship electrical hybrid systems fm",
     "airbus atr internship flight data analysis and ia",
@@ -23855,6 +23857,7 @@
     "job:workday:ag:atr---internship-2027---engineering-performance_jr10450542",
     "job:workday:ag:atr---internship-2027---impact-of-input-errors-on-takeoff-performance-and-prototyping-of-an-algorithm-for-detection_jr10449589",
     "job:workday:ag:atr---internship-2027---structure-fleet-support-daily-repair-engineer_jr10450674",
+    "job:workday:ag:atr---internship-2027---type-rating-practical-training-test-bench-and-associated-material_jr10447592",
     "job:workday:ag:atr--internship-2027---automatic-generator-of-aircraft-performance-database_jr10450467",
     "job:workday:ag:atr--internship-2027---ia-assistant-for-avionics-systems-designer_jr10450466",
     "job:workday:ag:atr-internship-2027--stress-repair-engineer_jr10450734",
