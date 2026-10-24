@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-24T03:41:51.412737+00:00",
+  "last_checked_utc": "2026-10-24T10:41:25.018266+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4107,6 +4107,7 @@
     "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726",
     "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Auto-Product-Analyst-Intern_R26_0000000995",
     "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Automation-Developer-Intern_R26_0000001000",
+    "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Consumer-Insights-Intern_R26_0000001030",
     "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Information-Technology-Services-Intern_R26_0000000977",
     "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Market-Analytics-Intern_R26_0000000948",
     "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Marketing-Technology-Intern_R26_0000001058",
@@ -17469,6 +17470,7 @@
     "cotiviti generative ai research engineer intern",
     "country financial auto product analyst intern",
     "country financial automation developer intern",
+    "country financial consumer insights intern",
     "country financial information technology services intern",
     "country financial market analytics intern",
     "country financial marketing technology intern",
@@ -25611,6 +25613,7 @@
     "job:workday:costar:technology-intern---richmond--va--summer-2027-_r39665",
     "job:workday:countryfinancial:auto-product-analyst-intern_r26_0000000995",
     "job:workday:countryfinancial:automation-developer-intern_r26_0000001000",
+    "job:workday:countryfinancial:consumer-insights-intern_r26_0000001030",
     "job:workday:countryfinancial:information-technology-services-intern_r26_0000000977",
     "job:workday:countryfinancial:market-analytics-intern_r26_0000000948",
     "job:workday:countryfinancial:marketing-technology-intern_r26_0000001058",
