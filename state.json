@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-26T15:42:39.791419+00:00",
+  "last_checked_utc": "2026-10-26T15:53:09.274794+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1875,6 +1875,7 @@
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373",
+    "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Undergrad-Intern-Technical_R03351",
     "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Greenbelt-MD/NASA-Goddard-Intern-Career-and-Networking-Fair_R-100709",
     "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Mechanical-Engineering-Intern_R-100764",
     "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---Georgia/Intern--Research-on-CFD-Analysis-with-Hybrid-Mesh-Adaptation-for-High-Speed-Configurations_R-100770",
@@ -10992,6 +10993,7 @@
     "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193992",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Albuquerque-NM/Mechanical-Engineering-Intern_R-00193159",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671",
+    "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00194708",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804",
@@ -24578,6 +24580,7 @@
     "job:workday:altera:software-engineer---intern_r03193",
     "job:workday:altera:software-intern_r03373",
     "job:workday:altera:undergrad-intern-technical_r03001",
+    "job:workday:altera:undergrad-intern-technical_r03351",
     "job:workday:amainc:intern--research-on-cfd-analysis-with-hybrid-mesh-adaptation-for-high-speed-configurations_r-100770",
     "job:workday:amainc:mechanical-engineering-intern_r-100764",
     "job:workday:amainc:nasa-goddard-intern-career-and-networking-fair_r-100709",
@@ -28004,6 +28007,7 @@
     "job:workday:leidos:cybersecurity-analyst-intern_r-00190667",
     "job:workday:leidos:cybersecurity-analyst-intern_r-00190669",
     "job:workday:leidos:cybersecurity-analyst-intern_r-00190671",
+    "job:workday:leidos:cybersecurity-analyst-intern_r-00194708",
     "job:workday:leidos:cybersecurity-engineer-co-op_r-00190764",
     "job:workday:leidos:data-center-design-intern_r-00193261",
     "job:workday:leidos:data-engineering---analytics-intern_r-00194635",
