@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-26T11:11:41.443197+00:00",
+  "last_checked_utc": "2026-10-26T12:02:04.850907+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13037,6 +13037,7 @@
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468",
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Summer---GRM--AI-Innovation---Business-Analyst-Intern--4-Months-_R-0000182977",
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Scientist-Intern--4-Months-_R-0000185186-3",
+    "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-3",
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Local-Market-Risk-Intern--4-Months-_R-0000185685-3",
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696-3",
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759-3",
@@ -29420,6 +29421,7 @@
     "job:workday:rbc:xmlname-2027-corporate-treasury--winter-risk-initiatives---infrastructure--intern--4-months-_r-0000188937",
     "job:workday:rbc:xmlname-2027-summer-internship---gam-investment-risk_r-0000189986",
     "job:workday:rbc:xmlname-2027-winter---ecco--data-scientist-intern--4-months-_r-0000185186-3",
+    "job:workday:rbc:xmlname-2027-winter---grm--ai---stress-testing-analytics-intern--4-months-_r-0000185790-3",
     "job:workday:rbc:xmlname-2027-winter---grm--ai-business-analyst-intern---innovation---ai-centre-of-excellence--4-months-_r-0000188000",
     "job:workday:rbc:xmlname-2027-winter---grm--ai-business-analyst-intern---innovation---ai-centre-of-excellence--4-months-_r-0000188000-1",
     "job:workday:rbc:xmlname-2027-winter---grm--ai-developer-intern---innovation---ai-center-of-excellence--4-months-_r-0000188001",
@@ -34030,6 +34032,7 @@
     "royal bank of canada 2027 winter ecco data scientist intern 4 months",
     "royal bank of canada 2027 winter grm ai business analyst intern innovation ai centre of excellence 4 months",
     "royal bank of canada 2027 winter grm ai developer intern innovation ai center of excellence 4 months",
+    "royal bank of canada 2027 winter grm ai stress testing analytics intern 4 months",
     "royal bank of canada 2027 winter grm local market risk intern 4 months",
     "royal bank of canada 2027 winter grm mccr policy ai applications intern 4 months",
     "royal bank of canada 2027 winter grm retail risk modeling analyst intern 8 months",
