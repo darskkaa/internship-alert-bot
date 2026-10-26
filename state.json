@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-26T19:02:02.499864+00:00",
+  "last_checked_utc": "2026-10-26T19:21:47.733909+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10463,6 +10463,7 @@
     "https://jobs.smartrecruiters.com/AbbVie/3743990016344757",
     "https://jobs.smartrecruiters.com/AbbVie/3743990016353924",
     "https://jobs.smartrecruiters.com/AbbVie/3743990016354708",
+    "https://jobs.smartrecruiters.com/AbbVie/3743990016413966",
     "https://jobs.smartrecruiters.com/Acumatica/744000146749696",
     "https://jobs.smartrecruiters.com/AeroVect/743999725988642",
     "https://jobs.smartrecruiters.com/AristaNetworks/744000111461585",
@@ -23930,6 +23931,7 @@
     "job:smartrecruiters:3743990016353924",
     "job:smartrecruiters:3743990016354708",
     "job:smartrecruiters:3743990016356816",
+    "job:smartrecruiters:3743990016413966",
     "job:smartrecruiters:743999669081604",
     "job:smartrecruiters:743999725988642",
     "job:smartrecruiters:743999733583355",
@@ -28438,6 +28440,7 @@
     "job:workday:marvell:system-chip-validation-intern_2604495",
     "job:workday:marvell:technical-sales-intern--bs---summer-2027_2603806",
     "job:workday:marvell:technical-writer-intern--bs-ba---summer-2027_2604149",
+    "job:workday:marvell:test-engineering-intern--bs---summer-2027_2604537",
     "job:workday:marvell:test-engineering-intern--ms---summer-2027_2604002",
     "job:workday:marvell:test-engineering-intern--ms---summer-2027_2604002-1",
     "job:workday:marvell:test-equipment-engineer-intern_2603826",
@@ -31707,6 +31710,7 @@
     "marvell test engineer intern",
     "marvell test engineering intern",
     "marvell test engineering intern bs",
+    "marvell test engineering intern bs summer 2027",
     "marvell test engineering intern ms summer 2027",
     "marvell test equipment engineer intern",
     "marvell test solutions engineering intern bs postsilicon hardware validation",
