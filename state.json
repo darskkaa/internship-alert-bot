@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-26T21:31:48.960849+00:00",
+  "last_checked_utc": "2026-10-26T21:51:43.133583+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6522,6 +6522,8 @@
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Infrastructure-Engineer-Intern_R0059506",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Infrastructure-Service-Delivery-Intern_R0059507",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Operations-Performance-Analytics-Intern_R0059516",
+    "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Product-Engineering-Developer-Associate-Intern_R0059493",
+    "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Product-Engineering-Developer-Intern_R0059492",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Security-Program-Management-Senior-Intern_R0059515",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Sr-Infrastructure-Intern_R0056033",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498",
@@ -19646,6 +19648,8 @@
     "hcsc early careers infrastructure service delivery intern",
     "hcsc early careers it qa intern",
     "hcsc early careers operations performance analytics intern",
+    "hcsc early careers product engineering developer associate intern",
+    "hcsc early careers product engineering developer intern",
     "hcsc early careers security data classification intern",
     "hcsc early careers security engineering senior intern",
     "hcsc early careers security program management senior intern",
@@ -27297,6 +27301,8 @@
     "job:workday:hcsc:early-careers---infrastructure-service-delivery-intern_r0059507",
     "job:workday:hcsc:early-careers---it-qa-intern_r0059504",
     "job:workday:hcsc:early-careers---operations-performance-analytics-intern_r0059516",
+    "job:workday:hcsc:early-careers---product-engineering-developer-associate-intern_r0059493",
+    "job:workday:hcsc:early-careers---product-engineering-developer-intern_r0059492",
     "job:workday:hcsc:early-careers---security-data-classification-intern_r0059513",
     "job:workday:hcsc:early-careers---security-engineering-senior-intern_r0059512",
     "job:workday:hcsc:early-careers---security-program-management-senior-intern_r0059515",
