@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-26T03:41:49.543322+00:00",
+  "last_checked_utc": "2026-10-26T04:31:49.245067+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6741,6 +6741,7 @@
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/STS-Pittsburgh---Generic/Intern---Signalling-Engineer_R0144122",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Saint-Laurent-Quebec-Canada/HVDC-Intern---Electrical-Engineer---Master-or-PhD_R0095605",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Intern--Hardware-Implementation-and-Validation--Energy-Storage-and-Power-Electronics-_R0144505",
+    "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Intern--Knowledge-Engineering---Generative-AI_R0148396",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Science-Intern--Financial-Innovation-Lab_R0084929",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Fall-2026-or-Winter-2027-_R0144279",
     "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359",
@@ -19661,6 +19662,7 @@
     "hitachi onboard software developer intern",
     "hitachi product hse compliance engineering intern summer 2027 16months",
     "hitachi research intern hardware implementation and validation energy storage and power electronics",
+    "hitachi research intern knowledge engineering generative ai",
     "hitachi research science intern financial innovation lab",
     "hitachi stagiaire charg\u00e9 de projet manufacturier profil m\u00e9canique intern project engineer industrial profile mechanical",
     "hitachi stagiaire g\u00e9nie \u00e9lectrique et contr\u00f4le electrical and controls engineering intern",
@@ -27110,6 +27112,7 @@
     "job:workday:hitachi:mechanical-engineering-internship-co-op_r0144979",
     "job:workday:hitachi:product-hse-compliance-engineering-intern--summer-2027--16months-_r0145360",
     "job:workday:hitachi:research-intern--hardware-implementation-and-validation--energy-storage-and-power-electronics-_r0144505",
+    "job:workday:hitachi:research-intern--knowledge-engineering---generative-ai_r0148396",
     "job:workday:hitachi:research-science-intern--financial-innovation-lab_r0084929",
     "job:workday:hitachi:software-engineering-co-op_r0148733",
     "job:workday:hitachi:stagiaire---charg-de-projet-manufacturier--profil---mcanique---intern---project-engineer---industrial--profile--mechanical-_r0148375",
