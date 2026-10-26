@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-26T19:41:44.992774+00:00",
+  "last_checked_utc": "2026-10-26T19:51:50.878848+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10470,6 +10470,7 @@
     "https://jobs.smartrecruiters.com/AbbVie/3743990016413966",
     "https://jobs.smartrecruiters.com/AbbVie/3743990016414086",
     "https://jobs.smartrecruiters.com/AbbVie/3743990016414386",
+    "https://jobs.smartrecruiters.com/AbbVie/3743990016414967",
     "https://jobs.smartrecruiters.com/Acumatica/744000146749696",
     "https://jobs.smartrecruiters.com/AeroVect/743999725988642",
     "https://jobs.smartrecruiters.com/AristaNetworks/744000111461585",
@@ -12575,6 +12576,7 @@
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Software-Quality-Assurance-Specialist-Co-op_R-31551",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142",
     "https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Alexander-ND/Instrumentation-and-Electrical-Technician-Intern_R8357",
+    "https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Calumet-OK/Instrumentation-and-Electrical-Technician-Intern_R8363-1",
     "https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Dallas-TX/Engineering-Intern---Dallas--TX_R8156",
     "https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Houston-TX/Engineering-Intern---Houston--TX-or-Mont-Belvieu--TX_R8157",
     "https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Lubbock-TX/Instrumentation-and-Electrical-Technician-Intern_R8440",
@@ -23944,6 +23946,7 @@
     "job:smartrecruiters:3743990016413966",
     "job:smartrecruiters:3743990016414086",
     "job:smartrecruiters:3743990016414386",
+    "job:smartrecruiters:3743990016414967",
     "job:smartrecruiters:743999669081604",
     "job:smartrecruiters:743999725988642",
     "job:smartrecruiters:743999733583355",
@@ -29215,6 +29218,7 @@
     "job:workday:oneok:instrumentation-and-electrical-technician-intern--tulsa-or-oklahoma-city--ok-_r8441",
     "job:workday:oneok:instrumentation-and-electrical-technician-intern_r8357",
     "job:workday:oneok:instrumentation-and-electrical-technician-intern_r8360-1",
+    "job:workday:oneok:instrumentation-and-electrical-technician-intern_r8363-1",
     "job:workday:oneok:instrumentation-and-electrical-technician-intern_r8426",
     "job:workday:oneok:instrumentation-and-electrical-technician-intern_r8439",
     "job:workday:oneok:instrumentation-and-electrical-technician-intern_r8440",
