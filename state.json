@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-26T18:41:42.289549+00:00",
+  "last_checked_utc": "2026-10-26T18:51:40.602823+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3181,6 +3181,7 @@
     "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Student---Intern---Network-Services_123912",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/Atlanta-GA-and-surrounding-areas/Exoskeleton-Design-and-Rehabilitation-Engineering-Intern_R8691",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488",
+    "https://cai.wd5.myworkdayjobs.com/computer_aid/job/Exoskeleton-Design-and-Rehabilitation-Engineering-Intern_R8818",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Cloud-Security-Analyst-Intern_R8668",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Azure-Cloud-Security---Monitoring-Intern_R8641",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Azure-Cloud-Security---Monitoring-Intern_R8642",
@@ -25474,6 +25475,7 @@
     "job:workday:cai:data-analyst-intern_r8551",
     "job:workday:cai:exoskeleton-design-and-rehabilitation-engineering-intern_r8682",
     "job:workday:cai:exoskeleton-design-and-rehabilitation-engineering-intern_r8691",
+    "job:workday:cai:exoskeleton-design-and-rehabilitation-engineering-intern_r8818",
     "job:workday:cai:internet-storm-center-intern_r8704",
     "job:workday:cai:programmer-intern_r8523",
     "job:workday:cai:proposal-and-technical-solutions-analyst-intern_r8421",
