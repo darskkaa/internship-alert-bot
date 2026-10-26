@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-26T02:11:52.513562+00:00",
+  "last_checked_utc": "2026-10-26T03:41:49.543322+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3776,6 +3776,7 @@
     "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
     "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Pontiac-Illinois/XMLNAME-2027-Part-Time-Intern---Engineering_R0000399906",
     "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Smart-Manufacturing-Engineering-Intern_R0000394667",
+    "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Software-Intern_R0000401086",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Channelview-Texas/XMLNAME-2027-Manufacturing-Engineer-Intern_R0000398054",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Channelview-Texas/XMLNAME-2027-Welding-Engineer-Intern_R0000379964",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Desoto-Texas/XMLNAME-2027-Intern---Global-Supply-Chain---Procurement-Commercial_R0000380040",
@@ -16962,6 +16963,7 @@
     "caterpillar inc 2027 summer corporate intern product support engineering",
     "caterpillar inc 2027 summer intern information technology",
     "caterpillar inc smart manufacturing engineering intern",
+    "caterpillar inc software intern",
     "cboe data pipeline engineer intern",
     "cboe infrastructure intern",
     "cboe linux engineer intern",
@@ -25351,6 +25353,7 @@
     "job:workday:cat:engineering-student-internship_r0000397241",
     "job:workday:cat:internship-service-parts-engineering--student-tuuana-mx-_r0000381008",
     "job:workday:cat:smart-manufacturing-engineering-intern_r0000394667",
+    "job:workday:cat:software-intern_r0000401086",
     "job:workday:cat:xmlname-2027--gas-turbine-product-engineering-internship_r0000382293",
     "job:workday:cat:xmlname-2027-corporate-intern---engineering_r0000384650",
     "job:workday:cat:xmlname-2027-corporate-parallel-co-op-program_r0000380509",
