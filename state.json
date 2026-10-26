@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-26T13:11:54.090910+00:00",
+  "last_checked_utc": "2026-10-26T13:21:58.074662+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6251,6 +6251,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Production-Test-Engineer-Intern--Summer-2027-_01872985",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01879477",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Manufacturing-Engineering-Intern--Summer-2027-_01884905",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Project-Engineer-Intern--Summer-2027---Onsite-_01879858",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01870236",
@@ -26708,6 +26709,7 @@
     "job:workday:globalhr:manufacturing-engineering-co-op--spring-summer-2027-_01880621",
     "job:workday:globalhr:manufacturing-engineering-intern--summer-2027-_01872988",
     "job:workday:globalhr:manufacturing-engineering-intern--summer-2027-_01881632",
+    "job:workday:globalhr:manufacturing-engineering-intern--summer-2027-_01884905",
     "job:workday:globalhr:manufacturing-engineering-ops-co-op--spring-summer-2027-_01876912",
     "job:workday:globalhr:manufacturing-engineering-ops-intern--summer-2027-_01881570",
     "job:workday:globalhr:material-process-engineering-intern--summer-2027--onsite-_01882373",
