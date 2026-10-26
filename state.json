@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-26T20:01:58.785419+00:00",
+  "last_checked_utc": "2026-10-26T20:11:58.457341+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2495,6 +2495,7 @@
     "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132",
     "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130",
     "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342",
+    "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345",
     "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
     "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
     "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366",
@@ -16644,6 +16645,7 @@
     "booz allen university 2027 summer games software developer intern atlanta ga",
     "booz allen university 2027 summer games software developer intern charleston sc",
     "booz allen university 2027 summer games software developer intern colorado springs co",
+    "booz allen university 2027 summer games software developer intern dayton oh",
     "booz allen university 2027 summer games software developer intern el segundo ca",
     "booz allen university 2027 summer games software developer intern ft walton beach fl",
     "booz allen university 2027 summer games software developer intern honolulu hi",
@@ -25086,6 +25088,7 @@
     "job:workday:bah:university---2027-summer-games-software-developer-intern---annapolis-junction--md_r0248403",
     "job:workday:bah:university---2027-summer-games-software-developer-intern---annapolis-junction--md_r0249873",
     "job:workday:bah:university---2027-summer-games-software-developer-intern---atlanta--ga_r0248138",
+    "job:workday:bah:university---2027-summer-games-software-developer-intern---dayton--oh_r0252345",
     "job:workday:bah:university---2027-summer-games-software-developer-intern---el-segundo--ca_r0248046",
     "job:workday:bah:university---2027-summer-games-software-developer-intern---ft-walton-beach--fl_r0248404",
     "job:workday:bah:university---2027-summer-games-software-developer-intern---honolulu--hi_r0248393",
