@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-26T21:12:00.485593+00:00",
+  "last_checked_utc": "2026-10-26T21:31:48.960849+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6114,6 +6114,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Engineering--Summer-2027-_01868898",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials---Processes-and-Mechanical-Disciplines-Engineering-Intern--Summer-2027---Onsite-_01871669",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/TMS-lube-systems-Intern--Summer-2027----Onsite_01879869",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Turbine-Aero-Thermal-Systems-Intern--Summer-2027---Onsite-_01882307",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Spring-Summer-Co-Op--Systems-Engineering---Onsite_01876249",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Summer-Intern--Systems-Engineering--Onsite-_01872108",
@@ -19070,6 +19071,7 @@
     "general motors 2027 summer intern aiml engineer autonomous vehicles simulation phd",
     "general motors 2027 summer intern aiml engineer mapping",
     "general motors 2027 summer intern aiml engineer mapping masters",
+    "general motors 2027 summer intern aiml engineer mapping phd",
     "general motors 2027 summer intern autonomous driving software engineer bachelors masters",
     "general motors 2027 summer intern data scaling embodied ai",
     "general motors 2027 summer intern data scaling embodied ai masters",
@@ -27152,6 +27154,7 @@
     "job:workday:globalhr:test-engineering-intern--summer-2027-_01872154",
     "job:workday:globalhr:test-engineering-intern--summer-2027-_01883803-1",
     "job:workday:globalhr:test-engineering-specialist-co-op--onsite-_01874746",
+    "job:workday:globalhr:tms-lube-systems-intern--summer-2027----onsite_01879869",
     "job:workday:globalhr:turbine-aero-thermal-systems-intern--summer-2027---onsite-_01882307",
     "job:workday:globalhr:vdsi---validation-planning-intern--summer-2027----onsite_01868407",
     "job:workday:globalhr:vision-systems---summer-intern--onsite-_01880505",
@@ -34650,6 +34653,7 @@
     "rtx test engineering intern",
     "rtx test engineering intern summer 2027",
     "rtx test engineering specialist coop onsite",
+    "rtx tmslube systems intern summer 2027 onsite",
     "rtx turbine aerothermal systems intern summer 2027 onsite",
     "rtx vdsi validation planning intern summer 2027 onsite",
     "rtx vision systems summer intern onsite",
