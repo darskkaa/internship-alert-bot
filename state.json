@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-26T08:02:01.176560+00:00",
+  "last_checked_utc": "2026-10-26T08:51:38.215994+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1450,6 +1450,7 @@
     "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611",
     "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614",
     "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Summer-2027_JR00045706",
+    "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Aspire-Internship---Marketing--Finance--Supply-Chain--Information-Technology_JR00033993-1",
     "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Chemist-Chemical-Engineer-Intern---Summer-2027_JR00047103-1",
     "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726",
     "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727",
@@ -14825,6 +14826,7 @@
     "abb ai engineering intern business systems",
     "abb ai robotics uiux intern fall 2026",
     "abb application engineering intern summer 2027",
+    "abb aspire internship marketing finance supply chain information technology",
     "abb chemistchemical engineer intern summer 2027",
     "abb data analytics intern",
     "abb electrical design engineer intern summer 2027",
@@ -24117,6 +24119,7 @@
     "job:workday:abb:ai-engineering--erp-intern--summer-2027_jr00048711",
     "job:workday:abb:ai-robotics-ui-ux-intern--fall-2026_jr00044847-1",
     "job:workday:abb:application-engineering-intern---summer-2027_jr00045706",
+    "job:workday:abb:aspire-internship---marketing--finance--supply-chain--information-technology_jr00033993-1",
     "job:workday:abb:chemist-chemical-engineer-intern---summer-2027_jr00047103-1",
     "job:workday:abb:data-analytics-intern_jr00048683",
     "job:workday:abb:electrical-design-engineer-intern--summer-2027_jr00045726",
