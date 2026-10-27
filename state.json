@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-27T22:40:26.011762+00:00",
+  "last_checked_utc": "2026-10-27T22:51:45.152755+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12443,6 +12443,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Engineering-Intern---Northridge-CA_R10254122-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Engineering-Intern---Northridge-CA_R10254123-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern---Survivability-Engineer_R10256592",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Industrial-Security_R10257954",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Vehicle-Engineering---CA-OK-ND_R10248142",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern---Manhatten-Beach-CA_R10255685",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern---Redondo-Beach-CA_R10257204",
@@ -29617,6 +29618,7 @@
     "job:workday:ngc:xmlname-2027-intern---systems-engineering_r10254930",
     "job:workday:ngc:xmlname-2027-intern-engineer---product-support_r10255457",
     "job:workday:ngc:xmlname-2027-intern-engineer---product-support_r10255683-1",
+    "job:workday:ngc:xmlname-2027-intern-industrial-security_r10257954",
     "job:workday:ngc:xmlname-2027-intern-optical-engineer---redondo-beach-ca_r10254063",
     "job:workday:ngc:xmlname-2027-intern-software-engineer_r10242395",
     "job:workday:ngc:xmlname-2027-intern-software-engineer_r10243573",
@@ -33481,6 +33483,7 @@
     "northrop grumman 2027 intern airworthiness engineer",
     "northrop grumman 2027 intern engineer product support",
     "northrop grumman 2027 intern guidance navigation and control engineer",
+    "northrop grumman 2027 intern industrial security",
     "northrop grumman 2027 intern optical engineer redondo beach ca",
     "northrop grumman 2027 intern software engineer",
     "northrop grumman 2027 intern survivability engineer",
