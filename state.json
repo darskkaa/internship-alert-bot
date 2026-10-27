@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-27T18:01:55.667359+00:00",
+  "last_checked_utc": "2026-10-27T18:11:56.254945+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12031,6 +12031,7 @@
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550",
+    "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Technical-Program-Manager--Program-Management-Office--PMO-_JR115692",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR115104",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR115106",
@@ -29116,6 +29117,7 @@
     "job:workday:micron:intern---ssd-firmware_jr115210",
     "job:workday:micron:intern---ssd-hardware-engineering_jr114232",
     "job:workday:micron:intern---technical-customer-management--ai_jr109454",
+    "job:workday:micron:intern---technical-program-manager--program-management-office--pmo-_jr115692",
     "job:workday:micron:intern---yield-enhancement--data-analysis_jr109076",
     "job:workday:micron:intern---yield-enhancement--engineer_jr114471",
     "job:workday:micron:intern--product-test-development-engineer_jr115104",
@@ -32613,6 +32615,7 @@
     "micron technology intern ssd firmware cicd",
     "micron technology intern ssd hardware engineering",
     "micron technology intern technical customer management ai",
+    "micron technology intern technical program manager program management office pmo",
     "micron technology intern yield enhancement engineer",
     "micron technology marketing analytics intern global communications marketing",
     "micron technology product test engineer intern dram",
