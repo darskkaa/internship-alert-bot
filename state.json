@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-27T13:02:08.216826+00:00",
+  "last_checked_utc": "2026-10-27T13:11:41.278736+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3039,6 +3039,7 @@
     "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ115370",
     "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ115372",
     "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Washington---Blaine/Summer-Intern---Chemical-Process-Engineer---Sophomore---Blaine--WA_RQ115374-1",
+    "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/CHE---Lausanne/Internship---Digital-Twin-of-a-Contrast-Media-Injector-for-Virtual-Verification-and-Reliability-Engineering_JR100448",
     "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/ITA---Milano---Via-Egidio-Folli/Data-Analyst-Intern_JR100349",
     "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316",
     "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317",
@@ -16967,6 +16968,7 @@
     "bp trading origination analytics and operations intern supply trading shipping trading origination analytics operations",
     "bracco data analyst intern",
     "bracco firmware engineering coop",
+    "bracco internship digital twin of a contrast media injector for virtual verification and reliability engineering",
     "bracco mechanical engineering coop rd sustaining",
     "bracco product security engineering intern",
     "bracco quality analyst intern software",
@@ -25623,6 +25625,7 @@
     "job:workday:bpinternational:summer-internship---upstream-r-d---imaging-geophysics-phd---uk_rq117171",
     "job:workday:bracco:data-analyst-intern_jr100349",
     "job:workday:bracco:firmware-engineering-co-op_jr100319",
+    "job:workday:bracco:internship---digital-twin-of-a-contrast-media-injector-for-virtual-verification-and-reliability-engineering_jr100448",
     "job:workday:bracco:mechanical-engineering-co-op--r-d-sustaining-_jr100316",
     "job:workday:bracco:mechanical-engineering-co-op--r-d-sustaining-_jr100317",
     "job:workday:bracco:mechanical-engineering-co-op_jr100307",
