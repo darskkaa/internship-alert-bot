@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-27T08:15:40.949047+00:00",
+  "last_checked_utc": "2026-10-27T08:41:32.513586+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13416,6 +13416,7 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Penzberg/Internship---Data-and-Digital-Enablement--PRLABD-_202610-126742-3",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Enterprise-Master-Data-Management---Intern_202609-124194",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Technology-Support-Intern---Mandarin-Speaker--Open-to-All-Majors-_202610-125573",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship---Software-and-Data-Engineer--for-12-months-in-Rotkreuz-_202610-127501",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/Workforce-Optimization---Strategies--Data-Science--Intern_202610-125516",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student-CS-CoE-DDC-Data-Capability_202610-124915",
@@ -30056,6 +30057,7 @@
     "job:workday:roche:intern_202609-124125",
     "job:workday:roche:internship---agentic-ai-for-environmental-regulatory-compliance_202609-124819",
     "job:workday:roche:internship---data-and-digital-enablement--prlabd-_202610-126742-3",
+    "job:workday:roche:internship---software-and-data-engineer--for-12-months-in-rotkreuz-_202610-127501",
     "job:workday:roche:internship-in-ai-for-laboratory-automation--pharma-research---early-development-_202610-125772",
     "job:workday:roche:portfolio-strategy-and-insights-interns--basel--up-to-12-months-_202606-116569-1",
     "job:workday:roche:roche-next-generation-sequencing--ngs----agentic-ai-engineering-support-internship_202610-126801-1",
@@ -34509,6 +34511,7 @@
     "roche internship agentic ai for environmental regulatory compliance",
     "roche internship data and digital enablement prlabd",
     "roche internship in ai for laboratory automation pharma research early development",
+    "roche internship software and data engineer for 12 months in rotkreuz",
     "roche portfolio strategy and insights interns basel up to 12 months",
     "roche roche nextgeneration sequencing ngs agentic ai engineering support internship",
     "roche student internship in device development and verification engineering basel 912 months",
