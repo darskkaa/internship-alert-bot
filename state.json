@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-27T22:11:40.199342+00:00",
+  "last_checked_utc": "2026-10-27T22:21:34.247585+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8745,6 +8745,7 @@
     "https://job-boards.greenhouse.io/olsson/jobs/5462183008",
     "https://job-boards.greenhouse.io/olsson/jobs/5465492008",
     "https://job-boards.greenhouse.io/olsson/jobs/5465495008",
+    "https://job-boards.greenhouse.io/olsson/jobs/5465496008",
     "https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002",
     "https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002?utm_source=Simplify&ref=Simplify",
     "https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002",
@@ -22364,6 +22365,7 @@
     "job:greenhouse:5462562008",
     "job:greenhouse:5465492008",
     "job:greenhouse:5465495008",
+    "job:greenhouse:5465496008",
     "job:greenhouse:5469298003",
     "job:greenhouse:5469305003",
     "job:greenhouse:5513756002",
