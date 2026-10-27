@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-27T23:31:47.629900+00:00",
+  "last_checked_utc": "2026-10-27T23:41:54.232177+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12532,6 +12532,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Materials-Chemical-Engineer-Intern---Baltimore-MD_R10256386",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/XMLNAME-2027-Engineering-Intern---Hollywood--MD---Evergreen-_R10253725",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Aerospace-Engineering-Internship---Linthicum-MD_R10256786",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Electrical-Design-and-Technology-Internship---Linthicum-MD_R10254010",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Vehicle-Engineer-Intern_R10253965",
@@ -29633,6 +29634,7 @@
     "job:workday:nexstar:unpaid-programming-intern_req-43464",
     "job:workday:ngc:mgr-electronics-engineering-1---ground-systems-intern-development-manager_r10256522",
     "job:workday:ngc:xmlname-2027---mechanical-engineer-intern--mcclellan-ca_r10255111",
+    "job:workday:ngc:xmlname-2027-aerospace-engineering-internship---linthicum-md_r10256786",
     "job:workday:ngc:xmlname-2027-civil-engineering-intern---roy-ut_r10257899",
     "job:workday:ngc:xmlname-2027-college-technical-intern---mclean-va_r10253146",
     "job:workday:ngc:xmlname-2027-computer-engineer-intern---manhattan-beach-ca_r10255835",
@@ -33503,6 +33505,7 @@
     "northern trust technology intern infrastructure and it management",
     "northern trust technology intern software engineering",
     "northrop grumman 2026 parttime cyber security engineering intern aurora co",
+    "northrop grumman 2027 aerospace engineering internship linthicum md",
     "northrop grumman 2027 civil engineering intern roy ut",
     "northrop grumman 2027 college technical intern mclean va",
     "northrop grumman 2027 computer engineer intern manhattan beach ca",
