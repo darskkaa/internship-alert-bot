@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-27T20:41:44.216880+00:00",
+  "last_checked_utc": "2026-10-27T20:51:42.537928+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3814,6 +3814,7 @@
     "https://careersus-shure.icims.com/jobs/5028/job?mobile=true&needsRedirect=false",
     "https://careersus-shure.icims.com/jobs/5029/job?mobile=true&needsRedirect=false",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Engineering-Intern---Summer_30220419-2",
+    "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG16-AL-Georgia-ATL-1975-Vaughn-Road-Kennesaw-GA-30144-USA/Building-Automation-Field-Engineer-Intern---Summer_30220863",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Design-Engineering-Intern---Summer_30220221-2",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30219720-2",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30220218",
@@ -26052,6 +26053,7 @@
     "job:workday:capitalone:mba-product-intern---summer-2027_r244815-1",
     "job:workday:cardinalhealth:data---analytics-internship--summer-2027-_20185913",
     "job:workday:carrier:building-automation-field-engineer-intern---summer_30218662-1",
+    "job:workday:carrier:building-automation-field-engineer-intern---summer_30220863",
     "job:workday:carrier:chemical-materials-engineering-intern---summer_30220341",
     "job:workday:carrier:data-analytics-intern---summer_30220000",
     "job:workday:carrier:design-engineering-intern---summer_30220221-2",
