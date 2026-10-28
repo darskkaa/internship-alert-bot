@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T18:32:02.079920+00:00",
+  "last_checked_utc": "2026-10-28T18:42:04.193198+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3887,6 +3887,7 @@
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Supplier-Technical-Engineer-_R0000383125",
+    "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Tijuana-Baja-California/Design-Engineer--INTERN-_R0000402100",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Tijuana-Baja-California/Engineering-Student-Internship--Tijuana--MX-_R0000397243",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Tijuana-Baja-California/Engineering-Student-Internship_R0000397241",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Tijuana-Baja-California/Internship-Service-Parts-Engineering--STUDENT-TUUANA-MX-_R0000381008",
@@ -26415,6 +26416,7 @@
     "job:workday:carrier:systems-engineering-intern---summer_30220432",
     "job:workday:carrier:systems-engineering-intern---summer_30220556-1",
     "job:workday:carrier:test-engineering-intern---summer_30220233",
+    "job:workday:cat:design-engineer--intern-_r0000402100",
     "job:workday:cat:engineering-student-internship--tijuana--mx-_r0000397243",
     "job:workday:cat:engineering-student-internship_r0000397241",
     "job:workday:cat:internship-service-parts-engineering--student-tuuana-mx-_r0000381008",
@@ -36322,6 +36324,7 @@
     "solar turbines 2027 manufacturing engineer intern",
     "solar turbines 2027 material process engineering summer intern",
     "solar turbines 2027 welding engineer intern",
+    "solar turbines design engineer intern",
     "solar turbines engineering student internship tijuana mx",
     "solar turbines internship service parts engineering student tijuana mx",
     "solidigm 2027 graduate hardware validation and product engineering internships us",
