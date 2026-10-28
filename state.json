@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T11:02:07.326105+00:00",
+  "last_checked_utc": "2026-10-28T11:52:04.443853+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5371,6 +5371,7 @@
     "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Nutek-Project-Engineer-Intern_R12312",
     "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Process-Engineering-Intern_R12296",
     "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Quality-Engineering-Intern_R10170",
+    "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Quality-Engineering-Intern_R12308",
     "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN---Safety-Engineer_R9826",
     "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813",
     "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Controls-Engineer_R9816",
@@ -6405,6 +6406,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01878330",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Intern--Summer-2027-_01875743",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01881158",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Analog-and-Power-Design-Electrical-Engineering-Intern--Summer-2027-_01871778",
@@ -26975,6 +26977,7 @@
     "job:workday:firstquality:process-engineering-intern_r12296",
     "job:workday:firstquality:project-engineering-internship_r12105",
     "job:workday:firstquality:quality-engineering-intern_r10170",
+    "job:workday:firstquality:quality-engineering-intern_r12308",
     "job:workday:firstquality:xmlname-2027-summer-internships--science-and-engineering-_r11907",
     "job:workday:fis:intern--data-analytics-and-ai--fis-university-program_jr0309690",
     "job:workday:fis:intern--product-management--fis-university-program_jr0309691",
@@ -27737,6 +27740,7 @@
     "job:workday:globalhr:soa-platform-systems-futures--spring-summer-co-op_01880874",
     "job:workday:globalhr:software-engineer-co-op---onsite_01871478",
     "job:workday:globalhr:software-engineer-co-op--january-2027-_01878330",
+    "job:workday:globalhr:software-engineer-co-op--january-2027-_01885371",
     "job:workday:globalhr:software-engineer-co-op--remote-_01883545",
     "job:workday:globalhr:software-engineer-co-op--summer-fall-2027----onsite_01871347",
     "job:workday:globalhr:software-engineer-intern---summer-2027-_01870613",
