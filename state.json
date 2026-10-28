@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T17:41:52.675290+00:00",
+  "last_checked_utc": "2026-10-28T17:52:10.335623+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -23380,6 +23380,7 @@
     "job:greenhouse:8644024002",
     "job:greenhouse:8651564002",
     "job:greenhouse:8657286002",
+    "job:greenhouse:8657500002",
     "job:greenhouse:8680036002",
     "job:greenhouse:8681156002",
     "job:greenhouse:8682750002",
