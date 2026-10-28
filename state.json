@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T21:01:59.238305+00:00",
+  "last_checked_utc": "2026-10-28T21:12:09.844923+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1604,6 +1604,7 @@
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Graduate-Intern_R016531",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Undergraduate-Intern_R016533",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Propulsion-Engineering-Graduate-Intern_R016729",
+    "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Radio-Frequency--RF--Spectrum-Engineering-Undergrad-Intern_R017050",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-RF-Engineering-Grad-Intern_R016848",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-RF-Engineering-Undergrad-Intern_R016849",
@@ -25290,6 +25291,7 @@
     "job:workday:aero:xmlname-2027-power-systems-engineering-graduate-intern_r016527",
     "job:workday:aero:xmlname-2027-power-systems-engineering-undergraduate-intern_r016530",
     "job:workday:aero:xmlname-2027-propulsion-engineering-graduate-intern_r016729",
+    "job:workday:aero:xmlname-2027-radio-frequency--rf--spectrum-engineering-undergrad-intern_r017050",
     "job:workday:aero:xmlname-2027-reliability-and-statistics-undergraduate-intern_r016594",
     "job:workday:aero:xmlname-2027-sensor-modeling-and-simulation-grad-intern_r016875",
     "job:workday:aero:xmlname-2027-sensor-modeling-and-simulation-undergrad-intern_r016876",
@@ -37007,6 +37009,7 @@
     "the aerospace corporation 2027 power systems engineering graduate intern",
     "the aerospace corporation 2027 power systems engineering undergraduate intern",
     "the aerospace corporation 2027 propulsion engineering graduate intern",
+    "the aerospace corporation 2027 radio frequency rf spectrum engineering undergrad intern",
     "the aerospace corporation 2027 sensor modeling and simulation grad intern",
     "the aerospace corporation 2027 sensor modeling and simulation undergrad intern",
     "the aerospace corporation 2027 signal processing and rf engineering grad intern",
