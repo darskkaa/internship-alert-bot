@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T18:42:04.193198+00:00",
+  "last_checked_utc": "2026-10-28T18:52:03.794307+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12223,6 +12223,7 @@
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR115104",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR115106",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/XMLNAME-2027-Summer-Intern--Advanced-Spectroscopy-and-Nanoscale-Materials-Characterization_JR109071",
+    "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Embedded-Software-Engineering-Intern_JR115959",
     "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189",
     "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Next-Gen-HBM-Platform-Arch_JR112993",
     "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461",
@@ -29579,6 +29580,7 @@
     "job:workday:microchiphr:intern---engineering--device-software-and-test-_r3573-26",
     "job:workday:microchiphr:intern-engineering--software-_r4091-26",
     "job:workday:micron:dram-prodcut-test-engineer-intern_jr109996",
+    "job:workday:micron:embedded-software-engineering-intern_jr115959",
     "job:workday:micron:equipment-engineer-intern---shpe_jr114730",
     "job:workday:micron:equipment-engineer-intern---shpe_jr114743",
     "job:workday:micron:equipment-engineer-intern---shpe_jr114744",
@@ -33152,6 +33154,7 @@
     "micron technology ai systems and infrastructure engineering intern",
     "micron technology dram design engineer intern",
     "micron technology dry etch equipment development engineering intern",
+    "micron technology embedded software engineering intern",
     "micron technology equipment engineer intern shpe",
     "micron technology intern ai engineer platform",
     "micron technology intern ai product management mobile memory lpdram",
