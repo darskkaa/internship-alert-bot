@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T12:42:10.727891+00:00",
+  "last_checked_utc": "2026-10-28T13:22:21.922216+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6291,6 +6291,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876474",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Manufacturing-Execution-System--MES--Co-Op--Spring-Summer-2027-_01885556",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01873099",
@@ -27674,6 +27675,7 @@
     "job:workday:globalhr:manufacturing-engineering-ops-co-op--spring-summer-2027-_01876912",
     "job:workday:globalhr:manufacturing-engineering-ops-co-op--spring-summer-2027-_01884010",
     "job:workday:globalhr:manufacturing-engineering-ops-intern--summer-2027-_01881570",
+    "job:workday:globalhr:manufacturing-execution-system--mes--co-op--spring-summer-2027-_01885556",
     "job:workday:globalhr:material-process-engineering-intern--summer-2027--onsite-_01882373",
     "job:workday:globalhr:materials---processes-and-mechanical-disciplines-engineering-intern--summer-2027---onsite-_01871669",
     "job:workday:globalhr:materials-engineering-lab-co-op--spring-summer-2027-_01870991",
@@ -35470,6 +35472,7 @@
     "rtx manufacturing engineering intern summer 2027",
     "rtx manufacturing engineering ops coop springsummer 2027",
     "rtx manufacturing engineering ops intern summer 2027",
+    "rtx manufacturing execution system mes coop springsummer 2027",
     "rtx materialprocess engineering intern summer 2027onsite",
     "rtx materials engineering lab coop springsummer 2027",
     "rtx materials processes and mechanical disciplines engineering intern summer 2027 onsite",
