@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T17:22:08.150820+00:00",
+  "last_checked_utc": "2026-10-28T17:32:10.391123+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4963,6 +4963,7 @@
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98370",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98372",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98453",
+    "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98455",
     "https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Summer-2027-Intern_R0062297",
     "https://energynorthwest.wd1.myworkdayjobs.com/External/job/Richland-WA/Civil---Mechanical-Engineering-Intern---Year-Round_REQ26_352",
     "https://energynorthwest.wd1.myworkdayjobs.com/External/job/Richland-WA/Engineering-Intern---Year-Round_REQ26_351",
@@ -13526,6 +13527,7 @@
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Summer---GRM--AI-Innovation---Business-Analyst-Intern--4-Months-_R-0000182977",
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Scientist-Intern--4-Months-_R-0000185186-3",
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-3",
+    "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Business-Analyst-Intern---Innovation---AI-Centre-of-Excellence--4-Months-_R-0000188000-3",
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Business-Analyst-Intern--4-months-_R-0000191260",
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-3",
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Local-Market-Risk-Intern--4-Months-_R-0000185685-3",
@@ -24214,6 +24216,7 @@
     "job:oracle:emit.fa.ca3.oraclecloud.com:98370",
     "job:oracle:emit.fa.ca3.oraclecloud.com:98372",
     "job:oracle:emit.fa.ca3.oraclecloud.com:98453",
+    "job:oracle:emit.fa.ca3.oraclecloud.com:98455",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81238",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81239",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81240",
@@ -30713,6 +30716,7 @@
     "job:workday:rbc:xmlname-2027-winter---grm--ai---stress-testing-analytics-intern--4-months-_r-0000185790-3",
     "job:workday:rbc:xmlname-2027-winter---grm--ai-business-analyst-intern---innovation---ai-centre-of-excellence--4-months-_r-0000188000",
     "job:workday:rbc:xmlname-2027-winter---grm--ai-business-analyst-intern---innovation---ai-centre-of-excellence--4-months-_r-0000188000-1",
+    "job:workday:rbc:xmlname-2027-winter---grm--ai-business-analyst-intern---innovation---ai-centre-of-excellence--4-months-_r-0000188000-3",
     "job:workday:rbc:xmlname-2027-winter---grm--ai-business-analyst-intern--4-months-_r-0000191260",
     "job:workday:rbc:xmlname-2027-winter---grm--ai-developer-intern---innovation---ai-center-of-excellence--4-months-_r-0000188001",
     "job:workday:rbc:xmlname-2027-winter---grm--ai-developer-intern---innovation---ai-center-of-excellence--4-months-_r-0000188001-1",
