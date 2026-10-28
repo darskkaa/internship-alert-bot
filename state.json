@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T11:52:04.443853+00:00",
+  "last_checked_utc": "2026-10-28T12:12:01.784929+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1773,6 +1773,7 @@
     "https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Mechanical-Engineering-Intern--Access-Technologies---Farmington--Connecticut_JR37466-1",
     "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Mechanical-Engineer---Golden--CO_JR37455-2",
     "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Product-Marketing---Mobile-Credentials-and-Partner-Solutions_JR37542-1",
+    "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1",
     "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1",
     "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1",
     "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---User-Experience--UX-_JR37673-1",
@@ -14739,6 +14740,7 @@
     "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Paddington-United-Kingdom/International-Insights--Analytics-and-Commercial-Operations---Summer-Intern--10-weeks-_REQ-30453-1",
     "https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Paddington-United-Kingdom/International-Insights--Analytics-and-Commercial-Operations---Summer-Intern--10-weeks-_REQ-30453",
     "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068",
+    "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071",
     "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020",
     "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/US-NH-RAYMOND-06030-REGIONAL/XMLNAME-2026-Intern-Conversion--2027-Return-Intern-Automation-Engineer---Corporate-Intern_R-2649749",
     "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Change-Building-AR-Bentonville-Home-Office/Summer-2027-Intern--Automation-Engineer_R-2630033",
@@ -25259,6 +25261,7 @@
     "job:workday:allegion:summer-intern---project-engineer_jr37405-1",
     "job:workday:allegion:summer-intern---robotics-technician_jr37367-1",
     "job:workday:allegion:summer-intern---software-engineer_jr37747-2",
+    "job:workday:allegion:summer-intern---software-engineering---quality-assurance_jr37472-1",
     "job:workday:allegion:summer-intern---software-engineering_jr37795-1",
     "job:workday:allegion:summer-intern---software-operations-engineer_jr37722-1",
     "job:workday:allegion:summer-intern---summer-intern---software-engineering---quality-assurance_jr37856-1",
@@ -31569,6 +31572,7 @@
     "job:workday:vrtx:xmlname-2027-mba-summer-associate-intern--medical-information--technology-and-innovation--miti---business-impact-analytics_req-30482-1",
     "job:workday:vrtx:xmlname-2027-mba-summer-associate-intern--medical-information--technology-and-innovation--miti-_req-30481-1",
     "job:workday:vsp:internship--software-engineer_r-10068",
+    "job:workday:vsp:internship--software-engineer_r-10071",
     "job:workday:vsp:internship--technology-innovation_r-10020",
     "job:workday:walmart:summer-2027-corporate-intern--global-it-audit_r-2630160",
     "job:workday:walmart:summer-2027-intern---data-science-iii_r-2630030",
