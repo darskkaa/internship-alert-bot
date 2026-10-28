@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T20:12:10.167892+00:00",
+  "last_checked_utc": "2026-10-28T20:21:59.911146+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4566,6 +4566,7 @@
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016391",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016392",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017585",
+    "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017625",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017947",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103",
@@ -13400,6 +13401,7 @@
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/May-2027---Cloud--Data-and-AI---Summer-Intern---Toronto_745713WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/September-2027---Data-Enablement--CPA----8-month-Co-op---Toronto_754065WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Toronto_754067WD",
+    "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Treviso/Advisory-Intern-Consultant---Technology-EPM---EST--Treviso--Rubano--Verona-_610467WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/May-2027---Cloud--Data-and-AI---Summer-Intern---Vancouver_752583WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/September-2027---Data-Enablement--CPA----8-month-Co-op---Vancouver_754069WD",
     "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/CA-Silicon-Valley/Silicon-Valley---Tax-JD---Intern---Summer-2027_6122618EIB-1",
@@ -30671,6 +30673,7 @@
     "job:workday:psu:soil-fertility---nutrient-management-lab---part-time-undergraduate-research-internship_req_0000083683-1",
     "job:workday:psu:uncrewed-systems-intern_req_0000076298-1",
     "job:workday:ptc:software-engineer-intern--summer-2027-_jr112943",
+    "job:workday:pwc:advisory-intern-consultant---technology-epm---est--treviso--rubano--verona-_610467wd",
     "job:workday:pwc:audit---japanese-business-network---intern---summer-2027_757086wd",
     "job:workday:pwc:audit---korean-business-network---intern---summer-2027_757088wd",
     "job:workday:pwc:digital-assurance---transparency--dat----data---intern---summer-2027_756926wd",
@@ -34912,6 +34915,7 @@
     "pricewaterhousecoopers pwc tax japanese business network intern summer 2027",
     "pricewaterhousecoopers pwc technology consulting senior associate intern summer 2027",
     "pricewaterhousecoopers pwc technology epm junior consultant internship rubano padova",
+    "pricewaterhousecoopers pwc technology epm junior consultant internship triveneto treviso rubano verona",
     "pricewaterhousecoopers pwc transfer pricing japanese business network jbn intern summer 2027",
     "primer software engineer intern full stack",
     "primer springsummer 2027 engineering intern",
