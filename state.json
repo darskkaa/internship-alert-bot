@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T19:02:19.011937+00:00",
+  "last_checked_utc": "2026-10-28T19:11:51.426202+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13358,6 +13358,7 @@
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000082444-1",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000083104-1",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000083720-1",
+    "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000083854-1",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000076869",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Soil-Fertility---Nutrient-Management-Lab---Part-Time-Undergraduate-Research-Internship_REQ_0000083683-1",
@@ -21333,6 +21334,7 @@
     "job:ashby:43855947-3a85-4d1c-8b8e-e0c0ddcaf183",
     "job:ashby:43b52d8c-8296-4253-af0f-bcae1bec7d62",
     "job:ashby:44d8b5f7-bbb9-434b-8374-7ea1a9426910",
+    "job:ashby:44e3cbdc-949c-426e-a80a-b41c73ad6a99",
     "job:ashby:45058422-8f60-426d-af8a-a5567d68deb7",
     "job:ashby:450c6d61-15d8-40b8-8f72-bfbe49935831",
     "job:ashby:46097ca0-4093-4a56-9c44-8ec41617bbc0",
@@ -30610,6 +30612,7 @@
     "job:workday:psu:r-d-engineer-intern_req_0000083331",
     "job:workday:psu:r-d-engineer-intern_req_0000083720-1",
     "job:workday:psu:r-d-engineer-intern_req_0000083722",
+    "job:workday:psu:r-d-engineer-intern_req_0000083854-1",
     "job:workday:psu:research-and-development-engineering-intern_req_0000076214-1",
     "job:workday:psu:research-engineering-interns_req_0000076869",
     "job:workday:psu:soil-fertility---nutrient-management-lab---part-time-undergraduate-research-internship_req_0000083683-1",
