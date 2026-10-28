@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T23:42:08.637845+00:00",
+  "last_checked_utc": "2026-10-28T23:52:05.293660+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12601,6 +12601,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Mechanical-Engineering-Intern---Chandler-AZ_R10254534",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Electrical-Engineer-Intern--Gilbert-AZ_R10258107",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136",
@@ -30146,6 +30147,7 @@
     "job:workday:ngc:xmlname-2027-software-engineering-intern-dulles-va_r10253731",
     "job:workday:ngc:xmlname-2027-stress-analysis-and-tooling-design-engineer-intern---commerce-ca_r10257184",
     "job:workday:ngc:xmlname-2027-structural---electromechanical-engineer-intern---redondo-beach-ca_r10257211",
+    "job:workday:ngc:xmlname-2027-structural-engineer-intern---gilbert-az_r10258208",
     "job:workday:ngc:xmlname-2027-structural-engineer-intern---san-diego-ca_r10256968-1",
     "job:workday:ngc:xmlname-2027-structural-engineering-intern-dulles-va_r10253912",
     "job:workday:ngc:xmlname-2027-systems-engineer-intern---cape-canaveral-fl_r10251849",
@@ -34075,6 +34077,7 @@
     "northrop grumman 2027 software test engineering intern huntsville al",
     "northrop grumman 2027 stress analysis and tooling design engineer intern commerce ca",
     "northrop grumman 2027 structural electromechanical engineer intern redondo beach ca",
+    "northrop grumman 2027 structural engineer intern gilbert az",
     "northrop grumman 2027 structural engineer intern san diego ca",
     "northrop grumman 2027 structural engineering intern dulles va",
     "northrop grumman 2027 sw cybersecurity intern annapolis md",
