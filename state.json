@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T19:52:05.039155+00:00",
+  "last_checked_utc": "2026-10-28T20:02:21.820753+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1930,6 +1930,7 @@
     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Business-Operations-Technical-Porject-Manger-Intern--Bachelor-s--Santa-Clara--CA-_R2628088",
     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652",
+    "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691",
     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Global-Product-Support-Intern--Master-s--Santa-Clara--CA-_R2628947",
     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineer-Intern--Master-s--Santa-Clara--CA-_R2630072",
@@ -16444,6 +16445,7 @@
     "applied materials software engineering intern masters",
     "applied materials software engineering summer intern masters santa clara ca",
     "applied materials summer 2027 business operations technical project manger intern bachelors santa clara ca",
+    "applied materials summer 2027 data science intern bachelorsmasters santa clara ca",
     "applied materials summer 2027 data scientist intern masters santa clara ca",
     "applied materials summer 2027 datafinance analyst intern bachelors santa clara ca",
     "applied materials summer 2027 global technical learning center data analyst intern bachelorsmasters albany ny",
@@ -25559,6 +25561,7 @@
     "job:workday:amat:software-engineering-summer-intern--masters---santa-clara--ca-_r2630705",
     "job:workday:amat:summer-2027-business-operations-technical-porject-manger-intern--bachelor-s--santa-clara--ca-_r2628088",
     "job:workday:amat:summer-2027-data-finance-analyst-intern--bachelor-s--santa-clara--ca-_r2626652",
+    "job:workday:amat:summer-2027-data-science-intern--bachelor-s-master-s--santa-clara--ca-_r2627525",
     "job:workday:amat:summer-2027-data-scientist-intern---master-s--santa-clara--ca-_r2627691",
     "job:workday:amat:summer-2027-global-product-support-intern--master-s--santa-clara--ca-_r2628947",
     "job:workday:amat:summer-2027-global-technical-learning-center-data-analyst-intern--bachelor-s-master-s--albany--ny-_r2627551",
@@ -36432,6 +36435,7 @@
     "soti associate product manager intern soti connect may 2027 12 months",
     "soti associate product manager intern soti xsight may 2027 12 months",
     "soti cloud administrator intern",
+    "soti cloud administrator intern january 2027 12 months",
     "soti data scientist intern jan 2027 12 months",
     "soti performance test engineer intern january 2027 12 months",
     "soti software developer intern android",
