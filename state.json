@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T21:42:00.940154+00:00",
+  "last_checked_utc": "2026-10-28T21:52:06.988329+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3260,6 +3260,7 @@
     "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873",
     "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
     "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904",
+    "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Gnie-Industriel-Manufacturier-et-Amlioration-Continue---ndustrial-Manufacturing-Engineering-and-Continuous-Improvement-Intern_123650",
     "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Student---Intern---Network-Services_123912",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/Atlanta-GA-and-surrounding-areas/Exoskeleton-Design-and-Rehabilitation-Engineering-Intern_R8691",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488",
@@ -17636,6 +17637,7 @@
     "cadence solutions software engineer intern",
     "cae cfin275 software engineering intern ai automation and business intelligence",
     "cae software developer coop",
+    "cae stagiaire g\u00e9nie industrielmanufacturier et am\u00e9lioration continue industrialmanufacturing engineering and continuous improvement intern",
     "cae student intern network services",
     "cae weapons simulation software coop",
     "cai azure cloud security monitoring intern",
@@ -26445,6 +26447,7 @@
     "job:workday:cadence:software-intern_r53282-1",
     "job:workday:cae:c-fin-275-software-engineering-intern--ai--automation-and-business-intelligence_123477-1",
     "job:workday:cae:software-developer-coop_123904",
+    "job:workday:cae:stagiaire---gnie-industriel-manufacturier-et-amlioration-continue---ndustrial-manufacturing-engineering-and-continuous-improvement-intern_123650",
     "job:workday:cae:student---intern---network-services_123912",
     "job:workday:cae:weapons-simulation-software-co-op_123873",
     "job:workday:cai:azure-cloud-security---monitoring-intern_r8641",
