@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T15:12:07.927227+00:00",
+  "last_checked_utc": "2026-10-28T15:14:03.515813+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11358,6 +11358,7 @@
     "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Naval-Architecture-and-Marine-Engineering-Intern_R-00194266",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Chicago-IL/Civil-Engineer-Intern_R-00191578",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Chicago-IL/Power-Delivery-Engineering-Intern_R-00194148",
+    "https://leidos.wd5.myworkdayjobs.com/External/job/Denver-CO/Energy---Infrastructure-Consulting-Summer-Intern_R-00195653-1",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00192042",
@@ -29044,6 +29045,7 @@
     "job:workday:leidos:electrical-hardware-design-engineering-intern_r-00194798",
     "job:workday:leidos:electronics-technician-co-op_r-00191451",
     "job:workday:leidos:embedded-design-engineering-intern---firmware_r-00193574",
+    "job:workday:leidos:energy---infrastructure-consulting-summer-intern_r-00195653-1",
     "job:workday:leidos:engineering-projects-intern_r-00194672",
     "job:workday:leidos:flight-test-and-integration-summer-intern_r-00193562-1",
     "job:workday:leidos:it-desktop-engineering-intern_r-00194524",
@@ -32349,6 +32351,7 @@
     "leidos electrical hardware design engineering intern",
     "leidos electronics technician coop",
     "leidos embedded design engineering intern firmware",
+    "leidos energy infrastructure consulting summer intern",
     "leidos engineering projects intern",
     "leidos flight test and integration summer intern",
     "leidos it desktop engineering intern",
