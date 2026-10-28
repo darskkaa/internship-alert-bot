@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T18:21:54.363065+00:00",
+  "last_checked_utc": "2026-10-28T18:32:02.079920+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4967,6 +4967,7 @@
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98372",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98453",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98455",
+    "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98461",
     "https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Summer-2027-Intern_R0062297",
     "https://energynorthwest.wd1.myworkdayjobs.com/External/job/Richland-WA/Civil---Mechanical-Engineering-Intern---Year-Round_REQ26_352",
     "https://energynorthwest.wd1.myworkdayjobs.com/External/job/Richland-WA/Engineering-Intern---Year-Round_REQ26_351",
@@ -24233,6 +24234,7 @@
     "job:oracle:emit.fa.ca3.oraclecloud.com:98372",
     "job:oracle:emit.fa.ca3.oraclecloud.com:98453",
     "job:oracle:emit.fa.ca3.oraclecloud.com:98455",
+    "job:oracle:emit.fa.ca3.oraclecloud.com:98461",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81238",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81239",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81240",
