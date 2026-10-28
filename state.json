@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T13:22:21.922216+00:00",
+  "last_checked_utc": "2026-10-28T13:32:11.933297+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6494,6 +6494,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/RF-Systems-Engineer-Intern--Onsite-_01880592",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Electrical-Engineer-Intern--Summer2027--Onsite-_01880018",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/Mechanical-Automation-Engineering-Intern--Summer-2027-_01881162",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/Mechanical-Engineer-Intern---Special-Tooling-and-Test-Fixtures--Summer-2027-_01884792",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01872097",
@@ -27686,6 +27687,7 @@
     "job:workday:globalhr:mechanical-design-engineering-intern--summer-2027-_01876146",
     "job:workday:globalhr:mechanical-design-engineering-intern--summer-2027-_01881702",
     "job:workday:globalhr:mechanical-engineer-intern---air-launched--effectors--2027-summer-_01879420",
+    "job:workday:globalhr:mechanical-engineer-intern---special-tooling-and-test-fixtures--summer-2027-_01884792",
     "job:workday:globalhr:mechanical-engineer-intern---test-equipment_01874237",
     "job:workday:globalhr:mechanical-engineer-intern--2027-summer-_01874513",
     "job:workday:globalhr:mechanical-engineer-intern--summer-2027-_01879944",
@@ -35480,6 +35482,7 @@
     "rtx mechanical design engineering intern summer 2027",
     "rtx mechanical engineer intern 2027 summer",
     "rtx mechanical engineer intern air launched effectors 2027 summer",
+    "rtx mechanical engineer intern special tooling and test fixtures summer 2027",
     "rtx mechanical engineer intern summer 2027",
     "rtx mechanical engineer intern test equipment",
     "rtx mechanical engineering intern summer 2027",
