@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-29T07:31:49.106253+00:00",
+  "last_checked_utc": "2026-10-29T08:31:41.150814+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13453,6 +13453,7 @@
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-York/Part-Time---Student--Work-Study--Undergraduate----Artificial-Intelligence---Image-Processing-Research-Assistant_REQ_0000082742-1",
     "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2",
     "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943",
+    "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bermuda/Actuarial-Science-Intern_770348WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---Cloud--Data-and-AI---Summer-Intern---Calgary_752586WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---SAP---Summer-Intern---Calgary_752589WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/September-2027---Data-Enablement--CPA----8-month-Co-op---Calgary_754208WD",
@@ -30854,6 +30855,7 @@
     "job:workday:psu:soil-fertility---nutrient-management-lab---part-time-undergraduate-research-internship_req_0000083683-1",
     "job:workday:psu:uncrewed-systems-intern_req_0000076298-1",
     "job:workday:ptc:software-engineer-intern--summer-2027-_jr112943",
+    "job:workday:pwc:actuarial-science-intern_770348wd",
     "job:workday:pwc:advisory-intern-consultant---technology-epm---est--treviso--rubano--verona-_610467wd",
     "job:workday:pwc:audit---japanese-business-network---intern---summer-2027_757086wd",
     "job:workday:pwc:audit---korean-business-network---intern---summer-2027_757088wd",
@@ -35082,6 +35084,7 @@
     "post holdings product rd intern summer 2027",
     "premier data science intern",
     "premier software engineer intern",
+    "pricewaterhousecoopers pwc actuarial science intern",
     "pricewaterhousecoopers pwc audit japanese business network jbn intern summer 2027",
     "pricewaterhousecoopers pwc audit korean business network kbn intern summer 2027",
     "pricewaterhousecoopers pwc business analytics intern mida",
