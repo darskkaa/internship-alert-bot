@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-29T02:11:56.567640+00:00",
+  "last_checked_utc": "2026-10-29T03:01:43.004558+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9235,6 +9235,7 @@
     "https://job-boards.greenhouse.io/truveta/jobs/5659745004",
     "https://job-boards.greenhouse.io/truveta/jobs/5712997004",
     "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6228304004",
+    "https://job-boards.greenhouse.io/usafacts/jobs/4472154009",
     "https://job-boards.greenhouse.io/uvimco/jobs/5300713008",
     "https://job-boards.greenhouse.io/uvimco/jobs/5300713008?utm_source=Simplify&ref=Simplify",
     "https://job-boards.greenhouse.io/vardaspace/jobs/8005821003",
@@ -22092,6 +22093,7 @@
     "job:greenhouse:4465077009",
     "job:greenhouse:4465899009",
     "job:greenhouse:4469150009",
+    "job:greenhouse:4472154009",
     "job:greenhouse:4476000008",
     "job:greenhouse:4526301007",
     "job:greenhouse:4536787007",
@@ -37903,6 +37905,7 @@
     "usaa risk analyst intern",
     "usaa technology intern",
     "usaa visualization engineer intern",
+    "usafacts ai software engineering intern",
     "v2x artificial intelligence intern",
     "v2x electrical engineer intern hardware engineering",
     "valeo application engineering intern yearround",
