@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-29T13:32:03.207157+00:00",
+  "last_checked_utc": "2026-10-29T13:36:44.532942+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12218,6 +12218,7 @@
     "https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979",
     "https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Northridge-California-United-States-of-America/Software-Engineering-Intern-Summer-2027_R-801814-1",
     "https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/USA-GA-Johns-Creek/Graduate-AI-Engineer-Intern-Summer-2027_R-801926",
+    "https://medline.wd5.myworkdayjobs.com/Medline/job/Glens-Falls-New-York/Engineering-Co-Op--January-May-2027-_R2616936",
     "https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/IT-Business-Systems-Intern---Summer-2027_R2617626",
     "https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805",
     "https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983",
@@ -29816,6 +29817,7 @@
     "job:workday:mckesson:system-design---qa-intern---summer-2027_jr0152746",
     "job:workday:mdtkangaroo:graduate-ai-engineer-intern-summer-2027_r-801926",
     "job:workday:mdtkangaroo:software-engineering-intern-summer-2027_r-801814-1",
+    "job:workday:medline:engineering-co-op--january-may-2027-_r2616936",
     "job:workday:medline:it-business-intelligence-development-analytics-intern---summer-2027_r2617383",
     "job:workday:medline:it-business-systems-intern---summer-2027_r2617626",
     "job:workday:medline:mba-intern--product-management---summer-2027_r2615805",
@@ -33296,6 +33298,7 @@
     "medical informatics engineering development intern",
     "medline business intelligence developmentanalytics intern",
     "medline business systems intern summer 2027",
+    "medline engineering coop januarymay 2027",
     "medline it business systems intern summer 2027",
     "medline mba intern product management",
     "medline mba intern product management summer 2027",
