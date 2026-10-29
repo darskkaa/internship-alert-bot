@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-29T08:31:41.150814+00:00",
+  "last_checked_utc": "2026-10-29T08:41:43.474494+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13329,6 +13329,7 @@
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Supplier-Quality-Engineer---Murrysville--PA---January-June-2027_590233",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op--Embedded-Test-Engineer---Murrysville--PA-January-June-2027_592065",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Murrysville--PA-January-June-2027_580754",
+    "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern--AI-Business-Operations-Nashville--TN-Summer-2027_590986",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern--Service-Contracts-Lifecycle-Operations--Nashville--TN-Summer-2027_591619",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern--Service-Sales-IB-Focus-Nashville--TN-Summer-2027_590899",
@@ -30735,6 +30736,7 @@
     "job:workday:philips:field-service-engineer-intern_590816",
     "job:workday:philips:graduate-level-co-op---data-scientist---plymouth--mn---summer-2027_590567",
     "job:workday:philips:intern----service-offer-design---cambridge--ma---summer-2027_593517",
+    "job:workday:philips:intern---ai---analytics-analyst---nashville--tn---spring-2027_593012",
     "job:workday:philips:intern---data-ai-ml-engineering---plymouth--mn---summer-2027_590404",
     "job:workday:philips:intern---digital-healthtech-product-management---bothell--wa---summer-2027_585564",
     "job:workday:philips:intern---electrical-engineering---cambridge--ma---summer-2027_592605",
@@ -34863,6 +34865,7 @@
     "persona software engineer intern summer 2027",
     "pgim product and institutional client intern multiple teams",
     "pgim public credit summer investment analyst intern portfolio analysis group",
+    "philips ai analytics analyst intern",
     "philips ai engineer intern enterprise ai workflow automation",
     "philips coop biological safety engineering murrysville pa januaryjune 2027",
     "philips coop data management cleveland oh january 2027",
