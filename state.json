@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-28T23:52:05.293660+00:00",
+  "last_checked_utc": "2026-10-29T00:01:56.805324+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1611,6 +1611,7 @@
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429",
+    "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Space-Communications-and-Network-Systems-Undergrad-Intern_R017064",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Space-Vehicle-and-Ground-Systems-Graduate-Intern_R016692",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Space-Vehicle-and-Ground-Systems-Undergraduate-Intern_R016691",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Systems-Integration-and-Test-Graduate-Intern_R016693",
@@ -25375,6 +25376,7 @@
     "job:workday:aero:xmlname-2027-software-systems-engineer-and-acquisition-intern_r016431",
     "job:workday:aero:xmlname-2027-software-tools-and-assurance-engineering-grad-intern_r016753",
     "job:workday:aero:xmlname-2027-software-tools-and-assurance-intern_r016429",
+    "job:workday:aero:xmlname-2027-space-communications-and-network-systems-undergrad-intern_r017064",
     "job:workday:aero:xmlname-2027-space-object-risk-graduate-intern_r016458",
     "job:workday:aero:xmlname-2027-space-systems-architect-graduate-intern_r016773",
     "job:workday:aero:xmlname-2027-space-systems-architecture-undergrad-intern_r016772",
@@ -37134,6 +37136,7 @@
     "the aerospace corporation 2027 software systems engineer and acquisition intern",
     "the aerospace corporation 2027 software tools and assurance engineering grad intern",
     "the aerospace corporation 2027 software tools and assurance intern",
+    "the aerospace corporation 2027 space communications and network systems undergrad intern",
     "the aerospace corporation 2027 space object risk graduate intern",
     "the aerospace corporation 2027 space systems architect graduate intern",
     "the aerospace corporation 2027 space systems architecture undergrad intern",
