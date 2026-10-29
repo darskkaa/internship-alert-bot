@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-29T11:41:48.203384+00:00",
+  "last_checked_utc": "2026-10-29T12:32:05.625547+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13833,6 +13833,7 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Workforce-Optimization---Strategies--Data-Science--Intern_202609-124186",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Cape-Town/Roche-Next-Generation-Sequencing--NGS----Agentic-AI-Engineering-Support-Internship_202610-126801-1",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kaiseraugst/Internship---AI-Metadata-Augmentation_202609-123518",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kuwait/Field-Service-Assistant-Engineer-Intern_202610-126627",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Penzberg/Internship---Data-and-Digital-Enablement--PRLABD-_202610-126742-3",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Enterprise-Master-Data-Management---Intern_202609-124194",
@@ -31124,6 +31125,7 @@
     "job:workday:roche:industrial-placement-student-cs-coe-ddc-data-capability_202610-124915",
     "job:workday:roche:intern_202609-124125",
     "job:workday:roche:internship---agentic-ai-for-environmental-regulatory-compliance_202609-124819",
+    "job:workday:roche:internship---ai-metadata-augmentation_202609-123518",
     "job:workday:roche:internship---data-and-digital-enablement--prlabd-_202610-126742-3",
     "job:workday:roche:internship---software-and-data-engineer--for-12-months-in-rotkreuz-_202610-127501",
     "job:workday:roche:internship--generative-ai-designer--as-of-january-2027-for-12-months-in-rotkreuz-_202610-127757",
@@ -35732,6 +35734,7 @@
     "roche enterprise master data management intern",
     "roche field service assistant engineer intern",
     "roche internship agentic ai for environmental regulatory compliance",
+    "roche internship ai metadata augmentation",
     "roche internship data and digital enablement prlabd",
     "roche internship generative ai designer as of january 2027 for 12 months in rotkreuz",
     "roche internship in ai for laboratory automation pharma research early development",
