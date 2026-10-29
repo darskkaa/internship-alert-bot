@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-29T12:51:46.408702+00:00",
+  "last_checked_utc": "2026-10-29T13:11:55.353819+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14264,6 +14264,7 @@
     "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Cloud-_R2822-2",
     "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2",
     "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1",
+    "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1",
     "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871",
     "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2885",
     "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1",
@@ -31567,6 +31568,7 @@
     "job:workday:sonos:software-engineering-intern--boston-_r2882-1",
     "job:workday:sonos:software-engineering-intern--seattle-_r2871",
     "job:workday:sonos:software-engineering-intern--seattle-_r2885",
+    "job:workday:sonos:software-partner-engineering-intern--boston-_r2886-1",
     "job:workday:sonos:software-product-management-intern--seattle-_r2866-1",
     "job:workday:sonyglobal:account-management---business-analytics-intern_jr-119543",
     "job:workday:sonyglobal:data-quality---systems-intern---student-placement-year_jr-119746",
@@ -36696,6 +36698,7 @@
     "sonos software engineering coop signal processing",
     "sonos software engineering intern boston",
     "sonos software engineering intern seattle",
+    "sonos software partner engineering intern boston",
     "sonos software product management intern",
     "sonos software product management intern seattle",
     "sony account management business analytics intern",
