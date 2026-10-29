@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-29T18:02:10.337414+00:00",
+  "last_checked_utc": "2026-10-29T18:12:07.812106+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14714,6 +14714,7 @@
     "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1",
     "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893",
     "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
+    "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Equity-Research-Internship-Opportunity---Summer-2027_80630",
     "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677",
     "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
     "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677",
@@ -32081,6 +32082,7 @@
     "job:workday:trimble:product-management-intern_r57893",
     "job:workday:trimble:software-engineering-intern_r57676",
     "job:workday:trimble:software-engineering-intern_r57963",
+    "job:workday:troweprice:equity-research-internship-opportunity---summer-2027_80630",
     "job:workday:troweprice:xmlname-2027-technology-and-data-internship_82677",
     "job:workday:trumpf:application-engineering-intern-co-op_r00042681",
     "job:workday:trumpf:cnc-programming-intern_r00042595",
@@ -37300,6 +37302,7 @@
     "syska hennessy group plumbing engineering summer intern",
     "syska hennessy group software developer innovation summer intern",
     "t rowe price 2027 technology and data internship",
+    "t rowe price equity research internship opportunity summer 2027",
     "t rowe price global trading intern",
     "t rowe price technology and data intern",
     "tacit antenna engineering intern fall 2026",
