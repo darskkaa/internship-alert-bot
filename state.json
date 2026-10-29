@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-29T14:52:05.691262+00:00",
+  "last_checked_utc": "2026-10-29T15:02:01.437748+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12781,6 +12781,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Structural-Engineering-Intern--Roy-UT_R10258270",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633",
@@ -30343,6 +30344,7 @@
     "job:workday:ngc:xmlname-2027-software-engineering-intern---roy-ut_r10254852",
     "job:workday:ngc:xmlname-2027-software-engineering-intern---roy-ut_r10257053",
     "job:workday:ngc:xmlname-2027-software-engineering-intern-dulles-va_r10253731",
+    "job:workday:ngc:xmlname-2027-software-test-engineering-intern--roy-ut_r10258276-1",
     "job:workday:ngc:xmlname-2027-stress-analysis-and-tooling-design-engineer-intern---commerce-ca_r10257184",
     "job:workday:ngc:xmlname-2027-structural---electromechanical-engineer-intern---redondo-beach-ca_r10257211",
     "job:workday:ngc:xmlname-2027-structural-engineer-intern---gilbert-az_r10258208",
@@ -34295,6 +34297,7 @@
     "northrop grumman 2027 software engineering intern huntsville al",
     "northrop grumman 2027 software engineering intern roy ut",
     "northrop grumman 2027 software test engineering intern huntsville al",
+    "northrop grumman 2027 software test engineering intern roy ut",
     "northrop grumman 2027 stress analysis and tooling design engineer intern commerce ca",
     "northrop grumman 2027 structural electromechanical engineer intern redondo beach ca",
     "northrop grumman 2027 structural engineer intern gilbert az",
