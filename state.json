@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-29T21:02:09.358204+00:00",
+  "last_checked_utc": "2026-10-29T21:31:48.999455+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13439,6 +13439,7 @@
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Intern-Co-op---STET-Mechanical-Engineer---Latham--NY---Spring-Summer-2027_591053",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Moskva/Field-Service-Engineer-intern_590816",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Biological-Safety-Engineering---Murrysville--PA---January-June-2027_591554",
+    "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Patient-Interface-Mask-Engineering---Murrysville--PA---January-June-2027_589959",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Supplier-Quality-Engineer---Murrysville--PA---January-June-2027_590233",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op--Embedded-Test-Engineer---Murrysville--PA-January-June-2027_592065",
@@ -31043,6 +31044,7 @@
     "job:workday:pg:xmlname--january-2027-start-date--analytics---insights-internship_r000158430",
     "job:workday:pg:xmlname--january-2027-start-date--information-technology-internship_r000157428",
     "job:workday:philips:co-op---biological-safety-engineering---murrysville--pa---january-june-2027_591554",
+    "job:workday:philips:co-op---data-engineer--biocompatibility----murrysville--pa---january-to-june-2027_591730",
     "job:workday:philips:co-op---design-engineering---latham--ny---january-june-2027_590362",
     "job:workday:philips:co-op---electrical-engineering---latham--ny---january-july-2027_590387",
     "job:workday:philips:co-op---manufacturing-engineering---latham--ny---january-august-2027_590906",
@@ -35254,6 +35256,7 @@
     "philips ai analytics analyst intern",
     "philips ai engineer intern enterprise ai workflow automation",
     "philips coop biological safety engineering murrysville pa januaryjune 2027",
+    "philips coop data engineer biocompatibility murrysville pa january to june 2027",
     "philips coop data management cleveland oh january 2027",
     "philips coop design engineering latham ny januaryjune 2027",
     "philips coop electrical engineering latham ny januaryjuly 2027",
