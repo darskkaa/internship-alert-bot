@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-29T07:11:42.207659+00:00",
+  "last_checked_utc": "2026-10-29T07:21:49.983888+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11366,6 +11366,7 @@
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Product-Development-Engineering-Intern_2642328",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Product-Development-Engineering-Intern_2642439",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878",
+    "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572",
@@ -29300,6 +29301,7 @@
     "job:workday:kla:software-engineer-intern---ai_2641817",
     "job:workday:kla:software-engineer-intern---ai_2641817-2",
     "job:workday:kla:software-engineer-intern--c----linux----summer-2027_2641878",
+    "job:workday:kla:software-engineer-intern_2642721",
     "job:workday:kla:software-engineering-intern---ai-ml-for-diagnostics---calibration_2642129",
     "job:workday:kla:software-engineering-intern---ai-ml-for-diagnostics---calibration_2642129-1",
     "job:workday:kla:software-engineering-intern--c----unix-_2641325",
@@ -32572,6 +32574,7 @@
     "kla product development engineering intern",
     "kla research scientist intern coating characterization",
     "kla research scientist intern plasma light source characterization",
+    "kla software engineer intern",
     "kla software engineer intern ai",
     "kla software engineer intern c linux summer 2027",
     "kla software engineering intern",
