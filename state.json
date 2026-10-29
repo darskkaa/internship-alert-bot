@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-29T17:22:01.694516+00:00",
+  "last_checked_utc": "2026-10-29T17:32:00.562217+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5222,6 +5222,7 @@
     "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475",
     "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022588",
     "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393",
+    "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5540",
     "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738",
     "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339",
     "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339?utm_source=Simplify&ref=Simplify",
@@ -24641,6 +24642,7 @@
     "job:oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022475",
     "job:oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022588",
     "job:oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5393",
+    "job:oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5540",
     "job:oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com:23339",
     "job:oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com:23342",
     "job:oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com:23363",
@@ -36611,6 +36613,7 @@
     "schweitzer engineering laboratories software engineer intern",
     "schweitzer engineering laboratories software engineering intern power systems",
     "schweitzer engineering laboratories uiux designer intern",
+    "scor actuarial internship reserving modelling and data analytics",
     "scor data science intern",
     "scout ai ai engineer intern fury team",
     "scout ai ai engineer intern fury team summer 2027",
