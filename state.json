@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-29T18:51:57.111667+00:00",
+  "last_checked_utc": "2026-10-29T19:02:11.048887+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5404,6 +5404,7 @@
     "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260836",
     "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839",
     "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943",
+    "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197",
     "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Plano-TX/Campus---Risk-Analyst-Program-Intern_JR2821",
     "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810",
     "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815",
@@ -24829,6 +24830,7 @@
     "job:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260836",
     "job:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260839",
     "job:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260943",
+    "job:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:261197",
     "job:oracle:hbbq.fa.us2.oraclecloud.com:4767",
     "job:oracle:hbbq.fa.us2.oraclecloud.com:4868",
     "job:oracle:hcgn.fa.us2.oraclecloud.com:49276",
