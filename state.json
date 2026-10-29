@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-29T13:36:44.532942+00:00",
+  "last_checked_utc": "2026-10-29T13:52:03.158594+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12760,6 +12760,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10256223",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Modeling-Simulation-and-Analysis-Engineering-Intern--Roy-UT_R10257776-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Nuclear-Surety-Systems-Engineering-Intern--Roy-UT_R10257831",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Parts-Materials-and-Process-Engineering-Intern--Roy-UT_R10258242-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10254007",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852",
@@ -30257,6 +30258,7 @@
     "job:workday:ngc:xmlname-2027-modeling-simulation-and-analysis-engineering-intern--roy-ut_r10257776-1",
     "job:workday:ngc:xmlname-2027-nuclear-surety-systems-engineering-intern--roy-ut_r10257831",
     "job:workday:ngc:xmlname-2027-operations-manufacturing-engineering-intern_r10253688",
+    "job:workday:ngc:xmlname-2027-parts-materials-and-process-engineering-intern--roy-ut_r10258242-1",
     "job:workday:ngc:xmlname-2027-returning-mechanical-engineer-intern---sunnyvale-ca_r10254941",
     "job:workday:ngc:xmlname-2027-s-w-cybersecurity-intern---annapolis-md_r10254705",
     "job:workday:ngc:xmlname-2027-s-w-embedded-engineering-intern---annapolis-md_r10254697",
@@ -34205,6 +34207,7 @@
     "northrop grumman 2027 modeling simulation and analysis engineering intern roy ut",
     "northrop grumman 2027 nuclear surety systems engineering intern roy ut",
     "northrop grumman 2027 operations manufacturing engineering intern",
+    "northrop grumman 2027 parts materials and process engineering intern roy ut",
     "northrop grumman 2027 returning mechanical engineer intern sunnyvale ca",
     "northrop grumman 2027 software developer intern chantilly va",
     "northrop grumman 2027 software digital intern rolling meadows il",
