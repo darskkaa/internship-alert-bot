@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-30T23:32:15.301388+00:00",
+  "last_checked_utc": "2026-10-30T23:42:05.781452+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1594,6 +1594,7 @@
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Enterprise-Modeling-and-Simulation-Graduate-Intern_R016933",
+    "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Formal-Methods-Researcher-Graduate-Intern_R016552",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Grad-Intern_R016953",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667",
@@ -26083,6 +26084,7 @@
     "job:workday:aero:xmlname-2027-embedded-systems---software-engineering-undergrad-intern_r016804",
     "job:workday:aero:xmlname-2027-enterprise-modeling-and-simulation-graduate-intern_r016933",
     "job:workday:aero:xmlname-2027-enterprise-performance-modeling-and-simulation-graduate-intern_r016942",
+    "job:workday:aero:xmlname-2027-formal-methods-researcher-graduate-intern_r016552",
     "job:workday:aero:xmlname-2027-hardware-security-engineering-grad-intern_r016953",
     "job:workday:aero:xmlname-2027-hardware-security-engineering-undergrad--intern_r016954",
     "job:workday:aero:xmlname-2027-machine-learning-engineer-undergrad-intern_r016667",
@@ -38235,6 +38237,7 @@
     "the aerospace corporation 2027 embedded systems software engineering undergrad intern",
     "the aerospace corporation 2027 enterprise modeling and simulation graduate intern",
     "the aerospace corporation 2027 enterprise performance modeling and simulation graduate intern",
+    "the aerospace corporation 2027 formal methods researcher graduate intern",
     "the aerospace corporation 2027 hardware security engineering grad intern",
     "the aerospace corporation 2027 hardware security engineering undergrad intern",
     "the aerospace corporation 2027 machine learning engineer undergrad intern",
