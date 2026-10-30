@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-30T19:41:45.144662+00:00",
+  "last_checked_utc": "2026-10-30T19:51:43.397580+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6812,6 +6812,7 @@
     "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9087",
     "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9088",
     "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9097",
+    "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9147",
     "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---AIR-GROUP-BUILDING-KYARP/UPS-Information-Security-Summer-2027-Internship---KY_R26029765",
     "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---AIR-GROUP-BUILDING-KYARP/UPS-Technology-Group-Summer-2027-Internship---KY_R26029755",
     "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---BAYONNE-CENTER-NJBAY/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Bayonne-NJ_R26030793",
@@ -25170,6 +25171,7 @@
     "job:oracle:hckz.fa.us2.oraclecloud.com:9087",
     "job:oracle:hckz.fa.us2.oraclecloud.com:9088",
     "job:oracle:hckz.fa.us2.oraclecloud.com:9097",
+    "job:oracle:hckz.fa.us2.oraclecloud.com:9147",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2505878",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506307",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506420",
@@ -37165,6 +37167,7 @@
     "scout clean energy geospatial intern",
     "scout clean energy operations engineering intern",
     "scout clean energy renewable energy analyst intern",
+    "seaspan intern electrical 4 months",
     "seaspan intern electronics engineering 8 months",
     "seaspan intern engineering services 8 months",
     "seaspan intern mechanical engineering 4 months",
