@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-30T12:41:50.879297+00:00",
+  "last_checked_utc": "2026-10-30T12:52:03.560999+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4047,6 +4047,7 @@
     "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Science-Intern_R000072409",
     "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Facilities-Engineering-Chemical-Engineering-Intern_R000072335",
     "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Facilities-Engineering-Electrical-Engineering-Intern_R000072378",
+    "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Facilities-Engineering-Intern--Previous-Intern-_R000071702",
     "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Facilities-Engineering-Materials-Engineering-Intern_R000072391",
     "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Facilities-Engineering-Mechanical-Engineering-Intern_R000072394",
     "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1",
@@ -18248,6 +18249,7 @@
     "chevron corporation 20262027 facilities engineering chemical engineering intern",
     "chevron corporation 20262027 facilities engineering civil engineering intern",
     "chevron corporation 20262027 facilities engineering electrical engineering intern",
+    "chevron corporation 20262027 facilities engineering intern previous intern",
     "chevron corporation 20262027 facilities engineering materials engineering intern",
     "chevron corporation 20262027 facilities engineering mechanical engineering intern",
     "chevron corporation 20262027 facilities engineering operations and turnarounds construction engineering intern",
@@ -27178,6 +27180,7 @@
     "job:workday:chevron:xmlname-2026-2027-earth-science-intern_r000072409",
     "job:workday:chevron:xmlname-2026-2027-facilities-engineering-chemical-engineering-intern_r000072335",
     "job:workday:chevron:xmlname-2026-2027-facilities-engineering-electrical-engineering-intern_r000072378",
+    "job:workday:chevron:xmlname-2026-2027-facilities-engineering-intern--previous-intern-_r000071702",
     "job:workday:chevron:xmlname-2026-2027-facilities-engineering-materials-engineering-intern_r000072391",
     "job:workday:chevron:xmlname-2026-2027-facilities-engineering-mechanical-engineering-intern_r000072394",
     "job:workday:chevron:xmlname-2026-2027-facilities-engineering-operations-and-turnarounds-construction-engineering-intern_r000072376",
