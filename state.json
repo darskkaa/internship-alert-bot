@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-30T18:11:58.690403+00:00",
+  "last_checked_utc": "2026-10-30T18:21:52.108549+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14051,6 +14051,7 @@
     "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/HOUSTON/Houston-Technology-Consulting-Intern---2027_JR-258921",
     "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/LOS-ANGELES/Los-Angeles-Legal--Risk-and-Compliance-Intern---2027_JR-258929",
     "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/LOS-ANGELES/Los-Angeles-Technology-Consulting-Intern---2027_JR-258931",
+    "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-Legal--Risk-and-Compliance-Intern---2027_JR-258930",
     "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-Technology-Consulting-Intern---2027_JR-258932",
     "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/SAN-FRANCISCO/San-Francisco-Legal--Risk-and-Compliance-Intern---2027_JR-258821",
     "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Hillsboro/XMLNAME-2027-Summer-Intern---Hillsboro-Technical-Operations_202610-125110",
@@ -31754,6 +31755,7 @@
     "job:workday:roberthalf:houston-technology-consulting-intern---2027_jr-258921",
     "job:workday:roberthalf:los-angeles-legal--risk-and-compliance-intern---2027_jr-258929",
     "job:workday:roberthalf:los-angeles-technology-consulting-intern---2027_jr-258931",
+    "job:workday:roberthalf:new-york-legal--risk-and-compliance-intern---2027_jr-258930",
     "job:workday:roberthalf:new-york-technology-consulting-intern---2027_jr-258932",
     "job:workday:roberthalf:san-francisco-legal--risk-and-compliance-intern---2027_jr-258821",
     "job:workday:roche:data-science-industrial-placement---multiple-roles-within-biostats--data-management--real-world-data-and-more_202609-122536",
@@ -35981,6 +35983,7 @@
     "protiviti houston technology consulting intern 2027",
     "protiviti los angeles legal risk and compliance intern 2027",
     "protiviti los angeles technology consulting intern 2027",
+    "protiviti new york city legal risk and compliance intern 2027",
     "protiviti new york city technology consulting intern 2027",
     "protiviti new york technology consulting intern 2027",
     "protiviti san francisco legal risk and compliance intern 2027",
