@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-30T23:12:31.389540+00:00",
+  "last_checked_utc": "2026-10-30T23:32:15.301388+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13626,6 +13626,7 @@
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern-Customer-Experience--Health-Systems-Strategy-and-Growth--Cambridge--MA-Summer-2027_593456",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Co-op---R-D-Engineer--Cleaning---Disinfection----New-Kensington--PA---January---August-2027_591275",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Co-op-Material-Scientist-New-Kensington--PA---Fall-2026_585816",
+    "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Test-Engineering---New-Kensington--PA---Summer-2027_591469",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Data-Management-Co-op_584478",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Co-op---Packaging-Engineer---Plymouth--MN---January-2027_591609",
@@ -31558,6 +31559,7 @@
     "job:workday:philips:intern---r-d-front-end-innovation-intern---oral-healthcare---bothell--wa---summer-2027_593146",
     "job:workday:philips:intern---software-engineering---plymouth--mn---summer-2027_590403",
     "job:workday:philips:intern---system-test-automation-engineer---san-diego--ca---summer-2027_592516",
+    "job:workday:philips:intern---systems-engineer---new-kensington--pa---summer-2027_592850",
     "job:workday:philips:intern---systems-engineering--sustaining---design-controls----san-diego--ca---summer-2027_593052",
     "job:workday:philips:intern---systems-test-engineering---new-kensington--pa---summer-2027_591469",
     "job:workday:philips:intern--ai-business-operations-nashville--tn-summer-2027_590986",
@@ -35853,6 +35855,7 @@
     "philips intern rd frontend innovation intern oral healthcare bothell wa summer 2027",
     "philips intern software engineering plymouth mn summer 2027",
     "philips intern system test automation engineer san diego ca summer 2027",
+    "philips intern systems engineer new kensington pa summer 2027",
     "philips intern systems engineering oral healthcare bothell wa summer 2027",
     "philips intern systems engineering sustaining design controls san diego ca summer 2027",
     "philips intern systems test engineering new kensington pa summer 2027",
