@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-30T00:21:56.770059+00:00",
+  "last_checked_utc": "2026-10-30T00:31:57.435858+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2363,6 +2363,7 @@
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-op---Optical-Engineer--Internship-_J-00354451",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Design-Intern_J-00356190",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355216",
+    "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356213",
     "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459",
     "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471",
     "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Power-System-Engineering-Intern---Digital-Grid-Management---Summer-2027_R9458",
@@ -16889,6 +16890,7 @@
     "asml internship imaging product engineer",
     "asml internship mechanical engineer",
     "asml internship mechanical engineering research",
+    "asml internship mechatronics engineer",
     "asml internship platform software engineer in test",
     "asml internship software development engineer in test",
     "asml internship software engineer in test mod",
@@ -26326,6 +26328,7 @@
     "job:workday:asml:internship---frontend-developer_j-00354852",
     "job:workday:asml:internship---mechanical-engineer_j-00355216",
     "job:workday:asml:internship---mechanical-engineering-research_j-00355587",
+    "job:workday:asml:internship---mechatronics-engineer_j-00356213",
     "job:workday:asml:internship---software-engineer-in-test--mod-_j-00354568",
     "job:workday:asml:internship---software-quality-assurance_j-00354562",
     "job:workday:asml:internship---software-quality-assurance_j-00354563",
