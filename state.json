@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-30T13:21:44.367663+00:00",
+  "last_checked_utc": "2026-10-30T13:32:00.211986+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6950,6 +6950,8 @@
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008539",
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008550",
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008551",
+    "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008553",
+    "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008569",
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008603",
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008604",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007510",
@@ -25155,6 +25157,8 @@
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008539",
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008550",
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008551",
+    "job:oracle:hdhl.fa.us6.oraclecloud.com:1008553",
+    "job:oracle:hdhl.fa.us6.oraclecloud.com:1008569",
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008603",
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008604",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26007510",
@@ -37428,6 +37432,7 @@
     "stantec mechanical engineering intern water summer 2027",
     "stantec metallurgy process engineering intern energy resources summer 2027",
     "stantec mining engineering intern energy resources summer 2027",
+    "stantec mining technical services intern energy resources summer 2027",
     "stantec process engineering intern energy resources summer 2027",
     "stantec process engineering interncoop buildings summer 2027",
     "stantec process mechanical engineering intern water summer 2027",
