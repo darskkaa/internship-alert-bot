@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-30T00:12:00.327930+00:00",
+  "last_checked_utc": "2026-10-30T00:21:56.770059+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14188,6 +14188,7 @@
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/internship-6-months-data-and-ia-engineer_R2873938",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-6-mois-communication-scientifique_R2874270",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Scoppito/Launches-Project-Portfolio-Management-Internship_R2874543",
+    "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Process-and-CMC-Data-Science--Waltham--MA_R2854031",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Virology-Platform-Global-Antigen-Design--Waltham--MA_R2852131",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Analytical-Science-Intern---MSAT_R2873804",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Engineering-Intern_R2873345",
@@ -31750,6 +31751,7 @@
     "job:workday:sanofi:xmlname-2027-spring-co-op-data-science---digital-transformation--framingham--ma_r2854091",
     "job:workday:sanofi:xmlname-2027-spring-co-op-laboratory-automation-engineer-process-chemistry-lab--cambridge--ma_r2856035",
     "job:workday:sanofi:xmlname-2027-spring-co-op-neuroscience-research--cambridge--ma_r2853766",
+    "job:workday:sanofi:xmlname-2027-spring-co-op-process-and-cmc-data-science--waltham--ma_r2854031",
     "job:workday:sanofi:xmlname-2027-spring-co-op-virology-platform-global-antigen-design--waltham--ma_r2852131",
     "job:workday:sanofi:xmlname-2027-summer-intern---computational-medicinal-chemistry--cambridge--ma_r2865701",
     "job:workday:sanofi:xmlname-2027-summer-intern-consumer-experience-product-design-cambridge-ma_r2866238",
@@ -36741,6 +36743,7 @@
     "sanofi 2027 spring coop data science digital transformation framingham ma",
     "sanofi 2027 spring coop laboratory automation engineer process chemistry lab cambridge ma",
     "sanofi 2027 spring coop neuroscience research cambridge ma",
+    "sanofi 2027 spring coop process and cmc data science waltham ma",
     "sanofi 2027 spring coop virology platform global antigen design waltham ma",
     "sanofi 2027 summer intern computational medicinal chemistry cambridge ma",
     "sanofi 2027 summer intern consumer experience product design cambridge ma",
