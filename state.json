@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-30T20:02:16.180414+00:00",
+  "last_checked_utc": "2026-10-30T20:11:46.074873+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14282,6 +14282,7 @@
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Neuroscience-Research--Cambridge--MA_R2853766",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern---Computational-Medicinal-Chemistry--Cambridge--MA_R2865701",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Consumer-Experience-Product-Design-Cambridge-MA_R2866238",
+    "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Translational-Models-Research-Cambridge-MA_R2864970",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-US-Advanced-Analytics-Cambridge-MA_R2865218",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/internship-6-months-data-and-ia-engineer_R2873938",
@@ -32015,6 +32016,7 @@
     "job:workday:sanofi:xmlname-2027-spring-co-op-virology-platform-global-antigen-design--waltham--ma_r2852131",
     "job:workday:sanofi:xmlname-2027-summer-intern---computational-medicinal-chemistry--cambridge--ma_r2865701",
     "job:workday:sanofi:xmlname-2027-summer-intern-consumer-experience-product-design-cambridge-ma_r2866238",
+    "job:workday:sanofi:xmlname-2027-summer-intern-translational-models-research-cambridge-ma_r2864970",
     "job:workday:sanofi:xmlname-2027-summer-intern-us-advanced-analytics-cambridge-ma_r2865218",
     "job:workday:santander:intern---data-steward_req1611816",
     "job:workday:santander:intern---it-governance_req1615122",
@@ -37043,6 +37045,7 @@
     "sanofi 2027 spring coop virology platform global antigen design waltham ma",
     "sanofi 2027 summer intern computational medicinal chemistry cambridge ma",
     "sanofi 2027 summer intern consumer experience product design cambridge ma",
+    "sanofi 2027 summer intern translational models research cambridge ma",
     "sanofi 2027 summer intern us advanced analytics cambridge ma",
     "sanofi analytical science intern msat",
     "sanofi engineering intern",
