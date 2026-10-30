@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-30T12:52:03.560999+00:00",
+  "last_checked_utc": "2026-10-30T13:01:57.579234+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11618,6 +11618,7 @@
     "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00190766",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Charlotte-NC/Power-Delivery-Engineering-Intern_R-00193282",
+    "https://leidos.wd5.myworkdayjobs.com/External/job/Charlotte-NC/Power-Delivery-Engineering-Intern_R-00195881",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Naval-Architecture-and-Marine-Engineering-Intern_R-00194266",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Chicago-IL/Civil-Engineer-Intern_R-00191578",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Chicago-IL/Power-Delivery-Engineering-Intern_R-00194148",
@@ -29876,6 +29877,7 @@
     "job:workday:leidos:power-delivery-engineering-intern_r-00193100",
     "job:workday:leidos:power-delivery-engineering-intern_r-00193282",
     "job:workday:leidos:power-delivery-engineering-intern_r-00194148",
+    "job:workday:leidos:power-delivery-engineering-intern_r-00195881",
     "job:workday:leidos:radar-engineer-intern_r-00191986",
     "job:workday:leidos:research-engineer-intern_r-00192500",
     "job:workday:leidos:sharepoint---systems-engineering-intern_r-00195538",
