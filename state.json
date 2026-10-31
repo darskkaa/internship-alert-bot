@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-31T00:12:21.988144+00:00",
+  "last_checked_utc": "2026-10-31T00:32:13.968108+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13250,6 +13250,7 @@
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478",
     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
@@ -31246,6 +31247,7 @@
     "job:workday:nvidia:physical-design-intern--vlsi---2027_jr2025022-1",
     "job:workday:nvidia:product-management-mba-intern--data-center-gpu---summer-2027_jr2025670-1",
     "job:workday:nvidia:product-management-mba-intern--gaming--content-creation--and-pc-ai---summer-2027_jr2026962",
+    "job:workday:nvidia:product-management-mba-intern--laptop---summer-2027_jr2025905",
     "job:workday:nvidia:product-manager-mba-intern--enterprise-ai---summer-2027_jr2026707",
     "job:workday:nvidia:relational-foundation-model-intern--modern-data-stack---2027_jr2027829",
     "job:workday:nvidia:research-intern--efficient-deep-learning---2027_jr2025478",
@@ -35307,6 +35309,7 @@
     "nvidia product management mba intern data center gpu",
     "nvidia product management mba intern data center gpu summer 2027",
     "nvidia product management mba intern gaming content creation and pc ai",
+    "nvidia product management mba intern laptop summer 2027",
     "nvidia product manager mba intern enterprise ai",
     "nvidia quantum and chemistry research intern quantum and ai for chemistry",
     "nvidia relational foundation model intern modern data stack 2027",
