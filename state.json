@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-31T11:12:11.031441+00:00",
+  "last_checked_utc": "2026-10-31T11:52:19.826374+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12626,6 +12626,7 @@
     "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Equipment-Engineer-Intern---SHPE_JR114743",
     "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Equipment-Engineer-Intern---SHPE_JR114744",
     "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Equipment-Engineer-Intern---SHPE_JR114746",
+    "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Equipment-Engineer-Intern---VMEC_JR116573",
     "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Intern---Equipment-Engineer_JR114818",
     "https://micron.wd1.myworkdayjobs.com/External/job/Meridian-ID/Intern---Marketing-Analytics_JR109458",
     "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163",
@@ -30726,6 +30727,7 @@
     "job:workday:micron:equipment-engineer-intern---shpe_jr114743",
     "job:workday:micron:equipment-engineer-intern---shpe_jr114744",
     "job:workday:micron:equipment-engineer-intern---shpe_jr114746",
+    "job:workday:micron:equipment-engineer-intern---vmec_jr116573",
     "job:workday:micron:intern----ai-engineer-platform_jr115934",
     "job:workday:micron:intern---ai---product-management--mobile-memory--lpdram-_jr115839",
     "job:workday:micron:intern---ai-systems-and-infrastructure-engineering_jr109990",
@@ -34451,6 +34453,7 @@
     "micron technology dry etch equipment development engineering intern",
     "micron technology embedded software engineering intern",
     "micron technology equipment engineer intern shpe",
+    "micron technology equipment engineer intern vmec",
     "micron technology intern ai engineer platform",
     "micron technology intern ai product management mobile memory lpdram",
     "micron technology intern ai systems and infrastructure engineering",
