@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-31T20:22:19.105343+00:00",
+  "last_checked_utc": "2026-10-31T20:42:00.976760+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1952,6 +1952,7 @@
     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658",
     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812",
     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Mechanical-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2630657",
+    "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Process-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2632317",
     "https://amat.wd1.myworkdayjobs.com/External/job/HefeiCHN/Customer-Engineer-Intern_R2628378",
     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Business-Intelligence-Analyst-Intern--Master-s--Santa-Clara--CA-_R2627411",
@@ -17014,6 +17015,7 @@
     "applied materials 2027 summer intern software engineer bachelors degree santa clara",
     "applied materials 2027 summer mechanical engineer intern bs or ms austin tx",
     "applied materials 2027 summer mechanical engineer intern bs or ms gloucester ma",
+    "applied materials 2027 summer process engineer intern bs or ms gloucester ma",
     "applied materials business intelligence analyst intern",
     "applied materials customer engineer intern",
     "applied materials data analyst intern global technical learning center",
@@ -26573,6 +26575,7 @@
     "job:workday:amat:xmlname-2027-summer-intern--software-engineer--bachelors-degree--santa-clara-_r2630672",
     "job:workday:amat:xmlname-2027-summer-mechanical-engineer-intern---bs-or-ms--austin--tx-_r2630826",
     "job:workday:amat:xmlname-2027-summer-mechanical-engineer-intern---bs-or-ms--gloucester--ma-_r2630657",
+    "job:workday:amat:xmlname-2027-summer-process-engineer-intern---bs-or-ms--gloucester--ma-_r2632317",
     "job:workday:ambarella:algorithm-engineer-intern_jr100359",
     "job:workday:ambarella:asic-design-engineer-intern_jr100357",
     "job:workday:ambarella:dft-engineer-intern_jr100360",
