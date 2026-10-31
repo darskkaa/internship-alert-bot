@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-31T00:42:18.441266+00:00",
+  "last_checked_utc": "2026-10-31T01:32:02.405333+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12928,6 +12928,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-mechanical-Engineer-Intern--Redondo-Beach-CA_R10258669",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255197",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250669",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134",
@@ -30980,6 +30981,7 @@
     "job:workday:ngc:xmlname-2027-intern-engineer---product-support_r10258530",
     "job:workday:ngc:xmlname-2027-intern-industrial-security_r10257954",
     "job:workday:ngc:xmlname-2027-intern-optical-engineer---redondo-beach-ca_r10254063",
+    "job:workday:ngc:xmlname-2027-intern-product-support---data-scientist_r10258679",
     "job:workday:ngc:xmlname-2027-intern-software-engineer_r10242395",
     "job:workday:ngc:xmlname-2027-intern-software-engineer_r10243573",
     "job:workday:ngc:xmlname-2027-intern-vehicle-engineering---ca-ok-nd_r10248142",
@@ -35040,6 +35042,7 @@
     "northrop grumman 2027 intern guidance navigation and control engineer",
     "northrop grumman 2027 intern industrial security",
     "northrop grumman 2027 intern optical engineer redondo beach ca",
+    "northrop grumman 2027 intern product support data scientist",
     "northrop grumman 2027 intern software engineer",
     "northrop grumman 2027 intern survivability engineer",
     "northrop grumman 2027 intern systems engineering",
