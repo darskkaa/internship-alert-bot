@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-10-31T16:42:14.238840+00:00",
+  "last_checked_utc": "2026-10-31T17:32:21.159396+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1935,6 +1935,7 @@
     "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Data-Analytics---Business-Operations-Spring-Co-Op-or-Summer-Intern--Bachelor-s-Master-s--Austin--TX-_R2626381",
     "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242",
     "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Summer-Mechanical-Engineer-Intern---BS-or-MS--Austin--TX-_R2630826",
+    "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op--Billerica--MA-_R2631535-1",
     "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Summer-2027-Mechanical-Engineering-Intern--Bachelor-s--Chandler--AZ-_R2628770",
     "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Summer-2027-Supplier-Engineer-Intern--Bachelor-s--Chandler--AZ-_R2627698",
     "https://amat.wd1.myworkdayjobs.com/External/job/FagareITA/Mechanical-Engineer--Intern-_R2626998",
@@ -16995,6 +16996,7 @@
     "applied materials 2027 software engineering intern masters santa clara ca",
     "applied materials 2027 spring data scientist coop gloucester ma",
     "applied materials 2027 spring electrical engineer controls pcb coop bs or ms gloucester ma",
+    "applied materials 2027 spring electrical engineer coop billerica ma",
     "applied materials 2027 spring mechanical engineer coop gloucester ma",
     "applied materials 2027 spring product quality engineer coop bachelors gloucester ma",
     "applied materials 2027 summer electrical engineer intern controlspcb bs or ms gloucester ma",
@@ -26550,6 +26552,7 @@
     "job:workday:amat:xmlname-2027-manufacturing-engineer-summer-internship--bachelors-austin--tx-_r2626242",
     "job:workday:amat:xmlname-2027-software-engineering-intern--masters---santa-clara--ca-_r2628265",
     "job:workday:amat:xmlname-2027-spring-data-scientist-co-op---gloucester--ma_r2632146",
+    "job:workday:amat:xmlname-2027-spring-electrical-engineer-co-op--billerica--ma-_r2631535-1",
     "job:workday:amat:xmlname-2027-spring-electrical-engineer-co-op-bs-or-ms--gloucester--ma-_r2628288-1",
     "job:workday:amat:xmlname-2027-spring-mechanical-engineer-co-op--gloucester-ma-_r2628290",
     "job:workday:amat:xmlname-2027-spring-product-quality-engineer-co-op----bachelor-s--gloucester--ma-_r2628291",
