@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-01T19:32:28.472129+00:00",
+  "last_checked_utc": "2026-11-01T23:32:15.806120+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4720,6 +4720,7 @@
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606636",
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606637",
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606843",
+    "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607033",
     "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334344",
     "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334345",
     "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334396",
@@ -24918,6 +24919,7 @@
     "job:oracle:eedu.fa.em3.oraclecloud.com:202606636",
     "job:oracle:eedu.fa.em3.oraclecloud.com:202606637",
     "job:oracle:eedu.fa.em3.oraclecloud.com:202606843",
+    "job:oracle:eedu.fa.em3.oraclecloud.com:202607033",
     "job:oracle:eeho.fa.us2.oraclecloud.com:334344",
     "job:oracle:eeho.fa.us2.oraclecloud.com:334345",
     "job:oracle:eeho.fa.us2.oraclecloud.com:334396",
@@ -39816,6 +39818,7 @@
     "wtw early careers corporate risk and broking crb internship mahoney placement multiple locations 2027",
     "wtw early careers corporate risk and broking crb internship risk analytics core new york 2027",
     "wtw early careers corporate risk and broking crb internship risk analytics enterprise risk consulting new york 2027",
+    "wtw early careers corporate risk and broking internship financial solutions trade credit new york 2027",
     "wtw early careers health equity and wellbeing hew internship new york summer 2027",
     "wtw early careers intern conversion corporate risk and broking risk analytics enterprise risk consulting 2027",
     "wtw early careers intern conversion only corporate risk and broking crb graduate development program analyst broking placement multiple locations 2027",
