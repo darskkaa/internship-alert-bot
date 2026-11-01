@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-01T19:22:20.265238+00:00",
+  "last_checked_utc": "2026-11-01T19:32:28.472129+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8905,6 +8905,7 @@
     "https://job-boards.greenhouse.io/knowbe4/jobs/8871835002",
     "https://job-boards.greenhouse.io/knowbe4/jobs/8903101002",
     "https://job-boards.greenhouse.io/knowbe4/jobs/8919274002",
+    "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
     "https://job-boards.greenhouse.io/later/jobs/8604889002",
     "https://job-boards.greenhouse.io/later/jobs/8643138002",
     "https://job-boards.greenhouse.io/later/jobs/8802804002",
@@ -24497,6 +24498,7 @@
     "job:greenhouse:8911245002",
     "job:greenhouse:8911276002",
     "job:greenhouse:8919274002",
+    "job:greenhouse:8919280002",
     "job:greenhouse:8919606002",
     "job:greenhouse:8924241002",
     "job:lever:00fbde18-a387-4c9f-97d4-77059aec7b56",
@@ -33658,6 +33660,7 @@
     "knowbe4 associate product manager intern hybrid",
     "knowbe4 associate product manager summer internship hybrid",
     "knowbe4 software engineer intern remote",
+    "knowbe4 software engineer summer internship",
     "koch industries business analytics insights intern",
     "koch industries data science intern",
     "koch industries digital technology data intern",
