@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-01T12:32:23.633195+00:00",
+  "last_checked_utc": "2026-11-01T18:42:19.390826+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13980,6 +13980,8 @@
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Denver-CO/Internship--Supervision-and-Risk-Management--SRM---Summer-2027--Denver_R-0000033268",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Detroit-MI/Summer-2027-Intern-Business-Analytics--Supply-Chain-Management---Detroit_R-0000033945",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Kansas-City-MO/Internship--Supervision-and-Risk-Management--SRM---Summer-2027--Kansas-City_R-0000033269-1",
+    "https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Undergraduate-Intern---Research-Focus_R-0000033978-1",
+    "https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Undergraduate-Intern---Technology-Focus_R-0000033975-1",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern----Research-Group---Junior-Intern_R-0000033023",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern---Technology-Group---Junior_R-0000033072",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Oklahoma-City-OK/Internship--Supervision-and-Risk-Management--SRM---Summer-2027--Oklahoma-City_R-0000033264-1",
@@ -31911,6 +31913,8 @@
     "job:workday:rb:summer-2027-intern-networking-and-computer-engineering_r-0000033610",
     "job:workday:rb:summer-intern--digital-money-and-payments-research---development_r-0000033442",
     "job:workday:rb:ts---application-security-intern---2027_r-0000033625",
+    "job:workday:rb:undergraduate-intern---research-focus_r-0000033978-1",
+    "job:workday:rb:undergraduate-intern---technology-focus_r-0000033975-1",
     "job:workday:rb:xmlname-2027-intern---credit--risk-and-reserves-management_r-0000033579",
     "job:workday:rb:xmlname-2027-intern---economic-research_r-0000033590",
     "job:workday:rb:xmlname-2027-intern---mac-mobile_r-0000033714",
@@ -38562,6 +38566,8 @@
     "the federal reserve system summer intern digital money and payments research development",
     "the federal reserve system technical intern federal reserve national it",
     "the federal reserve system ts application security intern 2027",
+    "the federal reserve system undergraduate intern research focus",
+    "the federal reserve system undergraduate intern technology focus",
     "the friedkin group it data analytics intern business systems ai",
     "the hartford 2027 summer intern rotational it operations risk and fund treasury",
     "the hartford data engineer intern tech data program",
