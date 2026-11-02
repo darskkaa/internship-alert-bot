@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-02T09:42:33.253840+00:00",
+  "last_checked_utc": "2026-11-02T10:02:40.629265+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14221,6 +14221,7 @@
     "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Product-Technical-Development---Engineering-and-Manufacturing-Focus_202610-126831-1",
     "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Product-Technical-Development---Laboratory--Wet-Lab-or-Dry-Lab--Focus_202610-126499",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Device-Engineering-Intern--Basel--12-months-_202610-127712",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-AI-for-Laboratory-Automation--Pharma-Research---Early-Development-_202610-125772",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Portfolio-Strategy-and-Insights-Interns--Basel--up-to-12-months-_202606-116569-1",
@@ -32112,6 +32113,7 @@
     "job:workday:roberthalf:san-francisco-legal--risk-and-compliance-intern---2027_jr-258821",
     "job:workday:roche:data-science-industrial-placement---multiple-roles-within-biostats--data-management--real-world-data-and-more_202609-122536",
     "job:workday:roche:data-science-intern---master-thesis-student--basel--6-monate-_202609-124516",
+    "job:workday:roche:device-engineering-intern--basel--12-months-_202610-127712",
     "job:workday:roche:enterprise-master-data-management---intern_202609-124194",
     "job:workday:roche:field-service-assistant-engineer-intern_202610-126627",
     "job:workday:roche:industrial-placement-student-cs-coe-ddc-data-capability_202610-124915",
@@ -36886,6 +36888,7 @@
     "roche computer science industrial placement student intern data capability",
     "roche data science intern master thesis student basel 6 monate",
     "roche data science intern multiple teams",
+    "roche device engineering intern basel 12 months",
     "roche enterprise master data management intern",
     "roche field service assistant engineer intern",
     "roche intern data analytics specialist",
