@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-02T12:12:12.416004+00:00",
+  "last_checked_utc": "2026-11-02T12:22:32.676829+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4901,6 +4901,7 @@
     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293?utm_source=Simplify&ref=Simplify",
     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279306",
     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379",
+    "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279603",
     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952",
     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280112",
     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280113",
@@ -25077,6 +25078,7 @@
     "job:oracle:egup.fa.us2.oraclecloud.com:20279293",
     "job:oracle:egup.fa.us2.oraclecloud.com:20279306",
     "job:oracle:egup.fa.us2.oraclecloud.com:20279379",
+    "job:oracle:egup.fa.us2.oraclecloud.com:20279603",
     "job:oracle:egup.fa.us2.oraclecloud.com:20279952",
     "job:oracle:egup.fa.us2.oraclecloud.com:20280112",
     "job:oracle:egup.fa.us2.oraclecloud.com:20280113",
@@ -39437,6 +39439,7 @@
     "vertiv electrical engineering intern product architecture summer 2027",
     "vertiv energy storage product management intern",
     "vertiv energy storage product management intern summer 2027",
+    "vertiv engineering internship lab focus summer 2027",
     "vertiv firmware engineer intern summer 2027",
     "vertiv innovation lab engineer intern 1",
     "vertiv innovation lab engineering intern 2",
