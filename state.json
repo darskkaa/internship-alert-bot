@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-02T16:22:30.760652+00:00",
+  "last_checked_utc": "2026-11-02T16:32:29.051106+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3967,6 +3967,7 @@
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN05-CCS-Charlotte-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Systems-Engineering-Intern---Summer_30220432",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Spring_30220992",
+    "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220093",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220247",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220771",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161",
@@ -27599,6 +27600,7 @@
     "job:workday:carrier:general-engineering-intern---summer_30220419-2",
     "job:workday:carrier:intern--chemmtrlsengrg_30220163",
     "job:workday:carrier:mechanical-engineering-intern---spring_30220992",
+    "job:workday:carrier:mechanical-engineering-intern---summer_30220093",
     "job:workday:carrier:mechanical-engineering-intern---summer_30220247",
     "job:workday:carrier:mechanical-engineering-intern---summer_30220771",
     "job:workday:carrier:new-product-development-engineering-intern---summer_30220948",
