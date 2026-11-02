@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-02T21:52:24.349430+00:00",
+  "last_checked_utc": "2026-11-02T22:12:22.368206+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11822,6 +11822,7 @@
     "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403",
     "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Data-Science---Oncology_2630590",
+    "https://labcorp.wd1.myworkdayjobs.com/external/job/Bloomfield-CT/Intern---Mechanical-Engineer_2632739-1",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern----Data-Analytics_2637085",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Flow-Cytometry-Scientist_2634673",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Histology-Scientist_2635684-1",
@@ -30566,6 +30567,7 @@
     "job:workday:labcorp:intern---flow-cytometry-scientist_2634673",
     "job:workday:labcorp:intern---histology-scientist_2635684-1",
     "job:workday:labcorp:intern---it-product-manager_2632185",
+    "job:workday:labcorp:intern---mechanical-engineer_2632739-1",
     "job:workday:labcorp:intern---network-infrastructure---automation-engineering_2632795",
     "job:workday:labcorp:intern---software-developer_2632330",
     "job:workday:labcorp:intern---workload-analytics-and-dashboard-development-analyst_2634601",
@@ -34046,6 +34048,7 @@
     "labcorp intern facilities engineering",
     "labcorp intern flow cytometry scientist",
     "labcorp intern histology scientist",
+    "labcorp intern mechanical engineer",
     "labcorp intern network infrastructure automation engineering",
     "labcorp intern software developer",
     "labcorp intern workload analytics and dashboard development analyst",
