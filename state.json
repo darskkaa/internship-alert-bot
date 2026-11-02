@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-02T09:12:09.185153+00:00",
+  "last_checked_utc": "2026-11-02T09:22:18.523737+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1650,6 +1650,7 @@
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship---Customer-Services---Digital-Transformation-for-Repair-Engineering_JR10449936",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship---Electrical-Hybrid-Systems--F-M-_JR10451223",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship---Flight-Data-Analysis-and-IA_JR10450784",
+    "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship---Supply-Chain-Disruption---Obsolescence-Anticipation-Engineer_JR10454677",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027-----Cybersecurity-CTI_JR10450775",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship-2027----AI---Data-Engineering---Automated-Technical-Knowledge-Extraction_JR10447326",
@@ -16324,6 +16325,7 @@
     "airbus atr internship electrical hybrid systems fm",
     "airbus atr internship flight data analysis and ia",
     "airbus atr internship geospatial data science fm",
+    "airbus atr internship supply chain disruption obsolescence anticipation engineer",
     "airbus cyber security internships 2027",
     "airbus hardware engineering apprentice",
     "airbus intern backend developer",
@@ -26283,6 +26285,7 @@
     "job:workday:ag:atr---internship---customer-services---digital-transformation-for-repair-engineering_jr10449936",
     "job:workday:ag:atr---internship---electrical-hybrid-systems--f-m-_jr10451223",
     "job:workday:ag:atr---internship---flight-data-analysis-and-ia_jr10450784",
+    "job:workday:ag:atr---internship---supply-chain-disruption---obsolescence-anticipation-engineer_jr10454677",
     "job:workday:ag:atr---internship--geospatial-data-science--f-m-_jr10448360",
     "job:workday:ag:atr---internship-2027-----cybersecurity-cti_jr10450775",
     "job:workday:ag:atr---internship-2027----aerodynamics-engineer-h-f_jr10450441",
