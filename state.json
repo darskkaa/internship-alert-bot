@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-02T11:22:33.126419+00:00",
+  "last_checked_utc": "2026-11-02T11:32:20.104662+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2759,6 +2759,7 @@
     "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381",
     "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731",
     "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
+    "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Retail--Business-and-Customer-Banking-Summer-Internship-Programme-Northampton_JR-0000129105",
     "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Northampton_JR-0000129431",
     "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379",
     "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236",
@@ -17557,6 +17558,7 @@
     "barclays 2027 operations analyst summer internship programme glasgow",
     "barclays 2027 operations analyst summer internship programme knutsford",
     "barclays 2027 operations analyst summer internship programme london",
+    "barclays 2027 retail business and customer banking summer internship programme northampton",
     "barclays 2027 technology developer summer internship programme london",
     "barclays chief client office client data engineering group summer internship program 2027 new york city",
     "barclays client data and engineering group internship",
@@ -27143,6 +27145,7 @@
     "job:workday:barclays:xmlname-2027-operations-analyst-summer-internship-programme-glasgow_jr-0000129111",
     "job:workday:barclays:xmlname-2027-operations-analyst-summer-internship-programme-knutsford_jr-0000129124",
     "job:workday:barclays:xmlname-2027-operations-analyst-summer-internship-programme-london_jr-0000129118",
+    "job:workday:barclays:xmlname-2027-retail--business-and-customer-banking-summer-internship-programme-northampton_jr-0000129105",
     "job:workday:barclays:xmlname-2027-technology-developer-degree-apprenticeship-programme-knutsford_jr-0000129443",
     "job:workday:barclays:xmlname-2027-technology-developer-summer-internship-program-whippany_jr-0000123234",
     "job:workday:barclays:xmlname-2027-technology-developer-summer-internship-programme-knutsford_jr-0000129381",
