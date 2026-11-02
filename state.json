@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-02T18:02:44.364282+00:00",
+  "last_checked_utc": "2026-11-02T18:22:20.046306+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11785,6 +11785,7 @@
     "https://labcorp.wd1.myworkdayjobs.com/external/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Flow-Cytometry-Scientist_2634673",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Histology-Scientist_2635684-1",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Workload-Analytics-and-Dashboard-Development-Analyst_2634601",
+    "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---AWS-PostgreSQL-Database-Administrator_2632108",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Facilities---Engineering_2635310",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185",
@@ -30437,6 +30438,7 @@
     "job:workday:kyndryl:marketing-internship--marketing-analysis_r-70007-1",
     "job:workday:kyndryl:marketing-internship--marketing-analytics_r-69403",
     "job:workday:kyndryl:marketing-internship--marketing-analytics_r-69404",
+    "job:workday:labcorp:co-op---full-stack-life-sciences-engineer_2639083",
     "job:workday:labcorp:intern----data-analytics_2637085",
     "job:workday:labcorp:intern---aws-postgresql-database-administrator_2632108",
     "job:workday:labcorp:intern---commercial-analytics_2633615",
@@ -33892,6 +33894,7 @@
     "l3harris technologies integration and test engineer intern",
     "l3harris technologies software engineer intern",
     "labcorp commercial analytics intern edchemistry solutions commercial analytics team",
+    "labcorp coop fullstack life sciences engineer",
     "labcorp financial analytics technology intern financial analytics team",
     "labcorp intern aws postgresql database administrator",
     "labcorp intern data analytics",
