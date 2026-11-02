@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-02T21:32:20.282797+00:00",
+  "last_checked_utc": "2026-11-02T21:42:26.097247+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11865,6 +11865,7 @@
     "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Cybersecurity-Intern_R-00195531",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00193937",
+    "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Administration-Intern_R-00195528",
@@ -30593,6 +30594,7 @@
     "job:workday:leidos:data-engineering---analytics-intern_r-00194635",
     "job:workday:leidos:data-science-intern_r-00190740",
     "job:workday:leidos:data-science-intern_r-00193937",
+    "job:workday:leidos:data-science-intern_r-00196049",
     "job:workday:leidos:electrical-design-engineering-intern_r-00195400",
     "job:workday:leidos:electrical-hardware-design-engineering-intern_r-00193394",
     "job:workday:leidos:electrical-hardware-design-engineering-intern_r-00193413",
