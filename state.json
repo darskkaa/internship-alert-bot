@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-02T07:42:20.626524+00:00",
+  "last_checked_utc": "2026-11-02T09:12:09.185153+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12850,6 +12850,7 @@
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---HBO-WO-Business-administration-or-Data-Analytics---Intellectual-Property_R421707-1",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---Life-Sciences-Molecular-Virology---Discovery---Technology_R423484-2",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---Master-Statistics-Bioinformatics--Global-Statistics-and-Data-Management_R424236-1",
+    "https://msd.wd5.myworkdayjobs.com/searchjobs/job/TUR---Ankara---Ankara-KMDB/Clinical-Research-Intern_R424417",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Translational-Sciences-and-Outsourcing---Intern_R413062",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Optical-Imaging-Data-Science-Intern---Intern_R412885",
@@ -30997,6 +30998,7 @@
     "job:workday:mpc:process-engineer-1_00022582",
     "job:workday:mpc:process-optimization-engineer-i---midstream-natural-gas---ngl-services--intern-to-full-time-conversion-_00024744",
     "job:workday:mpc:refining-chemical-engineering-intern-co-op-summer-2027_00024022",
+    "job:workday:msd:clinical-research-intern_r424417",
     "job:workday:msd:engineering-department-intern_r411420",
     "job:workday:msd:intern---bsc--hlo--or-msc-biology--life-sciences---poultry-r-d_r422847-1",
     "job:workday:msd:intern---formulation----discovery-and-technology-research_r421952-1",
@@ -34388,6 +34390,7 @@
     "merck 2027 future talent program translational sciences and outsourcing intern",
     "merck 2027 future talent program vaccine manufacturing automation coop",
     "merck business intelligence intern research lab",
+    "merck clinical research intern",
     "merck computational toxicology intern aiml computational toxicology",
     "merck coop",
     "merck data analytics and insights intern",
