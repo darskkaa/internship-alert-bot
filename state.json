@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-02T17:12:23.026544+00:00",
+  "last_checked_utc": "2026-11-02T17:22:25.414339+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5519,6 +5519,7 @@
     "https://fenwick.wd1.myworkdayjobs.com/Fenwick_External_Careers/job/Silicon-Valley/AI-Enablement-Intern_R2987-1",
     "https://fenwick.wd1.myworkdayjobs.com/Fenwick_External_Careers/job/Silicon-Valley/Forward-Deployed-Operations-Intern_R2964",
     "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/VALOR-VetTech-Electrical-Internship---Summer-2027_R_009825",
+    "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Lead-SD/LBNF-DUNE-Internship-in-South-Dakota_R_010100",
     "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Murfreesboro-TN/Webber---Field-Engineer-Intern-II---Infrastructure-Management_JR19990",
     "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076",
     "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073",
@@ -19936,6 +19937,7 @@
     "felix magazine web developerprogrammer internvolunteer",
     "fenwick west ai enablement intern",
     "fenwick west forward deployed operations intern",
+    "fermilab lbnfdune in south dakota ii engineering internship",
     "fermilab valor vettech electrical internship summer 2027",
     "ferrovial webber field engineer intern ii infrastructure management",
     "fg business intelligence intern",
@@ -28344,6 +28346,7 @@
     "job:workday:fau:data-analyst-internship_req23060",
     "job:workday:fenwick:ai-enablement-intern_r2987-1",
     "job:workday:fenwick:forward-deployed-operations-intern_r2964",
+    "job:workday:fermilab:lbnf-dune-internship-in-south-dakota_r_010100",
     "job:workday:fermilab:valor-vettech-electrical-internship---summer-2027_r_009825",
     "job:workday:ferrovial:webber---field-engineer-intern-ii---infrastructure-management_jr19990",
     "job:workday:ffive:software-development-engineer-intern--san-jose--ca-_rp1039076",
