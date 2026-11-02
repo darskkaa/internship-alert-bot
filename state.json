@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-01T23:42:03.151182+00:00",
+  "last_checked_utc": "2026-11-02T03:52:21.797997+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5740,6 +5740,8 @@
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Queretaro/Materials-Application-Engineer-Intern_R5037702-1",
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Queretaro/Security-Intern_R5040750",
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Queretaro/Systems-Product-definition-intern_R5037674-2",
+    "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1",
+    "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042294-1",
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1",
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Springdale/Inspection-Engineering-Intern---Summer-2027_R5040956-1",
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Subang/IT-Support-Intern_R5038715-1",
@@ -20184,6 +20186,7 @@
     "gcm grosvenor fund data reporting and analytics intern",
     "gcm grosvenor software engineer intern",
     "ge aerospace applied ai intern",
+    "ge aerospace artificial intelligence intern",
     "ge aerospace data science and ai digital technology intern",
     "ge aerospace digital technology intern multiple teams",
     "ge aerospace digital technology intern summer 2027",
@@ -28392,6 +28395,8 @@
     "job:workday:gdit:technical-intern--seasonal-_rq230257",
     "job:workday:gdit:xmlname-2027-summer-intern---defense-agencies--cybersecurity-_rq230273",
     "job:workday:gdit:xmlname-2027-summer-intern---defense-angencies--ai-ml-_rq230275",
+    "job:workday:geaerospace:artificial-intelligence-intern_r5042291-1",
+    "job:workday:geaerospace:artificial-intelligence-intern_r5042294-1",
     "job:workday:geaerospace:data-science-and-ai-digital-technology-intern_r5041604-1",
     "job:workday:geaerospace:digital-technology-intern---us---summer-2027---returning-students_r5030092-2",
     "job:workday:geaerospace:eid-intern---fluids-systems_r5038310-1",
