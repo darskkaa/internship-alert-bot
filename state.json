@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-03T00:12:20.198950+00:00",
+  "last_checked_utc": "2026-11-03T00:32:19.125466+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6578,6 +6578,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874928",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineer-Intern_01884409",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Co-op_01884435",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Intern--St-Petersburg--FL--Onsite-_01886197",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-BELLEVUE-186--1500-State-St--STATE/Electrical-Engineering-for-Manufacturing-Co-op--Spring-Summer-2027-_01876808",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-BELLEVUE-186--1500-State-St--STATE/Industrial-Engineering-Co-op--Spring-Summer-2027-_01876770",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253",
@@ -29567,6 +29568,7 @@
     "job:workday:globalhr:systems-engineering-intern--onsite-_01869271-1",
     "job:workday:globalhr:systems-engineering-intern--onsite_01874541",
     "job:workday:globalhr:systems-engineering-intern--saoc-seit--onsite-_01883007",
+    "job:workday:globalhr:systems-engineering-intern--st-petersburg--fl--onsite-_01886197",
     "job:workday:globalhr:systems-engineering-intern--summer-2027-_01870304",
     "job:workday:globalhr:systems-engineering-intern--summer-2027-_01873116",
     "job:workday:globalhr:systems-engineering-intern--summer-2027-_01879193",
@@ -37811,6 +37813,7 @@
     "rtx systems engineering intern cnsonsite",
     "rtx systems engineering intern onsite",
     "rtx systems engineering intern saoc seit onsite",
+    "rtx systems engineering intern st petersburg fl onsite",
     "rtx systems engineering intern summer 2027",
     "rtx systems engineering intern weather radar",
     "rtx systems engineering internonsite",
