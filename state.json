@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-03T22:02:30.663046+00:00",
+  "last_checked_utc": "2026-11-03T22:22:26.230228+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12935,6 +12935,7 @@
     "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Platform-Biology-Integration_R19890",
     "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Research-Analytics_R19899",
     "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Research-Engineering-and-AI-Integration_R19893",
+    "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20128",
     "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Intern--Data-Management_R20100",
     "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Automation--Digital-Manufacturing---Controls_R19951",
     "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Compliance-and-Data-QC_R19862",
@@ -31544,6 +31545,7 @@
     "job:workday:modernatx:co-op--research-analytics_r19899",
     "job:workday:modernatx:co-op--research-engineering-and-ai-integration_r19893",
     "job:workday:modernatx:intern--biometrics_r19865",
+    "job:workday:modernatx:xmlname-2027-co-op--mrna-design-engineering_r20128",
     "job:workday:modernatx:xmlname-2027-intern--data-management_r20100",
     "job:workday:modmed:software-engineering-intern_r5148",
     "job:workday:momentive:global-quality-management-system-intern_r9755",
@@ -35378,6 +35380,7 @@
     "mks instruments business intelligencedata analytics intern",
     "modal machine learning research intern",
     "modal ml research intern",
+    "moderna 2027 coop mrna design engineering",
     "moderna 2027 intern data management",
     "moderna applied technologies intern",
     "moderna biometrics intern",
