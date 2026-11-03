@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-03T15:02:38.457328+00:00",
+  "last_checked_utc": "2026-11-03T15:22:31.867460+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4909,6 +4909,7 @@
     "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013825",
     "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224",
     "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552",
+    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722",
     "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015817",
     "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016035",
     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351",
@@ -16986,6 +16987,7 @@
     "american express campus undergraduate summer internship program 2027 software engineer enterprise technology services charlotte nc",
     "american express campus undergraduate summer internship program 2027 software engineer enterprise technology services phoenix az",
     "american express campus undergraduate summer internship program 2027 software engineer enterprise technology services salt lake city ut",
+    "american express campus undergraduate summer internship program 2027 software engineer enterprise technology services sunnyvale ca",
     "american express campus undergraduate summer internship program 2027 software engineer enterprise technology services sunrise fl",
     "american express campus undergraduate summer internship program 2027 software engineer i enterprise technology services phoenix az",
     "american express campus undergraduate summer internship program 2027 software engineer technology new york ny",
@@ -25422,6 +25424,7 @@
     "job:oracle:egug.fa.us2.oraclecloud.com:26013825",
     "job:oracle:egug.fa.us2.oraclecloud.com:26014224",
     "job:oracle:egug.fa.us2.oraclecloud.com:26015552",
+    "job:oracle:egug.fa.us2.oraclecloud.com:26015722",
     "job:oracle:egug.fa.us2.oraclecloud.com:26015817",
     "job:oracle:egug.fa.us2.oraclecloud.com:26016035",
     "job:oracle:egup.fa.us2.oraclecloud.com:20270351",
