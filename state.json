@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-03T06:02:28.065565+00:00",
+  "last_checked_utc": "2026-11-03T07:42:14.257663+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7017,6 +7017,7 @@
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Early-Careers---Security-Engineering-Senior-Intern_R0059512",
     "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Early-Careers---Technology-Delivery-Analyst-Intern_R0059494",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505878",
+    "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506292",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506307",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506420",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468",
@@ -25794,6 +25795,7 @@
     "job:oracle:hckz.fa.us2.oraclecloud.com:9097",
     "job:oracle:hckz.fa.us2.oraclecloud.com:9147",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2505878",
+    "job:oracle:hctz.fa.us2.oraclecloud.com:2506292",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506307",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506420",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506468",
@@ -36249,6 +36251,7 @@
     "onsemi customer operations data analyst intern",
     "onsemi data and visualization intern",
     "onsemi device characterization engineer intern",
+    "onsemi device characterization intern",
     "onsemi fall 2026 ai data analytics intern",
     "onsemi fall 2026 tax ai and automation intern",
     "onsemi integrated circuit design engineer intern",
