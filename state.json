@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-03T08:12:25.398139+00:00",
+  "last_checked_utc": "2026-11-03T08:22:42.580545+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6566,6 +6566,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/XMLNAME-24K-Customer-Technical-Service-Engineering-Intern--Summer-2027--Onsite-_01875003",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/Application-Portfolio-Support-Intern--Summer-2027-_01879981",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Digital-Technology-Vendor-Management-Co-op--REMOTE-_01878154",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Cybersecurity-Engineering-Intern--Summer-2027-_01876185",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Intern--Summer-2027-_01876761",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Project-Engineering-Intern--Summer-2027-_01872437",
@@ -29305,6 +29306,7 @@
     "job:workday:globalhr:compression-systems-engineering---structures-engineer-intern--summer-2027--hybrid-_01881393",
     "job:workday:globalhr:control-diagnostic-system-co-op--january-2027---hybrid-_01872887",
     "job:workday:globalhr:cyber-research-internship--summer-2027----onsite_01872177",
+    "job:workday:globalhr:cybersecurity-engineering-intern--summer-2027-_01876185",
     "job:workday:globalhr:data-analytics---reporting-intern--summer-2027-_01874271",
     "job:workday:globalhr:data-science-engineering-co-op--january-2027---hybrid-_01883759",
     "job:workday:globalhr:design-engineering-intern--summer-2027-_01878061",
@@ -37836,6 +37838,7 @@
     "rtx rse systems engineering intern 2027 onsite",
     "rtx secure software intern",
     "rtx secure software intern summer 2027",
+    "rtx secure system engineering intern summer 2027",
     "rtx soa platform systems futures springsummer coop",
     "rtx software development intern",
     "rtx software development intern summer 2027",
