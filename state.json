@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-03T18:42:44.869892+00:00",
+  "last_checked_utc": "2026-11-03T18:52:23.393938+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13208,6 +13208,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern--Redondo-Beach-CA_R10258121",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern--Redondo-Beach-CA_R10258125",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Electrical-Engineer-Intern--Redondo-Beach-CA_R10258128",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Intern-Optical-Engineer---Redondo-Beach-CA_R10254063",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-mechanical-Engineer-Intern--Redondo-Beach-CA_R10258669",
@@ -31757,6 +31758,7 @@
     "job:workday:ngc:xmlname-2027-engineering-intern--software-mission-assurance-quality----chandler-az_r10258848",
     "job:workday:ngc:xmlname-2027-engineering-internship--dulles-va---baltimore-md-_r10256270",
     "job:workday:ngc:xmlname-2027-flight-software-engineer-intern---redondo-beach-ca_r10259032",
+    "job:workday:ngc:xmlname-2027-ground-software-engineer-intern---redondo-beach-ca_r10259057",
     "job:workday:ngc:xmlname-2027-h-w-electronics-engineering-intern---annapolis-md_r10254689-1",
     "job:workday:ngc:xmlname-2027-h-w-mechanical-engineering-intern---annapolis-md_r10254668",
     "job:workday:ngc:xmlname-2027-hardware-electronics-engineer-intern---rolling-meadows-il_r10252779-1",
@@ -35939,6 +35941,7 @@
     "northrop grumman 2027 engineering internship dulles va baltimore md",
     "northrop grumman 2027 engineering software tool development intern field engineering baltimore md",
     "northrop grumman 2027 flight software engineer intern redondo beach ca",
+    "northrop grumman 2027 ground software engineer intern redondo beach ca",
     "northrop grumman 2027 hardware electronics engineer intern rolling meadows il",
     "northrop grumman 2027 hardware mechanical engineer intern rolling meadows il",
     "northrop grumman 2027 hw electronics engineering intern annapolis md",
