@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-03T13:22:11.728966+00:00",
+  "last_checked_utc": "2026-11-03T13:32:27.571402+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15541,6 +15541,7 @@
     "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784",
     "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Dover-DE/Summer-2027-Engineering-Intern_R-101209",
     "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Fort-Worth-TX/Geotechnical-Engineer-Intern_R-101118-1",
+    "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Grand-Rapids-MI/Electrical-Engineer-Intern_R-101302",
     "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Holden-MA/Mechanical-Engineer-Summer-Intern_R-101230",
     "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Remote-TX/Data-Analytics-Intern-Summer-2027_R-101128",
     "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Syracuse-NY/Data-Analytics-and-GIS-Intern_R-101135",
@@ -33586,6 +33587,7 @@
     "job:workday:vanguard:grace-hopper---it-internship-co-op---entry-level-full-time-opportunities_182923",
     "job:workday:vanguard:xmlname-2027-spring-summer-co-op-opportunities---dallas_182410",
     "job:workday:verdantas:data-analytics-and-gis-intern_r-101135",
+    "job:workday:verdantas:electrical-engineer-intern_r-101302",
     "job:workday:verdantas:geotechnical-engineer-intern_r-101118-1",
     "job:workday:verdantas:mechanical-engineer-summer-intern_r-101230",
     "job:workday:verdantas:summer-2027-engineering-intern_r-101159",
@@ -39987,6 +39989,7 @@
     "vercel software engineering intern winter 27",
     "verdantas data analytics and gis intern",
     "verdantas data analytics intern",
+    "verdantas electrical engineer intern",
     "verdantas geotechnical engineer intern",
     "verdantas mechanical engineer summer intern",
     "verdantas summer 2027 engineering intern",
