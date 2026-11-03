@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-03T21:32:30.687887+00:00",
+  "last_checked_utc": "2026-11-03T21:42:32.955791+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5087,6 +5087,7 @@
     "https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Iowa/Intern--Claims--Data-_R6552-1",
     "https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Iowa/Intern--Data-Science_R6524",
     "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548",
+    "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Cybersecurity-Intern_R6590-2",
     "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern---Software-Engineering_R6557",
     "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Data-_R6552",
     "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Property-_R6553",
@@ -28663,6 +28664,7 @@
     "job:workday:emcins:claims-intern---worker-s-compensation_r6548",
     "job:workday:emcins:claims-intern---worker-s-compensation_r6548-1",
     "job:workday:emcins:cybersecurity-intern_r6590",
+    "job:workday:emcins:cybersecurity-intern_r6590-2",
     "job:workday:emcins:intern---software-engineering_r6557",
     "job:workday:emcins:intern---software-engineering_r6557-1",
     "job:workday:emcins:intern--claims--data-_r6552",
