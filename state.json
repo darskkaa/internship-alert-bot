@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-03T18:22:29.108599+00:00",
+  "last_checked_utc": "2026-11-03T18:32:50.091241+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13191,6 +13191,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2026-Mechanical-Engineer-Intern---Manhattan-Beach-CA_R10255821",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Engineering-Intern---Manhattan-Beach--CA---Evergreen-_R10253708",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Electrical-Engineer-Intern--McClellan-CA_R10255116",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
@@ -31750,6 +31751,7 @@
     "job:workday:ngc:xmlname-2027-engineering-intern--me-ee-----wallops-va_r10256585",
     "job:workday:ngc:xmlname-2027-engineering-intern--software-mission-assurance-quality----chandler-az_r10258848",
     "job:workday:ngc:xmlname-2027-engineering-internship--dulles-va---baltimore-md-_r10256270",
+    "job:workday:ngc:xmlname-2027-flight-software-engineer-intern---redondo-beach-ca_r10259032",
     "job:workday:ngc:xmlname-2027-h-w-electronics-engineering-intern---annapolis-md_r10254689-1",
     "job:workday:ngc:xmlname-2027-h-w-mechanical-engineering-intern---annapolis-md_r10254668",
     "job:workday:ngc:xmlname-2027-hardware-electronics-engineer-intern---rolling-meadows-il_r10252779-1",
@@ -35929,6 +35931,7 @@
     "northrop grumman 2027 engineering intern softwaremission assurancequality chandler az",
     "northrop grumman 2027 engineering internship dulles va baltimore md",
     "northrop grumman 2027 engineering software tool development intern field engineering baltimore md",
+    "northrop grumman 2027 flight software engineer intern redondo beach ca",
     "northrop grumman 2027 hardware electronics engineer intern rolling meadows il",
     "northrop grumman 2027 hardware mechanical engineer intern rolling meadows il",
     "northrop grumman 2027 hw electronics engineering intern annapolis md",
