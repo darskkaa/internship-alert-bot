@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-03T17:12:39.290301+00:00",
+  "last_checked_utc": "2026-11-03T17:17:04.699550+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14384,6 +14384,7 @@
     "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955",
     "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611",
     "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879",
+    "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Voice-of-Customer---Customer-Insights-Intern_R118938",
     "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1",
     "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692",
     "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Analyst-Intern_R119377",
@@ -32667,6 +32668,7 @@
     "job:workday:relx:product-management-intern--government_r118611",
     "job:workday:relx:product-management-intern--insurance_r118879",
     "job:workday:relx:software-engineer-internship_r118692",
+    "job:workday:relx:voice-of-customer---customer-insights-intern_r118938",
     "job:workday:repsol:development-engineering-intern_83948-1",
     "job:workday:repsol:development-planning-engineering-intern_83951-1",
     "job:workday:repsol:drilling-engineering-intern---silverwind-exploration-project--summer-2027-_84059-1",
@@ -34521,6 +34523,7 @@
     "lexington medical quality systems engineering intern",
     "lexisnexis legal professional data science intern",
     "lexisnexis legal professional software engineer intern",
+    "lexisnexis risk solutions customer insights analytics intern",
     "lexisnexis risk solutions data analyst intern",
     "lexisnexis risk solutions data science fraud analytics placement intern",
     "lexisnexis risk solutions data science intern",
