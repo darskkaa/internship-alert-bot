@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-03T21:52:22.692359+00:00",
+  "last_checked_utc": "2026-11-03T22:02:30.663046+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4745,6 +4745,7 @@
     "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Missouri---Saint-Louis/Engineering-Technical-Sales-Intern_R00303114",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25012948",
+    "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25012970",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013623",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013674",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924",
@@ -4761,6 +4762,7 @@
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019143",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25007757",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012948",
+    "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012970",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25013623",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25013674",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015924",
@@ -25390,6 +25392,7 @@
     "job:oracle:ecnf.fa.us2.oraclecloud.com:301991",
     "job:oracle:edbz.fa.us2.oraclecloud.com:25007757",
     "job:oracle:edbz.fa.us2.oraclecloud.com:25012948",
+    "job:oracle:edbz.fa.us2.oraclecloud.com:25012970",
     "job:oracle:edbz.fa.us2.oraclecloud.com:25013623",
     "job:oracle:edbz.fa.us2.oraclecloud.com:25013674",
     "job:oracle:edbz.fa.us2.oraclecloud.com:25015924",
