@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-03T13:52:18.538688+00:00",
+  "last_checked_utc": "2026-11-03T14:02:37.670120+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3371,6 +3371,7 @@
     "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904",
     "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Gnie-Industriel-Manufacturier-et-Amlioration-Continue---ndustrial-Manufacturing-Engineering-and-Continuous-Improvement-Intern_123650",
     "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Student---Intern---Network-Services_123912",
+    "https://cai.wd5.myworkdayjobs.com/computer_aid/job/AZ-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8900",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/Atlanta-GA-and-surrounding-areas/Exoskeleton-Design-and-Rehabilitation-Engineering-Intern_R8691",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/Exoskeleton-Design-and-Rehabilitation-Engineering-Intern_R8818",
@@ -9628,6 +9629,7 @@
     "https://job-boards.greenhouse.io/truveta/jobs/5659745004",
     "https://job-boards.greenhouse.io/truveta/jobs/5712997004",
     "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6228304004",
+    "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236149004",
     "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004",
     "https://job-boards.greenhouse.io/usafacts/jobs/4472154009",
     "https://job-boards.greenhouse.io/uvimco/jobs/5300713008",
@@ -23952,6 +23954,7 @@
     "job:greenhouse:6227080004",
     "job:greenhouse:6228304004",
     "job:greenhouse:6232770004",
+    "job:greenhouse:6236149004",
     "job:greenhouse:6236518004",
     "job:greenhouse:6236620004",
     "job:greenhouse:6238015004",
@@ -27887,6 +27890,7 @@
     "job:workday:cai:cybersecurity-analyst-intern_r8748",
     "job:workday:cai:cybersecurity-analyst-intern_r8892",
     "job:workday:cai:cybersecurity-analyst-intern_r8893",
+    "job:workday:cai:cybersecurity-analyst-intern_r8900",
     "job:workday:cai:data-analyst-intern_r8551",
     "job:workday:cai:exoskeleton-design-and-rehabilitation-engineering-intern_r8682",
     "job:workday:cai:exoskeleton-design-and-rehabilitation-engineering-intern_r8691",
