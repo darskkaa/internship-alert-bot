@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-03T00:52:20.452580+00:00",
+  "last_checked_utc": "2026-11-03T01:22:14.812495+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12773,6 +12773,7 @@
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550",
+    "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Technical-Program-Manager--Program-Management-Office--PMO-_JR115692",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR115104",
@@ -31248,6 +31249,7 @@
     "job:workday:micron:intern---ssd-firmware_jr115209",
     "job:workday:micron:intern---ssd-firmware_jr115210",
     "job:workday:micron:intern---ssd-hardware-engineering_jr114232",
+    "job:workday:micron:intern---system-engineer--hbm_jr113469",
     "job:workday:micron:intern---technical-customer-management--ai_jr109454",
     "job:workday:micron:intern---technical-program-manager--program-management-office--pmo-_jr115692",
     "job:workday:micron:intern---ye-electrical-failure-analysis-engineer_jr114538",
@@ -35034,6 +35036,7 @@
     "micron technology intern ssd firmware",
     "micron technology intern ssd firmware cicd",
     "micron technology intern ssd hardware engineering",
+    "micron technology intern system engineer hbm",
     "micron technology intern technical customer management ai",
     "micron technology intern technical program manager program management office pmo",
     "micron technology intern ye physical failure analysis engineer",
