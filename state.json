@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T21:52:01.616277+00:00",
+  "last_checked_utc": "2026-11-04T22:02:10.235470+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11313,6 +11313,7 @@
     "https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply",
     "https://jobs.lever.co/tri/828d98d0-f914-404f-b537-5d05236128bb",
     "https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7",
+    "https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e",
     "https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8",
     "https://jobs.lever.co/tri/e67d9f3e-f731-4f66-ab87-bdc45fe45d88",
     "https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b",
@@ -25534,6 +25535,7 @@
     "job:lever:d25bf640-2b2b-48d6-ab79-8a06b246caaa",
     "job:lever:d30be600-d1cd-4579-9875-ac70c72a4426",
     "job:lever:d40446ee-40a9-4bb0-a3a8-a4a189b74630",
+    "job:lever:d4184c04-b963-489a-9a0b-91bc57d6267e",
     "job:lever:d5486403-c050-4920-b2e0-91b69b61ebb2",
     "job:lever:d67574c7-5d34-4d4b-83ae-3ef92fb77806",
     "job:lever:d69a1a62-284c-47d1-b74f-ea02dffad32f",
@@ -40373,6 +40375,7 @@
     "toyota research institute human interactive driving research intern perception for driving at the limits",
     "toyota research institute human interactive driving research intern world models",
     "toyota research institute humancentered ai research intern causal reasoning models",
+    "toyota research institute humancentered ai research intern human language models",
     "toyota research institute machine learningagentic ai intern",
     "toyota research institute robotics intern humanmachine interaction research",
     "toyota research institute robotics intern posttraining and continual learning",
