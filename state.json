@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T18:02:37.598852+00:00",
+  "last_checked_utc": "2026-11-04T18:12:14.371327+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6444,6 +6444,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Mechanical-Design-Engineering-Intern--Summer-2027-_01876146",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Test-Engineering-Intern--Summer-2027-_01872154",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Structural-Engineering-Intern--Summer-2027-_01873943",
+    "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-NM-LAS-CRUCES-12400-CUST--12400-NASA-Rd--ASFCF-CTR-External-Site/Systems-Engineering-Intern----Onsite-_01883814",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Intern--Summer-2027-_01876241",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Compression-Systems-Engineering---Structures-Engineer-Intern--Summer-2027--Hybrid-_01881393",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Electrical-Engineer-Intern--Digital-Design-for-RF---Summer-2027---Hybrid-_01881452",
@@ -11937,6 +11938,7 @@
     "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1",
     "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642700-1",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701",
+    "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Applications-Engineering-Intern_2642296",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641708",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Mechanical-Design-Engineer-Intern_2642150-1",
@@ -30033,6 +30035,7 @@
     "job:workday:globalhr:systems-engineering-co-op--january-2027---hybrid-_01879457",
     "job:workday:globalhr:systems-engineering-co-op_01884039",
     "job:workday:globalhr:systems-engineering-co-op_01884435",
+    "job:workday:globalhr:systems-engineering-intern----onsite-_01883814",
     "job:workday:globalhr:systems-engineering-intern---cns-onsite_01876809",
     "job:workday:globalhr:systems-engineering-intern--bmc2--onsite-_01885577",
     "job:workday:globalhr:systems-engineering-intern--onsite-_01869271-1",
@@ -31080,6 +31083,7 @@
     "job:workday:kla:applications-development-engineering-intern---bbp_2641507-1",
     "job:workday:kla:applications-engineering--intern_2641540",
     "job:workday:kla:applications-engineering--intern_2641540-1",
+    "job:workday:kla:applications-engineering-intern_2642296",
     "job:workday:kla:computer-vision-machine-learning-intern_2641921",
     "job:workday:kla:computer-vision-machine-learning-intern_2641921-1",
     "job:workday:kla:electrical-design-engineering-intern_2641708",
