@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T09:51:58.962303+00:00",
+  "last_checked_utc": "2026-11-04T10:02:00.493031+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5713,6 +5713,7 @@
     "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905",
     "https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135960",
     "https://fmr.wd1.myworkdayjobs.com/targeted/job/Dublin-Ireland/Fidelity-Center-for-Applied-Technology--FCAT--Innovation-Ecosystem--Europe-Internship_2137228",
+    "https://fmr.wd1.myworkdayjobs.com/targeted/job/Dublin-Ireland/Systems-Analyst-Intern_2137961",
     "https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Intern--Risk_2135245",
     "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712",
     "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713",
@@ -20369,6 +20370,7 @@
     "fidelity investments quantitative research intern strategic advisers",
     "fidelity investments strategic advisers quantitative research intern masters and phd students",
     "fidelity investments strategic advisers quantitative research intern undergrad",
+    "fidelity investments systems analyst intern",
     "fidelity investments undergraduate internship software",
     "fidelity national information services data analytics ai intern pipeline",
     "fidelity national information services data analytics and ai intern fis university program",
@@ -29013,6 +29015,7 @@
     "job:workday:fmr:quantitative-research-intern--multi-asset-systematic-research-team_2135128",
     "job:workday:fmr:strategic-advisers-quantitative-research-intern---master-s-and-phd-students_2135370",
     "job:workday:fmr:summer-2027-undergraduate-internship---software_2134524",
+    "job:workday:fmr:systems-analyst-intern_2137961",
     "job:workday:fnbcorp:summer-2026-data-management-intern---pittsburgh--pa_2026-01833",
     "job:workday:fnbcorp:summer-2027-ai-and-innovation-intern---pittsburgh--pa_2026-01811",
     "job:workday:fnbcorp:summer-2027-ai-ml-modeler-intern_2026-01851",
