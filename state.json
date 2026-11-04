@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T22:42:00.560361+00:00",
+  "last_checked_utc": "2026-11-04T23:02:09.971603+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2406,6 +2406,7 @@
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354563",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Imaging-product-engineer_J-00355220",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Product-Engineer-Computational-Model_J-00355245",
+    "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship-Optical-Modeling-and-Simulation-Engineering_J-00354940",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00355324",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-op---Optical-Engineer--Internship-_J-00354451",
@@ -17754,6 +17755,7 @@
     "asml internship software engineer in test mod",
     "asml internship software quality assurance",
     "asml internshipcoop data engineer",
+    "asml internshipoptical modeling and simulation engineering",
     "asml optical engineer coop intern",
     "asml platform software engineer in test internship",
     "aspentech data science intern",
@@ -27689,6 +27691,7 @@
     "job:workday:asml:internship--product-engineer-computational-model_j-00355245",
     "job:workday:asml:internship--software-development-engineer-in-test_j-00354459",
     "job:workday:asml:internship-co-op--data-engineer_j-00355626",
+    "job:workday:asml:internship-optical-modeling-and-simulation-engineering_j-00354940",
     "job:workday:asml:platform-software-engineer-in-test---internship-_j-00354558",
     "job:workday:aspentech:data-science-intern---summer-2027---bedford--ma_r9459",
     "job:workday:aspentech:power-system-engineering-intern---digital-grid-management---summer-2027_r9458",
