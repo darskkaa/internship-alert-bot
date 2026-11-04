@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T02:52:19.673067+00:00",
+  "last_checked_utc": "2026-11-04T03:02:14.654829+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3363,6 +3363,7 @@
     "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Silicon_R56655-1",
     "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Systems-ATX_R56800-3",
     "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/CST-Intern---Data-Center-GTM-Intern_R57099-2",
+    "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/IT-Internship--Techstop-Support-_R57021",
     "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-2",
     "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
     "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/VALBONNE-Sophia/Intern--AI-for-Silicon-Test-Data-Analytics---Failure-Analysis_R56810-1",
@@ -18690,6 +18691,7 @@
     "cadence design systems intern product validation engineering ai quality assurance qa",
     "cadence design systems intern software engineering hardware verification rd",
     "cadence design systems intern software engineering jasper rd",
+    "cadence design systems it internship techstop support",
     "cadence design systems postsilicon validation engineering intern characterization and support",
     "cadence design systems product engineering intern electronics hardware design",
     "cadence design systems product engineering internship electronics hardware design fall 2026",
@@ -28088,6 +28090,7 @@
     "job:workday:cadence:intern--software-engineering--hardware-verification-r-d_r56477",
     "job:workday:cadence:intern--software-engineering-jasper-r-d_r55530",
     "job:workday:cadence:intern-product-validation-engineering--ai-quality-assurance--qa-_r56591",
+    "job:workday:cadence:it-internship--techstop-support-_r57021",
     "job:workday:cadence:product-engineering-internship--electronics-hardware-design--fall-2026-_r54158",
     "job:workday:cadence:product-engineering-internship--electronics-hardware-design--fall-2026-_r54158-1",
     "job:workday:cadence:product-engineering-internship--electronics-hardware-design--fall-2026-_r54158-2",
