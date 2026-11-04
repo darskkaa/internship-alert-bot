@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T05:32:28.715358+00:00",
+  "last_checked_utc": "2026-11-04T06:02:15.245115+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6622,6 +6622,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineering-Intern--Summer-2027-_01872775",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Project-Engineering-Intern--Summer-2027-_01872535",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Quality-Engineering-Intern--Summer-2027-_01882452",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/XMLNAME-2027-Summer-System-Engineering-Intern--Onsite-_01878549",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Electrical-Test-Engineering-Intern--Summer-2027-_01881562",
@@ -29681,6 +29682,7 @@
     "job:workday:globalhr:intern--industrial-engineering--summer-2027-_01868424-1",
     "job:workday:globalhr:intern--manufacturing-engineering--summer-2027-_01869903",
     "job:workday:globalhr:intern--quality-engineering--summer-2027-_01868898",
+    "job:workday:globalhr:intern--summer-2027---control-diagnostic-software--onsite-_01883840",
     "job:workday:globalhr:intern--systems-engineer--onsite-_01868477",
     "job:workday:globalhr:intern--systems-engineer--onsite-_01868496",
     "job:workday:globalhr:intern--systems-engineer--onsite-_01868500",
@@ -38143,6 +38145,7 @@
     "rtx intern industrial engineering summer 2027",
     "rtx intern manufacturing engineering summer 2027",
     "rtx intern quality engineering summer 2027",
+    "rtx intern summer 2027 controldiagnostic software onsite",
     "rtx intern systems engineer onsite",
     "rtx internship raytheon systems security engineer onsite",
     "rtx jedi network systems engineer 2027 springsummer coop onsite",
