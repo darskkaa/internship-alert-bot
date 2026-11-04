@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T06:02:15.245115+00:00",
+  "last_checked_utc": "2026-11-04T06:12:17.927970+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6437,6 +6437,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Digital-Technology-Intern--Summer-2027-_01871045-1",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Systems-Engineer-Intern---Onsite---Summer-2027-_01884862",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-461--3200-E-Renner-Rd--RENNER-BLDG-461/Systems-Engineering-Intern--Onsite-_01869271-1",
+    "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-462--3200-E-Renner-Rd--RENNER-BLDG-462/Systems-Engineer-2027-Summer-Intern--Onsite-_01883887",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Intern--SAOC-SEIT--Onsite-_01883007",
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Electrical-Production-Support-Engineer-Intern--Summer-2027-_01871115",
     "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664",
@@ -29905,6 +29906,7 @@
     "job:workday:globalhr:system-engineer-intern---poland_01883096",
     "job:workday:globalhr:systems-administrator-co-op--spring-summer-2027-_01882888",
     "job:workday:globalhr:systems-engineer---intern--onsite_01879053",
+    "job:workday:globalhr:systems-engineer-2027-summer-intern--onsite-_01883887",
     "job:workday:globalhr:systems-engineer-co-op---algorithms--spring-summer-2027----onsite_01881510",
     "job:workday:globalhr:systems-engineer-co-op--spring-summer-2027----onsite_01873686",
     "job:workday:globalhr:systems-engineer-intern---helmet-displays--summer-2027----onsite_01867411",
@@ -38266,6 +38268,7 @@
     "rtx system engineer intern poland",
     "rtx systems administrator coop springsummer 2027",
     "rtx systems coop",
+    "rtx systems engineer 2027 summer intern onsite",
     "rtx systems engineer coop",
     "rtx systems engineer coop algorithms springsummer 2027 onsite",
     "rtx systems engineer coop algorithms springsummer 2027 remote",
