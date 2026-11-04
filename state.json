@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T22:02:10.235470+00:00",
+  "last_checked_utc": "2026-11-04T22:12:19.670639+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2712,6 +2712,7 @@
     "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249827",
     "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249828",
     "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029",
+    "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
     "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314",
     "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386",
     "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142",
@@ -18491,6 +18492,7 @@
     "booz allen university 2027 summer games systems engineer intern rome ny",
     "booz allen university 2027 summer games systems engineer intern royal oaks mi",
     "booz allen university 2027 summer games systems engineer intern san diego ca",
+    "booz allen university ai ran telecommunications engineer intern",
     "booz allen university applied ai intern",
     "booz allen university applied ai software development intern",
     "booz allen university masters technologist intern",
@@ -27932,6 +27934,7 @@
     "job:workday:bah:university--2027-summer-games-software-developer-intern_r0248029",
     "job:workday:bah:university--2027-summer-games-software-developer-intern_r0248130",
     "job:workday:bah:university--2027-summer-games-software-developer-intern_r0248141",
+    "job:workday:bah:university--ai-ran-telecommunications-engineer-intern_r0253024",
     "job:workday:bah:university--applied-ai-intern_r0248853",
     "job:workday:bah:university--applied-ai-software-development-intern_r0248854",
     "job:workday:bah:university--applied-ai-software-development-intern_r0251314",
