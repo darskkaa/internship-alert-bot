@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T02:40:45.406139+00:00",
+  "last_checked_utc": "2026-11-04T02:42:19.536081+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11568,6 +11568,7 @@
     "https://jobs.smartrecruiters.com/LLNL/3743990016610101",
     "https://jobs.smartrecruiters.com/LLNL/3743990016610176",
     "https://jobs.smartrecruiters.com/LLNL/3743990016610186",
+    "https://jobs.smartrecruiters.com/LLNL/3743990016610196",
     "https://jobs.smartrecruiters.com/Laxir1/743999834183955",
     "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169",
     "https://jobs.smartrecruiters.com/LinkedIn3/744000158394370",
@@ -26336,6 +26337,7 @@
     "job:smartrecruiters:3743990016610101",
     "job:smartrecruiters:3743990016610176",
     "job:smartrecruiters:3743990016610186",
+    "job:smartrecruiters:3743990016610196",
     "job:smartrecruiters:743999669081604",
     "job:smartrecruiters:743999725988642",
     "job:smartrecruiters:743999733583355",
