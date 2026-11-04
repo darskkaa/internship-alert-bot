@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T21:12:09.413782+00:00",
+  "last_checked_utc": "2026-11-04T21:21:58.828420+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12467,6 +12467,9 @@
     "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277",
     "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276",
     "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Mechanical-Engineering-Intern_JR-025279",
+    "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL/Android-Software-Intern_JR-025277",
+    "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL/Embedded-Software-Intern_JR-025276",
+    "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL/Mechanical-Engineering-Intern_JR-025279",
     "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/AI---Classic-search-expert-Intern_366402",
     "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Boisbriand/Industrial-Engineering-Intern-Stagiaire-en-gnie-industriel_365658",
     "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Boisbriand/Manufacturing-Engineering-Intern--Stagiaire-en-gnie-manufacturier_365634",
@@ -13341,6 +13344,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Electrical-Engineer-Intern--McClellan-CA_R10255116",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Engineering-Intern---Northridge-CA_R10254122-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Engineering-Intern---Northridge-CA_R10254123-1",
@@ -32233,6 +32237,7 @@
     "job:workday:ngc:xmlname-2027-software-engineering-intern-dulles-va_r10253731",
     "job:workday:ngc:xmlname-2027-software-test-engineering-intern---roy-ut_r10259179",
     "job:workday:ngc:xmlname-2027-software-test-engineering-intern--roy-ut_r10258276-1",
+    "job:workday:ngc:xmlname-2027-spring-co-op-software-engineer-intern---mcclellan-ca_r10259329",
     "job:workday:ngc:xmlname-2027-stress-analysis-and-tooling-design-engineer-intern---commerce-ca_r10257184",
     "job:workday:ngc:xmlname-2027-structural---electromechanical-engineer-intern---redondo-beach-ca_r10257211",
     "job:workday:ngc:xmlname-2027-structural-engineer-intern---gilbert-az_r10258208",
