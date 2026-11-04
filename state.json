@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T08:12:00.875071+00:00",
+  "last_checked_utc": "2026-11-04T09:12:01.716176+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15356,6 +15356,7 @@
     "https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/Year-Round-Intern---Business-Systems-Analysis_REQ-4835",
     "https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/Year-Round-Intern---Stress-Testing---Liquidity-Management_REQ-4869",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Engineering-Co-Op_R-01372098",
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---System-Engineering_R-01374025",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Internship---Scientist---Advanced-Technology_R-01345917",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Grand-Island-New-York-USA/Manufacturing-Engineering-Intern_R-01366890-1",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ho-Chi-Minh-City-Vietnam/Sr-Operations-Data-Analytics-Intern_R-01366619",
@@ -33664,6 +33665,7 @@
     "job:workday:theocc:year-round-intern---desktop-engineering_req-4847",
     "job:workday:theocc:year-round-intern---stress-testing---liquidity-management_req-4869",
     "job:workday:thermofisher:engineering-co-op_r-01372098",
+    "job:workday:thermofisher:intern---system-engineering_r-01374025",
     "job:workday:thermofisher:internship---scientist---advanced-technology_r-01345917",
     "job:workday:thermofisher:lab-execution-systems-co-op_r-01366616",
     "job:workday:thermofisher:manufacturing-engineering-intern_r-01366890-1",
@@ -39747,6 +39749,7 @@
     "thea energy physics intern springsummer 2027",
     "thermo fisher scientific 2027 it digital internship",
     "thermo fisher scientific engineering coop",
+    "thermo fisher scientific intern system engineering",
     "thermo fisher scientific internship scientist advanced technology",
     "thermo fisher scientific lab execution systems coop",
     "thermo fisher scientific manufacturing engineering intern",
