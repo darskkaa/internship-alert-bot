@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T11:32:01.392163+00:00",
+  "last_checked_utc": "2026-11-04T11:42:00.597673+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13372,6 +13372,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10255683-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Intern-Vehicle-Engineering_R10255699",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10257639-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Engineering-Intern--Manufacturing-and-Operations----Chandler-AZ_R10256661",
@@ -31924,6 +31925,7 @@
     "job:workday:ngc:xmlname-2027-cyber-software-engineer-intern---tampa-fl_r10249530",
     "job:workday:ngc:xmlname-2027-cyber-systems-engineer-intern---roy-ut_r10249471",
     "job:workday:ngc:xmlname-2027-cyber-systems-engineer-intern-tampa-fl_r10249196",
+    "job:workday:ngc:xmlname-2027-cybersecurity-software-engineering-intern---roy-ut_r10259177",
     "job:workday:ngc:xmlname-2027-electrical-design-and-technology-internship---baltimore-md_r10258813-1",
     "job:workday:ngc:xmlname-2027-electrical-design-and-technology-internship---linthicum-md_r10254010",
     "job:workday:ngc:xmlname-2027-electrical-engineer-intern---field-engineering---baltimore-md_r10258965",
@@ -36134,6 +36136,7 @@
     "northrop grumman 2027 cyber systems engineer intern roy ut",
     "northrop grumman 2027 cyber systems engineer interntampa fl",
     "northrop grumman 2027 cybersecurity analyst intern boulder co",
+    "northrop grumman 2027 cybersecurity software engineering intern roy ut",
     "northrop grumman 2027 electrical design and technology internship baltimore md",
     "northrop grumman 2027 electrical design and technology internship linthicum md",
     "northrop grumman 2027 electrical engineer intern field engineering baltimore md",
