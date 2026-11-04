@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T23:41:55.460293+00:00",
+  "last_checked_utc": "2026-11-04T23:51:59.497139+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13348,6 +13348,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Electrical-Engineer-Intern--Gilbert-AZ_R10258107",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258213-1",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258214",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
@@ -32242,6 +32243,7 @@
     "job:workday:ngc:xmlname-2027-mechanical-engineer-intern---ocean-springs-ms_r10255000-1",
     "job:workday:ngc:xmlname-2027-mechanical-engineer-intern---sunnyvale-ca_r10251428",
     "job:workday:ngc:xmlname-2027-mechanical-engineer-intern--gilbert-az_r10258213-1",
+    "job:workday:ngc:xmlname-2027-mechanical-engineer-intern--gilbert-az_r10258214",
     "job:workday:ngc:xmlname-2027-mechanical-engineer-intern--redondo-beach-ca_r10258669",
     "job:workday:ngc:xmlname-2027-mechanical-engineer-internship---east-hartford-ct_r10258435",
     "job:workday:ngc:xmlname-2027-mechanical-engineering-intern---chandler-az_r10254534",
