@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T04:22:04.209663+00:00",
+  "last_checked_utc": "2026-11-04T05:32:28.715358+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13355,6 +13355,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Aerospace-Engineering-Internship---Linthicum-MD_R10256786",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Electrical-Design-and-Technology-Internship---Linthicum-MD_R10254010",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Vehicle-Engineer-Intern_R10253965",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Ocean-Springs/XMLNAME-2027-Mechanical-Engineer-Intern---Ocean-Springs-MS_R10251177",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Ocean-Springs/XMLNAME-2027-Mechanical-Engineer-Intern---Ocean-Springs-MS_R10255000-1",
@@ -31971,6 +31972,7 @@
     "job:workday:ngc:xmlname-2027-returning-mechanical-engineer-intern---sunnyvale-ca_r10254941",
     "job:workday:ngc:xmlname-2027-s-w-cybersecurity-intern---annapolis-md_r10254705",
     "job:workday:ngc:xmlname-2027-s-w-embedded-engineering-intern---annapolis-md_r10254697",
+    "job:workday:ngc:xmlname-2027-s-w-embedded-engineering-intern---sykesville-md_r10258553",
     "job:workday:ngc:xmlname-2027-software-developer-intern--chantilly-va_r10254863-1",
     "job:workday:ngc:xmlname-2027-software-digital-intern---rolling-meadows-il_r10252812",
     "job:workday:ngc:xmlname-2027-software-engineer-intern---azusa-ca_r10257903",
@@ -36193,6 +36195,7 @@
     "northrop grumman 2027 structural engineering intern roy ut",
     "northrop grumman 2027 sw cybersecurity intern annapolis md",
     "northrop grumman 2027 sw embedded engineering intern annapolis md",
+    "northrop grumman 2027 sw embedded engineering intern sykesville md",
     "northrop grumman 2027 systems engineer intern cape canaveral fl",
     "northrop grumman 2027 systems engineer intern chantilly va",
     "northrop grumman 2027 systems engineer intern rolling meadows il",
