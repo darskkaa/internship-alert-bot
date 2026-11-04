@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T11:12:08.594574+00:00",
+  "last_checked_utc": "2026-11-04T11:32:01.392163+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14774,6 +14774,7 @@
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/internship-6-months-data-and-ia-engineer_R2873938",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-6-mois-communication-scientifique_R2874270",
+    "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Praha/Analytics-and-PowerBI-Development-Intern_R2868855",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Scoppito/Launches-Project-Portfolio-Management-Internship_R2874543",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Scoppito/Quality-Systems-Internship----Digital---Validation-Projects_R2877329",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Scoppito/Quality-Systems-Internship_R2877324",
@@ -33165,6 +33166,7 @@
     "job:workday:salesforce:summer-2027-intern---ui-ux-designer_jr363342",
     "job:workday:sallie-mae:data-science---engineering-intern_r26_000659",
     "job:workday:sanofi:analytical-science-intern---msat_r2873804",
+    "job:workday:sanofi:analytics-and-powerbi-development-intern_r2868855",
     "job:workday:sanofi:engineering-intern_r2873345",
     "job:workday:sanofi:integrated-manufacturing-systems-intern_r2873923",
     "job:workday:sanofi:internship-6-months-data-and-ia-engineer_r2873938",
@@ -38436,6 +38438,7 @@
     "sanofi 2027 summer intern translational models research cambridge ma",
     "sanofi 2027 summer intern us advanced analytics cambridge ma",
     "sanofi analytical science intern msat",
+    "sanofi analytics and powerbi development intern",
     "sanofi engineering intern",
     "sanofi integrated manufacturing systems intern",
     "sanofi internship 6 months data and ia engineer",
