@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-05T09:11:54.428221+00:00",
+  "last_checked_utc": "2026-11-05T09:22:01.296836+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15570,6 +15570,7 @@
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Engineering-Co-Op_R-01372098",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Advanced-Technology_R-01374000",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Data-Analyst_R-01374008-1",
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Firmware-Test_R-01374007",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---System-Engineering_R-01374025",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Internship---Scientist---Advanced-Technology_R-01345917",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Grand-Island-New-York-USA/Manufacturing-Engineering-Intern_R-01366890-1",
@@ -34116,6 +34117,7 @@
     "job:workday:thermofisher:engineering-co-op_r-01372098",
     "job:workday:thermofisher:intern---advanced-technology_r-01374000",
     "job:workday:thermofisher:intern---data-analyst_r-01374008-1",
+    "job:workday:thermofisher:intern---software-firmware-test_r-01374007",
     "job:workday:thermofisher:intern---system-engineering_r-01374025",
     "job:workday:thermofisher:internship---scientist---advanced-technology_r-01345917",
     "job:workday:thermofisher:lab-execution-systems-co-op_r-01366616",
@@ -40287,6 +40289,7 @@
     "thermo fisher scientific engineering coop",
     "thermo fisher scientific intern advanced technology",
     "thermo fisher scientific intern data analyst",
+    "thermo fisher scientific intern softwarefirmware test",
     "thermo fisher scientific intern system engineering",
     "thermo fisher scientific internship scientist advanced technology",
     "thermo fisher scientific lab execution systems coop",
