@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-05T19:32:06.210564+00:00",
+  "last_checked_utc": "2026-11-05T19:41:59.191369+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12734,6 +12734,7 @@
     "https://magna.wd3.myworkdayjobs.com/magna/job/Auburn-Hills-Michigan-US/Intern---IT_R00262352",
     "https://magna.wd3.myworkdayjobs.com/magna/job/Auburn-Hills-Michigan-US/Intern---System-Test_R00246431",
     "https://magna.wd3.myworkdayjobs.com/magna/job/Auburn-Hills-Michigan-US/Intern---Validation-Engineering_R00261307",
+    "https://magna.wd3.myworkdayjobs.com/magna/job/Brampton-Ontario-CA/IT-Co-op-Student_R00268028-1",
     "https://magna.wd3.myworkdayjobs.com/magna/job/Brampton-Ontario-CA/Manufacturing-Engineer---Technical-Team-Co-op-Student_R00264460",
     "https://magna.wd3.myworkdayjobs.com/magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602",
     "https://magna.wd3.myworkdayjobs.com/magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272",
@@ -31817,6 +31818,7 @@
     "job:workday:magna:intern---it_r00262352",
     "job:workday:magna:intern---system-test_r00246431",
     "job:workday:magna:intern---validation-engineering_r00261307",
+    "job:workday:magna:it-co-op-student_r00268028-1",
     "job:workday:magna:junior-full-stack-developer-coop_r00244793",
     "job:workday:magna:magna-engineered-glass--it-intern--part-time-_r00261528",
     "job:workday:magna:manufacturing-engineer---technical-team-co-op-student_r00264460",
@@ -35582,6 +35584,7 @@
     "magna intern validation engineering",
     "magna international intern engineering software",
     "magna international rd computer vision engineering intern",
+    "magna it coop student",
     "magna junior full stack developer coop",
     "magna magna engineered glass it intern parttime",
     "magna manufacturing engineer technical team coop student",
