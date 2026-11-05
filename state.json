@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-05T19:21:58.698842+00:00",
+  "last_checked_utc": "2026-11-05T19:32:06.210564+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7225,6 +7225,7 @@
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506639",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642",
+    "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506644",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506645",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506799",
     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506814",
@@ -26489,6 +26490,7 @@
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506638",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506639",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506642",
+    "job:oracle:hctz.fa.us2.oraclecloud.com:2506644",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506645",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506799",
     "job:oracle:hctz.fa.us2.oraclecloud.com:2506814",
@@ -37315,6 +37317,7 @@
     "onsemi summer 2027 ai data science intern",
     "onsemi summer 2027 device characterization engineering intern",
     "onsemi summer 2027 ie data analytics intern",
+    "onsemi summer 2027 lithography engineering intern",
     "onsemi summer 2027 manufacturing ai intern",
     "onsemi summer 2027 manufacturing engineer intern",
     "onsemi summer 2027 manufacturing engineering intern",
