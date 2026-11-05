@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-05T22:21:58.985471+00:00",
+  "last_checked_utc": "2026-11-05T22:31:59.310433+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5455,6 +5455,7 @@
     "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/XMLNAME-2026-Transmission-System-Planning-Intern_R-029918",
+    "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/MA-Westborough-Technology-Dr/XMLNAME-2027-Gas-Project-Engineering-Co-op_R-032515",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Telecommunications-Engineering-Intern_R-031906",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/Engineering-Intern--Distribution-System-Modeling-and-Automation--MA-CT-NH--Hybrid-Schedule-_R-032434",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/XMLNAME-2027-Co-op--Substation-Design-Engineering_R-031701",
@@ -20656,6 +20657,7 @@
     "eurofins 6month paid internship ai automation",
     "eurofins ai automation intern",
     "eversource energy 2027 coop substation design engineering",
+    "eversource energy 2027 gas project engineering coop",
     "eversource energy 2027 telecommunications engineering intern",
     "eversource energy 2027 transmission system planning coop",
     "eversource energy asset management technology engineering intern fall 2026",
@@ -29461,6 +29463,7 @@
     "job:workday:eversource:engineering-intern--distribution-system-modeling-and-automation--ma-ct-nh--hybrid-schedule-_r-032434",
     "job:workday:eversource:xmlname-2026-transmission-system-planning-intern_r-029918",
     "job:workday:eversource:xmlname-2027-co-op--substation-design-engineering_r-031701",
+    "job:workday:eversource:xmlname-2027-gas-project-engineering-co-op_r-032515",
     "job:workday:eversource:xmlname-2027-telecommunications-engineering-intern_r-031906",
     "job:workday:expedia:applied-science-intern---masters---2027---austin--san-jose--seattle_r-110379",
     "job:workday:expedia:applied-science-intern---masters---2027---austin--san-jose--seattle_r-110379-1",
