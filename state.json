@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-05T20:21:54.233014+00:00",
+  "last_checked_utc": "2026-11-05T20:51:54.454260+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2184,6 +2184,7 @@
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Test-Engineering-Intern_R266146",
+    "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Equipment-Engineering-Co-Op-GFU--May-Dec-_R268545",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Equipment-Engineering-Intern_R266095",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-WA-Camas/Process-Sustaining-Engineering-Intern_R267011",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Audio-_R267095",
@@ -17617,6 +17618,7 @@
     "analog devices digital design engineer intern",
     "analog devices embedded software engineer intern",
     "analog devices embedded systems coop",
+    "analog devices equipment engineering coop gfu maydec",
     "analog devices equipment engineering intern",
     "analog devices fy27 engineering internship united kingdom",
     "analog devices healthcare mechanical engineering coop spring",
@@ -27844,6 +27846,7 @@
     "job:workday:analogdevices:digital-design-engineer-intern_r265298",
     "job:workday:analogdevices:embedded-software-engineer-intern_r266132",
     "job:workday:analogdevices:embedded-systems-co-op_r267689",
+    "job:workday:analogdevices:equipment-engineering-co-op-gfu--may-dec-_r268545",
     "job:workday:analogdevices:equipment-engineering-intern_r266095",
     "job:workday:analogdevices:fy27-engineering-internship-united-kingdom_r266707",
     "job:workday:analogdevices:healthcare-mechanical-engineering-co-op--spring-_r266691",
