@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-05T07:02:01.610695+00:00",
+  "last_checked_utc": "2026-11-05T07:42:06.803193+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3521,6 +3521,7 @@
     "https://careers-peraton.icims.com/jobs/169665/job?mobile=true&needsRedirect=false",
     "https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false",
     "https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false",
+    "https://careers-peraton.icims.com/jobs/172055/job?mobile=true&needsRedirect=false",
     "https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false",
     "https://careers-rovisys.icims.com/jobs/2128/job?mobile=true&needsRedirect=false",
     "https://careers-rovisys.icims.com/jobs/2131/job?mobile=true&needsRedirect=false",
@@ -4688,6 +4689,7 @@
     "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
     "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Lake-Mary-FL/PGO-Cybersecurity-Summer-2027-Internship_R41822",
     "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---DALIAN/Technical-Intern_51589631",
+    "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---DALIAN/Technical-Intern_51589632",
     "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---DALIAN/Technical-Intern_51589633",
     "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---DALIAN/Technical-Intern_51589634",
     "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---A---ALICANTE/Technical-Intern_51588664",
@@ -29037,6 +29039,7 @@
     "job:workday:dxctechnology:non-technical-intern_51590815",
     "job:workday:dxctechnology:technical-intern_51588664",
     "job:workday:dxctechnology:technical-intern_51589631",
+    "job:workday:dxctechnology:technical-intern_51589632",
     "job:workday:dxctechnology:technical-intern_51589633",
     "job:workday:dxctechnology:technical-intern_51589634",
     "job:workday:ebi:development-engineer-intern_req107694",
