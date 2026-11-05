@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-05T09:31:51.562843+00:00",
+  "last_checked_utc": "2026-11-05T09:41:58.176572+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3835,6 +3835,7 @@
     "https://careers.na.panasonic.com/jobs/51652?icims=1",
     "https://careers.na.panasonic.com/jobs/51897?icims=1&lang=en-us",
     "https://careers.noblis.org/jobs/27942?icims=1",
+    "https://careers.noblis.org/jobs/28097?icims=1&lang=en-us",
     "https://careers.phillips66.com/job/Bartlesville-West-2027-University-Intern-ERI-Analytical-Solutions-OK-74004/1439555700/?ats=successfactors",
     "https://careers.phillips66.com/job/South-Killingholme-Digital-&-AI-Analyst-Placement/1437746600/?ats=successfactors",
     "https://careers.planview.com/jobs/5128?icims=1",
@@ -15571,6 +15572,7 @@
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Advanced-Technology_R-01374000",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Data-Analyst_R-01374008-1",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Instrument-Scientist_R-01374018",
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Engineering_R-01374064",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Firmware-Test_R-01374007",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---System-Engineering_R-01374025",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Internship---Scientist---Advanced-Technology_R-01345917",
@@ -34120,6 +34122,7 @@
     "job:workday:thermofisher:intern---advanced-technology_r-01374000",
     "job:workday:thermofisher:intern---data-analyst_r-01374008-1",
     "job:workday:thermofisher:intern---instrument-scientist_r-01374018",
+    "job:workday:thermofisher:intern---software-engineering_r-01374064",
     "job:workday:thermofisher:intern---software-firmware-test_r-01374007",
     "job:workday:thermofisher:intern---system-engineering_r-01374025",
     "job:workday:thermofisher:internship---scientist---advanced-technology_r-01345917",
@@ -40293,6 +40296,7 @@
     "thermo fisher scientific intern advanced technology",
     "thermo fisher scientific intern data analyst",
     "thermo fisher scientific intern instrument scientist",
+    "thermo fisher scientific intern software engineering",
     "thermo fisher scientific intern softwarefirmware test",
     "thermo fisher scientific intern system engineering",
     "thermo fisher scientific internship scientist advanced technology",
