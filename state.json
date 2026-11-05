@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-05T14:12:08.843132+00:00",
+  "last_checked_utc": "2026-11-05T14:22:15.034810+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8257,6 +8257,7 @@
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Engineering-Internships---St-Petersbrug--FL_J2468437",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/IT-Audit-Intern_J2468699",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/IT-SCM-Intern_J2465768",
+    "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Low-voltage-switchgear-Electrical-Engineering-Intern_J2470772",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Operations-Analytics---Reporting-Intern_J2465601",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Technical-Accounting-Intern_J2467362",
     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Uzhhorod/---------Industrial-Engineering-Technician--intern-_J2467901",
@@ -22796,6 +22797,7 @@
     "jabil it audit intern",
     "jabil it programmer analyst intern",
     "jabil it scm intern",
+    "jabil low voltage switchgear electrical engineering intern",
     "jabil mechanical system architect intern",
     "jabil operations analytics reporting intern",
     "jabil server platform intern",
@@ -31243,6 +31245,7 @@
     "job:workday:jabil:it-audit-intern_j2468699",
     "job:workday:jabil:it-programmer-analyst-intern_j2466637",
     "job:workday:jabil:it-scm-intern_j2465768",
+    "job:workday:jabil:low-voltage-switchgear-electrical-engineering-intern_j2470772",
     "job:workday:jabil:mechanical-system-architect-intern_j2469350",
     "job:workday:jabil:operations-analytics---reporting-intern_j2465601",
     "job:workday:jabil:server-platform-intern_j2464685",
