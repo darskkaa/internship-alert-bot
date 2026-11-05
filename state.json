@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-04T23:51:59.497139+00:00",
+  "last_checked_utc": "2026-11-05T00:22:05.717309+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3242,6 +3242,7 @@
     "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/CHE---Lausanne/Internship---Digital-Twin-of-a-Contrast-Media-Injector-for-Virtual-Verification-and-Reliability-Engineering_JR100448",
     "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/CHE---Lausanne/Internship--Robotic-Solution-for-Test-Automation-of-a-Contrast-Media-Injector_JR100450",
     "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/ITA---Milano---Via-Egidio-Folli/Data-Analyst-Intern_JR100349",
+    "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Electrical-Engineering-Intern--R-D-Sustaining-_JR100315",
     "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316",
     "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317",
     "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op_JR100307",
@@ -18631,6 +18632,7 @@
     "bp supply trading shipping intern",
     "bp trading origination analytics and operations intern supply trading shipping trading origination analytics operations",
     "bracco data analyst intern",
+    "bracco electrical engineering intern rd sustaining",
     "bracco firmware engineering coop",
     "bracco internship digital twin of a contrast media injector for virtual verification and reliability engineering",
     "bracco internship robotic solution for test automation of a contrast media injector",
@@ -28201,6 +28203,7 @@
     "job:workday:bpinternational:summer-internship---supply--trading---shipping---uk_rq117128",
     "job:workday:bpinternational:summer-internship---upstream-r-d---imaging-geophysics-phd---uk_rq117171",
     "job:workday:bracco:data-analyst-intern_jr100349",
+    "job:workday:bracco:electrical-engineering-intern--r-d-sustaining-_jr100315",
     "job:workday:bracco:firmware-engineering-co-op_jr100319",
     "job:workday:bracco:internship---digital-twin-of-a-contrast-media-injector-for-virtual-verification-and-reliability-engineering_jr100448",
     "job:workday:bracco:internship--robotic-solution-for-test-automation-of-a-contrast-media-injector_jr100450",
