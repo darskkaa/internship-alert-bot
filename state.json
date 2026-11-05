@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-05T01:02:20.200802+00:00",
+  "last_checked_utc": "2026-11-05T01:31:59.368953+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1964,6 +1964,7 @@
     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146",
     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op-BS-or-MS--Gloucester--MA-_R2628288-1",
     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Mechanical-Engineer-Co-op--Gloucester-MA-_R2628290",
+    "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Particle-Science--Defect--Co-op---Master-s-or-Doctorate--Gloucester--MA-_R2632316",
     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Product-Quality-Engineer-Co-op----Bachelor-s--Gloucester--MA-_R2628291",
     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658",
     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812",
@@ -17578,6 +17579,7 @@
     "applied materials 2027 spring electrical engineer coop billerica ma",
     "applied materials 2027 spring manufacturing engineer coop billerica ma",
     "applied materials 2027 spring mechanical engineer coop gloucester ma",
+    "applied materials 2027 spring particle science defect coop masters or doctorate gloucester ma",
     "applied materials 2027 spring process engineer coop billerica ma",
     "applied materials 2027 spring product quality engineer coop bachelors gloucester ma",
     "applied materials 2027 summer electrical engineer intern controlspcb bs or ms gloucester ma",
@@ -27450,6 +27452,7 @@
     "job:workday:amat:xmlname-2027-spring-electrical-engineer-co-op-bs-or-ms--gloucester--ma-_r2628288-1",
     "job:workday:amat:xmlname-2027-spring-manufacturing-engineer-co-op--billerica--ma-_r2631532",
     "job:workday:amat:xmlname-2027-spring-mechanical-engineer-co-op--gloucester-ma-_r2628290",
+    "job:workday:amat:xmlname-2027-spring-particle-science--defect--co-op---master-s-or-doctorate--gloucester--ma-_r2632316",
     "job:workday:amat:xmlname-2027-spring-process-engineer-co-op--billerica--ma-_r2631536",
     "job:workday:amat:xmlname-2027-spring-product-quality-engineer-co-op----bachelor-s--gloucester--ma-_r2628291",
     "job:workday:amat:xmlname-2027-summer-electrical-engineer--intern--controls-pcb----bs-or-ms--gloucester--ma-_r2630658",
