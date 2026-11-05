@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-05T11:02:00.461169+00:00",
+  "last_checked_utc": "2026-11-05T11:52:09.612823+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15578,6 +15578,8 @@
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Engineering_R-01374064",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Firmware-Test_R-01374007",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---System-Engineering_R-01374025",
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Systems-Design-Engineering--Vibration-_R-01374039",
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Systems-Design-Engineering_R-01374041",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Internship---Scientist---Advanced-Technology_R-01345917",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Grand-Island-New-York-USA/Manufacturing-Engineering-Intern_R-01366890-1",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ho-Chi-Minh-City-Vietnam/Sr-Operations-Data-Analytics-Intern_R-01366619",
@@ -34132,6 +34134,8 @@
     "job:workday:thermofisher:intern---software-engineering_r-01374064",
     "job:workday:thermofisher:intern---software-firmware-test_r-01374007",
     "job:workday:thermofisher:intern---system-engineering_r-01374025",
+    "job:workday:thermofisher:intern---systems-design-engineering--vibration-_r-01374039",
+    "job:workday:thermofisher:intern---systems-design-engineering_r-01374041",
     "job:workday:thermofisher:internship---scientist---advanced-technology_r-01345917",
     "job:workday:thermofisher:lab-execution-systems-co-op_r-01366616",
     "job:workday:thermofisher:manufacturing-engineering-intern_r-01366890-1",
@@ -40306,6 +40310,8 @@
     "thermo fisher scientific intern software engineering",
     "thermo fisher scientific intern softwarefirmware test",
     "thermo fisher scientific intern system engineering",
+    "thermo fisher scientific intern systems design engineering",
+    "thermo fisher scientific intern systems design engineering vibration",
     "thermo fisher scientific internship scientist advanced technology",
     "thermo fisher scientific lab execution systems coop",
     "thermo fisher scientific manufacturing engineering intern",
