@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-06T20:41:56.664867+00:00",
+  "last_checked_utc": "2026-11-06T20:51:58.666071+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13043,6 +13043,7 @@
     "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Boyne-City-MI/Engineering-Intern_JR0000031422",
     "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/Forward-Deployment-Engineer-Intern_JR0000045825",
     "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1",
+    "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903",
     "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Goldsboro-NC/PROCESS-ENGINEER-INTERN_JR0000046275-1",
     "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Hesse-DE/Automation---Continuous-Improvement-Engineering-Intern_JR0000044955",
     "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1",
@@ -32403,6 +32404,7 @@
     "job:workday:marmon:engineering-intern_jr0000045242-4",
     "job:workday:marmon:forward-deployment-engineer-intern_jr0000045825",
     "job:workday:marmon:forward-deployment-engineer-intern_jr0000045825-5",
+    "job:workday:marmon:intern---ai-technology-solutions_jr0000046903",
     "job:workday:marmon:mechanical-engineer-intern_jr0000036528-1",
     "job:workday:marmon:process-engineer-intern_jr0000046275-1",
     "job:workday:marvell:advanced-packaging-intern--bs---summer-2027_2604156",
@@ -36241,6 +36243,7 @@
     "marmon holdings engineering intern",
     "marmon holdings engineering internlssu students only",
     "marmon holdings forward deployed engineer intern",
+    "marmon holdings intern ai technology solutions",
     "marmon holdings mechanical engineer intern",
     "marmon holdings process engineer intern",
     "marquee brands consumer insights intern",
