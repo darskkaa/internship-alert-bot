@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-06T09:12:01.434129+00:00",
+  "last_checked_utc": "2026-11-06T09:22:11.126233+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14908,6 +14908,7 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-Process-Engineer--for-12-months-in-Basel-_202610-127127",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-AI-for-Laboratory-Automation--Pharma-Research---Early-Development-_202610-125772",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Manufacturing-Science-and-Technology--12-months-_202611-128573",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Portfolio-Strategy-and-Insights-Interns--Basel--up-to-12-months-_202606-116569-1",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Student-Internship-in-Device-Development-and-Verification-Engineering--Basel--9-12-months-_202610-126054",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621",
@@ -33766,6 +33767,7 @@
     "job:workday:roche:internship--generative-ai-designer--as-of-january-2027-for-12-months-in-rotkreuz-_202610-127757",
     "job:workday:roche:internship-in-ai-for-laboratory-automation--pharma-research---early-development-_202610-125772",
     "job:workday:roche:internship-in-external-quality-for-students-in-life-sciences--12-months--kaiseraugst-_202610-126953",
+    "job:workday:roche:internship-in-manufacturing-science-and-technology--12-months-_202611-128573",
     "job:workday:roche:internship-process-engineer--for-12-months-in-basel-_202610-127127",
     "job:workday:roche:it-training---transition-intern_202610-127551-1",
     "job:workday:roche:portfolio-strategy-and-insights-interns--basel--up-to-12-months-_202606-116569-1",
@@ -38827,6 +38829,7 @@
     "roche internship generative ai designer as of january 2027 for 12 months in rotkreuz",
     "roche internship in ai for laboratory automation pharma research early development",
     "roche internship in external quality for students in life sciences 12 months kaiseraugst",
+    "roche internship in manufacturing science and technology 12 months",
     "roche internship process engineer for 12 months in basel",
     "roche internship software and data engineer for 12 months in rotkreuz",
     "roche it training transition intern",
