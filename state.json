@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-06T07:42:07.708051+00:00",
+  "last_checked_utc": "2026-11-06T09:01:54.869296+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13991,6 +13991,7 @@
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Software-Developer---Tools--m-f-d-_R-10060873-1",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--Software-Engineer--m-f-d----Java---Python-Tools-Development-for-Trust-Provisioning_R-10066936-1",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Internship--System-Validation--m-f-d-_R-10064661",
+    "https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Student-Position--Software-Toolchain---Debugger-Development--f-m-d-_R-10064613",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Irvine/Systems-Engineer-Intern---Summer-2027_R-10064723",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Irvine/UWB-Radar-Signal-Processing---Algorithms-Intern---Summer-2027_R-10065402",
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Nijmegen/Internship---Business-Analyst--Commercial-Marketing---Business-Operations-_R-10062550",
@@ -33085,6 +33086,7 @@
     "job:workday:nxp:project-engineer---project-management-intern---summer-2027_r-10064585",
     "job:workday:nxp:software-intern---linux-yocto_r-10066605-1",
     "job:workday:nxp:software-intern--linux-yocto_r-10066617",
+    "job:workday:nxp:student-position--software-toolchain---debugger-development--f-m-d-_r-10064613",
     "job:workday:nxp:system---application-intern_r-10067316",
     "job:workday:nxp:systems-engineer-intern---summer-2027_r-10064723",
     "job:workday:nxp:technical-internship-2027_r-10066434",
@@ -37424,6 +37426,7 @@
     "nxp semiconductors internship software application developer cryptographic validation system mfd",
     "nxp semiconductors internship software engineer mfd java python tools development for trust provisioning",
     "nxp semiconductors internship software test engineer javacard applications mfd",
+    "nxp semiconductors internship software toolchain debugger development fmd",
     "nxp semiconductors internship student analog mixed signal verification fm",
     "nxp semiconductors internship system validation mfd",
     "nxp semiconductors internshipthesis signal processing and ai for autonomous driving",
