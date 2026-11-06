@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-06T20:21:49.919584+00:00",
+  "last_checked_utc": "2026-11-06T20:31:52.267468+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4130,6 +4130,7 @@
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAP27-ALC--Harrisburg-6345-Flank-Drive-Harrisburg-PA-17112-USA/Building-Automation-Field-Engineer-Intern---Summer_30218662-1",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAV20-ALC---Virginia-4948-Dominion-Boulevard-Glen-Allen-VA-23060-USA/Project-Engineering-Intern---Summer_30220971",
+    "https://carrier.wd5.myworkdayjobs.com/jobs/job/OH07-3868-Congress-Parkway-Richfield-OH-44286-USA/General-Engineering-Intern---Summer_30221656",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/UK-Field-Based-Field-Based-United-Kingdom/Engineering-Apprenticeship_30190431",
     "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/XMLNAME-2027-Summer-Corporate-Intern---Information-Technology_R0000383086-1",
     "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650",
@@ -29086,6 +29087,7 @@
     "job:workday:carrier:electrical-engineering-intern---summer_30220218",
     "job:workday:carrier:engineering-apprenticeship_30190431",
     "job:workday:carrier:general-engineering-intern---summer_30220419-2",
+    "job:workday:carrier:general-engineering-intern---summer_30221656",
     "job:workday:carrier:intern--chemmtrlsengrg_30220163",
     "job:workday:carrier:mechanical-engineering-intern---spring_30220992",
     "job:workday:carrier:mechanical-engineering-intern---summer_30220093",
