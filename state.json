@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-06T09:22:11.126233+00:00",
+  "last_checked_utc": "2026-11-06T10:41:59.081131+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7176,6 +7176,7 @@
     "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285",
     "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286",
     "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040143",
+    "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040156",
     "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169",
     "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040172",
     "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9081",
@@ -26627,6 +26628,7 @@
     "job:oracle:hcgn.fa.us2.oraclecloud.com:49285",
     "job:oracle:hcgn.fa.us2.oraclecloud.com:49286",
     "job:oracle:hckd.fa.us2.oraclecloud.com:2040143",
+    "job:oracle:hckd.fa.us2.oraclecloud.com:2040156",
     "job:oracle:hckd.fa.us2.oraclecloud.com:2040169",
     "job:oracle:hckd.fa.us2.oraclecloud.com:2040172",
     "job:oracle:hckz.fa.us2.oraclecloud.com:9081",
@@ -36414,6 +36416,7 @@
     "mohawk product management intern",
     "molina healthcare customer experience analytics intern undergraduate",
     "molina healthcare cybersecurity internship remote summer 2027 undergraduate",
+    "molina healthcare electronic data interchange intern",
     "molina healthcare healthcare quality analytics intern",
     "moment energy battery engineering coop",
     "moment energy certification engineer coop",
