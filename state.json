@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-06T12:02:09.620951+00:00",
+  "last_checked_utc": "2026-11-06T12:11:48.754683+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2172,6 +2172,7 @@
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/DevOps-Co-Op_R267690",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689",
+    "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Wet-Lab-Sensor-Research-Co-Op_R268534-1",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/Process-Sustaining-Engineering-Intern_R265319-1",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1",
@@ -17744,6 +17745,7 @@
     "analog devices system integration engineer intern",
     "analog devices systems integration engineer intern",
     "analog devices test engineering intern",
+    "analog devices wet lab sensor research coop",
     "analysis group research professional intern generalist",
     "analytical mechanics associates graduate research scientist intern",
     "analytical mechanics associates intern research on cfd analysis with hybrid mesh adaptation for highspeed configurations",
@@ -28033,6 +28035,7 @@
     "job:workday:analogdevices:software-tools-engineering-intern_r267128",
     "job:workday:analogdevices:system-integration-engineer-intern_r265305",
     "job:workday:analogdevices:test-engineering-intern_r266146",
+    "job:workday:analogdevices:wet-lab-sensor-research-co-op_r268534-1",
     "job:workday:ancestry:applied-ai-science-co-op---embedding-models-and-personalization_r003442",
     "job:workday:ancestry:data-science---ai-document-understanding--co-op_r003449",
     "job:workday:ancestry:machine-learning-engineer--co-op_r003377",
