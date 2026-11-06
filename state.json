@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-06T15:02:04.456708+00:00",
+  "last_checked_utc": "2026-11-06T15:19:43.414630+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14665,6 +14665,7 @@
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Analytics--Innovation-and-Modeling-_R-0000033861",
+    "https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--CORE-Risk-Team-_R-0000033859",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Boston-MA/Spring-Co-op--Digital-Money-and-Payments-Research---Development_R-0000033444-1",
     "https://rb.wd5.myworkdayjobs.com/FRS/job/Boston-MA/Summer-Intern--Digital-Money-and-Payments-Research---Development_R-0000033442",
@@ -33675,6 +33676,7 @@
     "job:workday:rb:xmlname-2027-summer-internship-program---rein-data-intern_r-0000033089",
     "job:workday:rb:xmlname-2027-summer-internship-program---supervision---regulation--analytics--innovation-and-modeling-_r-0000033861",
     "job:workday:rb:xmlname-2027-summer-internship-program---supervision---regulation--business-relationship-_r-0000033860",
+    "job:workday:rb:xmlname-2027-summer-internship-program---supervision---regulation--core-risk-team-_r-0000033859",
     "job:workday:rb:xmlname-2027-summer-internship-program---supervision---regulation--cybersecurity-_r-0000033866",
     "job:workday:rbc:data-engineer--rbc-amplify-2027--calgary_r-0000191201",
     "job:workday:rbc:data-engineer--rbc-amplify-2027--calgary_r-0000191201-2",
@@ -40685,6 +40687,7 @@
     "the federal reserve system 2027 summer internship program it procurement intern",
     "the federal reserve system 2027 summer internship program rein data intern",
     "the federal reserve system 2027 summer internship program supervision regulation analytics innovation and modeling",
+    "the federal reserve system 2027 summer internship program supervision regulation core risk team",
     "the federal reserve system 2027 summer internship program supervision regulation cybersecurity",
     "the federal reserve system 2027 summer internship research",
     "the federal reserve system advanced analytics intern",
