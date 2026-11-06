@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-06T16:11:50.057576+00:00",
+  "last_checked_utc": "2026-11-06T16:22:03.710402+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14074,6 +14074,7 @@
     "https://oceanspray.wd5.myworkdayjobs.com/OceanSprayJobs/job/Lakeville-MA/Process-Engineering-Co-Op_R5426",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/KNV-I/Mechanical-Engineer-Co-op---Knoxville--TN_R-30286",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/OAV-N/Billing-Data-Analyst-Intern_R-31164",
+    "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Embedded-Software-Developer-Co-op_R-31948",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Quality-Systems-Co-op_R-29246",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Software-Quality-Assurance-Specialist-Co-op_R-31551",
@@ -33212,6 +33213,7 @@
     "job:workday:oceanspray:fsqa-compliance---systems-intern_r5425",
     "job:workday:oceanspray:process-engineering-co-op_r5426",
     "job:workday:onehealthineers:billing-data-analyst-intern_r-31164",
+    "job:workday:onehealthineers:embedded-software-developer-co-op_r-31948",
     "job:workday:onehealthineers:mechanical-engineer-co-op---knoxville--tn_r-30286",
     "job:workday:onehealthineers:performance-engineering-assistant-co-op_r-31160",
     "job:workday:onehealthineers:quality-systems-co-op_r-29246",
@@ -41518,6 +41520,7 @@
     "varda space thermal engineering internship summer 2027",
     "varda space vehicle integration test internship summer 2027",
     "varian billing data analyst intern",
+    "varian embedded software developer coop",
     "varian mechanical engineer coop knoxville tn",
     "varian performance engineering assistant coop",
     "varian quality systems coop",
