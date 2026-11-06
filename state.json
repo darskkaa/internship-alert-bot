@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-06T23:42:03.416033+00:00",
+  "last_checked_utc": "2026-11-06T23:51:43.584322+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12360,6 +12360,7 @@
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Engineering-Intern_2642277",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872",
+    "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Mechanical-Engineer-Intern_2643268",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Optical-Engineer-Intern_2641712",
@@ -32089,6 +32090,7 @@
     "job:workday:kla:mechanical-design-engineer-intern_2642150-1",
     "job:workday:kla:mechanical-design-engineer-intern_2642150-2",
     "job:workday:kla:mechanical-design-engineer-intern_2642150-3",
+    "job:workday:kla:mechanical-engineer-intern_2643268",
     "job:workday:kla:mechanical-engineering-intern_2640653",
     "job:workday:kla:mechanical-engineering-intern_2640653-1",
     "job:workday:kla:mechanical-engineering-intern_2640653-2",
@@ -35794,6 +35796,7 @@
     "kla engineering intern",
     "kla machine learning engineer intern",
     "kla mechanical design engineer intern",
+    "kla mechanical engineer intern",
     "kla mechanical engineering intern",
     "kla mechatronics engineering internship",
     "kla mechatronicssystems engineering internship",
