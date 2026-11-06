@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-06T11:41:47.902300+00:00",
+  "last_checked_utc": "2026-11-06T11:52:07.950650+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3243,6 +3243,7 @@
     "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Azerbaijan---Baku/Intern---Upstream---Petroleum-Reservoir-Engineer---AZ_RQ117997",
     "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Azerbaijan---Baku/Intern-Upstream-Mechanical-Engineer_RQ117991",
     "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Azerbaijan---Baku/Intern-Upstream-Pipeline-Engineer-AZ_RQ117995",
+    "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Azerbaijan---Baku/Intern-Upstream-Process-Engineer-AZ_RQ118000",
     "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Canada---Calgary/Summer-Internship---Supply--Trading----Shipping---Calgary_RQ115340",
     "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081",
     "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182",
@@ -18936,6 +18937,7 @@
     "bp intern upstream petroleumreservoir engineer az",
     "bp internupstreammechanical engineer",
     "bp internupstreampipeline engineeraz",
+    "bp internupstreamprocess engineeraz",
     "bp reservoir engineer intern summer internship",
     "bp seismic imaging technology intern",
     "bp subsurface technology intern",
@@ -28641,6 +28643,7 @@
     "job:workday:bpinternational:intern---upstream---petroleum-reservoir-engineer---az_rq117997",
     "job:workday:bpinternational:intern-upstream-mechanical-engineer_rq117991",
     "job:workday:bpinternational:intern-upstream-pipeline-engineer-az_rq117995",
+    "job:workday:bpinternational:intern-upstream-process-engineer-az_rq118000",
     "job:workday:bpinternational:summer-intern---chemical-process-engineer---sophomore---blaine--wa_rq115374",
     "job:workday:bpinternational:summer-intern---chemical-process-engineer---sophomore---blaine--wa_rq115374-1",
     "job:workday:bpinternational:summer-intern---reservoir-engineer---houston--tx_rq114655-2",
