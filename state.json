@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-07T00:11:49.531885+00:00",
+  "last_checked_utc": "2026-11-07T00:21:44.527975+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2440,6 +2440,7 @@
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355336",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00356448",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356213",
+    "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship--Mechatronics-Engineer_J-00356535",
     "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459",
     "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471",
@@ -28434,6 +28435,7 @@
     "job:workday:asml:internship---mechanical-engineer_j-00356448",
     "job:workday:asml:internship---mechanical-engineering-research_j-00355587",
     "job:workday:asml:internship---mechatronics-engineer_j-00356213",
+    "job:workday:asml:internship---mechatronics-engineer_j-00356543",
     "job:workday:asml:internship---software-engineer-in-test--mod-_j-00354568",
     "job:workday:asml:internship---software-quality-assurance_j-00354562",
     "job:workday:asml:internship---software-quality-assurance_j-00354563",
