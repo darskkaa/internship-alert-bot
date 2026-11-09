@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-09T23:21:42.839921+00:00",
+  "last_checked_utc": "2026-11-09T23:31:53.959162+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7154,6 +7154,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/Software-Platform-Intern--Summer-2027-_01874068",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Intern--Systems-Engineer--Onsite_01887548",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Manufacturing-Engineering-Co-op--Spring-Summer-2027-_01878577",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--E2D-IN-1-_01888020",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780",
@@ -31110,6 +31111,7 @@
     "job:workday:globalhr:intern--systems-engineer--onsite-_01868496",
     "job:workday:globalhr:intern--systems-engineer--onsite-_01868500",
     "job:workday:globalhr:intern--systems-engineer--onsite-_01869114",
+    "job:workday:globalhr:intern--systems-engineer--onsite_01887548",
     "job:workday:globalhr:intern-conversion-systems-engineer-i--onsite-_01866833",
     "job:workday:globalhr:intern-conversion-systems-engineer-i--onsite-_01866850",
     "job:workday:globalhr:intern-systems-engineer---onsite-_01867818",
