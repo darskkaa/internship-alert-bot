@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-09T11:21:58.131797+00:00",
+  "last_checked_utc": "2026-11-09T11:32:00.369964+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14361,6 +14361,7 @@
     "https://parsons.wd5.myworkdayjobs.com/search/job/CA---ON-Toronto/AI---Digital-Innovation-Engineering-Intern_R185553",
     "https://parsons.wd5.myworkdayjobs.com/search/job/SA---Abha/Co-op-Trainee--Industrial-Engineering---Saudi-National-_R187105",
     "https://parsons.wd5.myworkdayjobs.com/search/job/SA---Riyadh/Cybersecurity-Intern--Saudi-National-_R188377",
+    "https://parsons.wd5.myworkdayjobs.com/search/job/SA---Riyadh/IT-Programmer-Intern---Tamheer-Program--Saudi-National-_R188376",
     "https://parsons.wd5.myworkdayjobs.com/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299",
     "https://parsons.wd5.myworkdayjobs.com/search/job/US---AZ-Tempe/Transportation-Engineering-Intern_R187643",
     "https://parsons.wd5.myworkdayjobs.com/search/job/US---CA-Pasadena/Civil-Engineer-Intern---Summer-2027_R187651",
@@ -33650,6 +33651,7 @@
     "job:workday:parsons:hvac---mechanical-engineer-intern---summer-2027_r187605",
     "job:workday:parsons:i-c-engineering-intern_r187609",
     "job:workday:parsons:intern_r186237",
+    "job:workday:parsons:it-programmer-intern---tamheer-program--saudi-national-_r188376",
     "job:workday:parsons:process-engineer-intern--summer-2027_r187663",
     "job:workday:parsons:roadway-engineering-intern---spring-summer-2027_r185692",
     "job:workday:parsons:roadway-engineering-intern---summer-2027_r184488",
@@ -38272,6 +38274,7 @@
     "parsons hvac mechanical engineer intern summer 2027",
     "parsons ic engineering intern",
     "parsons it intern",
+    "parsons it programmer intern tamheer program saudi national",
     "parsons process engineer intern summer 2027",
     "parsons roadway engineering intern",
     "parsons roadway engineering intern springsummer 2027",
