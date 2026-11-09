@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-09T22:41:50.752643+00:00",
+  "last_checked_utc": "2026-11-09T23:21:42.839921+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15557,6 +15557,7 @@
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Illinois---Fairview-Heights/Electrical-Engineering-Intern_2026-22442",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Michigan---Plymouth/Electrical-Engineering-Intern_2026-23753",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Michigan---Plymouth/Electrical-Engineering-Intern_2026-23755",
+    "https://selinc.wd1.myworkdayjobs.com/SEL/job/Mississippi---Jackson/Application-Engineering-Intern_2026-24309",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-23468",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Power-Engineer-Intern_2026-21156",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Electrical-Engineering-Specialist-Intern_2026-23259",
@@ -34817,6 +34818,7 @@
     "job:workday:sec:epro-business---data-analyst-intern_r121996",
     "job:workday:sec:samsung-care-ai-data-analytic-intern_r121971-1",
     "job:workday:sedgwick:data-analyst-intern_r79691",
+    "job:workday:selinc:application-engineering-intern_2026-24309",
     "job:workday:selinc:automation-engineering-intern_2026-24217",
     "job:workday:selinc:electrical-engineering-intern_2026-22442",
     "job:workday:selinc:electrical-engineering-intern_2026-22684",
@@ -40467,6 +40469,7 @@
     "schroders product intern",
     "schroders product strategy intern",
     "schroders public markets quants intern quants public markets",
+    "schweitzer engineering laboratories application engineering intern",
     "schweitzer engineering laboratories automation engineering intern",
     "schweitzer engineering laboratories electrical engineering intern",
     "schweitzer engineering laboratories electrical engineering specialist intern",
