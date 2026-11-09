@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-09T10:41:46.298872+00:00",
+  "last_checked_utc": "2026-11-09T11:21:58.131797+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14360,6 +14360,7 @@
     "https://parsons.wd5.myworkdayjobs.com/search/job/BH---Manama/Intern_R186237",
     "https://parsons.wd5.myworkdayjobs.com/search/job/CA---ON-Toronto/AI---Digital-Innovation-Engineering-Intern_R185553",
     "https://parsons.wd5.myworkdayjobs.com/search/job/SA---Abha/Co-op-Trainee--Industrial-Engineering---Saudi-National-_R187105",
+    "https://parsons.wd5.myworkdayjobs.com/search/job/SA---Riyadh/Cybersecurity-Intern--Saudi-National-_R188377",
     "https://parsons.wd5.myworkdayjobs.com/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299",
     "https://parsons.wd5.myworkdayjobs.com/search/job/US---AZ-Tempe/Transportation-Engineering-Intern_R187643",
     "https://parsons.wd5.myworkdayjobs.com/search/job/US---CA-Pasadena/Civil-Engineer-Intern---Summer-2027_R187651",
@@ -33632,6 +33633,7 @@
     "job:workday:parsons:co-op-trainee--industrial-engineering---saudi-national-_r187105",
     "job:workday:parsons:computer-vision-robotics-intern_r187402",
     "job:workday:parsons:construction-engineering-intern---summer-2027_r185972",
+    "job:workday:parsons:cybersecurity-intern--saudi-national-_r188377",
     "job:workday:parsons:data-warehouse-engineer---intern_r187378",
     "job:workday:parsons:digital-engineering-intern-summer-2027_r188195",
     "job:workday:parsons:drainage-engineering-intern---spring-summer-2027_r185609",
@@ -38255,6 +38257,7 @@
     "parsons computer visionrobotics intern",
     "parsons construction engineering intern summer 2027",
     "parsons coop trainee industrial engineering saudi national",
+    "parsons cybersecurity intern tamheer program saudi national",
     "parsons data warehouse engineer intern",
     "parsons digital engineering intern summer 2027",
     "parsons drainage engineering intern springsummer 2027",
