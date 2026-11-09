@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-09T16:41:45.963416+00:00",
+  "last_checked_utc": "2026-11-09T17:12:05.832242+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1688,6 +1688,7 @@
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR--Internship-2027---Automatic-Generator-of-Aircraft-Performance-Database_JR10450467",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR--Internship-2027---IA-Assistant-for-Avionics-systems-designer_JR10450466",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR-Internship-2027--Stress-Repair-Engineer_JR10450734",
+    "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Internship---Flight-Test-Anomaly-Report--RAEV--management-process_JR10452016",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/JR10440295-Internship-2027--Data-Analyst-in-Supply-Chain--F-H-_JR10440295",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term---Engineering_JR10411965",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Society-of-Women-Engineers-Conference-Summer-Internship---Engineering-2027_JR10433021",
@@ -17485,6 +17486,7 @@
     "airbus intern system integration developer",
     "airbus intern within propulsion system integration dfm",
     "airbus internship dfm in payload data processing for spaceborne instruments",
+    "airbus internship flight test anomaly report raev management process",
     "airbus internship in satellite onboard data handling integration of data handling unit dfm",
     "airbus jr10440295 internship 2027_ data analyst in supply chain fh",
     "airbus longterm internship engineering",
@@ -28057,6 +28059,7 @@
     "job:workday:ag:intern-frontend-developer_jr10451058",
     "job:workday:ag:intern-system-integration-developer_jr10451063",
     "job:workday:ag:intern-within-propulsion-system-integration--d-f-m-_jr10455632",
+    "job:workday:ag:internship---flight-test-anomaly-report--raev--management-process_jr10452016",
     "job:workday:ag:internship--d-f-m--in-payload-data-processing-for-space-borne-instruments_jr10454324",
     "job:workday:ag:internship-in-satellite-on-board-data-handling--integration-of-data-handling-unit--d-f-m-_jr10454434",
     "job:workday:ag:jr10440295-internship-2027--data-analyst-in-supply-chain--f-h-_jr10440295",
