@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-09T12:01:48.290004+00:00",
+  "last_checked_utc": "2026-11-09T13:21:54.267852+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7431,6 +7431,7 @@
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008604",
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008641",
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008748",
+    "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008756",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007510",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442",
@@ -27108,6 +27109,7 @@
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008604",
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008641",
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008748",
+    "job:oracle:hdhl.fa.us6.oraclecloud.com:1008756",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26007510",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26008230",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26008442",
@@ -40518,6 +40520,7 @@
     "stanley black decker pmo engineering intern summer 2027",
     "stanley black decker uxui design intern summer 2027",
     "stantec bridge design intern infrastructure summer 2027",
+    "stantec building science coopintern summer 2027",
     "stantec civil engineering coop student summer 2027 16 months",
     "stantec civil engineering intern community development summer 2027",
     "stantec civil engineering intern infrastructure summer 2027",
