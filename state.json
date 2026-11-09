@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-09T13:32:00.467641+00:00",
+  "last_checked_utc": "2026-11-09T13:52:01.115299+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17023,6 +17023,7 @@
     "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630",
     "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071620",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Biomedical-Engineering-Co-Op_R20358",
+    "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Biomedical-Engineering-Intern_R20769",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Manufacturing-Engineering-Co-Op_R20300",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Mechanical-Engineering-Intern_R20310",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Supplier-Quality-Engineering-Co-Op_R20738-1",
@@ -35531,6 +35532,7 @@
     "job:workday:zillow:data-science-intern_p751677-1",
     "job:workday:zillow:software-development-engineer---intern_p751630",
     "job:workday:zoll:biomedical-engineering-co-op_r20358",
+    "job:workday:zoll:biomedical-engineering-intern_r20769",
     "job:workday:zoll:human-factors-engineering-co-op-intern_r20375",
     "job:workday:zoll:manufacturing-engineering-co-op_r20084",
     "job:workday:zoll:manufacturing-engineering-co-op_r20300",
@@ -42738,6 +42740,7 @@
     "zipline software engineer intern summer 2027",
     "ziprecruiter software engineer intern",
     "zoll medical corporation biomedical engineering coop",
+    "zoll medical corporation biomedical engineering intern",
     "zoll medical corporation human factors and usability engineering coop",
     "zoll medical corporation manufacturing engineering coop",
     "zoll medical corporation manufacturing engineering intern",
