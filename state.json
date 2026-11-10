@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-10T21:01:49.079572+00:00",
+  "last_checked_utc": "2026-11-10T21:11:52.834769+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14222,6 +14222,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineer-Intern---Dulles-VA-or-McLean-VA_R10259857",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-New-Church/XMLNAME-2027-Engineering-Intern--ME-EE-----Wallops-VA_R10256585",
@@ -34043,6 +34044,7 @@
     "job:workday:ngc:xmlname-2027-structural-engineering-intern--roy-ut_r10258270",
     "job:workday:ngc:xmlname-2027-structural-engineering-intern-dulles-va_r10253912",
     "job:workday:ngc:xmlname-2027-systems-engineer-intern---cape-canaveral-fl_r10251849",
+    "job:workday:ngc:xmlname-2027-systems-engineer-intern---dulles-va-or-mclean-va_r10259857",
     "job:workday:ngc:xmlname-2027-systems-engineer-intern---mcclellan-ca_r10255163",
     "job:workday:ngc:xmlname-2027-systems-engineer-intern---rolling-meadows-il_r10252497",
     "job:workday:ngc:xmlname-2027-systems-engineer-intern---woodland-hills-ca_r10249319-1",
@@ -38554,6 +38556,7 @@
     "northrop grumman 2027 sw embedded engineering intern sykesville md",
     "northrop grumman 2027 systems engineer intern cape canaveral fl",
     "northrop grumman 2027 systems engineer intern chantilly va",
+    "northrop grumman 2027 systems engineer intern dulles va or mclean va",
     "northrop grumman 2027 systems engineer intern rolling meadows il",
     "northrop grumman 2027 systems engineer intern woodland hills ca",
     "northrop grumman 2027 systems engineering intern annapolis md",
