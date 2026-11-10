@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-10T02:51:52.612621+00:00",
+  "last_checked_utc": "2026-11-10T03:01:43.259421+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1626,6 +1626,7 @@
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Graduate-Intern_R016531",
+    "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Intern_R016430",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Undergraduate-Intern_R016533",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Propulsion-Engineering-Graduate-Intern_R016729",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Radio-Frequency--RF--Spectrum-Engineering-Undergrad-Intern_R017050",
@@ -28244,6 +28245,7 @@
     "job:workday:aero:xmlname-2027-navigation---positioning-architecture-systems-graduate-intern_r016445",
     "job:workday:aero:xmlname-2027-network-systems-grad-intern_r016836",
     "job:workday:aero:xmlname-2027-power-and-analog-circuit-engineering-graduate-intern_r016531",
+    "job:workday:aero:xmlname-2027-power-and-analog-circuit-engineering-intern_r016430",
     "job:workday:aero:xmlname-2027-power-and-analog-circuit-engineering-undergraduate-intern_r016533",
     "job:workday:aero:xmlname-2027-power-systems-engineering-graduate-intern_r016527",
     "job:workday:aero:xmlname-2027-power-systems-engineering-undergraduate-intern_r016530",
@@ -41618,6 +41620,7 @@
     "the aerospace corporation 2027 modeling and simulation graduate intern communication and ground architectures",
     "the aerospace corporation 2027 navigation positioning architecture systems graduate intern",
     "the aerospace corporation 2027 network systems grad intern",
+    "the aerospace corporation 2027 power and analog circuit engineering grad intern",
     "the aerospace corporation 2027 power and analog circuit engineering graduate intern",
     "the aerospace corporation 2027 power and analog circuit engineering undergraduate intern",
     "the aerospace corporation 2027 power systems engineering graduate intern",
