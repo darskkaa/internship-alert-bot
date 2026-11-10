@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-10T16:32:03.873938+00:00",
+  "last_checked_utc": "2026-11-10T16:42:02.692194+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14008,6 +14008,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern--Commerce-CA_R10259976",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Stress-Analysis-and-Tooling-Design-Engineer-Intern---Commerce-CA_R10257184",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Mgr-Electronics-Engineering-1---Ground-Systems-Intern-Development-Manager_R10256522",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2026-Mechanical-Engineer-Intern---Manhattan-Beach-CA_R10255821",
@@ -33815,6 +33816,7 @@
     "job:workday:ngc:xmlname-2027-manufacturing-and-operations-engineering-intern---utah_r10254330",
     "job:workday:ngc:xmlname-2027-manufacturing-engineer-intern---commerce-ca_r10255136",
     "job:workday:ngc:xmlname-2027-manufacturing-engineer-intern---san-diego-ca_r10255134",
+    "job:workday:ngc:xmlname-2027-manufacturing-engineer-intern--commerce-ca_r10259976",
     "job:workday:ngc:xmlname-2027-materials-and-process-engineering-intern---san-diego-ca_r10256955",
     "job:workday:ngc:xmlname-2027-materials-chemical-engineer-intern---baltimore-md_r10256386",
     "job:workday:ngc:xmlname-2027-materials-engineer-intern---sunnyvale-ca_r10255084",
