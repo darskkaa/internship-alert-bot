@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-10T21:31:49.821047+00:00",
+  "last_checked_utc": "2026-11-10T21:41:41.582143+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14192,6 +14192,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10255683-1",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10260078",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177",
@@ -33979,6 +33980,7 @@
     "job:workday:ngc:xmlname-2027-intern-engineer---product-support_r10255457",
     "job:workday:ngc:xmlname-2027-intern-engineer---product-support_r10255683-1",
     "job:workday:ngc:xmlname-2027-intern-engineer---product-support_r10258530",
+    "job:workday:ngc:xmlname-2027-intern-engineer---product-support_r10260078",
     "job:workday:ngc:xmlname-2027-intern-industrial-security_r10257954",
     "job:workday:ngc:xmlname-2027-intern-optical-engineer---redondo-beach-ca_r10254063",
     "job:workday:ngc:xmlname-2027-intern-product-support---data-scientist_r10258679",
