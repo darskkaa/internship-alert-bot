@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-10T21:21:57.613449+00:00",
+  "last_checked_utc": "2026-11-10T21:31:49.821047+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17407,6 +17407,7 @@
     "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Kansas-City-MO/Intern--Mechanical-Engineer_JR002761",
     "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Killeen-TX/Industrial-Engineer---Intern_JR002772",
     "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Niles-OH/Intern--Manufacturing-Engineer_JR002843",
+    "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Rochelle-IL/Electrical-and-Controls-Engineer---Intern_JR002596",
     "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Rochelle-IL/Intern--Manufacturing-Engineer_JR002824",
     "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769",
     "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Warren-OH/Intern--Quality-Engineer_JR002821",
@@ -30897,6 +30898,7 @@
     "job:workday:gdit:ai-and-data-analytics-intern_rq230269",
     "job:workday:gdit:financial-data-analyst-intern--seasonal-_rq230761",
     "job:workday:gdit:gdit-2027-summer-ai---ml-internship_rq225401",
+    "job:workday:gdit:gdit-summer-internship-program---summer-2027-ai-ml-business-intelligence-development-internship_rq228935",
     "job:workday:gdit:gdit-summer-internship-program---summer-2027-ai-ml-data-science-and-engineering-internship_rq228936",
     "job:workday:gdit:gdit-summer-internship-program---summer-2027-ai-ml-software-development-and-engineering-internship_rq228939",
     "job:workday:gdit:gdit-summer-internship-program---summer-2027-ai-ml-software-development-and-engineering-internship_rq228940",
@@ -36396,6 +36398,7 @@
     "job:workday:zebra:xmlname-2027-summer-internship--us----supplies-and-sensors-r-d_jr103643",
     "job:workday:zebra:xmlname-2027-summer-internship--us----systems-engineer_jr103659",
     "job:workday:zekelman:ai-intern_jr002752",
+    "job:workday:zekelman:electrical-and-controls-engineer---intern_jr002596",
     "job:workday:zekelman:electrical-and-controls-engineer-intern_jr002753",
     "job:workday:zekelman:industrial-engineer---intern_jr002772",
     "job:workday:zekelman:intern--automation-engineer_jr002792",
