@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-10T07:51:55.840719+00:00",
+  "last_checked_utc": "2026-11-10T08:01:48.923921+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1526,6 +1526,7 @@
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--ABAPer--Internship-_14642572",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-CO--Internship-_14642544",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-CPI--Internship-_14642576",
+    "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-FI--Internship-_14642522",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-FM--Internship-_14642545",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-HR-Payroll--Internship-_14642567",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-MM--Internship-_14642542",
@@ -17414,6 +17415,7 @@
     "accenture it one abaper internship",
     "accenture it one sap co internship",
     "accenture it one sap cpi internship",
+    "accenture it one sap fi internship",
     "accenture it one sap fm internship",
     "accenture it one sap hrpayroll internship",
     "accenture it one sap mm internship",
@@ -28232,6 +28234,7 @@
     "job:workday:accenture:xmlname--it-one--abaper--internship-_14642572",
     "job:workday:accenture:xmlname--it-one--sap-co--internship-_14642544",
     "job:workday:accenture:xmlname--it-one--sap-cpi--internship-_14642576",
+    "job:workday:accenture:xmlname--it-one--sap-fi--internship-_14642522",
     "job:workday:accenture:xmlname--it-one--sap-fm--internship-_14642545",
     "job:workday:accenture:xmlname--it-one--sap-hr-payroll--internship-_14642567",
     "job:workday:accenture:xmlname--it-one--sap-mm--internship-_14642542",
