@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-10T18:41:53.440150+00:00",
+  "last_checked_utc": "2026-11-10T18:51:58.642581+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11852,6 +11852,7 @@
     "https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9",
     "https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415",
     "https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7",
+    "https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37",
     "https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e",
     "https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e/apply",
     "https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8",
@@ -16400,6 +16401,7 @@
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Developer-Intern_R58195",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171",
+    "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---TN-Knoxville/Software-Engineering-Intern_R58120",
     "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980",
     "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963",
     "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
@@ -26767,6 +26769,7 @@
     "job:lever:bd6c33a9-f703-4a83-8d4b-95b6bb99245a",
     "job:lever:bdcfb29f-4f27-42de-933f-7f83a359b9f0",
     "job:lever:be396d08-738d-4f3d-bea4-cbbdc88c3db9",
+    "job:lever:be41a03c-460e-4ff7-b817-f012aa1c4b37",
     "job:lever:be91591f-e7bd-4aad-8bab-3303fe0cff20",
     "job:lever:bef440ce-0365-4de7-9b1e-b1288cdaf7f3",
     "job:lever:bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4",
@@ -35833,6 +35836,7 @@
     "job:workday:trimble:software-engineer-intern_r58171",
     "job:workday:trimble:software-engineering-intern_r57676",
     "job:workday:trimble:software-engineering-intern_r57963",
+    "job:workday:trimble:software-engineering-intern_r58120",
     "job:workday:troweprice:equity-research-internship-opportunity---summer-2027_80630",
     "job:workday:troweprice:xmlname-2027-technology-and-data-internship_82677",
     "job:workday:trumpf:application-engineering-intern-co-op_r00042681",
