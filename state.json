@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-10T12:51:55.924406+00:00",
+  "last_checked_utc": "2026-11-10T13:11:55.536559+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13837,6 +13837,7 @@
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/TUR---Ankara---Ankara-KMDB/Clinical-Research-Intern_R424417",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---San-Diego-Science-Park-Road/XMLNAME-2027-Future-Talent-Program---Translational-Genome-Analytics---Co-op_R424008",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Translational-Sciences-and-Outsourcing---Intern_R413062",
+    "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Kansas---De-Soto/XMLNAME-2026-Future-Talent-Program---Associate-Specialist--Process-Engineer---Global-Engineering-Solutions-Co-op--Summer-Fall-2026-Start-_R392762",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Kansas---De-Soto/XMLNAME-2027-Future-Talent-Program---Engineering---Co-op_R412906",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Optical-Imaging-Data-Science-Intern---Intern_R412885",
@@ -33533,6 +33534,7 @@
     "job:workday:msd:intern---master-statistics-bioinformatics--global-statistics-and-data-management_r424236-1",
     "job:workday:msd:new-product-introduction--technical-engineering-internship_r412067",
     "job:workday:msd:student-placement---it-developer-analyst_r418573",
+    "job:workday:msd:xmlname-2026-future-talent-program---associate-specialist--process-engineer---global-engineering-solutions-co-op--summer-fall-2026-start-_r392762",
     "job:workday:msd:xmlname-2027-future-talent-program---ai-ml-biomedical-imaging-and-computational-pathology---intern_r423515",
     "job:workday:msd:xmlname-2027-future-talent-program---ai-ml-computational-toxicology---intern_r412871",
     "job:workday:msd:xmlname-2027-future-talent-program---bioprocess-clinical-manufacturing---technology-co-op_r413123",
@@ -37267,6 +37269,7 @@
     "merck 2027 future talent program medical data scientist intern",
     "merck 2027 future talent program nonclinical drug safety data scientist intern",
     "merck 2027 future talent program patient data learning coop",
+    "merck 2027 future talent program processproject engineer global engineering solutions coop kansas de soto",
     "merck 2027 future talent program standardizing automation scripting practices through aienabled knowledge repository intern",
     "merck 2027 future talent program translational genome analytics coop",
     "merck 2027 future talent program translational sciences and outsourcing coop",
