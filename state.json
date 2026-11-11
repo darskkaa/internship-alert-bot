@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T15:12:05.454332+00:00",
+  "last_checked_utc": "2026-11-11T15:25:57.920070+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6721,6 +6721,7 @@
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Sophomore--Summer-2027-_JR-2604646",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Sophomore--Summer-2027-_JR-2604648",
     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Yield-and-Characterization-Engineer-Intern--Summer-2027-_JR-2604638",
+    "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/IE-CE-SHANNON-001--World-Aviation-Park--BLDG-1/Engineering-Intern---Non-Competitive-Position_01888924",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---Engineering_01873565",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/PL-14-WARSZAWA-049--Ul-Moktowska-49--MOKTOWSKA/System-Engineer-Intern---Poland_01883096",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Power-Electrical-Engineer-Intern--Summer-2027----Onsite_01876775",
@@ -31692,6 +31693,7 @@
     "job:workday:globalhr:embedded-software-engineering-intern--summer-2027-_01884782",
     "job:workday:globalhr:embedded-software-security-eng-intern---s3e_01878712",
     "job:workday:globalhr:engine-design---systems-integration-co-op--january-2027---hybrid-_01873689",
+    "job:workday:globalhr:engineering-intern---non-competitive-position_01888924",
     "job:workday:globalhr:engineering-intern---rf-systems_01879696",
     "job:workday:globalhr:engineering-support-to-operations----project-engineer-co-op--january-2027---hybrid-_01872839",
     "job:workday:globalhr:engineering-support-to-operations---project-engineering-co-op--january-2027---hybrid-_01873703",
@@ -40811,6 +40813,7 @@
     "rtx embedded software security eng intern s3e",
     "rtx engine design systems integration coop january 2027 hybrid",
     "rtx engineering intern",
+    "rtx engineering intern noncompetitive position",
     "rtx engineering intern rf systems",
     "rtx engineering support to operations project engineer coop january 2027 hybrid",
     "rtx engineering support to operations project engineering coop january 2027 hybrid",
