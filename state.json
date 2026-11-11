@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T19:32:03.033241+00:00",
+  "last_checked_utc": "2026-11-11T19:42:04.019303+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14327,6 +14327,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Structural-Engineering-Intern--Roy-UT_R10258270",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260260",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Engineering-Internship--Dulles-VA---Baltimore-MD-_R10256270",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Engineering-Internship--Graduate-or-PhD---Dulles-VA---Baltimore-MD-_R10259462",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Integration-and-Test--Electronics-Mechanical--Technical-Intern---Dulles-VA_R10259321",
@@ -34265,6 +34266,7 @@
     "job:workday:ngc:xmlname-2027-manufacturing-engineer-intern---commerce-ca_r10255136",
     "job:workday:ngc:xmlname-2027-manufacturing-engineer-intern---san-diego-ca_r10255134",
     "job:workday:ngc:xmlname-2027-manufacturing-engineer-intern--commerce-ca_r10259976",
+    "job:workday:ngc:xmlname-2027-manufacturing-engineering-intern---charlottesville-va_r10260260",
     "job:workday:ngc:xmlname-2027-materials-and-process-engineering-intern---san-diego-ca_r10256955",
     "job:workday:ngc:xmlname-2027-materials-chemical-engineer-intern---baltimore-md_r10256386",
     "job:workday:ngc:xmlname-2027-materials-engineer-intern---sunnyvale-ca_r10255084",
@@ -38816,6 +38818,7 @@
     "northrop grumman 2027 manufacturing and operations engineering intern utah",
     "northrop grumman 2027 manufacturing engineer intern commerce ca",
     "northrop grumman 2027 manufacturing engineer intern san diego ca",
+    "northrop grumman 2027 manufacturing engineering intern charlottesville va",
     "northrop grumman 2027 materials and process engineering intern san diego ca",
     "northrop grumman 2027 materials engineer intern sunnyvale ca",
     "northrop grumman 2027 materialschemical engineer intern baltimore md",
