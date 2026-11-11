@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T10:11:37.372552+00:00",
+  "last_checked_utc": "2026-11-11T11:32:04.451000+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15733,6 +15733,7 @@
     "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1",
     "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
     "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+    "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715",
     "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Summer-2027-Intern---UI-UX-Designer_JR363342",
     "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1",
     "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1",
@@ -35407,6 +35408,7 @@
     "job:workday:salesforce:summer-2027-intern---product-management_jr367659-1",
     "job:workday:salesforce:summer-2027-intern---software-engineer--security-government-_jr364911",
     "job:workday:salesforce:summer-2027-intern---software-engineer--security-government-_jr364911-1",
+    "job:workday:salesforce:summer-2027-intern---software-engineer_jr337715",
     "job:workday:salesforce:summer-2027-intern---software-engineer_jr340771",
     "job:workday:salesforce:summer-2027-intern---software-engineer_jr340771-1",
     "job:workday:salesforce:summer-2027-intern---solution-engineer_jr364363",
