@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T18:31:59.059285+00:00",
+  "last_checked_utc": "2026-11-11T18:52:08.027283+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7171,6 +7171,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Summer-Fall-Co-Op---Systems-Engineer---AVI-MIL-FMS-DAS--Onsite-_01872240",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Systems-Engineer-Intern--Onsite----Mission-Sensor-Manager_01879093",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Business-Systems-and-Transformation-Intern--Summer-2027-_01880200",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Engineering-Co-op--Summer-Fall-27-_01870533",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974",
@@ -31718,6 +31719,7 @@
     "job:workday:globalhr:digital-technology-intern--summer-2027-_01871051-1",
     "job:workday:globalhr:digital-technology-vendor-management-co-op--remote-_01878154",
     "job:workday:globalhr:display-systems-engineering-co-op--summer-fall-2027----onsite_01868917",
+    "job:workday:globalhr:electrical--fcs-hardware--engineering-intern--summer-2027--onsite-_01888815",
     "job:workday:globalhr:electrical-components-engineer-intern--summer-2027---onsite-_01888885",
     "job:workday:globalhr:electrical-components-engineer-intern--summer-2027--onsite-_01879761",
     "job:workday:globalhr:electrical-design-engineer-intern--summer-2027-_01877254",
@@ -40882,6 +40884,7 @@
     "rtx electrical engineering intern summer 2027",
     "rtx electrical engineering intern summer 2027onsite",
     "rtx electrical engineering intern test solutions",
+    "rtx electrical fcs hardware engineering intern summer 2027onsite",
     "rtx electrical firmware winterspring cooponsite",
     "rtx electrical production support engineer intern summer 2027",
     "rtx electrical project engineering intern summer 2027",
