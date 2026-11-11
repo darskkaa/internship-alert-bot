@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T16:42:09.344880+00:00",
+  "last_checked_utc": "2026-11-11T17:02:21.330639+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6782,6 +6782,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/NPI-Manufacturing-Engineer-Intern--Summer-2027-_01886220",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-Intern---Summer-2027--Onsite-_01864173",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/FPGA-Design-Intern--Summer-2027-_01870290-2",
+    "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01888146",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Winter-Spring--Onsite-_01871518",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866833",
     "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866850",
@@ -7251,6 +7252,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WINSTON-SALEM-1455--1455-Fairchild-Rd--ADMIN-BLDG/Industrial-Engineer-Intern--Summer-2027-_01887069",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NE-YORK-2800--2800-Division-Ave--PLANT-52/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01880621",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NH-DURHAM-121--121-Technology-Dr--BLDG-125/Quality-Engineering-Intern--Summer-2027-_01882570",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Production-Test-Engineer-Intern--Summer-2027-_01872985",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01879477",
@@ -31870,6 +31872,7 @@
     "job:workday:globalhr:modeling--simulation---analysis-intern--summer-2027-_01867118",
     "job:workday:globalhr:network-systems-engineering-intern--onsite_01873238",
     "job:workday:globalhr:npi-manufacturing-engineer-intern--summer-2027-_01886220",
+    "job:workday:globalhr:operations-engineering-intern--summer-2027-_01878570",
     "job:workday:globalhr:operations-engineering-intern--summer-2027-_01879152",
     "job:workday:globalhr:operations-engineering-specialist-co-op--onsite-_01874745",
     "job:workday:globalhr:optical-engineer-intern--summer-2027-_01886489",
@@ -32019,6 +32022,7 @@
     "job:workday:globalhr:software-engineering-intern--summer-2027-_01887806",
     "job:workday:globalhr:software-engineering-intern--summer-2027-_01888045",
     "job:workday:globalhr:software-engineering-intern--summer-2027-_01888049",
+    "job:workday:globalhr:software-engineering-intern--summer-2027-_01888146",
     "job:workday:globalhr:software-engineering-intern--summer-fall-2027-_01873006",
     "job:workday:globalhr:software-platform-intern--summer-2027-_01874068",
     "job:workday:globalhr:stage--gestion-des-programmes-moteurs---introduction-de-nouveau-produit----internship---operations-program-management---new-product-introduction_01887628",
