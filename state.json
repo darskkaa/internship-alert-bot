@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T14:32:13.910554+00:00",
+  "last_checked_utc": "2026-11-11T14:52:09.429335+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16419,6 +16419,7 @@
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---DevOps_R-01374014-1",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Electronics-Engineer_R-01373995",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Instrument-Scientist_R-01374018",
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Mechanical-Engineer_R-01373996-1",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Development_R-01373992",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Engineering_R-01374064",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Firmware-Test_R-01374007",
@@ -36026,6 +36027,7 @@
     "job:workday:thermofisher:intern---devops_r-01374014-1",
     "job:workday:thermofisher:intern---electronics-engineer_r-01373995",
     "job:workday:thermofisher:intern---instrument-scientist_r-01374018",
+    "job:workday:thermofisher:intern---mechanical-engineer_r-01373996-1",
     "job:workday:thermofisher:intern---software-development_r-01373992",
     "job:workday:thermofisher:intern---software-engineering_r-01374064",
     "job:workday:thermofisher:intern---software-firmware-test_r-01374007",
@@ -42587,6 +42589,7 @@
     "thermo fisher scientific intern devops",
     "thermo fisher scientific intern electronics engineer",
     "thermo fisher scientific intern instrument scientist",
+    "thermo fisher scientific intern mechanical engineer",
     "thermo fisher scientific intern software development",
     "thermo fisher scientific intern software engineering",
     "thermo fisher scientific intern softwarefirmware test",
