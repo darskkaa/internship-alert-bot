@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T18:52:08.027283+00:00",
+  "last_checked_utc": "2026-11-11T19:02:07.134186+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14293,6 +14293,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Electrical-Engineer-Co-op-Intern---Cincinnati-OH_R10260245-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10255683-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10260078",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
@@ -34309,6 +34310,7 @@
     "job:workday:ngc:xmlname-2027-software-test-engineering-intern--roy-ut_r10258276-1",
     "job:workday:ngc:xmlname-2027-software-testing-engineering-intern---apopka-fl_r10259820-1",
     "job:workday:ngc:xmlname-2027-spring-co-op-software-engineer-intern---mcclellan-ca_r10259329",
+    "job:workday:ngc:xmlname-2027-spring-electrical-engineer-co-op-intern---cincinnati-oh_r10260245-1",
     "job:workday:ngc:xmlname-2027-stress-analysis-and-tooling-design-engineer-intern---commerce-ca_r10257184",
     "job:workday:ngc:xmlname-2027-structural---electromechanical-engineer-intern---redondo-beach-ca_r10257211",
     "job:workday:ngc:xmlname-2027-structural-dynamics-engineer-intern---redondo-beach-ca_r10259391",
@@ -38847,6 +38849,7 @@
     "northrop grumman 2027 software test engineering intern roy ut",
     "northrop grumman 2027 software testing engineering intern apopka fl",
     "northrop grumman 2027 spring coop software engineer intern mcclellan ca",
+    "northrop grumman 2027 spring electrical engineer coop intern cincinnati oh",
     "northrop grumman 2027 stress analysis and tooling design engineer intern commerce ca",
     "northrop grumman 2027 structural dynamics engineer intern redondo beach ca",
     "northrop grumman 2027 structural electromechanical engineer intern redondo beach ca",
