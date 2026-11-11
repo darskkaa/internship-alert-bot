@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T19:42:04.019303+00:00",
+  "last_checked_utc": "2026-11-11T19:52:01.029783+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15570,6 +15570,7 @@
     "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Analytical-Method-Validation-and-Tech-Transfer_202609-124354",
     "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Cell-Line-Development-Automation_202609-123461",
     "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Data-Science---Machine-Learning_202609-124657",
+    "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Pharmaceutical-Technical-Development---Laboratory--Wet-Lab-or-Dry-Lab-_202609-122484",
     "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Prescient-Frontier-Research_202610-124986",
     "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---gRED-Business-Operations--Systems---Process-_202610-125567-1",
     "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Biostatistics-and-Analytical-Data-Sciences_202611-128787",
@@ -22279,6 +22280,7 @@
     "genentech 2027 spring intern data science machine learning",
     "genentech 2027 spring intern gred business operations systems process",
     "genentech 2027 spring intern pharmaceutical technical development bioassay",
+    "genentech 2027 spring intern pharmaceutical technical development laboratory wetlab or drylab",
     "genentech 2027 spring intern prescient frontier research",
     "genentech 2027 summer intern biostatistics and analytical data sciences",
     "genentech 2027 summer intern digital ai and clinical outcome assessments",
@@ -35350,6 +35352,7 @@
     "job:workday:roche:xmlname-2027-spring-intern---cell-line-development-automation_202609-123461",
     "job:workday:roche:xmlname-2027-spring-intern---data-science---machine-learning_202609-124657",
     "job:workday:roche:xmlname-2027-spring-intern---gred-business-operations--systems---process-_202610-125567-1",
+    "job:workday:roche:xmlname-2027-spring-intern---pharmaceutical-technical-development---laboratory--wet-lab-or-dry-lab-_202609-122484",
     "job:workday:roche:xmlname-2027-spring-intern---prescient-frontier-research_202610-124986",
     "job:workday:roche:xmlname-2027-summer-intern---biostatistics-and-analytical-data-sciences_202611-128787",
     "job:workday:roche:xmlname-2027-summer-intern---digital--ai--and-clinical-outcome-assessments_202611-128790",
