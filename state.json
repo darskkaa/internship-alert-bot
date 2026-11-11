@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T22:13:47.819483+00:00",
+  "last_checked_utc": "2026-11-11T22:21:56.277532+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14310,6 +14310,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Materials-Chemical-Engineer-Intern---Baltimore-MD_R10256386",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Industrial-Engineering-Intern---Elkridge-MD_R10260314",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Manufacturing-Engineering-Intern---Elkridge-MD_R10260318",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hanover/XMLNAME-2027-Thermal-Mechanical-Engineer-Internship---Hanover-MD_R10258425",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/XMLNAME-2027-Engineering-Intern---Hollywood--MD---Evergreen-_R10253725",
@@ -34311,6 +34312,7 @@
     "job:workday:ngc:xmlname-2027-h-w-mechanical-engineering-intern---annapolis-md_r10254668",
     "job:workday:ngc:xmlname-2027-hardware-electronics-engineer-intern---rolling-meadows-il_r10252779-1",
     "job:workday:ngc:xmlname-2027-hardware-mechanical-engineer-intern---rolling-meadows-il_r10252778",
+    "job:workday:ngc:xmlname-2027-industrial-engineering-intern---elkridge-md_r10260314",
     "job:workday:ngc:xmlname-2027-integration-and-test--electronics-mechanical--technical-intern---dulles-va_r10259321",
     "job:workday:ngc:xmlname-2027-intern---airworthiness-engineer_r10255197",
     "job:workday:ngc:xmlname-2027-intern---airworthiness-engineer_r10255205",
@@ -38886,6 +38888,7 @@
     "northrop grumman 2027 hardware mechanical engineer intern rolling meadows il",
     "northrop grumman 2027 hw electronics engineering intern annapolis md",
     "northrop grumman 2027 hw mechanical engineering intern annapolis md",
+    "northrop grumman 2027 industrial engineering intern elkridge md",
     "northrop grumman 2027 integration and test electronicsmechanical technical intern dulles va",
     "northrop grumman 2027 intern airworthiness engineer",
     "northrop grumman 2027 intern engineer product support",
@@ -42086,6 +42089,7 @@
     "stripe phd machine learning engineer intern",
     "stripe product design intern",
     "stripe software engineer intern",
+    "stripe software engineer intern summer",
     "stripe software engineer intern summer or winter",
     "stryker 2027 summer intern rd process technology development",
     "stryker commercial operations software engineering intern flower mound tx",
