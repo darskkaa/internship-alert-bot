@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T14:22:09.377895+00:00",
+  "last_checked_utc": "2026-11-11T14:32:13.910554+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15616,6 +15616,7 @@
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Firmware-Engineer-Intern_R26-8321",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Product-Management_R26-6971-1",
+    "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Application-Engineer_R26-7707-1",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-2",
@@ -35310,6 +35311,7 @@
     "job:workday:rockwellautomation:intern--marketing-engineer_r26-7211-1",
     "job:workday:rockwellautomation:intern--product-management_r26-6971",
     "job:workday:rockwellautomation:intern--product-management_r26-6971-1",
+    "job:workday:rockwellautomation:intern--software-developer-engineering_r26-8666-2",
     "job:workday:rockwellautomation:intern--technical-sales---consulting--canada-_r26-5965-1",
     "job:workday:rockwellautomation:intern--technical-sales---consulting--canada-_r26-5965-2",
     "job:workday:rockwellautomation:intern--technical-sales---consulting--usa-_r26-5962-1",
@@ -40642,6 +40644,7 @@
     "rockwell automation intern information technology",
     "rockwell automation intern marketing engineer",
     "rockwell automation intern product management",
+    "rockwell automation intern software developerengineering",
     "rockwell automation intern technical sales consulting canada",
     "rockwell automation intern technical sales consulting usa",
     "rockwell automation intern test engineering milwaukee wi",
