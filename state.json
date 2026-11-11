@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T11:32:04.451000+00:00",
+  "last_checked_utc": "2026-11-11T12:02:13.133434+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12716,6 +12716,7 @@
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Engineering--Intern_2641540",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Electrical-Engineering-Intern_2641972",
+    "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Electrical-Engineering-Internship_2643472",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Engineering-Intern_2642277",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872",
     "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Mechanical-Engineer-Intern_2643268",
@@ -33081,6 +33082,7 @@
     "job:workday:kla:electrical-design-engineering-intern_2641708",
     "job:workday:kla:electrical-engineering-intern_2641972",
     "job:workday:kla:electrical-engineering-intern_2641972-1",
+    "job:workday:kla:electrical-engineering-internship_2643472",
     "job:workday:kla:engineering-intern_2642277",
     "job:workday:kla:engineering-intern_2642277-1",
     "job:workday:kla:intern---plm-bi---analytics_2641568",
@@ -36921,6 +36923,7 @@
     "kla corporation tax data analytics intern",
     "kla electrical design engineering intern",
     "kla electrical engineering intern",
+    "kla electrical engineering internship",
     "kla engineering intern",
     "kla machine learning engineer intern",
     "kla mechanical design engineer intern",
