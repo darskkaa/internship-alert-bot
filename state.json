@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T17:02:21.330639+00:00",
+  "last_checked_utc": "2026-11-11T17:12:03.330416+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5470,6 +5470,7 @@
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98676",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98684",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98774",
+    "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98841",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98920",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98933",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98934",
@@ -7433,6 +7434,7 @@
     "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4767",
     "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4868",
     "https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Blue-Ash-Ohio-USA/Engineering-Intern_R26_0000002043",
+    "https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Covington-Georgia-USA/Process-Engineering-Intern_R26_0000002583",
     "https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Houston-Texas-USA/Process-Engineering-Intern_R26_0000002100",
     "https://hbfuller.wd1.myworkdayjobs.com/Careers/job/South-Bend-Indiana-USA/Engineering-Intern_R26_0000002154",
     "https://hbfuller.wd1.myworkdayjobs.com/Careers/job/St-Paul-Minnesota-USA/Legal-Operations---Automation-Intern_R26_0000002112",
@@ -27529,6 +27531,7 @@
     "job:oracle:emit.fa.ca3.oraclecloud.com:98676",
     "job:oracle:emit.fa.ca3.oraclecloud.com:98684",
     "job:oracle:emit.fa.ca3.oraclecloud.com:98774",
+    "job:oracle:emit.fa.ca3.oraclecloud.com:98841",
     "job:oracle:emit.fa.ca3.oraclecloud.com:98920",
     "job:oracle:emit.fa.ca3.oraclecloud.com:98933",
     "job:oracle:emit.fa.ca3.oraclecloud.com:98934",
@@ -32205,6 +32208,7 @@
     "job:workday:hbfuller:engineering-intern_r26_0000002154",
     "job:workday:hbfuller:legal-operations---automation-intern_r26_0000002112",
     "job:workday:hbfuller:process-engineering-intern_r26_0000002100",
+    "job:workday:hbfuller:process-engineering-intern_r26_0000002583",
     "job:workday:hcmportal:americas-region-business-analytics-summer-2027-intern_r26030513",
     "job:workday:hcmportal:mhr-summer-2027-intern---data-analytics--hr-systems-_r26039546",
     "job:workday:hcmportal:ups-global-finance-summer-2027-analytics-internship_r26030589",
