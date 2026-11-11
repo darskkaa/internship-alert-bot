@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T16:12:03.314897+00:00",
+  "last_checked_utc": "2026-11-11T16:21:59.469440+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2510,6 +2510,7 @@
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Biologics-Engineering--Computational-and-Experimental-Design-of-Multispecific-Antibodies-Intern_R-264042",
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Engineering-Capital-Projects-Intern--Undergraduate_R-263950",
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647",
+    "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Sciences--Validation-Engineer-Intern_R-264093",
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs--AI---Knowledge-Experience-Intern_R-263260",
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845",
     "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415",
@@ -18956,6 +18957,7 @@
     "astrazeneca biologics engineering computational and experimental design of multispecific antibodies intern",
     "astrazeneca global engineering capital projects intern undergraduate",
     "astrazeneca manufacturing digital and ai intern",
+    "astrazeneca manufacturing sciences validation engineer intern",
     "astrazeneca network planning data analytics intern",
     "astrazeneca patient data insights intern",
     "astrazeneca us medical affairs ai knowledge experience intern",
@@ -29379,6 +29381,7 @@
     "job:workday:astrazeneca:epidemiology---real-world-science-intern_r-259238",
     "job:workday:astrazeneca:global-engineering-capital-projects-intern--undergraduate_r-263950",
     "job:workday:astrazeneca:manufacturing-digital-and-ai-intern_r-263647",
+    "job:workday:astrazeneca:manufacturing-sciences--validation-engineer-intern_r-264093",
     "job:workday:astrazeneca:network-planning---data-analytics-intern_r-263845",
     "job:workday:astrazeneca:patient-data-insights-intern_r-262150",
     "job:workday:astrazeneca:regulatory-innovation---ai-transformation-intern_r-262017",
