@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T01:41:37.434374+00:00",
+  "last_checked_utc": "2026-11-11T02:41:41.604042+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -11148,6 +11148,9 @@
     "https://jobs.ashbyhq.com/seqholdings/9dc9a7f3-198a-43c0-be75-a3aba228bf2c",
     "https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b",
     "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036",
+    "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true",
+    "https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true",
+    "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true",
     "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
     "https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17",
     "https://jobs.ashbyhq.com/sierra/ef896ee9-e903-4a1f-84c2-537373cb9081",
@@ -17298,6 +17301,7 @@
     "https://www.tesla.com/careers/search/job/286986",
     "https://www.tesla.com/careers/search/job/287982",
     "https://www.tesla.com/careers/search/job/289241",
+    "https://www.tesla.com/careers/search/job/289683",
     "https://www.tower-research.ca/postes-vacants/?gh_jid=8212194",
     "https://www.tower-research.com/open-positions/?gh_jid=7368106",
     "https://www.tower-research.com/open-positions/?gh_jid=8024128",
@@ -42128,6 +42132,7 @@
     "tesla physics engine development engineer intern optimus",
     "tesla physics engine development intern physics engine development engineer optimus",
     "tesla rl engineer intern rl engineer tesla ai",
+    "tesla software developer intern it apps",
     "tesla software engineer intern ai inference co design",
     "tesla software engineer intern si reinforcement learning",
     "tesla software engineer intern software engineer ai infrastructure",
