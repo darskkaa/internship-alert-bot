@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-11T22:02:03.181918+00:00",
+  "last_checked_utc": "2026-11-11T22:12:26.528476+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4254,6 +4254,7 @@
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Desoto-Texas/XMLNAME-2027-Gas-Turbine-Product-Engineering--Summer-Intern_R0000382210",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Desoto-Texas/XMLNAME-2027-Intern---Global-Supply-Chain---Procurement-Commercial_R0000380040",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Desoto-Texas/XMLNAME-2027-Internship--Overhaul-Engineer_R0000381647",
+    "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/Internship---Power-Generation-Project-Applications-Engineer--PAE--Coordinator_R0000377645",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/Oil-and-Gas-Project-Application-Engineering-Intern_R0000403393",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Gas-Turbine-Product-Engineering--Summer-Intern_R0000382212",
@@ -30228,6 +30229,7 @@
     "job:workday:cat:design-engineer--intern-_r0000402100",
     "job:workday:cat:engineering-student-internship--tijuana--mx-_r0000397243",
     "job:workday:cat:engineering-student-internship_r0000397241",
+    "job:workday:cat:internship---power-generation-project-applications-engineer--pae--coordinator_r0000377645",
     "job:workday:cat:internship-service-parts-engineering--student-tuuana-mx-_r0000381008",
     "job:workday:cat:oil-and-gas-project-application-engineering-intern_r0000403393",
     "job:workday:cat:oil-and-gas-project-application-engineering-intern_r0000403393-1",
@@ -41818,6 +41820,7 @@
     "solar turbines 2027 welding engineer intern",
     "solar turbines design engineer intern",
     "solar turbines engineering student internship tijuana mx",
+    "solar turbines internship power generation project applications engineer pae coordinator",
     "solar turbines internship service parts engineering student tijuana mx",
     "solar turbines oil and gas project application engineering intern",
     "solidigm 2027 graduate hardware validation and product engineering internships us",
