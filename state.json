@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T10:42:12.239580+00:00",
+  "last_checked_utc": "2026-11-12T11:12:03.053599+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13822,6 +13822,7 @@
     "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231984",
     "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231985",
     "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Stirling/Risk---Compliance-Internship--Stirling-_R20870",
+    "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Stirling/Technology-Internship--Stirling-_R20892",
     "https://mhicareers.com/job/Lake-Mary-IT-Data-&-Analytics-Intern-FL-32746/1429739133/?ats=successfactors",
     "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/ANDERSON-SC/Summer-2027-Internship--Engineering-and-or-Sciences---IT-IS--Anderson--SC-_R-2026030935",
     "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/ARDMORE-OK/Summer-2027-Internship--Data-Engineering---Ardmore--OK-_R-2026030979",
@@ -34016,6 +34017,7 @@
     "job:workday:mfs:summer-2027-software-engineer-intern--june---august-_mfs-231984",
     "job:workday:mfs:summer-2027-software-engineer-intern--june---august-_mfs-231985",
     "job:workday:mgpru:risk---compliance-internship--stirling-_r20870",
+    "job:workday:mgpru:technology-internship--stirling-_r20892",
     "job:workday:michelinhr:automation-engineer-internship_r-2026038912",
     "job:workday:michelinhr:industrial-engineer-internship_r-2026038915",
     "job:workday:michelinhr:spring-or-summer-2027-internship---central-electrical-engineering-co-op_r-2026033786",
@@ -38224,6 +38226,7 @@
     "mfs summer 2027 software data intern june august",
     "mfs summer 2027 software engineer intern june august",
     "mg risk compliance internship stirling",
+    "mg technology internship stirling",
     "michael baker international bridge engineering intern summer 2027",
     "michael baker international civil engineering intern federal summer 2027",
     "michael baker international civil engineering intern land development summer 2027",
