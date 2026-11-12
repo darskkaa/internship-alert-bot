@@ -208,5 +208,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-12T21:02:02.836440+00:00"
+  },
+  {
+    "apply_url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302635",
+    "company": "Dell Technologies",
+    "role": "User Experience (UX) Research Intern",
+    "location": "Austin, TX, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T21:11:41.161425+00:00"
   }
 ]
