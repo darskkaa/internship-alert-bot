@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T10:21:57.938845+00:00",
+  "last_checked_utc": "2026-11-12T10:42:12.239580+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2305,6 +2305,7 @@
     "https://apply.careers.microsoft.com/careers/job/1970393556972698",
     "https://apply.careers.microsoft.com/careers/job/1970393557004836",
     "https://apply.careers.microsoft.com/careers/job/1970393557027387",
+    "https://apply.careers.microsoft.com/careers/job/1970393557027390",
     "https://apply.careers.microsoft.com/careers/job/1970393557037859",
     "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0",
     "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922",
@@ -38320,6 +38321,7 @@
     "micron technology technical customer management intern ai",
     "micron technology yield enhancement intern data analysis",
     "microsoft ai software engineer intern",
+    "microsoft data scientist intern coreai",
     "microsoft fullstack product engineer intern web services",
     "microsoft product manager intern",
     "microsoft researcher intern coreai",
