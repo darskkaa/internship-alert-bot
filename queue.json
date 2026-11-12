@@ -328,5 +328,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-12T22:01:53.420449+00:00"
+  },
+  {
+    "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589",
+    "company": "National Laboratory of the Rockies",
+    "role": "Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling",
+    "location": "Remote Site",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T22:11:52.851103+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/vital-lyfe/e18ed2cd-2172-4971-8de0-c52a875b9fd0",
+    "company": "Vital Lyfe",
+    "role": "Electrical Engineering Internship - Summer 2027",
+    "location": "Los Angeles - Greater Area",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T22:11:52.851103+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942",
+    "company": "Vital Lyfe",
+    "role": "Software Engineering Internship - Summer 2027",
+    "location": "Los Angeles - Greater Area",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T22:11:52.851103+00:00"
   }
 ]
