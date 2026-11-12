@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T20:32:04.077439+00:00",
+  "last_checked_utc": "2026-11-12T20:41:39.994187+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5722,6 +5722,7 @@
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/XMLNAME-2026-Transmission-System-Planning-Intern_R-029918",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/MA-Westborough-Technology-Dr/XMLNAME-2027-Gas-Project-Engineering-Co-op_R-032515",
+    "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/MA-Westborough-Technology-Dr/XMLNAME-2027-Gas-Systems-Engineering-Co-op_R-032513",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer--GIS-Intern--NH-_R-032537",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer-Grid-Ops-Technology-Intern--NH-_R-032518",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Telecommunications-Engineering-Intern_R-031906",
@@ -21956,6 +21957,7 @@
     "eurofins ai automation intern",
     "eversource energy 2027 coop substation design engineering",
     "eversource energy 2027 gas project engineering coop",
+    "eversource energy 2027 gas systems engineering coop",
     "eversource energy 2027 summer distribution engineering intern hybrid schedule",
     "eversource energy 2027 summer distribution engineering intern springfield mahybrid schedule",
     "eversource energy 2027 summer distribution engineering intern tilton nhhybrid schedule",
@@ -31350,6 +31352,7 @@
     "job:workday:eversource:xmlname-2026-transmission-system-planning-intern_r-029918",
     "job:workday:eversource:xmlname-2027-co-op--substation-design-engineering_r-031701",
     "job:workday:eversource:xmlname-2027-gas-project-engineering-co-op_r-032515",
+    "job:workday:eversource:xmlname-2027-gas-systems-engineering-co-op_r-032513",
     "job:workday:eversource:xmlname-2027-summer--distribution-engineering-intern--hybrid-schedule-_r-032402",
     "job:workday:eversource:xmlname-2027-summer--distribution-engineering-intern--springfield--ma-hybrid-schedule-_r-032401",
     "job:workday:eversource:xmlname-2027-summer--distribution-engineering-intern--waltham--ma-hybrid-schedule-_r-032412",
