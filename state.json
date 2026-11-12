@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T12:42:05.303012+00:00",
+  "last_checked_utc": "2026-11-12T13:22:07.960504+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14380,6 +14380,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Materials-Chemical-Engineer-Intern---Baltimore-MD_R10256386",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Electronics-Engineering-Intern---Elkridge-MD_R10260310",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Industrial-Engineering-Intern---Elkridge-MD_R10260314",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Manufacturing-Engineering-Intern---Elkridge-MD_R10260318",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hanover/XMLNAME-2027-Thermal-Mechanical-Engineer-Internship---Hanover-MD_R10258425",
@@ -34464,6 +34465,7 @@
     "job:workday:ngc:xmlname-2027-electrical-engineering-intern--huntsville-al_r10259306-1",
     "job:workday:ngc:xmlname-2027-electrical-systems-engineer-intern---baltimore-md_r10255010",
     "job:workday:ngc:xmlname-2027-electromechanical-engineer-intern---rolling-meadows-il_r10260085",
+    "job:workday:ngc:xmlname-2027-electronics-engineering-intern---elkridge-md_r10260310",
     "job:workday:ngc:xmlname-2027-embedded-software-engineer-intern---rolling-meadows-il_r10252790",
     "job:workday:ngc:xmlname-2027-engineering-intern---hollywood--md---evergreen-_r10253725",
     "job:workday:ngc:xmlname-2027-engineering-intern---manhattan-beach--ca---evergreen-_r10253708",
@@ -39071,6 +39073,7 @@
     "northrop grumman 2027 electrical engineering intern vandenberg ca",
     "northrop grumman 2027 electricalsystems engineer intern baltimore md",
     "northrop grumman 2027 electromechanical engineer intern rolling meadows il",
+    "northrop grumman 2027 electronics engineering intern elkridge md",
     "northrop grumman 2027 embedded software engineer intern baltimore md",
     "northrop grumman 2027 embedded software engineer intern camarillo ca",
     "northrop grumman 2027 embedded software engineer intern rolling meadows il",
