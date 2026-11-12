@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T16:32:29.074366+00:00",
+  "last_checked_utc": "2026-11-12T16:42:12.553116+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14436,6 +14436,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Ocean-Springs/XMLNAME-2027-Mechanical-Engineer-Intern---Ocean-Springs-MS_R10251177",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Ocean-Springs/XMLNAME-2027-Mechanical-Engineer-Intern---Ocean-Springs-MS_R10255000-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Missouri-Saint-Charles/XMLNAME-2027-Cutting-Edge-Optronics-Engineering-Internship---Saint-Charles-MO_R10255053",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Missouri-Saint-Charles/XMLNAME-2027-Wafer-Processing-Engineering-Internship---Saint-Charles-MO_R10260401",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
@@ -34717,6 +34718,7 @@
     "job:workday:ngc:xmlname-2027-test-engineering-intern---vsfb-ca_r10253497",
     "job:workday:ngc:xmlname-2027-thermal-mechanical-engineer-internship---hanover-md_r10258425",
     "job:workday:ngc:xmlname-2027-vehicle-engineer-intern_r10253965",
+    "job:workday:ngc:xmlname-2027-wafer-processing-engineering-internship---saint-charles-mo_r10260401",
     "job:workday:ngc:xmlname-2027aeronautical-integration-and-test-intern----huntsville-al_r10256851-1",
     "job:workday:nidec:application-engineering-co-op_r0017890",
     "job:workday:nidec:engineering-co-op_r0017832",
@@ -39328,6 +39330,7 @@
     "northrop grumman 2027 test engineer intern sunnyvale ca",
     "northrop grumman 2027 thermal mechanical engineer internship hanover md",
     "northrop grumman 2027 vehicle engineer intern",
+    "northrop grumman 2027 wafer processing engineering internship saint charles mo",
     "northrop grumman 2027aeronautical integration and test intern huntsville al",
     "northrop grumman 2027systems engineer intern mcclellan ca",
     "northrop grumman college technical intern",
