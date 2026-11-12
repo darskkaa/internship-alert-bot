@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T07:41:50.290545+00:00",
+  "last_checked_utc": "2026-11-12T08:01:56.091959+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15694,6 +15694,7 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2027-Summer-Intern---Systems---Hardware-Development_202610-127280-2",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2027-Summer-Intern---Systems---Hardware-Development_202610-127540",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2027-Summer-Intern---Systems-Engineer---Instrument-Development_202610-127766",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/AI---Digitalisation-Intern-Graduate-PSD_202610-127162",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student---Data-Expert--Compliance-by-Design--Data-Capability--DDC--Computational-Sciences-Center-of-Excellence_202610-127533",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student-CS-CoE-DDC-Data-Capability_202610-124915",
@@ -35519,6 +35520,7 @@
     "job:workday:roberthalf:new-york-legal--risk-and-compliance-intern---2027_jr-258930",
     "job:workday:roberthalf:new-york-technology-consulting-intern---2027_jr-258932",
     "job:workday:roberthalf:san-francisco-legal--risk-and-compliance-intern---2027_jr-258821",
+    "job:workday:roche:ai---digitalisation-intern-graduate-psd_202610-127162",
     "job:workday:roche:ai-business-development-intern_202611-128725",
     "job:workday:roche:data-science-industrial-placement---multiple-roles-within-biostats--data-management--real-world-data-and-more_202609-122536",
     "job:workday:roche:data-science-intern---master-thesis-student--basel--6-monate-_202609-124516",
@@ -40873,6 +40875,7 @@
     "roche 2027 summer intern systems hardware development",
     "roche 2027 winter internship external quality system intern",
     "roche ai business development intern",
+    "roche ai digitalisation interngraduate psd",
     "roche computer science industrial placement student intern data capability",
     "roche data analytics intern",
     "roche data expert intern compliance by design data capability",
