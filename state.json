@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T13:22:07.960504+00:00",
+  "last_checked_utc": "2026-11-12T13:42:13.401716+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2188,6 +2188,7 @@
     "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Quality--Manufacturing--Operations-and-or-Engineering_R-256495",
     "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Rhode-Island---West-Greenwich/Undergrad-Co-op---Electrical-Engineering--Jan---Mar-2027-_R-257526",
     "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Co-op---Computational-Safety-Modeling-for-Small-Molecules_R-257124",
+    "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Computational-Chemistry--summer-2027-_R-261445",
     "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
     "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
     "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
@@ -18590,6 +18591,7 @@
     "amgen digital product intern digital product technology medical organizations",
     "amgen grad coop computational safety modeling for small molecules",
     "amgen grad intern bioanalytical research associate summer 2027",
+    "amgen grad intern computational chemistry summer 2027",
     "amgen grad intern data engineer amgens technology medical organizations summer 2027",
     "amgen grad intern data engineer technology ai data summer 2027",
     "amgen grad intern data scientist amgens technology medical organizations summer 2027",
@@ -29420,6 +29422,7 @@
     "job:workday:amfam:web-develper-intern_r39373",
     "job:workday:amgen:grad-co-op---computational-safety-modeling-for-small-molecules_r-257124",
     "job:workday:amgen:grad-intern---bioanalytical-research-associate--summer-2027-_r-260097",
+    "job:workday:amgen:grad-intern---computational-chemistry--summer-2027-_r-261445",
     "job:workday:amgen:grad-intern---data-engineer---amgen-s-technology---medical-organizations--summer-2027-_r-255725",
     "job:workday:amgen:grad-intern---data-engineer---amgen-s-technology---medical-organizations--summer-2027-_r-255742",
     "job:workday:amgen:grad-intern---data-scientist---amgen-s-technology---medical-organizations--summer-2027-_r-255722",
