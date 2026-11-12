@@ -368,5 +368,55 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-12T22:21:45.570540+00:00"
+  },
+  {
+    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Power-Platform---Copilot-Studio-Intern---AI---Summer-Intern_REQ-15841",
+    "company": "Entegris",
+    "role": "Power Platform / Copilot Studio Intern \u2013 AI - Summer Intern",
+    "location": "Aurora, IL",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T22:31:44.054866+00:00"
+  },
+  {
+    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Research---Development-Intern---Summer-2027_REQ-15859",
+    "company": "Entegris",
+    "role": "Research & Development Intern - Summer 2027",
+    "location": "San Luis Obispo, CA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T22:31:44.054866+00:00"
+  },
+  {
+    "apply_url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2027_REQ-1000052481",
+    "company": "Stanley Black & Decker",
+    "role": "Intern, Data Analyst & BI, Summer 2027",
+    "location": "Towson, MD, United States",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T22:31:44.054866+00:00"
+  },
+  {
+    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Summer-2027-Innovation-and-AI-Transformation-Intern_R-264282-1",
+    "company": "AstraZeneca",
+    "role": "Summer 2027 Innovation and AI Transformation Intern",
+    "location": "US - Boston - MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T22:31:44.054866+00:00"
+  },
+  {
+    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Innovation-and-AI-Transformation-Intern_R-264282",
+    "company": "Alexion",
+    "role": "Summer 2027 Innovation and AI Transformation Intern",
+    "location": "US - Boston - MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T22:31:44.054866+00:00"
   }
 ]
