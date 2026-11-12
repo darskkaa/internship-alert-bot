@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T18:02:05.092345+00:00",
+  "last_checked_utc": "2026-11-12T18:22:25.047987+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2595,6 +2595,7 @@
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1",
+    "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD102151-3",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
@@ -29813,6 +29814,7 @@
     "job:workday:autodesk:intern--software-developer--stagiaire-en-dveloppement-logiciel_26wd101101-2",
     "job:workday:autodesk:intern--software-developer--stagiaire-en-dveloppement-logiciel_26wd101114",
     "job:workday:autodesk:intern--software-developer--stagiaire-en-dveloppement-logiciel_26wd101114-1",
+    "job:workday:autodesk:intern--software-developer--stagiaire-en-dveloppement-logiciel_26wd102151-3",
     "job:workday:autodesk:intern--software-engineer--c---net----12-months_26wd101693-2",
     "job:workday:autodesk:intern--software-engineer--javascript----12-months_26wd101691-2",
     "job:workday:autodesk:intern--software-engineer_26wd101095",
