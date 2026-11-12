@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T17:02:21.294478+00:00",
+  "last_checked_utc": "2026-11-12T17:11:59.503170+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5599,6 +5599,7 @@
     "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Materials-Engineering-Co-Op_REQ-14451",
     "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Mechanical-Test-Engineer-Co-Op_REQ-14477-1",
     "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/NPI-Engineering-Co-Op_REQ-14426",
+    "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Quality-Engineering-Intern_REQ-15878",
     "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Technical-Training-Co-Op_REQ-14459",
     "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Manufacturing-Engineering-Co-Op_REQ-14508",
     "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/New-Product-Introduction-Engineering-Intern_REQ-15880",
@@ -12727,6 +12728,7 @@
     "https://jobs.smartrecruiters.com/Wabtec/3743990016001927",
     "https://jobs.smartrecruiters.com/Wabtec/3743990016144036",
     "https://jobs.smartrecruiters.com/Wabtec/3743990016148986",
+    "https://jobs.smartrecruiters.com/Wabtec/3743990016822316",
     "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793",
     "https://jobs.smartrecruiters.com/WellmarkInc/744000148916469",
     "https://jobs.smartrecruiters.com/WellmarkInc/744000148917718",
@@ -28441,6 +28443,7 @@
     "job:smartrecruiters:3743990016617146",
     "job:smartrecruiters:3743990016617271",
     "job:smartrecruiters:3743990016798175",
+    "job:smartrecruiters:3743990016822316",
     "job:smartrecruiters:743999669081604",
     "job:smartrecruiters:743999725988642",
     "job:smartrecruiters:743999733583355",
@@ -31212,6 +31215,7 @@
     "job:workday:entegris:quality-engineer-co-op_req-14434",
     "job:workday:entegris:quality-engineering-co-op_req-14468",
     "job:workday:entegris:quality-engineering-intern_req-15850",
+    "job:workday:entegris:quality-engineering-intern_req-15878",
     "job:workday:entegris:reliability-engineer-co-op_req-14399",
     "job:workday:entegris:research-and-development-co-op_req-14490",
     "job:workday:entegris:research-and-development-engineer-scientist-co-op_req-14430",
