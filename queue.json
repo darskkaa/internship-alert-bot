@@ -488,5 +488,55 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-12T23:11:34.541526+00:00"
+  },
+  {
+    "apply_url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1",
+    "company": "Capital Power",
+    "role": "Student Intern - Data Science",
+    "location": "Edmonton, AB, Canada",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T23:41:42.167709+00:00"
+  },
+  {
+    "apply_url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222",
+    "company": "Capital Power",
+    "role": "Summer Student Intern - Data Analytics",
+    "location": "Calgary, AB, Canada",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T23:41:42.167709+00:00"
+  },
+  {
+    "apply_url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212",
+    "company": "T-Mobile",
+    "role": "Data Product Intern",
+    "location": "Bellevue, WA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T23:41:42.167709+00:00"
+  },
+  {
+    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Reading/Intelligence-Launch-Intern---Summer-2027_R30500",
+    "company": "CrowdStrike",
+    "role": "Intelligence Launch Intern",
+    "location": "London, UK, Reading, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T23:41:42.167709+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/stackav/jobs/5287594007",
+    "company": "StackAV",
+    "role": "Research Intern - Autonomy",
+    "location": "Remote in USA, Pittsburgh, PA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T23:41:42.167709+00:00"
   }
 ]
