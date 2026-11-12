@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T18:41:53.026750+00:00",
+  "last_checked_utc": "2026-11-12T18:51:47.509634+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2600,6 +2600,7 @@
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400",
+    "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD102147-2",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374-1",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1",
     "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1",
@@ -29843,6 +29844,7 @@
     "job:workday:autodesk:stagiaire-en-dveloppement-cloud--intern-cloud-developer---fcap_26wd100406-2",
     "job:workday:autodesk:stagiaire-en-dveloppement-cloud--intern-cloud-developer_26wd100400",
     "job:workday:autodesk:stagiaire-en-dveloppement-cloud--intern-cloud-developer_26wd100400-3",
+    "job:workday:autodesk:stagiaire-en-dveloppement-cloud--intern-cloud-developer_26wd102147-2",
     "job:workday:autostore:co-op---mechanical-engineer_jr102694",
     "job:workday:autostore:co-op---software-engineering_jr102692",
     "job:workday:avav:aeromechanical-engineering-intern_8786",
