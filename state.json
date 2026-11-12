@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T20:21:45.639383+00:00",
+  "last_checked_utc": "2026-11-12T20:32:04.077439+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5723,6 +5723,7 @@
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/XMLNAME-2026-Transmission-System-Planning-Intern_R-029918",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/MA-Westborough-Technology-Dr/XMLNAME-2027-Gas-Project-Engineering-Co-op_R-032515",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer--GIS-Intern--NH-_R-032537",
+    "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer-Grid-Ops-Technology-Intern--NH-_R-032518",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Telecommunications-Engineering-Intern_R-031906",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Tilton-NH/XMLNAME-2027-Summer-Distribution-Engineering-Intern--Tilton--NH-Hybrid-Schedule-_R-032407",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Waltham-MA/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Waltham--MA-Hybrid-Schedule-_R-032412",
@@ -21959,6 +21960,7 @@
     "eversource energy 2027 summer distribution engineering intern springfield mahybrid schedule",
     "eversource energy 2027 summer distribution engineering intern tilton nhhybrid schedule",
     "eversource energy 2027 summer distribution engineering intern waltham mahybrid schedule",
+    "eversource energy 2027 summer grid ops technology intern nh",
     "eversource energy 2027 summer transmission and distribution standards engineering intern ma hybrid schedule",
     "eversource energy 2027 summer transmission system planning interns",
     "eversource energy 2027 telecommunications engineering intern",
@@ -31356,6 +31358,7 @@
     "job:workday:eversource:xmlname-2027-summer--transmission-and-distribution-standards-engineering-intern--ma--hybrid-schedule-_r-032409",
     "job:workday:eversource:xmlname-2027-summer--transmission-system-planning-interns_r-032377",
     "job:workday:eversource:xmlname-2027-summer-distribution-engineering-intern--tilton--nh-hybrid-schedule-_r-032407",
+    "job:workday:eversource:xmlname-2027-summer-grid-ops-technology-intern--nh-_r-032518",
     "job:workday:eversource:xmlname-2027-telecommunications-engineering-intern_r-031906",
     "job:workday:expedia:applied-science-intern---masters---2027---austin--san-jose--seattle_r-110379",
     "job:workday:expedia:applied-science-intern---masters---2027---austin--san-jose--seattle_r-110379-1",
