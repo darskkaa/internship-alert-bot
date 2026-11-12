@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T15:42:18.052386+00:00",
+  "last_checked_utc": "2026-11-12T15:52:08.274644+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5528,6 +5528,7 @@
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98934",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98938",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98940",
+    "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98953",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99140",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99165",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99198",
@@ -27818,6 +27819,7 @@
     "job:oracle:emit.fa.ca3.oraclecloud.com:98934",
     "job:oracle:emit.fa.ca3.oraclecloud.com:98938",
     "job:oracle:emit.fa.ca3.oraclecloud.com:98940",
+    "job:oracle:emit.fa.ca3.oraclecloud.com:98953",
     "job:oracle:emit.fa.ca3.oraclecloud.com:99140",
     "job:oracle:emit.fa.ca3.oraclecloud.com:99165",
     "job:oracle:emit.fa.ca3.oraclecloud.com:99198",
@@ -44372,6 +44374,7 @@
     "wsfs bank product intern",
     "wsp bridge engineering intern summer 2027",
     "wsp civil engineering intern summer 2027",
+    "wsp civil engineering intern transmission summer 2027",
     "wsp civil engineering oh tlines intern summer 2027",
     "wsp civil engineering renewables intern summer 2027",
     "wsp civil engineering transmission intern summer 2027",
