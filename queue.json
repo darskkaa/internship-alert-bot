@@ -308,5 +308,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-12T21:51:45.205114+00:00"
+  },
+  {
+    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Research-and-Development-Intern---Summer-2027_REQ-15868",
+    "company": "Entegris",
+    "role": "Research and Development Intern - Summer 2027",
+    "location": "San Luis Obispo, CA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T22:01:53.420449+00:00"
+  },
+  {
+    "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Windsor-CT/XMLNAME-2027-Summer---Grid-Operations-Technology-Intern_R-032516",
+    "company": "Eversource Energy",
+    "role": "2027 Summer:  Grid Operations Technology Intern",
+    "location": "Windsor, CT",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T22:01:53.420449+00:00"
   }
 ]
