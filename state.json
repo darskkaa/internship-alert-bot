@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T20:41:39.994187+00:00",
+  "last_checked_utc": "2026-11-12T20:51:51.203302+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4321,6 +4321,7 @@
     "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Data-Pipeline-Engineer-Intern_R-4738",
     "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Operational-Resilience---Technical-Content-Intern_R-4779",
     "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726",
+    "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Overland-Park-OPX/Trade-Desk-Intern_R-4659",
     "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI---Automation-Engineering_R-41655",
     "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526",
     "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--Full-Stack-Engineer_R-41600",
@@ -20439,6 +20440,7 @@
     "caterpillar inc smart manufacturing engineering intern",
     "caterpillar inc software intern",
     "cboe data pipeline engineer intern",
+    "cboe devops intern",
     "cboe infrastructure intern",
     "cboe linux engineer intern",
     "cboe operational resilience technical content intern",
@@ -30616,6 +30618,7 @@
     "job:workday:cboe:software-engineer-intern--c---_r-4726",
     "job:workday:cboe:software-engineer-intern_r-4654",
     "job:workday:cboe:technical-business-analyst-intern_r-4710",
+    "job:workday:cboe:trade-desk-intern_r-4659",
     "job:workday:cbrands:intern--ai---automation-engineering_r-41655",
     "job:workday:cbrands:intern--ai-enablement_r-41526",
     "job:workday:cbrands:intern--full-stack-engineer_r-41600",
