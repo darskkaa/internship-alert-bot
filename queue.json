@@ -468,5 +468,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-12T23:01:39.099446+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/muonspace/jobs/5294028007",
+    "company": "Muon Space",
+    "role": "Security Engineering Intern (Summer 2027)",
+    "location": "Mountain View, CA ",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T23:11:34.541526+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007",
+    "company": "Muon Space",
+    "role": "Software Engineering Intern-Information Systems (Summer 2027)",
+    "location": "San Jose, CA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T23:11:34.541526+00:00"
   }
 ]
