@@ -418,5 +418,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-12T22:31:44.054866+00:00"
+  },
+  {
+    "apply_url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Intern--Prototyping---Summer-2027_REQ-1000052890",
+    "company": "Stanley Black & Decker",
+    "role": "Engineering Intern, Prototyping - Summer 2027",
+    "location": "Towson, MD, United States",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T22:41:45.383879+00:00"
+  },
+  {
+    "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008",
+    "company": "Lightmatter",
+    "role": "Data & AI Platform, Intern - Summer 2027",
+    "location": "Boston, MA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T22:41:45.383879+00:00"
   }
 ]
