@@ -767,3 +767,35 @@ def test_run_once_enriches_unseen_items_before_freshness_check(monkeypatch):
     core.run_once({"seen": ["https://seed"], "seen_keys": ["seed key"], "seeded_feeds": seeded, "last_checked_utc": "x"})
 
     assert posted == []
+
+
+def test_run_once_queues_new_listing_for_local_apply(monkeypatch):
+    listing = _fake_listing("NewCo", "SWE Intern", "https://newco.example/1")
+    monkeypatch.setattr(core, "SOURCES", [lambda: [listing]])
+    monkeypatch.setattr(core, "post_new_listings", lambda items: None)
+
+    core.run_once({"seen": ["https://other.example"], "seen_keys": ["other key"], "last_checked_utc": "x"})
+
+    queue = json.loads(core.QUEUE_FILE.read_text())
+    assert [e["apply_url"] for e in queue] == ["https://newco.example/1"]
+    assert queue[0]["company"] == "NewCo"
+
+
+def test_queue_failure_does_not_break_run(monkeypatch, tmp_path):
+    listing = _fake_listing("NewCo", "SWE Intern", "https://newco.example/1")
+    monkeypatch.setattr(core, "SOURCES", [lambda: [listing]])
+    monkeypatch.setattr(core, "post_new_listings", lambda items: None)
+    monkeypatch.setattr(core, "QUEUE_FILE", tmp_path / "no" / "such" / "dir" / "queue.json")
+
+    state = core.run_once({"seen": ["https://other.example"], "seen_keys": ["other key"], "last_checked_utc": "x"})
+
+    assert "https://newco.example/1" in state["seen"]
+
+
+def test_queue_is_capped(monkeypatch):
+    monkeypatch.setattr(core, "QUEUE_MAX", 2)
+    for i in range(4):
+        core.append_queue([_fake_listing("Co", f"R{i}", f"https://co.example/{i}")])
+
+    urls = [e["apply_url"] for e in json.loads(core.QUEUE_FILE.read_text())]
+    assert urls == ["https://co.example/2", "https://co.example/3"]

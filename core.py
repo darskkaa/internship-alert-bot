@@ -41,6 +41,8 @@ def _truncate(text: str, limit: int) -> str:
 SKILLS_DISPLAY_CAP = 6
 
 STATE_FILE = Path(__file__).parent / "state.json"
+QUEUE_FILE = Path(__file__).parent / "queue.json"
+QUEUE_MAX = 300
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("internship-watch")
@@ -77,6 +79,29 @@ def save_state(state: dict) -> None:
             return
     state["last_checked_utc"] = datetime.now(timezone.utc).isoformat()
     STATE_FILE.write_text(json.dumps(state, indent=2, sort_keys=True))
+
+
+def append_queue(new_listings: list) -> None:
+    try:
+        queue = json.loads(QUEUE_FILE.read_text()) if QUEUE_FILE.exists() else []
+        detected = datetime.now(timezone.utc).isoformat()
+        known = {entry["apply_url"] for entry in queue}
+        for item in new_listings:
+            if item["apply_url"] in known:
+                continue
+            queue.append({
+                "apply_url": item["apply_url"],
+                "company": item["company"],
+                "role": item["role"],
+                "location": item["location"],
+                "source": item["source"],
+                "sponsorship_flag": bool(item["sponsorship_flag"]),
+                "citizenship_flag": bool(item["citizenship_flag"]),
+                "detected_at": detected,
+            })
+        QUEUE_FILE.write_text(json.dumps(queue[-QUEUE_MAX:], indent=2))
+    except Exception:
+        log.exception("Failed to update apply queue")
 
 
 def _sort_key(item: dict) -> datetime:
@@ -378,6 +403,7 @@ def run_once(state: dict) -> dict:
     if new_listings:
         log.info("Posting %d new listing(s)", len(new_listings))
         post_new_listings(new_listings)
+        append_queue(new_listings)
     else:
         log.info("No new listings")
 
