@@ -108,5 +108,55 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-12T20:11:52.225438+00:00"
+  },
+  {
+    "apply_url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--IS-Infrastructure_JR023723",
+    "company": "Martin Marietta",
+    "role": "Intern, IS Infrastructure (Summer 2027)",
+    "location": "Raleigh, NC",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T20:21:45.609185+00:00"
+  },
+  {
+    "apply_url": "https://apply.workable.com/bask-health-1/j/F0E122E877/",
+    "company": "Bask Health",
+    "role": "AI Engineering Intern",
+    "location": "United States (Remote)",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T20:21:45.609185+00:00"
+  },
+  {
+    "apply_url": "https://apply.workable.com/bask-health-1/j/71AEBBCADE/",
+    "company": "Bask Health",
+    "role": "Machine Learning Engineering Intern",
+    "location": "United States (Remote)",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T20:21:45.609185+00:00"
+  },
+  {
+    "apply_url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Business-Analysis-and-AI-enGen-Undergraduate-Intern_J291552",
+    "company": "Highmark Health",
+    "role": "Summer 2027 Business Analysis and AI enGen Undergraduate Intern",
+    "location": "Pittsburgh PA, 15222, PAP, Penn Avenue Place",
+    "source": "Zshah",
+    "sponsorship_flag": true,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T20:21:45.609185+00:00"
+  },
+  {
+    "apply_url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926",
+    "company": "PTC",
+    "role": "Onshape Site Reliability Engineering Intern (Summer 2027)",
+    "location": "Boston, MA, USA",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T20:21:45.609185+00:00"
   }
 ]
