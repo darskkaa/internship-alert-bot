@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T03:42:02.711894+00:00",
+  "last_checked_utc": "2026-11-12T03:51:53.414654+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7179,6 +7179,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01877155",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01878083",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-Intern--Summer-2027-----Tac-Comm---Onsite_01886283",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--2027---Tac-Comm--Onsite-_01888309",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177",
@@ -32268,6 +32269,7 @@
     "job:workday:globalhr:systems-engineering-co-op_01884435",
     "job:workday:globalhr:systems-engineering-intern----onsite-_01883814",
     "job:workday:globalhr:systems-engineering-intern---cns-onsite_01876809",
+    "job:workday:globalhr:systems-engineering-intern--2027---tac-comm--onsite-_01888309",
     "job:workday:globalhr:systems-engineering-intern--bmc2--onsite-_01885577",
     "job:workday:globalhr:systems-engineering-intern--largo--fl--onsite-_01888015",
     "job:workday:globalhr:systems-engineering-intern--onsite-_01869271-1",
@@ -41344,6 +41346,7 @@
     "rtx systems engineering coop january 2027 hybrid",
     "rtx systems engineering intern",
     "rtx systems engineering intern 2027 onsite",
+    "rtx systems engineering intern 2027 tac comm onsite",
     "rtx systems engineering intern bmc2 onsite",
     "rtx systems engineering intern cnsonsite",
     "rtx systems engineering intern largo fl onsite",
