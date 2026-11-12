@@ -78,5 +78,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-12T19:51:43.658827+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/SkillBridge-Internship-Program-is-seeking-our-exceptional-enlisted-military-talent-to-join-us-as-a-Systems-Engineer---2_R10260427",
+    "company": "Northrop Grumman",
+    "role": "SkillBridge Internship Program is seeking our exceptional enlisted-military talent to join us as a Systems Engineer - 2",
+    "location": "United States-Alabama-Huntsville",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T20:11:52.225438+00:00"
+  },
+  {
+    "apply_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bohemia/Test-and-Manufacturing-Operations-Intern---Bohemia--NY---Summer-2027_R5042960-1",
+    "company": "GE Aerospace",
+    "role": "Test and Manufacturing Operations Intern - Bohemia, NY - Summer 2027",
+    "location": "Bohemia",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T20:11:52.225438+00:00"
+  },
+  {
+    "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monument-CO/Manufacturing-Engineering-Intern---Medical-Device-Manufacturing_J2469027",
+    "company": "Jabil",
+    "role": "Manufacturing Engineering Intern - Medical Device Manufacturing",
+    "location": "Monument, CO",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T20:11:52.225438+00:00"
   }
 ]
