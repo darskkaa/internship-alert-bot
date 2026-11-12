@@ -248,5 +248,65 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-12T21:21:32.066909+00:00"
+  },
+  {
+    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Mechanical-Engineering-Intern---Summer-2027_REQ-15866",
+    "company": "Entegris",
+    "role": "Mechanical Engineering Intern - Summer 2027",
+    "location": "San Luis Obispo, CA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T21:51:45.205114+00:00"
+  },
+  {
+    "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Portsmouth-NH/XMLNAME-2027-Summer--Distribution-Engineering-Intern-NH_R-032406",
+    "company": "Eversource Energy",
+    "role": "2027 Summer: Distribution Engineering Intern-NH",
+    "location": "Portsmouth, NH",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T21:51:45.205114+00:00"
+  },
+  {
+    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Technical-Operations--GTO--Summer-Internships_R-264280",
+    "company": "AstraZeneca",
+    "role": "Global Technical Operations (GTO) Summer Internships",
+    "location": "US - Gaithersburg - MD +1 more",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T21:51:45.205114+00:00"
+  },
+  {
+    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278",
+    "company": "AstraZeneca",
+    "role": "Summer 2027 Quantitative Intern PhD",
+    "location": "US - Boston - MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T21:51:45.205114+00:00"
+  },
+  {
+    "apply_url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Compliance-Engineering-Intern_R2906-1",
+    "company": "Sonos",
+    "role": "Compliance Engineering Intern",
+    "location": "Boston, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T21:51:45.205114+00:00"
+  },
+  {
+    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278-1",
+    "company": "Alexion",
+    "role": "Summer 2027 Quantitative Intern PhD",
+    "location": "US - Boston - MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T21:51:45.205114+00:00"
   }
 ]
