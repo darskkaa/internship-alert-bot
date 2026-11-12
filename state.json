@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T00:21:53.374247+00:00",
+  "last_checked_utc": "2026-11-12T00:42:06.147000+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14735,6 +14735,7 @@
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/KNV-I/Mechanical-Engineer-Co-op---Knoxville--TN_R-30286",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/OAV-N/Billing-Data-Analyst-Intern_R-31164",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Application-Software-Developer-Co-Op_R-31984",
+    "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Calibration-Engineer-Co-op_R-31892",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Embedded-Software-Developer-Co-Op_R-31985",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Embedded-Software-Developer-Co-op_R-31948",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160",
@@ -34808,6 +34809,7 @@
     "job:workday:oceanspray:process-engineering-co-op_r5426",
     "job:workday:onehealthineers:application-software-developer-co-op_r-31984",
     "job:workday:onehealthineers:billing-data-analyst-intern_r-31164",
+    "job:workday:onehealthineers:calibration-engineer-co-op_r-31892",
     "job:workday:onehealthineers:embedded-software-developer-co-op_r-31948",
     "job:workday:onehealthineers:embedded-software-developer-co-op_r-31985",
     "job:workday:onehealthineers:mechanical-engineer-co-op---knoxville--tn_r-30286",
@@ -43578,6 +43580,7 @@
     "varda space vehicle integration test internship summer 2027",
     "varian application software developer coop",
     "varian billing data analyst intern",
+    "varian calibration engineer coop",
     "varian embedded software developer coop",
     "varian mechanical engineer coop knoxville tn",
     "varian performance engineering assistant coop",
