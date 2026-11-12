@@ -38,5 +38,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-12T19:02:30.667038+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Engineering-Technician---4---Electrical-Ground-Support-Equipment_R10260399",
+    "company": "Northrop Grumman",
+    "role": "SkillBridge Internship Opportunity - Seeking Enlisted-Active Military Applicants - Engineering Technician \u2013 4",
+    "location": "United States-Arizona-Chandler",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T19:51:43.658827+00:00"
+  },
+  {
+    "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147",
+    "company": "CACI",
+    "role": "Embedded Software Development Intern - Summer 2027",
+    "location": "Denver, CO, US",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T19:51:43.658827+00:00"
+  },
+  {
+    "apply_url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NC-Raleigh/Professional-Programmer---Intern_RQ232030",
+    "company": "General Dynamics Information Technology",
+    "role": "Professional Programmer - Intern",
+    "location": "USA NC Raleigh",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T19:51:43.658827+00:00"
+  },
+  {
+    "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214783",
+    "company": "Pinterest",
+    "role": "Sales Analytics Intern 2027 (USA)",
+    "location": "San Francisco, CA, US; Remote, US",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T19:51:43.658827+00:00"
   }
 ]
