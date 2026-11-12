@@ -218,5 +218,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-12T21:11:41.161425+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Aeronautical-Engineering-Intern---Sunnyvale-CA_R10260488",
+    "company": "Northrop Grumman",
+    "role": "2027 Aeronautical Engineering Intern - Sunnyvale CA",
+    "location": "United States-California-Sunnyvale",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T21:21:32.066909+00:00"
+  },
+  {
+    "apply_url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Electrical-Engineering-Intern---Automation_2026-22932",
+    "company": "Schweitzer Engineering Laboratories",
+    "role": "Electrical Engineering Intern - Automation",
+    "location": "Idaho - Boise",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T21:21:32.066909+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca",
+    "company": "Shield AI",
+    "role": "2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
+    "location": "San Diego, California",
+    "source": "Lever",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T21:21:32.066909+00:00"
   }
 ]
