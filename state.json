@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T01:02:01.907405+00:00",
+  "last_checked_utc": "2026-11-12T02:02:07.722449+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5662,6 +5662,7 @@
     "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Summer-Intern----Cyber-Security_R2404",
     "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11648",
     "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649",
+    "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11816",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--Electric-Operations-Intern--MA-_R-032507",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/East-Springfield-MA/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Springfield--MA-Hybrid-Schedule-_R-032401",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600",
@@ -27720,6 +27721,7 @@
     "job:oracle:eofe.fa.us2.oraclecloud.com:82784",
     "job:oracle:eofe.fa.us2.oraclecloud.com:83098",
     "job:oracle:epyc.fa.us2.oraclecloud.com:167672",
+    "job:oracle:etyy.fa.ap2.oraclecloud.com:11816",
     "job:oracle:fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com:54806",
     "job:oracle:fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com:54815",
     "job:oracle:fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com:54817",
@@ -37315,6 +37317,7 @@
     "krafton stagiaire en programmation ui ui programming intern",
     "krafton stagiaire en soutien technique ti it support intern",
     "kulicke soffa intern software engineering",
+    "kulicke soffa intern wb process engineering",
     "kyndryl marketing intern marketing analysis",
     "kyndryl marketing intern marketing analytics",
     "l3harris technologies electrooptical engineering coop",
