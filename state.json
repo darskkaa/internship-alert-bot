@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T11:12:03.053599+00:00",
+  "last_checked_utc": "2026-11-12T11:22:11.623410+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16572,6 +16572,7 @@
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Development_R-01373992",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Engineering_R-01374064",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Firmware-Test_R-01374007",
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---System-Design-Engineer_R-01374082",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---System-Engineering_R-01374025",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Systems-Design-Engineering--Vibration-_R-01374039",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Systems-Design-Engineering_R-01374041",
@@ -36367,6 +36368,7 @@
     "job:workday:thermofisher:intern---software-development_r-01373992",
     "job:workday:thermofisher:intern---software-engineering_r-01374064",
     "job:workday:thermofisher:intern---software-firmware-test_r-01374007",
+    "job:workday:thermofisher:intern---system-design-engineer_r-01374082",
     "job:workday:thermofisher:intern---system-engineering_r-01374025",
     "job:workday:thermofisher:intern---systems-design-engineering--vibration-_r-01374039",
     "job:workday:thermofisher:intern---systems-design-engineering_r-01374041",
@@ -43003,6 +43005,7 @@
     "thermo fisher scientific intern software development",
     "thermo fisher scientific intern software engineering",
     "thermo fisher scientific intern softwarefirmware test",
+    "thermo fisher scientific intern system design engineer",
     "thermo fisher scientific intern system engineering",
     "thermo fisher scientific intern systems design engineering",
     "thermo fisher scientific intern systems design engineering vibration",
