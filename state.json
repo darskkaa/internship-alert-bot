@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T22:51:39.969935+00:00",
+  "last_checked_utc": "2026-11-12T23:01:39.126451+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3020,6 +3020,7 @@
     "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Data-Science-Summer-Analyst_44862",
     "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361",
     "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Data-Science-Intern_JR-25360",
+    "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/NPI-Engineering-Development-Intern_JR-25334",
     "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362",
     "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Systems-Engineering-Intern_JR-25363",
     "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423",
@@ -19819,6 +19820,7 @@
     "blockhouse applied ai engineering intern",
     "bloom energy ai solutions engineer intern",
     "bloom energy data science intern",
+    "bloom energy npi engineering development intern",
     "bloom energy rmcc data science intern",
     "bloom energy rmcc systems engineering intern",
     "blue cross and blue shield of kansas application developer intern",
@@ -30287,6 +30289,7 @@
     "job:workday:blackstone:xmlname-2027-blackstone-technology---innovations---software-engineer-summer-analyst_45358",
     "job:workday:bloomenergy:ai-solutions-engineer-intern_jr-25361",
     "job:workday:bloomenergy:data-science-intern_jr-25360",
+    "job:workday:bloomenergy:npi-engineering-development-intern_jr-25334",
     "job:workday:bloomenergy:rmcc-data-science-intern_jr-25362",
     "job:workday:bloomenergy:rmcc-systems-engineering-intern_jr-25363",
     "job:workday:blueorigin:summer-2027-avionics-software-internship---graduate_r71423",
