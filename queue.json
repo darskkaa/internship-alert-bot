@@ -438,5 +438,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-12T22:41:45.383879+00:00"
+  },
+  {
+    "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
+    "company": "Leidos",
+    "role": "Junior Software Engineer / Data Scientist Intern",
+    "location": "Tucson, AZ",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T22:51:39.937683+00:00"
+  },
+  {
+    "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hooksett-NH/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Hooksett--NH-Hybrid-Schedule-_R-032404",
+    "company": "Eversource Energy",
+    "role": "2027 Summer: Distribution Engineering Intern (Hooksett, NH-Hybrid Schedule)",
+    "location": "Hooksett, NH",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T22:51:39.937683+00:00"
   }
 ]
