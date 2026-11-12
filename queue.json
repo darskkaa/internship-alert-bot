@@ -8,5 +8,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-12T18:41:52.999008+00:00"
+  },
+  {
+    "apply_url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/AI-ML-Engineer-Intern_R188835",
+    "company": "Intermountain Healthcare",
+    "role": "AI/ML Engineer Intern",
+    "location": "Key Bank Tower",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T19:02:30.667038+00:00"
+  },
+  {
+    "apply_url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Lake-Mills-WI/Mechanical-Engineering-Intern---HammerHead_JR17392",
+    "company": "The Toro Company",
+    "role": "Mechanical Engineering Intern - HammerHead",
+    "location": "Lake Mills, WI",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T19:02:30.667038+00:00"
+  },
+  {
+    "apply_url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Security-Co-op_RQ4086284",
+    "company": "Mass General Brigham",
+    "role": "Security Co-op",
+    "location": "Boston-MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-12T19:02:30.667038+00:00"
   }
 ]
