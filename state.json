@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-13T14:01:55.411610+00:00",
+  "last_checked_utc": "2026-11-13T14:23:06.718278+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17081,6 +17081,7 @@
     "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Application-Engineering-Intern--Year-Round-_REQ2026080234",
     "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Environmental-Test---Validation-Intern--Year-Round-_REQ2026080833",
     "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Mechatronics-Engineering-Co-Op--Mechanical-_REQ2026080157",
+    "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794",
     "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575",
     "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241",
     "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op_REQ2026080361",
@@ -37114,6 +37115,7 @@
     "job:workday:valeo:product-technical-engineer-internship_req2026077555",
     "job:workday:valeo:project-engineer-intern_req2025067303",
     "job:workday:valeo:quality-engineer-internship_req2026073346",
+    "job:workday:valeo:software-engineer-intern--year-round-_req2026081794",
     "job:workday:valeo:sta-w-dziale-it--is-it-intern---m-k-n-_req2026082064",
     "job:workday:valeo:systems-engineering-co-op--software-_req2026071241",
     "job:workday:valeo:systems-engineering-co-op_req2026080361",
@@ -44179,6 +44181,7 @@
     "valeo project engineer intern",
     "valeo quality engineer internship",
     "valeo software engineer intern",
+    "valeo software engineer intern yearround",
     "valeo sta\u017c w dziale it isit intern mkn",
     "valeo systems engineering coop",
     "valeo systems engineering coop software",
