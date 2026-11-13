@@ -1458,5 +1458,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T21:51:56.468179+00:00"
+  },
+  {
+    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-140--Aircraft-Rd--BLDG-140/Composite-Engineering-Intern--Summer-2027--Onsite-_01887784",
+    "company": "RTX",
+    "role": "Composite Engineering Intern (Summer 2027)(Onsite)",
+    "location": "US-CT-MIDDLETOWN-140 ~ Aircraft Rd ~ BLDG 140",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T22:12:00.994152+00:00"
+  },
+  {
+    "apply_url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Process-Development-Engineering-Intern_JR-25333",
+    "company": "Bloom Energy",
+    "role": "Process Development Engineering Intern",
+    "location": "San Jose, California",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T22:12:00.994152+00:00"
   }
 ]
