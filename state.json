@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-13T18:01:52.026253+00:00",
+  "last_checked_utc": "2026-11-13T18:11:48.478440+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3449,6 +3449,7 @@
     "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
     "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Facilities-Engineering-Intern_JR-051223",
     "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Facilities-Engineering-Intern_JR-051229",
+    "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Manufacturing-Engineering-Co-op_JR-051444",
     "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Manufacturing-Industrial-Engineering-Co-op_JR-051389",
     "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Materials-Engineering-Co-op_JR-051138",
     "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Materials-Engineering-Co-op_JR-051139",
@@ -20315,6 +20316,7 @@
     "brunswick mercury marine g3 software engineering intern",
     "brunswick mercury marine heat treat metallurgical engineer coop",
     "brunswick mercury marine industrial engineer intern",
+    "brunswick mercury marine manufacturing engineering coop",
     "brunswick mercury marine manufacturingindustrial engineering coop",
     "brunswick mercury marine materials engineering coop",
     "brunswick mercury marine mechanical engineering intern",
@@ -30626,6 +30628,7 @@
     "job:workday:brunswick:mercury-marine--facilities-engineering-intern_jr-051223",
     "job:workday:brunswick:mercury-marine--facilities-engineering-intern_jr-051229",
     "job:workday:brunswick:mercury-marine--industrial-engineer-intern_jr-051584",
+    "job:workday:brunswick:mercury-marine--manufacturing-engineering-co-op_jr-051444",
     "job:workday:brunswick:mercury-marine--manufacturing-industrial-engineering-co-op_jr-051389",
     "job:workday:brunswick:mercury-marine--materials-engineering-co-op_jr-051138",
     "job:workday:brunswick:mercury-marine--materials-engineering-co-op_jr-051139",

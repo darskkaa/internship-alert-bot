@@ -1198,5 +1198,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T18:01:51.997451+00:00"
+  },
+  {
+    "apply_url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Manufacturing-Engineering-Co-op_JR-051444",
+    "company": "Brunswick",
+    "role": "Mercury Marine: Manufacturing Engineering Co-op",
+    "location": "Fond du Lac, WI",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T18:11:48.450439+00:00"
   }
 ]
