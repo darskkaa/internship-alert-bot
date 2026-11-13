@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-13T11:31:38.044318+00:00",
+  "last_checked_utc": "2026-11-13T12:31:54.007521+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13095,6 +13095,7 @@
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Developer_2632330",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/Remote_United-States/Intern---Financial-Analytics---Technology_2630761",
+    "https://labcorp.wd1.myworkdayjobs.com/external/job/Torrance-CA/Intern---Assay-Development---Validation_2640398",
     "https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615",
     "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Business-Insights---Analytics-Intern---Animal-Nutrition_R-40421",
     "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/IT-Intern_R-40138",
@@ -33955,6 +33956,7 @@
     "job:workday:labcorp:co-op---agentic-ai-developer_2639201-1",
     "job:workday:labcorp:co-op---full-stack-life-sciences-engineer_2639083",
     "job:workday:labcorp:intern----data-analytics_2637085",
+    "job:workday:labcorp:intern---assay-development---validation_2640398",
     "job:workday:labcorp:intern---aws-postgresql-database-administrator_2632108",
     "job:workday:labcorp:intern---commercial-analytics_2633615",
     "job:workday:labcorp:intern---data-science---oncology_2630590",
@@ -37887,6 +37889,7 @@
     "labcorp coop fullstack life sciences engineer",
     "labcorp financial analytics technology intern financial analytics team",
     "labcorp fullstack life sciences software engineer coop",
+    "labcorp intern assay development validation",
     "labcorp intern aws postgresql database administrator",
     "labcorp intern data analytics",
     "labcorp intern data science oncology",
