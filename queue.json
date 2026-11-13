@@ -1098,5 +1098,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T17:21:51.464498+00:00"
+  },
+  {
+    "apply_url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156",
+    "company": "Seaspan",
+    "role": "Intern, Data Engineering (4 Months)",
+    "location": "North Vancouver, BC, Canada",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T17:31:48.865238+00:00"
   }
 ]
