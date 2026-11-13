@@ -868,5 +868,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T14:23:06.688717+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Materials---Process-Engineering-Intern---Northridge-CA_R10260526",
+    "company": "Northrop Grumman",
+    "role": "2027 Materials & Process Engineering Intern - Northridge CA",
+    "location": "United States-California-Northridge",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T14:31:47.238777+00:00"
+  },
+  {
+    "apply_url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277",
+    "company": "WTW",
+    "role": "Early Careers: Data Analyst Internship",
+    "location": "New York, NY, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T14:31:47.238777+00:00"
   }
 ]
