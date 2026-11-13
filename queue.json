@@ -1248,5 +1248,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T18:51:42.975420+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Manufacturing-Engineering-Intern---Sunnyvale-CA_R10260394",
+    "company": "Northrop Grumman",
+    "role": "2027 Manufacturing Engineering Intern - Sunnyvale CA",
+    "location": "United States-California-Sunnyvale",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T19:01:55.284025+00:00"
+  },
+  {
+    "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1",
+    "company": "Sierra Nevada Corporation",
+    "role": "Systems Engineer Intern",
+    "location": "Southern Pines, NC",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T19:01:55.284025+00:00"
   }
 ]
