@@ -708,5 +708,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T07:41:43.930198+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true",
+    "company": "Aurora Innovation",
+    "role": "Software Engineer Intern - Vehicle Platforms",
+    "location": "Mountain View, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T08:11:40.530713+00:00"
+  },
+  {
+    "apply_url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819",
+    "company": "The Toro Company",
+    "role": "CX and Customer Lifetime Value Intern - Operations Analyst",
+    "location": "Bloomington, MN",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T08:11:40.530713+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003",
+    "company": "Samsung",
+    "role": "Intern, Compiler Engineer",
+    "location": "San Jose, California, United States",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T08:11:40.530713+00:00"
+  },
+  {
+    "apply_url": "https://lifeattiktok.com/search/7703925583541979445",
+    "company": "TikTok",
+    "role": "Machine Learning Scientist Intern - Local Services",
+    "location": "San Jose, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T08:11:40.530713+00:00"
   }
 ]
