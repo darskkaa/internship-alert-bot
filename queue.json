@@ -1218,5 +1218,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T18:21:50.668643+00:00"
+  },
+  {
+    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717",
+    "company": "ASML",
+    "role": "Internship - EUV Data Science and Analytics",
+    "location": "Austin, TX, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T18:51:42.975420+00:00"
+  },
+  {
+    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019536",
+    "company": "Texas Instruments",
+    "role": "Test Engineering intern - PhD",
+    "location": "United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T18:51:42.975420+00:00"
+  },
+  {
+    "apply_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Last-Mile-Delivery-Data-Science-Intern_R-2686435",
+    "company": "Walmart",
+    "role": "Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern",
+    "location": "(USA) Together Building AR Bentonville Home Office",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T18:51:42.975420+00:00"
   }
 ]
