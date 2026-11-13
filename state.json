@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-13T20:11:58.884865+00:00",
+  "last_checked_utc": "2026-11-13T20:31:57.024414+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15948,6 +15948,7 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship--Generative-AI-Designer--as-of-January-2027-for-12-months-in-Rotkreuz-_202610-127757",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/AI-Business-Development-Intern_202611-128725",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/Workforce-Optimization---Strategies--Data-Science--Intern_202610-125516",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2027-Summer-Intern---Computational-Science_202611-129030",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2027-Summer-Intern---Systems---Hardware-Development_202610-127280-2",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2027-Summer-Intern---Systems---Hardware-Development_202610-127540",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2027-Summer-Intern---Systems-Engineer---Instrument-Development_202610-127766",
@@ -36215,6 +36216,7 @@
     "job:workday:roche:xmlname-2027-spring-intern---pharmaceutical-technical-development---laboratory--wet-lab-or-dry-lab-_202609-122484",
     "job:workday:roche:xmlname-2027-spring-intern---prescient-frontier-research_202610-124986",
     "job:workday:roche:xmlname-2027-summer-intern---biostatistics-and-analytical-data-sciences_202611-128787",
+    "job:workday:roche:xmlname-2027-summer-intern---computational-science_202611-129030",
     "job:workday:roche:xmlname-2027-summer-intern---digital--ai--and-clinical-outcome-assessments_202611-128790",
     "job:workday:roche:xmlname-2027-summer-intern---hillsboro-technical-operations_202610-125110",
     "job:workday:roche:xmlname-2027-summer-intern---product-development-data-sciences_202611-128802",
@@ -41622,6 +41624,7 @@
     "roblox summer 2027 software engineer intern",
     "roboforce machine learning engineer intern ai robotics",
     "roboforce robotics electrical engineering intern",
+    "roche 2027 summer intern computational science",
     "roche 2027 summer intern systems engineer instrument development",
     "roche 2027 summer intern systems hardware development",
     "roche 2027 winter internship external quality system intern",
