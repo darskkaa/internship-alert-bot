@@ -1418,5 +1418,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T21:21:53.914968+00:00"
+  },
+  {
+    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016015",
+    "company": "Texas Instruments",
+    "role": "Product Engineering Failure Anaylsis Intern",
+    "location": "Dallas, TX, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T21:31:56.766796+00:00"
+  },
+  {
+    "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008",
+    "company": "Lightmatter",
+    "role": "Hardware Test Engineering, Intern (Summer 2027)",
+    "location": "Mountain View, CA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T21:31:56.766796+00:00"
   }
 ]
