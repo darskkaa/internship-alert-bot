@@ -1598,5 +1598,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T22:41:46.057080+00:00"
+  },
+  {
+    "apply_url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/Electrical-Engineering-Intern_JR-25271",
+    "company": "Bloom Energy",
+    "role": "Electrical Engineering Intern",
+    "location": "Fremont, California",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T23:11:34.464740+00:00"
+  },
+  {
+    "apply_url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Russellville-Arkansas/Engineering-Internship_Req-040859",
+    "company": "Conagra Brands",
+    "role": "Engineering Internship",
+    "location": "Russellville, Arkansas",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T23:11:34.464740+00:00"
   }
 ]
