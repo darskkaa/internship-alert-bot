@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-13T22:31:50.540080+00:00",
+  "last_checked_utc": "2026-11-13T22:41:46.085346+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3029,6 +3029,7 @@
     "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021",
     "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Technology-and-Innovations--Data-Engineer-Summer-Analyst_45022",
     "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Data-Science-Summer-Analyst_44862",
+    "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/Automation-Engineering-Intern_JR-25265",
     "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361",
     "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Data-Science-Intern_JR-25360",
     "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Electrical-Engineering-Intern--Masters-_JR-25385",
@@ -19985,6 +19986,7 @@
     "block applied research intern phd graduate coop",
     "blockhouse applied ai engineering intern",
     "bloom energy ai solutions engineer intern",
+    "bloom energy automation engineering intern",
     "bloom energy data science intern",
     "bloom energy electrical engineering intern masters",
     "bloom energy npi engineering development intern",
@@ -30553,6 +30555,7 @@
     "job:workday:blackstone:xmlname-2027-blackstone-credit-and-insurance--quant-and-portfolio-analytics-summer-analyst---london-_43819",
     "job:workday:blackstone:xmlname-2027-blackstone-technology---innovations---software-engineer-summer-analyst_45358",
     "job:workday:bloomenergy:ai-solutions-engineer-intern_jr-25361",
+    "job:workday:bloomenergy:automation-engineering-intern_jr-25265",
     "job:workday:bloomenergy:data-science-intern_jr-25360",
     "job:workday:bloomenergy:electrical-engineering-intern--masters-_jr-25385",
     "job:workday:bloomenergy:npi-engineering-development-intern_jr-25334",
