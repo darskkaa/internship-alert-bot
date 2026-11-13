@@ -928,5 +928,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T14:51:39.124957+00:00"
+  },
+  {
+    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Automation-and-Controls-Interns_REQ-15858-1",
+    "company": "Entegris",
+    "role": "Automation and Controls Interns",
+    "location": "Rockrimmon, Colorado Springs, CO",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T15:11:52.847823+00:00"
+  },
+  {
+    "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Engineering-Intern_R-00196931-1",
+    "company": "Leidos",
+    "role": "Radar Engineering Intern",
+    "location": "Huntsville, AL",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T15:11:52.847823+00:00"
   }
 ]
