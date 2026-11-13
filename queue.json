@@ -1058,5 +1058,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T16:41:41.676951+00:00"
+  },
+  {
+    "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Chief-Engineer-Intern_R-00196859",
+    "company": "Leidos",
+    "role": "Chief Engineer Intern",
+    "location": "6314 Remote/Teleworker US",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T16:51:49.073481+00:00"
+  },
+  {
+    "apply_url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Supply-Chain-Systems-Digitalization-Intern_DT-20680",
+    "company": "Daimler Truck",
+    "role": "Supply Chain Systems Digitalization Intern",
+    "location": "Portland, OR US",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T16:51:49.073481+00:00"
   }
 ]
