@@ -648,5 +648,15 @@
     "sponsorship_flag": true,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T01:31:48.686989+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f",
+    "company": "Zoox",
+    "role": "Systems & Safety Engineering Intern [Summer 2027]",
+    "location": "Foster City, CA",
+    "source": "Lever",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T01:51:39.532987+00:00"
   }
 ]
