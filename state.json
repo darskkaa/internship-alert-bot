@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-13T13:21:40.801738+00:00",
+  "last_checked_utc": "2026-11-13T13:51:39.793951+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1696,6 +1696,7 @@
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship--d-f-m--in-Payload-Data-Processing-for-space-borne-Instruments_JR10454324",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship--d-f-m--within-Digital-Twin-Spacecraft-Engineer_JR10455665",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship-in-Satellite-On-Board-Data-Handling--Integration-of-Data-Handling-Unit--d-f-m-_JR10454434",
+    "https://ag.wd3.myworkdayjobs.com/Airbus/job/Lodz/Stress-Engineer-Intern--f-m-_JR10457752",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Intern-within-Propulsion-System-Integration--d-f-m-_JR10455632",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Short-term-Internship---Tool-Technology-and-Development-Engineering_JR10451236",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Society-of-Women-Engineers-Conference-Summer-Internship---Engineering-2027_JR10436173",
@@ -18326,6 +18327,7 @@
     "airbus shortterm internship tool technology and development engineering",
     "airbus society of women engineers conference summer internship engineering 2027",
     "airbus software engineer intern apprentice",
+    "airbus stress engineer intern fm",
     "airbus summer internship digitalai transformation",
     "akuna capital accounting intern termtime parttime",
     "akuna capital hardware engineer intern",
@@ -29376,6 +29378,7 @@
     "job:workday:ag:society-of-women-engineers-conference-summer-internship---engineering-2027_jr10433021",
     "job:workday:ag:society-of-women-engineers-conference-summer-internship---engineering-2027_jr10436173",
     "job:workday:ag:software-engineering-degree-apprenticeship_jr10433575",
+    "job:workday:ag:stress-engineer-intern--f-m-_jr10457752",
     "job:workday:ag:summer-internship---digital-ai-transformation_jr10437881",
     "job:workday:ag:summer-internship-2027---data-analytics---operational-excellence_jr10442492",
     "job:workday:ag:xmlname--discover---2027-2028-electromagnetic-engineer-for-material-characterization-and-rcs-measurements-intern_jr10456533",
@@ -31094,6 +31097,7 @@
     "job:workday:corteva:engineering---maintenance-intern_248298w",
     "job:workday:corteva:engineering-intern_248409w",
     "job:workday:corteva:r---d-intern---computational-chemistry_248117w",
+    "job:workday:corteva:r---d-intern---computer---data-science_248131w",
     "job:workday:corteva:r---d-intern---engineering_248120w",
     "job:workday:corteva:r---d-intern---formulation-and-materials-science_248125w",
     "job:workday:corteva:r-d-engineering-intern_248172w",
