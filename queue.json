@@ -1278,5 +1278,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T19:11:50.086018+00:00"
+  },
+  {
+    "apply_url": "https://iko.wd3.myworkdayjobs.com/iko_careers/job/Brampton-ON/Corporate-Process-Engineering-Co-Op_REQ-14186",
+    "company": "IKO",
+    "role": "Corporate Process Engineering Co-Op",
+    "location": "Brampton, ON",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T19:31:51.500955+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8936932002",
+    "company": "Flagship Pioneering",
+    "role": "Pioneering Medicines: Research Co-Op, Mechanism of Action \u2013 Metabolic Disease",
+    "location": "Cambridge, MA USA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T19:31:51.500955+00:00"
   }
 ]
