@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-13T15:11:52.881650+00:00",
+  "last_checked_utc": "2026-11-13T15:21:51.931015+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7611,6 +7611,7 @@
     "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4868",
     "https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Blue-Ash-Ohio-USA/Engineering-Intern_R26_0000002043",
     "https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Covington-Georgia-USA/Process-Engineering-Intern_R26_0000002583",
+    "https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Fridley-Minnesota-USA/Process-Engineering-Intern_R26_0000002099",
     "https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Houston-Texas-USA/Process-Engineering-Intern_R26_0000002100",
     "https://hbfuller.wd1.myworkdayjobs.com/Careers/job/South-Bend-Indiana-USA/Engineering-Intern_R26_0000002154",
     "https://hbfuller.wd1.myworkdayjobs.com/Careers/job/St-Paul-Minnesota-USA/Legal-Operations---Automation-Intern_R26_0000002112",
@@ -32927,6 +32928,7 @@
     "job:workday:hbfuller:engineering-intern_r26_0000002043",
     "job:workday:hbfuller:engineering-intern_r26_0000002154",
     "job:workday:hbfuller:legal-operations---automation-intern_r26_0000002112",
+    "job:workday:hbfuller:process-engineering-intern_r26_0000002099",
     "job:workday:hbfuller:process-engineering-intern_r26_0000002100",
     "job:workday:hbfuller:process-engineering-intern_r26_0000002583",
     "job:workday:hcmportal:americas-region-business-analytics-summer-2027-intern_r26030513",
