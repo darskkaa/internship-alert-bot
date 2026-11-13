@@ -1438,5 +1438,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T21:31:56.766796+00:00"
+  },
+  {
+    "apply_url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009264",
+    "company": "Emerson Electric",
+    "role": "Life Sciences Marketing Intern",
+    "location": "Round Rock, TX, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T21:41:55.332665+00:00"
   }
 ]

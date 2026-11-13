@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-13T21:31:56.794031+00:00",
+  "last_checked_utc": "2026-11-13T21:41:55.359705+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7866,6 +7866,7 @@
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008762",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009034",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009200",
+    "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009264",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009321",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009324",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009454",
@@ -21910,6 +21911,7 @@
     "emerson electric graduate software engineering intern",
     "emerson electric hardware design engineer intern",
     "emerson electric intelligent automation coop",
+    "emerson electric life sciences marketing intern",
     "emerson electric machine learning rd coop",
     "emerson electric manufacturing engineering coop",
     "emerson electric mechanical engineer coop julydecember",
@@ -28584,6 +28586,7 @@
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26008762",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26009034",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26009200",
+    "job:oracle:hdjq.fa.us2.oraclecloud.com:26009264",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26009321",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26009324",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26009454",
@@ -43410,6 +43413,7 @@
     "texas instruments it infrastructure intern summer 2027",
     "texas instruments process development engineer intern dlp",
     "texas instruments process engineering intern",
+    "texas instruments product engineering failure analysis intern",
     "texas instruments product engineering failure anaylsis intern",
     "texas instruments producttest eng intern",
     "texas instruments quality engineering intern santa clara",
