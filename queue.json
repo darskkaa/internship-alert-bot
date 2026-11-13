@@ -1148,5 +1148,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T17:41:47.804173+00:00"
+  },
+  {
+    "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_334005",
+    "company": "CACI",
+    "role": "Configuration Control/Data Management Co-op - Spring & Summer 2027",
+    "location": "Danbury, CT, US",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T17:51:50.450539+00:00"
+  },
+  {
+    "apply_url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/IT-Asset-Management-Intern---Summer-2027_34985-1",
+    "company": "CME Group",
+    "role": "IT Asset Management Intern - Summer 2027",
+    "location": "Chicago - 20 S. Wacker",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T17:51:50.450539+00:00"
+  },
+  {
+    "apply_url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857",
+    "company": "Cigna Group",
+    "role": "Healthcare Analytics Summer Intern - Start Date: May 24, 2027",
+    "location": "Morris Plains, NJ",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T17:51:50.450539+00:00"
+  },
+  {
+    "apply_url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/High-Point-NC-US/Manufacturing-Engineering-Intern---Thomas-Built-Bus_DT-20682-1",
+    "company": "Daimler Truck",
+    "role": "Manufacturing Engineering Intern - Thomas Built Bus",
+    "location": "High Point, NC US",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T17:51:50.450539+00:00"
   }
 ]
