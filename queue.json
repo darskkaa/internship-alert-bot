@@ -1108,5 +1108,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T17:31:48.865238+00:00"
+  },
+  {
+    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CH---Adliswil/Silicon-Photonics-Test---Characterisation-Intern_2605240",
+    "company": "Marvell",
+    "role": "Silicon Photonics Test & Characterisation Intern",
+    "location": "CH - Adliswil",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T17:41:47.804173+00:00"
+  },
+  {
+    "apply_url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312",
+    "company": "Vertex Pharmaceuticals",
+    "role": "Summer Intern 2027, OSD Process Data Analytics",
+    "location": "Boston, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T17:41:47.804173+00:00"
+  },
+  {
+    "apply_url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Technical-Sales-Engineer-Intern_R-1892",
+    "company": "Monolithic Power Systems",
+    "role": "Technical Sales Engineer Intern",
+    "location": "San Jose, CA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T17:41:47.804173+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/ramp/b87e898f-8d8b-447d-b3d5-9073ccf7d109",
+    "company": "Ramp",
+    "role": "Risk Strategy Intern",
+    "location": "New York, NY (HQ)",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T17:41:47.804173+00:00"
   }
 ]
