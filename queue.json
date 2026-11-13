@@ -1378,5 +1378,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T20:41:48.821270+00:00"
+  },
+  {
+    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CH---Adliswil/Silicon-Photonic-Design-Intern_2605294",
+    "company": "Marvell",
+    "role": "Silicon Photonic Design Intern",
+    "location": "CH - Adliswil",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T20:51:49.196235+00:00"
+  },
+  {
+    "apply_url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Cohesity---Heathrow/Security-Governance---Risk-Intern_R04596-1",
+    "company": "Cohesity",
+    "role": "Security Governance & Risk Intern",
+    "location": "Cohesity - Heathrow",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T20:51:49.196235+00:00"
   }
 ]
