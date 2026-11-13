@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-13T00:11:35.766186+00:00",
+  "last_checked_utc": "2026-11-13T00:31:11.802784+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2533,6 +2533,7 @@
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada---Mississauga/Patient-Data-Insights-Intern_R-262150",
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Summer-2027-Innovation-and-AI-Transformation-Intern_R-264282-1",
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278",
+    "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Summer-2027-Automation-Technician-Intern_R-264285",
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Analytical-Science-Intern_R-263548",
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Biologics-Engineering--Computational-and-Experimental-Design-of-Multispecific-Antibodies-Intern_R-264042",
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Engineering-Capital-Projects-Intern--Undergraduate_R-263950",
@@ -19310,6 +19311,7 @@
     "astrazeneca manufacturing sciences validation engineer intern",
     "astrazeneca network planning data analytics intern",
     "astrazeneca patient data insights intern",
+    "astrazeneca summer 2027 automation technician intern",
     "astrazeneca summer 2027 innovation and ai transformation intern",
     "astrazeneca summer 2027 quantitative intern phd",
     "astrazeneca us medical affairs ai knowledge experience intern",
@@ -29925,6 +29927,7 @@
     "job:workday:astrazeneca:network-planning---data-analytics-intern_r-263845",
     "job:workday:astrazeneca:patient-data-insights-intern_r-262150",
     "job:workday:astrazeneca:regulatory-innovation---ai-transformation-intern_r-262017",
+    "job:workday:astrazeneca:summer-2027-automation-technician-intern_r-264285",
     "job:workday:astrazeneca:summer-2027-innovation-and-ai-transformation-intern_r-264282",
     "job:workday:astrazeneca:summer-2027-innovation-and-ai-transformation-intern_r-264282-1",
     "job:workday:astrazeneca:summer-2027-quantitative-intern-phd_r-264278",
