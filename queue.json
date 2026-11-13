@@ -1338,5 +1338,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T20:02:00.640407+00:00"
+  },
+  {
+    "apply_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---CAE-Simulation_R57192",
+    "company": "Cadence Design Systems",
+    "role": "Intern: Application Engineering - CAE Simulation",
+    "location": "BELO HORIZONTE",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T20:11:58.855850+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac",
+    "company": "Toyota Research Institute",
+    "role": "Research Intern, Continual Adaptation for Robotics",
+    "location": "Cambridge, MA",
+    "source": "Lever",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T20:11:58.855850+00:00"
   }
 ]
