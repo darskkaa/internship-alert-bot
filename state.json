@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-13T16:51:49.100037+00:00",
+  "last_checked_utc": "2026-11-13T17:11:52.809172+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17272,6 +17272,7 @@
     "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1",
     "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Manufacturing-Digital-Systems_REQ-31004-1",
     "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Supply-Chain-Master-Data-Management_REQ-31000-1",
+    "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--Material-Science_REQ-31308-2",
     "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Spring-Co-Op--Process-Engineering-Data-Analytics_REQ-31006-1",
     "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Spring-Co-Op-2027--Mechanical-Automation_REQ-30500-1",
     "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Spring-Co-Op-2027--Process-Development-Scientific-Associate_REQ-30511-1",
@@ -20820,6 +20821,7 @@
     "cigna group business analytics intern",
     "cigna group data analytics engineering intern technology development program",
     "cigna group data scientist intern masters program hybrid nj tx or mo",
+    "cigna group graduate aimachine learning engineer intern tx nj mo",
     "cigna group health and clinical outcomes research intern mastersphd students",
     "cigna group healthcare analytics intern",
     "cigna group healthcare analytics summer intern morris plains nj start date may 24 2027",
@@ -37307,6 +37309,7 @@
     "job:workday:vrtx:spring-co-op-2027--commercial-analytics_req-31112-1",
     "job:workday:vrtx:spring-co-op-2027--manufacturing-digital-systems_req-31004-1",
     "job:workday:vrtx:spring-co-op-2027--supply-chain-master-data-management_req-31000-1",
+    "job:workday:vrtx:summer-intern-2027--material-science_req-31308-2",
     "job:workday:vrtx:vertex-spring-co-op--process-engineering-data-analytics_req-31006-1",
     "job:workday:vrtx:vertex-spring-co-op-2027--mechanical-automation_req-30500-1",
     "job:workday:vrtx:vertex-spring-co-op-2027--process-development-scientific-associate_req-30511-1",
@@ -44444,6 +44447,7 @@
     "vertex pharmaceuticals spring coop 2027 process engineering data analytics",
     "vertex pharmaceuticals spring coop 2027 supply chain master data management",
     "vertex pharmaceuticals spring coop 2027 technical operations packaging",
+    "vertex pharmaceuticals summer intern 2027 material science",
     "vertex pharmaceuticals vertex spring coop process engineering data analytics",
     "vertiv business analytics intern summer 2027",
     "vertiv data analytics intern",
