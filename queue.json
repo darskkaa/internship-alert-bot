@@ -808,5 +808,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T12:31:53.976124+00:00"
+  },
+  {
+    "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Internship--d-f-m--within-the-mission-software-department_JR10434978",
+    "company": "Airbus",
+    "role": "Internship (d/f/m) within the mission software department",
+    "location": "Donauw\u00f6rth",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T13:21:40.765423+00:00"
+  },
+  {
+    "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Generation-and-Management-of-AC-ICDs-using-AI-Technology-Intern_JR10457169",
+    "company": "Airbus",
+    "role": "#Discover I 2027-2028 Generation and Management of AC ICDs using AI Technology Intern",
+    "location": "Getafe",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T13:21:40.765423+00:00"
+  },
+  {
+    "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Internship--d-f-m--Embedded-Software-Engineering-for-Weapon-Systems_JR10442671-2",
+    "company": "Airbus",
+    "role": "Internship (d/f/m) Embedded Software Engineering for Weapon Systems",
+    "location": "Donauw\u00f6rth",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T13:21:40.765423+00:00"
   }
 ]
