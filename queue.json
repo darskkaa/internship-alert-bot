@@ -1478,5 +1478,115 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T22:12:00.994152+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/Carlisle/3743990016774046",
+    "company": "Carlisle Companies",
+    "role": "AI & Data Science Intern",
+    "location": "Carlisle, Pennsylvania, , United States",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T22:31:50.514053+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007",
+    "company": "Arcesium",
+    "role": "AI Transformation Intern",
+    "location": "New York",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T22:31:50.514053+00:00"
+  },
+  {
+    "apply_url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1",
+    "company": "Martin Marietta",
+    "role": "Intern, Data Scientist",
+    "location": "Raleigh, NC",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T22:31:50.514053+00:00"
+  },
+  {
+    "apply_url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
+    "company": "Martin Marietta",
+    "role": "Intern, Software Data Integration Engineer",
+    "location": "Raleigh, NC",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T22:31:50.514053+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161548289",
+    "company": "ServiceNow",
+    "role": "AI Security Engineer Intern",
+    "location": "San Diego, California, United States",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T22:31:50.514053+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161550869",
+    "company": "ServiceNow",
+    "role": "Information Security Analyst Intern",
+    "location": "San Diego, CALIFORNIA, United States",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T22:31:50.514053+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed",
+    "company": "Reliable Robotics",
+    "role": "Flight Software Engineer Intern (Summer 2027)",
+    "location": "Mountain View, CA",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T22:31:50.514053+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335",
+    "company": "Atalanta",
+    "role": "Software Engineer Intern",
+    "location": "Washington D.C.",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": true,
+    "detected_at": "2026-11-13T22:31:50.514053+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003",
+    "company": "Samsung",
+    "role": "Intern, SSD Firmware Development",
+    "location": "San Jose, California, United States",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T22:31:50.514053+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003",
+    "company": "Samsung",
+    "role": "Intern, AI Systems Performance Engineer",
+    "location": "San Jose, California, United States",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T22:31:50.514053+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003",
+    "company": "Samsung",
+    "role": "Intern, ML Compiler (Kernel Auto-Tuning)",
+    "location": "San Jose, California, United States",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T22:31:50.514053+00:00"
   }
 ]
