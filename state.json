@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-13T21:51:56.497480+00:00",
+  "last_checked_utc": "2026-11-13T22:02:38.681605+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6179,6 +6179,7 @@
     "https://flowserve.wd1.myworkdayjobs.com/applied/job/Houston-Texas/Engineering-Co-op_R-21092",
     "https://flowserve.wd1.myworkdayjobs.com/applied/job/Kalamazoo-Michigan-US/Engineering-Co-op_R-21737",
     "https://flowserve.wd1.myworkdayjobs.com/applied/job/Leduc-Canada/CoOp-Intern_R-21051",
+    "https://flowserve.wd1.myworkdayjobs.com/applied/job/Rancho-Dominguez-California-US/CoOp-Intern_R-21348",
     "https://flowserve.wd1.myworkdayjobs.com/applied/job/West-Chicago-Illinois-US/Rotating-Equipment-Engineer-Co-Op---Operations-Intern_R-21743",
     "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Fidelity-Center-for-Applied-Technology--FCAT--Innovation-Ecosystem--Europe-Internship_2137228-1",
     "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524",
@@ -31817,6 +31818,7 @@
     "job:workday:flir:xmlname--hardware-design-test-coop_req36840-1",
     "job:workday:flir:xmlname--software-engineering-coop_req36845",
     "job:workday:flowserve:coop-intern_r-21051",
+    "job:workday:flowserve:coop-intern_r-21348",
     "job:workday:flowserve:engineering-co-op_r-21092",
     "job:workday:flowserve:engineering-co-op_r-21737",
     "job:workday:flowserve:engineering-co-op_r-21926",
