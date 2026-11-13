@@ -888,5 +888,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T14:31:47.238777+00:00"
+  },
+  {
+    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Product-Engineering-Intern_REQ-15848",
+    "company": "Entegris",
+    "role": "Product Engineering Intern",
+    "location": "Chaska, MN",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T14:51:39.124957+00:00"
+  },
+  {
+    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Technical-Marketing-Intern_REQ-15843",
+    "company": "Entegris",
+    "role": "Technical Marketing Intern",
+    "location": "Chaska, MN",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T14:51:39.124957+00:00"
+  },
+  {
+    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844",
+    "company": "Entegris",
+    "role": "Associate Product Manager Intern",
+    "location": "Chaska, MN",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T14:51:39.124957+00:00"
+  },
+  {
+    "apply_url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
+    "company": "Verisk",
+    "role": "Data Science/AI Intern | 2027 Summer Internship Program",
+    "location": "Lehi, UT, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T14:51:39.124957+00:00"
   }
 ]
