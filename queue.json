@@ -758,5 +758,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T08:51:34.853570+00:00"
+  },
+  {
+    "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028--Internship-Cockpit-Design-and-Human-Factors-Engineering_JR10456364",
+    "company": "Airbus",
+    "role": "#Discover I 2027-2028  Internship Cockpit Design and Human Factors Engineering",
+    "location": "Getafe",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T09:41:36.041987+00:00"
+  },
+  {
+    "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/DISCOVER-I-2027-2028-INTERNSHIP---Materials-and-Processes-Engineer_JR10457042",
+    "company": "Airbus",
+    "role": "DISCOVER I 2027-2028 INTERNSHIP - Materials and Processes Engineer",
+    "location": "Getafe Area",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T09:41:36.041987+00:00"
   }
 ]
