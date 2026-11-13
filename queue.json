@@ -1298,5 +1298,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T19:31:51.500955+00:00"
+  },
+  {
+    "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122243",
+    "company": "Samsung",
+    "role": "2027 SARC/ACL R&D Internship Program \u2013 Multiple Engineering Teams",
+    "location": "3900 N Capital of Texas Hwy, Austin, TX, USA +1 more",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T19:41:38.359510+00:00"
+  },
+  {
+    "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2470894",
+    "company": "Jabil",
+    "role": "Industrial Engineering Intern",
+    "location": "St. Petersburg/Tampa, FL",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T19:41:38.359510+00:00"
+  },
+  {
+    "apply_url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919",
+    "company": "TC Energy",
+    "role": "Intern, Intelligent Operations Technology",
+    "location": "Spokane, Washington",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T19:41:38.359510+00:00"
   }
 ]
