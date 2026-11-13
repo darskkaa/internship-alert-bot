@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-12T23:51:36.677013+00:00",
+  "last_checked_utc": "2026-11-13T00:01:44.386259+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2497,6 +2497,7 @@
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/CoOp---Electrical-Engineer--Internship-_J-00356208",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Coop---Mechatronics-Engineer--Internship-_J-00356203",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Design-Intern_J-00356190",
+    "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Electrical-Engineer_J-00355801",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Electrical-Engineer_J-00356457",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Electromechanical-Engineer_J-00356069",
@@ -19175,6 +19176,7 @@
     "asml internship computational imaging and metrology summer",
     "asml internship coop ai engineer",
     "asml internship coop data engineer",
+    "asml internship data scientist",
     "asml internship design engineer",
     "asml internship droplet generation research",
     "asml internship electrical engineer",
@@ -29843,6 +29845,7 @@
     "job:workday:asml:design-intern_j-00356190",
     "job:workday:asml:internship----machine-learning-and-image-based-euv-system-setup_j-00356567",
     "job:workday:asml:internship---application-software-qa-engineer_j-00354565",
+    "job:workday:asml:internship---data-scientist_j-00356462",
     "job:workday:asml:internship---droplet-generation-research_j-00355379",
     "job:workday:asml:internship---electrical-engineer_j-00355801",
     "job:workday:asml:internship---electrical-engineer_j-00356457",
