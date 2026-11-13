@@ -658,5 +658,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T01:51:39.532987+00:00"
+  },
+  {
+    "apply_url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196",
+    "company": "CoStar Group",
+    "role": "Vision & Learning Intern",
+    "location": "Sunnyvale, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T02:41:35.678739+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true",
+    "company": "Shield AI",
+    "role": "Hardware Test Engineering Co-op",
+    "location": "Dallas, TX",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-13T02:41:35.678739+00:00"
   }
 ]
