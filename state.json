@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-13T00:31:11.802784+00:00",
+  "last_checked_utc": "2026-11-13T01:31:48.717296+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1589,6 +1589,7 @@
     "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
     "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261",
     "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/XMLNAME-2027-Intern--Software-Engineer_R173019",
+    "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158",
     "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R19884",
     "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499",
     "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804",
@@ -18630,6 +18631,7 @@
     "american century investments quantitative research intern",
     "american century investments software developer intern",
     "american century investments sustainable research intern",
+    "american electric power cybersecurity intern summer 2027",
     "american electric power data scientist intern",
     "american electric power data scientist intern columbus oh",
     "american express ai engineer intern",
@@ -29207,6 +29209,7 @@
     "job:workday:adobe:xmlname-2027-intern--software-engineer_r173015",
     "job:workday:adobe:xmlname-2027-intern--software-engineer_r173019",
     "job:workday:adobe:xmlname-2027-mba-intern---product-manager_r172261",
+    "job:workday:aep:cybersecurity-intern---summer-2027_r21158",
     "job:workday:aep:data-scientist-intern---columbus--oh_r19884",
     "job:workday:aep:data-scientist-intern---columbus--oh_r20499",
     "job:workday:aero:xmlname-2027-battery-test-lab-undergraduate-intern_r016885",
