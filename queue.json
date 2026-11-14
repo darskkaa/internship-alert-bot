@@ -1708,5 +1708,85 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-13T23:41:24.419395+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true",
+    "company": "Nexus Cognitive Technologies",
+    "role": "Data Engineer Intern",
+    "location": "Atlanta, GA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T00:11:25.814264+00:00"
+  },
+  {
+    "apply_url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798",
+    "company": "Capital Group",
+    "role": "Global Technology Summer Associate Intern",
+    "location": "Irvine, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T00:11:25.814264+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161584449",
+    "company": "ServiceNow",
+    "role": "Senior Inbound Product Manager Intern",
+    "location": "San Diego, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T00:11:25.814264+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161590090",
+    "company": "ServiceNow",
+    "role": "Senior Outbound Product Manager Intern",
+    "location": "San Diego, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T00:11:25.814264+00:00"
+  },
+  {
+    "apply_url": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors",
+    "company": "W.W. Grainger",
+    "role": "Customer Experience Intern",
+    "location": "Thornhill, Vaughan, ON, Canada",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T00:11:25.814264+00:00"
+  },
+  {
+    "apply_url": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors",
+    "company": "W.W. Grainger",
+    "role": "GCAN Field Operations Analyst Intern",
+    "location": "Thornhill, Vaughan, ON, Canada",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T00:11:25.814264+00:00"
+  },
+  {
+    "apply_url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors",
+    "company": "NextEra Energy",
+    "role": "Software Engineering Intern - Technical",
+    "location": "St Paul, MN",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T00:11:25.814264+00:00"
+  },
+  {
+    "apply_url": "https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states",
+    "company": "Amazon",
+    "role": "Robotics Applied Scientist 2 Intern - Robotics",
+    "location": "Seattle, WA, North Reading, MA, NYC, Bellevue, WA, Sunnyvale, CA, Westborough, MA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T00:11:25.814264+00:00"
   }
 ]
