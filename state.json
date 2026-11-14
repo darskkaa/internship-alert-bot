@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-14T00:31:38.287110+00:00",
+  "last_checked_utc": "2026-11-14T00:41:36.007354+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2513,6 +2513,7 @@
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Electrical-Engineer_J-00355801",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Electrical-Engineer_J-00356457",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Electromechanical-Engineer_J-00356069",
+    "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Engineer--Defectivity--Materials---Contamination-Analysis-_J-00357005",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Design-Engineer_J-00356215",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355216",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00355336",
@@ -19362,6 +19363,7 @@
     "asml internship droplet generation research",
     "asml internship electrical engineer",
     "asml internship electromechanical engineer",
+    "asml internship engineer defectivity materials contamination analysis",
     "asml internship euv data science and analytics",
     "asml internship frontend developer",
     "asml internship imaging product engineer",
@@ -30140,6 +30142,7 @@
     "job:workday:asml:internship---electrical-engineer_j-00355801",
     "job:workday:asml:internship---electrical-engineer_j-00356457",
     "job:workday:asml:internship---electromechanical-engineer_j-00356069",
+    "job:workday:asml:internship---engineer--defectivity--materials---contamination-analysis-_j-00357005",
     "job:workday:asml:internship---euv-data-science-and-analytics_j-00357717",
     "job:workday:asml:internship---frontend-developer_j-00354852",
     "job:workday:asml:internship---material-science--sd-foundation_j-00351298",
