@@ -1788,5 +1788,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-14T00:11:25.814264+00:00"
+  },
+  {
+    "apply_url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Engineering-Intern_JR-25266",
+    "company": "Bloom Energy",
+    "role": "Engineering Intern",
+    "location": "San Jose, California",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T00:31:38.264400+00:00"
+  },
+  {
+    "apply_url": "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Corporate-Credit-Structuring-Intern-in-Technology--Media--and-Telecom_R7553",
+    "company": "Mizuho Securities USA",
+    "role": "2027 Corporate Credit Structuring Intern in Technology, Media, and Telecom",
+    "location": "New York, NY (1271 AOA/6th Ave)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T00:31:38.264400+00:00"
   }
 ]
