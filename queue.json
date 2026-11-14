@@ -1828,5 +1828,55 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-14T08:11:22.145092+00:00"
+  },
+  {
+    "apply_url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080",
+    "company": "Camping World",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T16:11:25.587251+00:00"
+  },
+  {
+    "apply_url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297",
+    "company": "Camping World",
+    "role": "Data Engineering Intern",
+    "location": "Chicago, IL, Lincolnshire, IL",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T16:11:25.587251+00:00"
+  },
+  {
+    "apply_url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300",
+    "company": "Camping World",
+    "role": "Data Analyst Intern - AI & Machine Learning Focus",
+    "location": "Chicago, IL, Lincolnshire, IL",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T16:11:25.587251+00:00"
+  },
+  {
+    "apply_url": "https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1",
+    "company": "Watts Water",
+    "role": "Product Management Co-op",
+    "location": "Menomonee Falls, WI",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T16:11:25.587251+00:00"
+  },
+  {
+    "apply_url": "https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false",
+    "company": "SAS",
+    "role": "Software Developer Intern - Go/Golang Experience",
+    "location": "Cary, NC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T16:11:25.587251+00:00"
   }
 ]
