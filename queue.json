@@ -1878,5 +1878,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-14T16:11:25.587251+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161592679",
+    "company": "ServiceNow",
+    "role": "Security Engineer Intern",
+    "location": "Kirkland, Washington, United States",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T17:11:22.778784+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161594249",
+    "company": "ServiceNow",
+    "role": "AI Identity Intern",
+    "location": "Kirkland, Washington, United States",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T17:11:22.778784+00:00"
+  },
+  {
+    "apply_url": "https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east",
+    "company": "Amazon",
+    "role": "Data Center Infrastructure Engineer Intern, Summer 2027 - East",
+    "location": "Herndon, Virginia, USA",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T17:11:22.778784+00:00"
+  },
+  {
+    "apply_url": "https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast",
+    "company": "Amazon",
+    "role": "Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast",
+    "location": "Umatilla, Oregon, USA",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-14T17:11:22.778784+00:00"
   }
 ]
