@@ -1978,5 +1978,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-15T09:01:53.000373+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009",
+    "company": "Fanatics",
+    "role": "People Intelligence Intern",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-15T16:11:47.802736+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009",
+    "company": "Fanatics",
+    "role": "Product Intern",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-15T16:11:47.802736+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009",
+    "company": "Fanatics",
+    "role": "Product Intern - Physical Trading Cards",
+    "location": "Coppell, TX",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-15T16:11:47.802736+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009",
+    "company": "Fanatics",
+    "role": "Product Management Intern",
+    "location": "Seattle, WA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-15T16:11:47.802736+00:00"
   }
 ]
