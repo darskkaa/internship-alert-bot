@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-15T08:11:43.703205+00:00",
+  "last_checked_utc": "2026-11-15T08:21:49.539857+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13903,6 +13903,7 @@
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Design-Verification-Intern_2604492",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Design-Verification-Intern_2604493",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Physical-Design-Intern_2604462",
+    "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Software-Firmware-Engineering_2604496",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/System-Chip-Validation-Intern_2604495",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
@@ -34710,6 +34711,7 @@
     "job:workday:marvell:silicon-validation-intern--bs---summer-2027_2603850",
     "job:workday:marvell:silicon-validation-intern--bs---summer-2027_2603850-1",
     "job:workday:marvell:software-firmware-engineer-intern_2604053",
+    "job:workday:marvell:software-firmware-engineering_2604496",
     "job:workday:marvell:sram-software-engineer-intern--bs---summer-2027_2603760",
     "job:workday:marvell:sram-software-engineer-intern--bs---summer-2027_2603760-1",
     "job:workday:marvell:system-chip-validation-intern_2604495",
@@ -38847,6 +38849,7 @@
     "marvell silicon validation intern",
     "marvell silicon validation intern bs summer 2027",
     "marvell softwarefirmware engineer intern",
+    "marvell softwarefirmware engineering intern",
     "marvell sram circuit design intern ms",
     "marvell sram software engineer intern bs summer 2027",
     "marvell system chip validation intern",
