@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-15T09:31:45.964151+00:00",
+  "last_checked_utc": "2026-11-15T11:41:49.677244+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14521,6 +14521,7 @@
     "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Information-Systems-Audit-Intern_JR-125336",
     "https://ncratleos.wd1.myworkdayjobs.com/ext_intern/job/ATLANTA-GA-USA/Data-Science-Intern_R1154686",
     "https://ncratleos.wd1.myworkdayjobs.com/ext_intern/job/ATLANTA-GA-USA/Technology-Intern_R1154684",
+    "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Product-Management-Internship_R1154941-1",
     "https://neboagency.applytojob.com/apply/AFMqe9Jb7b/Web-Development-Intern",
     "https://neboagency.applytojob.com/apply/TtGKnP4ODV/FrontEnd-Engineering-Intern",
     "https://neboagency.applytojob.com/apply/VhgOaS6Nx3/BackEnd-Engineering-Intern",
@@ -35180,6 +35181,7 @@
     "job:workday:nc:information-systems-audit-intern_jr-125336",
     "job:workday:nc:it-service-desk-intern_jr-125278",
     "job:workday:ncratleos:data-science-intern_r1154686",
+    "job:workday:ncratleos:product-management-internship_r1154941-1",
     "job:workday:ncratleos:technology-intern_r1154684",
     "job:workday:nebraskablue:data-intern--summer-2027_jr101406",
     "job:workday:nebraskablue:healthcare-analytics-intern--starts-summer-2027_jr101437",
@@ -39640,6 +39642,7 @@
     "nbt bank internship data warehouse analytics consultant",
     "ncino software engineer intern",
     "ncr atleos data science intern",
+    "ncr atleos product management intern",
     "ncr atleos technology intern",
     "nebo backend engineer intern",
     "nebo frontend engineer intern",
