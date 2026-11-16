@@ -2578,5 +2578,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T20:22:04.701127+00:00"
+  },
+  {
+    "apply_url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Technical-Training-Content-Creation-Co-Op_R20802",
+    "company": "ZOLL Medical Corporation",
+    "role": "Technical Training Content Creation Co-Op",
+    "location": "Chelmsford, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T20:42:12.861254+00:00"
+  },
+  {
+    "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Underwriting-Product-Management-Intern--Year-Round-_R9910-1",
+    "company": "Great American Insurance Company",
+    "role": "Underwriting/Product Management Intern (Year-Round)",
+    "location": "Cincinnati, OH (USA)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T20:42:12.861254+00:00"
   }
 ]
