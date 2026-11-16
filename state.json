@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-16T11:11:52.630379+00:00",
+  "last_checked_utc": "2026-11-16T13:02:06.588431+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7609,6 +7609,7 @@
     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Erie-Pennsylvania-USA/Manufacturing-Engineering-Intern_R0023592",
     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Erie-Pennsylvania-USA/Mechanical-Engineering-Intern_R0023550",
     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Flagstaff-Arizona-USA/Mechanical-Engineering-Intern_R0023604",
+    "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/North-Canton-Ohio-USA/Manufacturing-Engineering-Intern_R0023570-1",
     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Automation-Engineering-Co-Op--January---August-2027-_R0023586",
     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Electrical-Engineer-Intern_R0023606",
     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering--Operational-Technology--Co-op--January---August-2027-_R0023574",
@@ -33194,6 +33195,7 @@
     "job:workday:graco:manufacturing-engineering-co-op_r0023507",
     "job:workday:graco:manufacturing-engineering-intern---summer-2027_r0023643",
     "job:workday:graco:manufacturing-engineering-intern_r0023564",
+    "job:workday:graco:manufacturing-engineering-intern_r0023570-1",
     "job:workday:graco:manufacturing-engineering-intern_r0023592",
     "job:workday:graco:marketing-analytics-intern_r0023534",
     "job:workday:graco:mechanical-engineering-intern_r0023509",
