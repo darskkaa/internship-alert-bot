@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-16T18:51:59.366907+00:00",
+  "last_checked_utc": "2026-11-16T19:02:27.393240+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14207,6 +14207,7 @@
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468",
+    "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Data-Science--SMAI_JR117444",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Dry-Etch-Equipment-Development-Engineering_JR109987",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---HVM-Area-Manufacturing-Engineer--AME-_JR116168",
     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582",
@@ -34975,6 +34976,7 @@
     "job:workday:micron:intern---cmbu-product-management_jr115941",
     "job:workday:micron:intern---compute-system-compatibility-engineer_jr113627",
     "job:workday:micron:intern---data-center-ssd-firmware_jr111461",
+    "job:workday:micron:intern---data-science--smai_jr117444",
     "job:workday:micron:intern---data-science_jr114549",
     "job:workday:micron:intern---design-engineer--hbm_jr110452",
     "job:workday:micron:intern---design-engineer--hbm_jr111821",
@@ -39304,6 +39306,7 @@
     "micron technology intern compute system compatibility engineer",
     "micron technology intern data center ssd firmware",
     "micron technology intern data science",
+    "micron technology intern data science smai",
     "micron technology intern design engineer hbm",
     "micron technology intern design engineer pathfinding",
     "micron technology intern dram customer enablement engineering",
