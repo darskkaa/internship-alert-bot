@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-16T23:02:15.252196+00:00",
+  "last_checked_utc": "2026-11-16T23:22:08.014611+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15978,6 +15978,7 @@
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Co-op_R-059039",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Intern_R-059038",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Technical-Product-Intern_R-059526-1",
+    "https://redhat.wd5.myworkdayjobs.com/jobs/job/Santiago/Cloud-Services-Intern_R-059108",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Waterford-City/Software-Engineering-Internship--Ireland-_R-059589",
     "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Grafton-Wisconsin-United-States/Information-Technology-Summer-Intern_R26_04545-1",
     "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Engineering-Summer-Intern_R26_04578-2",
@@ -36485,6 +36486,7 @@
     "job:workday:recar:intern--prototype-engineering_jr101557",
     "job:workday:redhat:ai-ecosystem-intern_r-059053-1",
     "job:workday:redhat:ai-ecosystem-intern_r-059276",
+    "job:workday:redhat:cloud-services-intern_r-059108",
     "job:workday:redhat:internsoftware-engineering-intern---container-tools--brno--czech-republic-_r-059211",
     "job:workday:redhat:linux-systems-engineering-intern---storage--brno--czech-republic-_r-059156",
     "job:workday:redhat:product-manager-intern_r-059060",
@@ -38399,6 +38401,7 @@
     "kla electrical engineering internship",
     "kla engineering intern",
     "kla firmware intern",
+    "kla fpga engineer intern",
     "kla machine learning engineer intern",
     "kla mechanical design engineer intern",
     "kla mechanical engineer intern",
@@ -41760,6 +41763,7 @@
     "realty income technology intern",
     "red bull 2026 internship fall data science",
     "red hat ai ecosystem intern",
+    "red hat cloud services intern",
     "red hat internsoftware engineering intern container tools brno czech republic",
     "red hat linux systems engineering intern storage brno czech republic",
     "red hat product manager intern",
