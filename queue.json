@@ -2118,5 +2118,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T11:11:52.601459+00:00"
+  },
+  {
+    "apply_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Pomigliano-DArco/Internship---Lean-Manufacturing-Engineer_R5043209-1",
+    "company": "GE Aerospace",
+    "role": "Internship - Lean Manufacturing Engineer",
+    "location": "Pomigliano D'Arco",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T13:32:03.623206+00:00"
+  },
+  {
+    "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Spring-Internship---Holocaust--Genocide-and-Human-Rights-Education-Initiative-at-Penn-State_REQ_0000084315-1",
+    "company": "PennState University",
+    "role": "Part-Time Research Assistant Spring Internship - Holocaust, Genocide and Human Rights Education Initiative at Penn State",
+    "location": "Penn State University Park",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T13:32:03.623206+00:00"
+  },
+  {
+    "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/El-Puerto-Sta-Maria/XMLNAME--DISCOVER-I-2027-2028-Composite-Process-Engineer-Intern_JR10456446",
+    "company": "Airbus",
+    "role": "#DISCOVER I 2027-2028 Composite Process Engineer Intern",
+    "location": "El Puerto Sta Maria",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T13:32:03.623206+00:00"
   }
 ]
