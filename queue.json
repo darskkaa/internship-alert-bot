@@ -2438,5 +2438,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T19:02:27.369965+00:00"
+  },
+  {
+    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Systems-Engineering-Intern---Open-Systems-Solutions---Summer-2027---Onsite_01887900",
+    "company": "RTX",
+    "role": "Systems Engineering Intern - Open Systems Solutions - Summer 2027 - Onsite",
+    "location": "US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T19:12:13.864405+00:00"
+  },
+  {
+    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Hardware-in-the-Loop-Engineering-Intern----Summer-2027-_01882927",
+    "company": "RTX",
+    "role": "Hardware in the Loop Engineering Intern - (Summer 2027)",
+    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T19:12:13.864405+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161893169",
+    "company": "Veolia",
+    "role": "Intern - Municipal Engineering",
+    "location": "Oakville, ON, Canada",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T19:12:13.864405+00:00"
   }
 ]
