@@ -2368,5 +2368,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T18:12:10.326668+00:00"
+  },
+  {
+    "apply_url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607332",
+    "company": "WTW",
+    "role": "Early Careers: Early Careers: Corporate Risk & Broking Construction Part-time Internship - 2027",
+    "location": "Minneapolis, MN, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T18:32:03.142810+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476",
+    "company": "Toyota Research Institute",
+    "role": "Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge)",
+    "location": "Cambridge, MA",
+    "source": "Lever",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T18:32:03.142810+00:00"
   }
 ]
