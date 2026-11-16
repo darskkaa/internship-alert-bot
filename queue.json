@@ -2548,5 +2548,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T20:02:01.959112+00:00"
+  },
+  {
+    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineer-Co-Op--Spring-Summer-2027-_01873469",
+    "company": "RTX",
+    "role": "Electrical Engineer Co-Op (Spring/Summer 2027)",
+    "location": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T20:12:12.687493+00:00"
+  },
+  {
+    "apply_url": "https://cae.wd3.myworkdayjobs.com/career/job/Irving/Automation-Intern_121836",
+    "company": "CAE",
+    "role": "Automation Intern",
+    "location": "Irving",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T20:12:12.687493+00:00"
   }
 ]
