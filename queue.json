@@ -2328,5 +2328,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T17:32:17.214145+00:00"
+  },
+  {
+    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Foundry-Intern--Summer-2027-_01875840",
+    "company": "RTX",
+    "role": "Semiconductor Foundry Intern (Summer 2027)",
+    "location": "US-MA-ANDOVER-AR2 ~ 362 Lowell St ~ AR2 PLYMOUTH BLDG",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T17:42:17.363427+00:00"
+  },
+  {
+    "apply_url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/Quality-Engineering-Intern_JR-21905",
+    "company": "Vishay Intertechnology",
+    "role": "Quality Engineering Intern",
+    "location": "Yankton, SD",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T17:42:17.363427+00:00"
   }
 ]
