@@ -2158,5 +2158,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T15:11:58.220782+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161841434",
+    "company": "Robert Bosch Venture Capital",
+    "role": "Research Intern: Multimodal Sensor Foundation Models",
+    "location": "Pittsburgh, PA, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T15:32:13.568587+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161844052",
+    "company": "Robert Bosch Venture Capital",
+    "role": "Research Intern: Multimodal Foundation Models for Healthcare",
+    "location": "Pittsburgh, PA, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T15:32:13.568587+00:00"
   }
 ]
