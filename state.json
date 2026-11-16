@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-16T17:51:57.578918+00:00",
+  "last_checked_utc": "2026-11-16T18:02:17.575708+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13931,6 +13931,7 @@
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083-1",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835",
+    "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Ontario---Toronto/System-Engineer---Optical-DSP-Intern--PhD----Co-Op-2027_2604424",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CH---Adliswil/Materials-and-Reliability-Engineering-Intern_2605195-1",
@@ -34840,6 +34841,7 @@
     "job:workday:marvell:sram-software-engineer-intern--bs---summer-2027_2603760",
     "job:workday:marvell:sram-software-engineer-intern--bs---summer-2027_2603760-1",
     "job:workday:marvell:system-chip-validation-intern_2604495",
+    "job:workday:marvell:system-engineer---optical-dsp-intern--phd----co-op-2027_2604424",
     "job:workday:marvell:technical-sales-intern--bs---summer-2027_2603806",
     "job:workday:marvell:technical-writer-intern--bs-ba---summer-2027_2604149",
     "job:workday:marvell:test-engineering-intern--bs---summer-2027_2604537",
@@ -38985,6 +38987,7 @@
     "marvell sram circuit design intern ms",
     "marvell sram software engineer intern bs summer 2027",
     "marvell system chip validation intern",
+    "marvell system engineer optical dsp intern phd coop 2027",
     "marvell technical sales intern bs summer 2027",
     "marvell technical writer intern bsba summer 2027",
     "marvell test engineer intern",
