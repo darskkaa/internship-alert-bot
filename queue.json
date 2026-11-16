@@ -2108,5 +2108,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T10:41:45.709250+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
+    "company": "Octaura",
+    "role": "Data Engineer Intern",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T11:11:52.601459+00:00"
   }
 ]
