@@ -2648,5 +2648,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T21:32:13.304051+00:00"
+  },
+  {
+    "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10491",
+    "company": "Ralliant",
+    "role": "Hardware Verification Engineer Co-op (Summer 2027)",
+    "location": "Solon, OH, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T22:02:08.902668+00:00"
   }
 ]

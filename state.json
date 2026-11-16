@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-16T21:32:13.334115+00:00",
+  "last_checked_utc": "2026-11-16T22:02:08.927289+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8599,6 +8599,7 @@
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161886",
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161888",
     "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161889",
+    "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10491",
     "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637",
     "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10680",
     "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10681",
@@ -28943,6 +28944,7 @@
     "job:oracle:ibqbjb.fa.ocs.oraclecloud.com:161886",
     "job:oracle:ibqbjb.fa.ocs.oraclecloud.com:161888",
     "job:oracle:ibqbjb.fa.ocs.oraclecloud.com:161889",
+    "job:oracle:ibwujb.fa.ocs.oraclecloud.com:10491",
     "job:oracle:ibwujb.fa.ocs.oraclecloud.com:10637",
     "job:oracle:ibwujb.fa.ocs.oraclecloud.com:10680",
     "job:oracle:ibwujb.fa.ocs.oraclecloud.com:10681",
@@ -41704,6 +41706,7 @@
     "rakuten international early career ai engineer intern",
     "rakuten international intern software engineer ai user experience",
     "rakuten international software engineer intern",
+    "ralliant hardware verification engineer coop summer 2027",
     "ralliant manufacturing engineering intern summer 2027",
     "ralliant research and development coop",
     "rambus product engineer intern",
