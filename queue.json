@@ -2668,5 +2668,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T22:22:14.355976+00:00"
+  },
+  {
+    "apply_url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Firmware-Intern_2642154",
+    "company": "KLA",
+    "role": "Firmware Intern",
+    "location": "Milpitas, CA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T22:42:01.743540+00:00"
+  },
+  {
+    "apply_url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Science-Writing-Intern_RQ4086146",
+    "company": "Mass General Brigham",
+    "role": "Science Writing Intern",
+    "location": "Somerville-MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T22:42:01.743540+00:00"
   }
 ]
