@@ -2188,5 +2188,95 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T15:42:15.951556+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726669006",
+    "company": "SharkNinja",
+    "role": "Electrical Engineer Intern",
+    "location": "London, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T16:12:12.259642+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161793229",
+    "company": "Robert Bosch Venture Capital",
+    "role": "Data Analyst & Marketing/Sales Intern",
+    "location": "Denham, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T16:12:12.259642+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/addepar1/jobs/8910324002",
+    "company": "Addepar",
+    "role": "Technical Product Management Intern - ADX",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T16:12:12.259642+00:00"
+  },
+  {
+    "apply_url": "https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a",
+    "company": "Shopify",
+    "role": "Software Engineer Intern",
+    "location": "Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T16:12:12.259642+00:00"
+  },
+  {
+    "apply_url": "https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95",
+    "company": "Shopify",
+    "role": "Data Intern",
+    "location": "Montreal, QC, Canada, Toronto, ON, Canada, NYC, Ottawa, ON, Canada",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T16:12:12.259642+00:00"
+  },
+  {
+    "apply_url": "https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536",
+    "company": "Shopify",
+    "role": "Applied Machine Learning Engineer Intern",
+    "location": "Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T16:12:12.259642+00:00"
+  },
+  {
+    "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
+    "company": "Boston Scientific",
+    "role": "AI Engineer Intern - Generative & Agentic AI",
+    "location": "Marlborough, MA, Maple Grove, MN, Arden Hills, MN",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T16:12:12.259642+00:00"
+  },
+  {
+    "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813862390",
+    "company": "Boston Scientific",
+    "role": "AI Acceleration Intern",
+    "location": "Marlborough, MA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T16:12:12.259642+00:00"
+  },
+  {
+    "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807923",
+    "company": "JP Morgan Chase",
+    "role": "Consumer & Community Banking Intern",
+    "location": "Palo Alto, CA, Columbus, OH, NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T16:12:12.259642+00:00"
   }
 ]
