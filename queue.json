@@ -2598,5 +2598,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T20:42:12.861254+00:00"
+  },
+  {
+    "apply_url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778",
+    "company": "Lumentum",
+    "role": "AI Engineer - Co-op/Intern",
+    "location": "Canada - Ottawa (Bill Leathem)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T21:12:09.137813+00:00"
+  },
+  {
+    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Advanced-Effector-Guidance-Systems-Electrical-Engineer-Intern--Summer-2027-_01870393-1",
+    "company": "RTX",
+    "role": "Advanced Effector Guidance Systems Electrical Engineer Intern (Summer 2027)",
+    "location": "US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T21:12:09.137813+00:00"
+  },
+  {
+    "apply_url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USTXHouston/Civil-Engineer-Intern---Summer-2027_R-171528",
+    "company": "AtkinsR\u00e9alis",
+    "role": "Civil Engineer Intern - Summer 2027",
+    "location": "US.TX.Houston",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T21:12:09.137813+00:00"
   }
 ]
