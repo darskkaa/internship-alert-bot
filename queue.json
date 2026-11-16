@@ -2298,5 +2298,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T16:32:17.871966+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/XMLNAME-2027-Manufacturing-Engineer-Intern----Salt-Lake-City-UT_R10260837",
+    "company": "Northrop Grumman",
+    "role": "2027 Manufacturing Engineer Intern -  Salt Lake City UT",
+    "location": "United States-Utah-Salt Lake City",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T16:42:05.007549+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/Intuitive/744000161861679",
+    "company": "Intuitive Surgical",
+    "role": "Clinical Research Engineering Intern",
+    "location": "Sunnyvale, CA, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T16:42:05.007549+00:00"
   }
 ]
