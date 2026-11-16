@@ -2728,5 +2728,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T23:22:07.992715+00:00"
+  },
+  {
+    "apply_url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Segment-Marketing-Data-Analyst_JR116851",
+    "company": "Micron Technology",
+    "role": "Intern - Segment Marketing Data Analyst",
+    "location": "San Jose, CA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T23:32:05.177852+00:00"
+  },
+  {
+    "apply_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007840",
+    "company": "Stantec",
+    "role": "Electrical Engineering Intern/Co-op - Buildings (Summer 2027)",
+    "location": "Rochester, NY, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T23:32:05.177852+00:00"
   }
 ]
