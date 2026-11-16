@@ -2468,5 +2468,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T19:12:13.864405+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505488009",
+    "company": "Pacific Fusion",
+    "role": "Summer 2027 Materials Science Internship",
+    "location": "San Leandro, CA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T19:42:01.157324+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/Intuitive/744000161896235",
+    "company": "Intuitive Surgical",
+    "role": "Mechanical Engineering Intern",
+    "location": "Blacksburg, VA, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T19:42:01.157324+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009",
+    "company": "Pacific Fusion",
+    "role": "Summer 2027 HPC/DevOps Engineering Intern",
+    "location": "San Leandro, CA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T19:42:01.157324+00:00"
   }
 ]
