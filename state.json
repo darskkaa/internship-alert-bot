@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-16T18:02:17.575708+00:00",
+  "last_checked_utc": "2026-11-16T18:12:10.355552+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6216,6 +6216,7 @@
     "https://flowserve.wd1.myworkdayjobs.com/applied/job/Kalamazoo-Michigan-US/Engineering-Co-op_R-21737",
     "https://flowserve.wd1.myworkdayjobs.com/applied/job/Leduc-Canada/CoOp-Intern_R-21051",
     "https://flowserve.wd1.myworkdayjobs.com/applied/job/Rancho-Dominguez-California-US/CoOp-Intern_R-21348",
+    "https://flowserve.wd1.myworkdayjobs.com/applied/job/Rancho-Dominguez-California-US/Project-Engineer-Co-op_R-21052",
     "https://flowserve.wd1.myworkdayjobs.com/applied/job/West-Chicago-Illinois-US/Rotating-Equipment-Engineer-Co-Op---Operations-Intern_R-21743",
     "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Dublin-Ireland/Fidelity-Center-for-Applied-Technology--FCAT--Innovation-Ecosystem--Europe-Internship_2137228-1",
     "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524",
@@ -22697,6 +22698,7 @@
     "flow traders trading intern",
     "flowserve engineering coop",
     "flowserve engineering coopintern",
+    "flowserve project engineer coop",
     "flowserve rotating equipment engineer coop operations intern",
     "fnbo banking automation engineer intern",
     "fnbo banking product intern",
@@ -32071,6 +32073,7 @@
     "job:workday:flowserve:engineering-co-op_r-21092",
     "job:workday:flowserve:engineering-co-op_r-21737",
     "job:workday:flowserve:engineering-co-op_r-21926",
+    "job:workday:flowserve:project-engineer-co-op_r-21052",
     "job:workday:flowserve:rotating-equipment-engineer-co-op---operations-intern_r-21743",
     "job:workday:fmr:co-op--design-researcher_2127393",
     "job:workday:fmr:co-op--machine-learning_2135960",
