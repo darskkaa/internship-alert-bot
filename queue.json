@@ -2628,5 +2628,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T21:12:09.137813+00:00"
+  },
+  {
+    "apply_url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---People-Analytics_2640527",
+    "company": "LabCorp",
+    "role": "Intern - People Analytics",
+    "location": "Durham NC",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T21:32:13.304051+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3",
+    "company": "Toyota Research Institute",
+    "role": "Robotics Intern, World Models, Multimodal Sensing",
+    "location": "Cambridge, MA",
+    "source": "Lever",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T21:32:13.304051+00:00"
   }
 ]
