@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-16T15:32:13.592046+00:00",
+  "last_checked_utc": "2026-11-16T15:42:15.981776+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12302,6 +12302,7 @@
     "https://jobs.lever.co/tri/11da7518-14d4-4960-a3aa-57dc010f3642",
     "https://jobs.lever.co/tri/16336213-1880-482f-87d0-b15fa4141047",
     "https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd",
+    "https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e",
     "https://jobs.lever.co/tri/33c33641-756d-4cd1-8238-0100af2224b8",
     "https://jobs.lever.co/tri/33c33641-756d-4cd1-8238-0100af2224b8/apply",
     "https://jobs.lever.co/tri/3e69a8d4-6286-4d00-8677-7597e98fdb56",
@@ -27617,6 +27618,7 @@
     "job:lever:2c19d768-3a56-4227-8e54-379c96a00272",
     "job:lever:2ca7b254-5c91-4a4e-9ba8-d05c8604eca2",
     "job:lever:2cbb75f7-a040-47b2-a442-d9cc1faedb11",
+    "job:lever:2d65fd58-00bb-49bc-b4db-e381df1ebd1e",
     "job:lever:2dab53e6-9f06-41fe-a2c9-c9808402c1e7",
     "job:lever:303c50a4-5f32-4d4c-86fc-2baeb9d9a3ac",
     "job:lever:315f695d-04d1-4a9a-848e-cb2bec7a997e",
@@ -44393,6 +44395,7 @@
     "toyota research institute humancentered ai research intern human language models",
     "toyota research institute machine learningagentic ai intern",
     "toyota research institute research intern continual adaptation for robotics",
+    "toyota research institute research intern spatial intelligence for robotics",
     "toyota research institute robotics intern human aware interactions and learning",
     "toyota research institute robotics intern humanmachine interaction research",
     "toyota research institute robotics intern humanrobot interaction",

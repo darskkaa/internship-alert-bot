@@ -2178,5 +2178,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-16T15:32:13.568587+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e",
+    "company": "Toyota Research Institute",
+    "role": "Research Intern, Spatial Intelligence for Robotics",
+    "location": "Cambridge, MA",
+    "source": "Lever",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-16T15:42:15.951556+00:00"
   }
 ]
