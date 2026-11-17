@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278",
-    "company": "AstraZeneca",
-    "role": "Summer 2027 Quantitative Intern PhD",
-    "location": "US - Boston - MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T21:51:45.205114+00:00"
-  },
-  {
-    "apply_url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Compliance-Engineering-Intern_R2906-1",
-    "company": "Sonos",
-    "role": "Compliance Engineering Intern",
-    "location": "Boston, MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T21:51:45.205114+00:00"
-  },
-  {
     "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278-1",
     "company": "Alexion",
     "role": "Summer 2027 Quantitative Intern PhD",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T16:52:10.613404+00:00"
+  },
+  {
+    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F135-Engine-Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01886311",
+    "company": "RTX",
+    "role": "F135 Engine Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite)",
+    "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T17:02:19.122952+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/Intuitive/744000162128885",
+    "company": "Intuitive Surgical",
+    "role": "Clinical Development Engineering Intern",
+    "location": "Sunnyvale, CA, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T17:02:19.122952+00:00"
   }
 ]
