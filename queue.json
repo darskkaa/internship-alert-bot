@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Windsor-CT/XMLNAME-2027-Summer---Grid-Operations-Technology-Intern_R-032516",
-    "company": "Eversource Energy",
-    "role": "2027 Summer:  Grid Operations Technology Intern",
-    "location": "Windsor, CT",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T22:01:53.420449+00:00"
-  },
-  {
     "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589",
     "company": "National Laboratory of the Rockies",
     "role": "Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T17:06:45.597750+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49",
+    "company": "Toyota Research Institute",
+    "role": "Robotics Intern, Agentic Robotics",
+    "location": "Cambridge, MA",
+    "source": "Lever",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T17:32:06.770347+00:00"
   }
 ]
