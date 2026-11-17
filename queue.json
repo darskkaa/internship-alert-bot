@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278-1",
-    "company": "Alexion",
-    "role": "Summer 2027 Quantitative Intern PhD",
-    "location": "US - Boston - MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T21:51:45.205114+00:00"
-  },
-  {
-    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Research-and-Development-Intern---Summer-2027_REQ-15868",
-    "company": "Entegris",
-    "role": "Research and Development Intern - Summer 2027",
-    "location": "San Luis Obispo, CA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T22:01:53.420449+00:00"
-  },
-  {
     "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Windsor-CT/XMLNAME-2027-Summer---Grid-Operations-Technology-Intern_R-032516",
     "company": "Eversource Energy",
     "role": "2027 Summer:  Grid Operations Technology Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T17:02:19.122952+00:00"
+  },
+  {
+    "apply_url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Summer-Intern--Client-Services--Equity-Analytics-Products_332606-1",
+    "company": "S&P Global",
+    "role": "Summer Intern, Client Services, Equity Analytics Products",
+    "location": "New York, NY",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T17:06:45.597750+00:00"
+  },
+  {
+    "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008",
+    "company": "Lightmatter",
+    "role": "Product & Test Engineering, Intern Summer 2027",
+    "location": "Mountain View, CA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T17:06:45.597750+00:00"
   }
 ]
