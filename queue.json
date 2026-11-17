@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30/apply",
-    "company": "Shield AI",
-    "role": "Human Machine Teaming Intern",
-    "location": "Washington, DC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T11:11:44.873227+00:00"
-  },
-  {
-    "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Software-Engineering-Intern_R1004749",
-    "company": "Capital One",
-    "role": "Software Engineering Intern",
-    "location": "Bangalore, In",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T11:31:38.010411+00:00"
-  },
-  {
     "apply_url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Torrance-CA/Intern---Assay-Development---Validation_2640398",
     "company": "LabCorp",
     "role": "Intern - Assay Development & Validation",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T23:52:09.901994+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2027-Summer-Intern---Logistics-Engineering_202611-128366",
+    "company": "Roche",
+    "role": "2027 Summer Intern - Logistics Engineering",
+    "location": "Indianapolis",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T23:53:34.991434+00:00"
+  },
+  {
+    "apply_url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775",
+    "company": "Amentum",
+    "role": "Software Programmer Intern",
+    "location": "US-TN-Tullahoma",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T23:53:34.991434+00:00"
   }
 ]
