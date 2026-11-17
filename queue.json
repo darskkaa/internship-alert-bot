@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Research---Development-Intern---Summer-2027_REQ-15859",
-    "company": "Entegris",
-    "role": "Research & Development Intern - Summer 2027",
-    "location": "San Luis Obispo, CA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T22:31:44.054866+00:00"
-  },
-  {
     "apply_url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2027_REQ-1000052481",
     "company": "Stanley Black & Decker",
     "role": "Intern, Data Analyst & BI, Summer 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T17:52:03.996973+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c",
+    "company": "Exowatt",
+    "role": "Robotics & Physical AI Spring Intern (Miami)",
+    "location": "Miami, FL",
+    "source": "Lever",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T18:12:12.830224+00:00"
   }
 ]
