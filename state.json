@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-17T21:42:00.874213+00:00",
+  "last_checked_utc": "2026-11-17T22:02:28.128773+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2118,6 +2118,7 @@
     "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
     "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Erie-ERPA-PA/Tooling-Design-Engineering-Intern--Summer-2027-_REQ_97446",
     "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Lawrence-KS/Product-Development-Engineering-Intern_REQ_95108",
+    "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Lawrence-KS/Product-Development-Engineering-Intern_REQ_98748-1",
     "https://ameren.wd1.myworkdayjobs.com/External/job/Collinsville-IL/Engineering-Project-Management-Spring-Co-Op_034450-1",
     "https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Crisis-Management-Data---Analytics-Intern_033895-1",
     "https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Crisis-Management-Meteorology-Intern_033896-2",
@@ -30332,6 +30333,7 @@
     "job:workday:amcor:mpi-engineering-co-op_req_95253",
     "job:workday:amcor:process-engineering-co-op_req_95254",
     "job:workday:amcor:product-development-engineering-intern_req_95108",
+    "job:workday:amcor:product-development-engineering-intern_req_98748-1",
     "job:workday:amcor:tooling-design-engineering-intern--summer-2027-_req_97446",
     "job:workday:ameren:civil-engineering-fall-co-op_034021-1",
     "job:workday:ameren:civil-engineering-spring-co-op_034024-1",
