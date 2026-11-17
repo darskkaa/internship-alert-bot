@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
-    "company": "Zoox",
-    "role": "Data Scientist Intern [Summer 2027]",
-    "location": "Foster City, CA",
-    "source": "Lever",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T00:11:35.736514+00:00"
-  },
-  {
-    "apply_url": "https://www.octant.bio/jobs?gh_jid=6260895004",
-    "company": "Octant Bio",
-    "role": "Software Engineering Intern",
-    "location": "Emeryville, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T00:11:35.736514+00:00"
-  },
-  {
     "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Summer-2027-Automation-Technician-Intern_R-264285",
     "company": "AstraZeneca",
     "role": "Summer 2027 Automation Technician Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T21:42:00.841193+00:00"
+  },
+  {
+    "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Small-Business-Banking-Offers---Intern---Co-Op_R_1522533-1",
+    "company": "TD Bank",
+    "role": "Risk Management - Small Business Banking Offers - Intern / Co-Op",
+    "location": "Toronto, Ontario",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T22:12:21.015618+00:00"
+  },
+  {
+    "apply_url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/LosAltos_CA/PhD-Research-Intern--AI-Lab_REQ26-1172",
+    "company": "Interdigital",
+    "role": "PhD Research Intern, AI Lab",
+    "location": "LosAltos_CA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T22:12:21.015618+00:00"
   }
 ]
