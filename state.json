@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-17T16:42:13.959470+00:00",
+  "last_checked_utc": "2026-11-17T16:52:10.643163+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9012,6 +9012,7 @@
     "https://jci.wd5.myworkdayjobs.com/JCI/job/Rocky-Hill-Connecticut-United-States-of-America/Best-Sales-Intern---Fire-Systems_WD30285034",
     "https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1",
     "https://jci.wd5.myworkdayjobs.com/JCI/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046",
+    "https://jci.wd5.myworkdayjobs.com/JCI/job/Waynesboro-Pennsylvania-United-States-of-America/Mechanical-Engineering-Intern---Compressor-Team_WD30285226",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Asset-Management-Co-Op_R-101720",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Asset-Management-Engineer-Co-Op_R-078283",
     "https://jj.wd5.myworkdayjobs.com/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Manufacturing-Engineering-Co-Op_R-102845",
@@ -34387,6 +34388,7 @@
     "job:workday:jci:hvac-controls-systems-intern_wd30282521-1",
     "job:workday:jci:manufacturing-engineering-co-op_eb00075406",
     "job:workday:jci:mechanical-engineering-co-op_eb00075405",
+    "job:workday:jci:mechanical-engineering-intern---compressor-team_wd30285226",
     "job:workday:jci:process-engineering-co-op_eb00075409",
     "job:workday:jci:production-engineering-co-op_eb00075404",
     "job:workday:jci:software-controls-engineering-grad-intern_wd30278205-1",
@@ -38255,6 +38257,7 @@
     "johnson controls hvac controls systems intern",
     "johnson controls manufacturing engineering coop",
     "johnson controls mechanical engineering coop",
+    "johnson controls mechanical engineering intern compressor team",
     "johnson controls process engineering coop",
     "johnson controls production engineering coop",
     "johnson controls software engineering coop",
