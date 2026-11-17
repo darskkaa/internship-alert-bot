@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926",
-    "company": "PTC",
-    "role": "Onshape Site Reliability Engineering Intern (Summer 2027)",
-    "location": "Boston, MA, USA",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T20:21:45.609185+00:00"
-  },
-  {
     "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer-Grid-Ops-Technology-Intern--NH-_R-032518",
     "company": "Eversource Energy",
     "role": "2027 Summer Grid Ops Technology Intern (NH)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T08:32:04.045640+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/syntax/75c16db8-4cfd-4d7c-98b0-c9153e2034fe/apply",
+    "company": "Syntax",
+    "role": "Index Analyst Intern",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T10:12:01.226487+00:00"
   }
 ]
