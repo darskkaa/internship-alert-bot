@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-17T14:52:09.581503+00:00",
+  "last_checked_utc": "2026-11-17T15:12:11.264945+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16586,6 +16586,7 @@
     "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964",
     "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Electrical-Engineering_R92957",
     "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952",
+    "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Optics-and-Optical-Engineering-R-D_R93286",
     "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Systems-Engineering_R92955-1",
     "https://smithnephew.wd5.myworkdayjobs.com/External/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958",
     "https://smithnephew.wd5.myworkdayjobs.com/External/job/POL---Wroclaw/IT-Service-Desk-Level-1-Intern_R91046",
@@ -37155,6 +37156,7 @@
     "job:workday:smithnephew:intern-embedded-software-engineering_r92952",
     "job:workday:smithnephew:intern-mechanical-engineering_r92508",
     "job:workday:smithnephew:intern-mechanical-engineering_r92958",
+    "job:workday:smithnephew:intern-optics-and-optical-engineering-r-d_r93286",
     "job:workday:smithnephew:intern-robotics-software-engineering_r92482",
     "job:workday:smithnephew:intern-system-verification_r92481",
     "job:workday:smithnephew:intern-systems-engineering_r92955-1",
@@ -43388,6 +43390,7 @@
     "smithnephew intern electrical engineering",
     "smithnephew intern embedded software engineering",
     "smithnephew intern mechanical engineering",
+    "smithnephew intern optics and optical engineering rd",
     "smithnephew intern robotics software engineering",
     "smithnephew intern system verification",
     "smithnephew intern systems engineering",

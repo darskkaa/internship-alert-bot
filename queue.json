@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Aeronautical-Engineering-Intern---Sunnyvale-CA_R10260488",
-    "company": "Northrop Grumman",
-    "role": "2027 Aeronautical Engineering Intern - Sunnyvale CA",
-    "location": "United States-California-Sunnyvale",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T21:21:32.066909+00:00"
-  },
-  {
     "apply_url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Electrical-Engineering-Intern---Automation_2026-22932",
     "company": "Schweitzer Engineering Laboratories",
     "role": "Electrical Engineering Intern - Automation",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T14:42:13.773691+00:00"
+  },
+  {
+    "apply_url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Optics-and-Optical-Engineering-R-D_R93286",
+    "company": "Smith+Nephew",
+    "role": "Intern Optics and Optical Engineering R&D",
+    "location": "Andover, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T15:12:11.232330+00:00"
   }
 ]
