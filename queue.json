@@ -2958,5 +2958,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T01:02:03.917865+00:00"
+  },
+  {
+    "apply_url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771",
+    "company": "Lumentum",
+    "role": "Internship - Data Science & Analytics",
+    "location": "USA - CA - San Jose (Ridder)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T01:22:01.675837+00:00"
+  },
+  {
+    "apply_url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Columbus-Ohio/XMLNAME-2027-Technology-Internship-Program---Cybersecurity--Columbus--OH-_R-10407190",
+    "company": "Fiserv",
+    "role": "2027 Technology Internship Program - Cybersecurity (Columbus, OH)",
+    "location": "Columbus, Ohio",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T01:22:01.675837+00:00"
+  },
+  {
+    "apply_url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/XMLNAME-2027-Technology-Internship-Program---Cybersecurity--Berkeley-Heights--NJ-_R-10407189",
+    "company": "Fiserv",
+    "role": "2027 Technology Internship Program - Cybersecurity (Berkeley Heights, NJ)",
+    "location": "Berkeley Heights, New Jersey",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T01:22:01.675837+00:00"
   }
 ]
