@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-17T19:12:06.235585+00:00",
+  "last_checked_utc": "2026-11-17T19:22:11.975004+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3107,6 +3107,7 @@
     "https://boards.greenhouse.io/andurilindustries/jobs/5271672007",
     "https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007",
     "https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007",
+    "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
     "https://boards.greenhouse.io/andurilindustries/jobs/5278662007?gh_jid=5278662007",
     "https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007",
     "https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007",
@@ -19305,6 +19306,7 @@
     "anduril 2027 industrial engineer intern",
     "anduril 2027 library science intern",
     "anduril 2027 low observables engineer intern",
+    "anduril 2027 machine learning engineer intern",
     "anduril 2027 manufacturing engineer intern",
     "anduril 2027 manufacturing optimization engineer intern",
     "anduril 2027 mechanical engineer intern",
@@ -26321,6 +26323,7 @@
     "job:greenhouse:5271672007",
     "job:greenhouse:5272567007",
     "job:greenhouse:5273039007",
+    "job:greenhouse:5274037007",
     "job:greenhouse:5274361007",
     "job:greenhouse:5274887007",
     "job:greenhouse:5274970007",
