@@ -1,95 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true",
-    "company": "Shield AI",
-    "role": "Hardware Test Engineering Co-op",
-    "location": "Dallas, TX",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T02:41:35.678739+00:00"
-  },
-  {
-    "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5474812008",
-    "company": "Lightmatter",
-    "role": "Quality & Reliability Intern",
-    "location": "Mountain View, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T03:11:38.457782+00:00"
-  },
-  {
-    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091",
-    "company": "State Street",
-    "role": "Cyber Security Operations Center Analyst, Full-time Internship (Jan - June 2027)",
-    "location": "Quincy, Massachusetts",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T06:41:43.836538+00:00"
-  },
-  {
-    "apply_url": "https://www.tesla.com/careers/search/job/289796",
-    "company": "Tesla",
-    "role": "Software Engineer Intern - Energy Engineering",
-    "location": "Palo Alto, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T07:41:43.930198+00:00"
-  },
-  {
-    "apply_url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true",
-    "company": "Aurora Innovation",
-    "role": "Software Engineer Intern - Vehicle Platforms",
-    "location": "Mountain View, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T08:11:40.530713+00:00"
-  },
-  {
-    "apply_url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819",
-    "company": "The Toro Company",
-    "role": "CX and Customer Lifetime Value Intern - Operations Analyst",
-    "location": "Bloomington, MN",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T08:11:40.530713+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003",
-    "company": "Samsung",
-    "role": "Intern, Compiler Engineer",
-    "location": "San Jose, California, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T08:11:40.530713+00:00"
-  },
-  {
-    "apply_url": "https://lifeattiktok.com/search/7703925583541979445",
-    "company": "TikTok",
-    "role": "Machine Learning Scientist Intern - Local Services",
-    "location": "San Jose, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T08:11:40.530713+00:00"
-  },
-  {
-    "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Network-and-Storage-Systems-Intern---Mission-Critical-Data-Integration_JR10457486",
-    "company": "Airbus",
-    "role": "#Discover I 2027-2028 Network and Storage Systems Intern \u2013 Mission-Critical Data Integration",
-    "location": "Getafe",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T08:51:34.853570+00:00"
-  },
-  {
     "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028--Internship-Cockpit-Design-and-Human-Factors-Engineering_JR10456364",
     "company": "Airbus",
     "role": "#Discover I 2027-2028  Internship Cockpit Design and Human Factors Engineering",
@@ -2998,5 +2908,95 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T23:22:12.141640+00:00"
+  },
+  {
+    "apply_url": "https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false",
+    "company": "SAS",
+    "role": "IoT Analytics Intern",
+    "location": "Cary, NC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T23:42:07.347528+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?embed=true",
+    "company": "Basis Research Institute",
+    "role": "Research Intern",
+    "location": "Cambridge, MA, NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T23:42:07.347528+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Translational-Safety--Complex-In-Vitro-Systems-_202611-129214",
+    "company": "Genentech",
+    "role": "2027 Summer Intern - Translational Safety (Complex In Vitro Systems)",
+    "location": "South San Francisco",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T23:42:07.347528+00:00"
+  },
+  {
+    "apply_url": "https://careers.publicisgroupe.com/jobs/182963?icims=1&lang=en-us",
+    "company": "Publicis Groupe",
+    "role": "PhD Data Visualization Intern",
+    "location": "Boston, MA, Chicago, IL, Westminster, CO, Irving, TX, Atlanta, GA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T23:42:07.347528+00:00"
+  },
+  {
+    "apply_url": "https://careers.publicisgroupe.com/jobs/182898?icims=1&lang=en-us",
+    "company": "Publicis Groupe",
+    "role": "PhD Data Science Intern",
+    "location": "Boston, MA, Chicago, IL, Westminster, CO, Irving, TX, Atlanta, GA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T23:42:07.347528+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/attainpartners/jobs/5485427008",
+    "company": "Attain Partners",
+    "role": "Data Analytics Intern",
+    "location": "McLean, VA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T23:42:07.347528+00:00"
+  },
+  {
+    "apply_url": "https://jobs.jobvite.com/nychdc/job/o8D0Afw5?nl=1&nl=1&fr=false",
+    "company": "New York City Housing Development Corporation",
+    "role": "Strategic Operations Graduate Intern",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T23:42:07.347528+00:00"
+  },
+  {
+    "apply_url": "https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a",
+    "company": "Raptor Maps",
+    "role": "Software Engineer Intern",
+    "location": "Somerville, MA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T23:42:07.347528+00:00"
+  },
+  {
+    "apply_url": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164",
+    "company": "APEX Analytix",
+    "role": "Product Management Intern - DevOps",
+    "location": "Greensboro, NC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T23:42:07.347528+00:00"
   }
 ]
