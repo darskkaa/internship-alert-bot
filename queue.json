@@ -2928,5 +2928,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T00:12:13.897594+00:00"
+  },
+  {
+    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Research-Scientist-Intern---Summer-2027_REQ-15836",
+    "company": "Entegris",
+    "role": "Research Scientist Intern - Summer 2027",
+    "location": "Aurora, IL",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T01:02:03.917865+00:00"
+  },
+  {
+    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Manufacturing-Engineer-Intern---Summer-2027_REQ-15879",
+    "company": "Entegris",
+    "role": "Manufacturing Engineer Intern - Summer 2027",
+    "location": "Aurora, IL",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T01:02:03.917865+00:00"
+  },
+  {
+    "apply_url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Firmware-Intern_2642154-1",
+    "company": "KLA Corporation",
+    "role": "Firmware Intern",
+    "location": "Milpitas, CA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T01:02:03.917865+00:00"
   }
 ]
