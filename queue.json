@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Overland-Park-OPX/Trade-Desk-Intern_R-4659",
-    "company": "Cboe",
-    "role": "DevOps Intern",
-    "location": "Overland Park OPX",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T20:51:51.173595+00:00"
-  },
-  {
     "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/IT-Programmer-Analyst-Spring-Co-Op_J2471333",
     "company": "Jabil",
     "role": "IT Programmer Analyst Spring Co-Op",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T10:42:42.201685+00:00"
+  },
+  {
+    "apply_url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607348",
+    "company": "WTW",
+    "role": "Early Careers: Corporate Risk and Broking (CRB)- Internship - Facultative Reinsurance Placement - New York - 2027",
+    "location": "New York, NY, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T13:32:01.682356+00:00"
   }
 ]
