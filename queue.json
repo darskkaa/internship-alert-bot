@@ -1,55 +1,5 @@
 [
   {
-    "apply_url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2027_REQ-1000052481",
-    "company": "Stanley Black & Decker",
-    "role": "Intern, Data Analyst & BI, Summer 2027",
-    "location": "Towson, MD, United States",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T22:31:44.054866+00:00"
-  },
-  {
-    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Summer-2027-Innovation-and-AI-Transformation-Intern_R-264282-1",
-    "company": "AstraZeneca",
-    "role": "Summer 2027 Innovation and AI Transformation Intern",
-    "location": "US - Boston - MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T22:31:44.054866+00:00"
-  },
-  {
-    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Innovation-and-AI-Transformation-Intern_R-264282",
-    "company": "Alexion",
-    "role": "Summer 2027 Innovation and AI Transformation Intern",
-    "location": "US - Boston - MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T22:31:44.054866+00:00"
-  },
-  {
-    "apply_url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Intern--Prototyping---Summer-2027_REQ-1000052890",
-    "company": "Stanley Black & Decker",
-    "role": "Engineering Intern, Prototyping - Summer 2027",
-    "location": "Towson, MD, United States",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T22:41:45.383879+00:00"
-  },
-  {
-    "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008",
-    "company": "Lightmatter",
-    "role": "Data & AI Platform, Intern - Summer 2027",
-    "location": "Boston, MA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T22:41:45.383879+00:00"
-  },
-  {
     "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
     "company": "Leidos",
     "role": "Junior Software Engineer / Data Scientist Intern",
@@ -2998,5 +2948,55 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T18:12:12.830224+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Human-Factors-Engineering_R10261097",
+    "company": "Northrop Grumman",
+    "role": "2027 Intern - Human Factors Engineering",
+    "location": "United States-Florida-Melbourne",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T18:22:03.110578+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Industrial-Engineer-Intern---Apopka-FL_R10261054",
+    "company": "Northrop Grumman",
+    "role": "2027 Industrial Engineer Intern - Apopka FL",
+    "location": "United States-Florida-Apopka",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T18:22:03.110578+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Manufacturing-Engineer-Intern---Baltimore-MD_R10261045",
+    "company": "Northrop Grumman",
+    "role": "2027 Manufacturing Engineer Intern - Baltimore MD",
+    "location": "United States-Maryland-Baltimore",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T18:22:03.110578+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Environmental-Health-and-Safety-Engineer-Intern---Sunnyvale-CA_R10261033",
+    "company": "Northrop Grumman",
+    "role": "2027 Environmental Health and Safety Engineer Intern - Sunnyvale CA",
+    "location": "United States-California-Sunnyvale",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T18:22:03.110578+00:00"
+  },
+  {
+    "apply_url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/PMB-Hardware-Engineering-Intern_R26-8346-2",
+    "company": "Rockwell Automation",
+    "role": "PMB Hardware Engineering Intern",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T18:22:03.110578+00:00"
   }
 ]
