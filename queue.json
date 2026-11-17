@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212",
-    "company": "T-Mobile",
-    "role": "Data Product Intern",
-    "location": "Bellevue, WA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T23:41:42.167709+00:00"
-  },
-  {
     "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Reading/Intelligence-Launch-Intern---Summer-2027_R30500",
     "company": "CrowdStrike",
     "role": "Intelligence Launch Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T19:42:11.667500+00:00"
+  },
+  {
+    "apply_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705761",
+    "company": "Walmart",
+    "role": "Summer 2027 Corporate Intern: Platform Stability & Defect Prevention \u2013 Last Mile Delivery",
+    "location": "(USA) Together Building AR Bentonville Home Office",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T20:22:08.659846+00:00"
   }
 ]
