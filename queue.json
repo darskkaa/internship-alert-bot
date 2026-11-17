@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158",
-    "company": "American Electric Power",
-    "role": "Cybersecurity Intern - Summer 2027",
-    "location": "Columbus, OH",
-    "source": "Zshah",
-    "sponsorship_flag": true,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T01:31:48.686989+00:00"
-  },
-  {
     "apply_url": "https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f",
     "company": "Zoox",
     "role": "Systems & Safety Engineering Intern [Summer 2027]",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T22:22:01.682502+00:00"
+  },
+  {
+    "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Cybersecurity-Intern---Summer-2027_335105",
+    "company": "CACI",
+    "role": "Cybersecurity Intern - Summer 2027",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T22:31:59.443556+00:00"
   }
 ]
