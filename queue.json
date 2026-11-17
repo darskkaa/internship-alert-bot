@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--Investigator-Site-Budgets---Contracts-and-Data-Integration---Reporting_R20170",
-    "company": "Moderna",
-    "role": "2027 Co-Op, Investigator Site Budgets & Contracts and Data Integration & Reporting",
-    "location": "N/A",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T21:02:02.836440+00:00"
-  },
-  {
     "apply_url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302635",
     "company": "Dell Technologies",
     "role": "User Experience (UX) Research Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T13:42:19.094391+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/evr/5e2bb870-428b-4c25-9caa-2c96068428f0",
+    "company": "Elk Valley Resources",
+    "role": "January 2027 Mining and Geology Systems Co-op",
+    "location": "Calgary, AB",
+    "source": "Lever",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T13:52:14.306455+00:00"
   }
 ]
