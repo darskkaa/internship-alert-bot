@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
-    "company": "Leidos",
-    "role": "Junior Software Engineer / Data Scientist Intern",
-    "location": "Tucson, AZ",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T22:51:39.937683+00:00"
-  },
-  {
-    "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hooksett-NH/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Hooksett--NH-Hybrid-Schedule-_R-032404",
-    "company": "Eversource Energy",
-    "role": "2027 Summer: Distribution Engineering Intern (Hooksett, NH-Hybrid Schedule)",
-    "location": "Hooksett, NH",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T22:51:39.937683+00:00"
-  },
-  {
     "apply_url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/NPI-Engineering-Development-Intern_JR-25334",
     "company": "Bloom Energy",
     "role": "NPI Engineering Development Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T18:22:03.110578+00:00"
+  },
+  {
+    "apply_url": "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Houston---Greenspoint-TX/Purchasing-Data-Validation-Intern_JR0049274",
+    "company": "ALFA LAVAL",
+    "role": "Purchasing Data Validation Intern",
+    "location": "Houston - Greenspoint, TX",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T18:32:26.901682+00:00"
+  },
+  {
+    "apply_url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/High-Point-NC-US/Mechanical-Design-Engineering-Intern_DT-20712",
+    "company": "Daimler Truck",
+    "role": "Mechanical Design Engineering Intern",
+    "location": "High Point, NC US",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T18:32:26.901682+00:00"
   }
 ]
