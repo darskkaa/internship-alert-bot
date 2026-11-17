@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222",
-    "company": "Capital Power",
-    "role": "Summer Student Intern - Data Analytics",
-    "location": "Calgary, AB, Canada",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T23:41:42.167709+00:00"
-  },
-  {
     "apply_url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212",
     "company": "T-Mobile",
     "role": "Data Product Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T19:32:12.652241+00:00"
+  },
+  {
+    "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Dorchester--MA-Hybrid-Schedule-_R-032415",
+    "company": "Eversource Energy",
+    "role": "2027 Summer: Distribution Engineering Intern (Dorchester, MA-Hybrid Schedule)",
+    "location": "Dorchester, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T19:42:11.667500+00:00"
   }
 ]

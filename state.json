@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-17T19:32:12.683372+00:00",
+  "last_checked_utc": "2026-11-17T19:42:11.695544+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5858,6 +5858,7 @@
     "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11648",
     "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649",
     "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11816",
+    "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Dorchester--MA-Hybrid-Schedule-_R-032415",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--Electric-Operations-Intern--MA-_R-032507",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--GIS-Intern--MA-_R-032519",
     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/East-Springfield-MA/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Springfield--MA-Hybrid-Schedule-_R-032401",
@@ -22529,6 +22530,7 @@
     "eversource energy 2027 coop substation design engineering",
     "eversource energy 2027 gas project engineering coop",
     "eversource energy 2027 gas systems engineering coop",
+    "eversource energy 2027 summer distribution engineering intern dorchester mahybrid schedule",
     "eversource energy 2027 summer distribution engineering intern hooksett nhhybrid schedule",
     "eversource energy 2027 summer distribution engineering intern hybrid schedule",
     "eversource energy 2027 summer distribution engineering intern springfield mahybrid schedule",
@@ -32206,6 +32208,7 @@
     "job:workday:eversource:xmlname-2027-gas-project-engineering-co-op_r-032515",
     "job:workday:eversource:xmlname-2027-gas-systems-engineering-co-op_r-032513",
     "job:workday:eversource:xmlname-2027-summer---grid-operations-technology-intern_r-032516",
+    "job:workday:eversource:xmlname-2027-summer--distribution-engineering-intern--dorchester--ma-hybrid-schedule-_r-032415",
     "job:workday:eversource:xmlname-2027-summer--distribution-engineering-intern--hooksett--nh-hybrid-schedule-_r-032404",
     "job:workday:eversource:xmlname-2027-summer--distribution-engineering-intern--hybrid-schedule-_r-032402",
     "job:workday:eversource:xmlname-2027-summer--distribution-engineering-intern--springfield--ma-hybrid-schedule-_r-032401",
