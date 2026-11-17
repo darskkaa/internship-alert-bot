@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca",
-    "company": "Shield AI",
-    "role": "2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
-    "location": "San Diego, California",
-    "source": "Lever",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T21:21:32.066909+00:00"
-  },
-  {
     "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Mechanical-Engineering-Intern---Summer-2027_REQ-15866",
     "company": "Entegris",
     "role": "Mechanical Engineering Intern - Summer 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T15:32:04.046771+00:00"
+  },
+  {
+    "apply_url": "https://careers-sas.icims.com/jobs/42755/job?mobile=true&needsRedirect=false",
+    "company": "SAS",
+    "role": "Econometrics Intern",
+    "location": "Cary, NC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T15:42:19.373847+00:00"
   }
 ]
