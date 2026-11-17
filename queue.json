@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Security-Co-op_RQ4086284",
-    "company": "Mass General Brigham",
-    "role": "Security Co-op",
-    "location": "Boston-MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T19:02:30.667038+00:00"
-  },
-  {
     "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Engineering-Technician---4---Electrical-Ground-Support-Equipment_R10260399",
     "company": "Northrop Grumman",
     "role": "SkillBridge Internship Opportunity - Seeking Enlisted-Active Military Applicants - Engineering Technician \u2013 4",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T03:12:09.201568+00:00"
+  },
+  {
+    "apply_url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---IT-Portfolio-Analyst-Intern_R-0000034092",
+    "company": "The Federal Reserve System",
+    "role": "2027 Summer Internship Program - IT Portfolio Analyst Intern",
+    "location": "Atlanta, GA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T04:42:00.037896+00:00"
   }
 ]
