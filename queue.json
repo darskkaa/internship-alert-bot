@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Electrical-Engineering-Intern---Automation_2026-22932",
-    "company": "Schweitzer Engineering Laboratories",
-    "role": "Electrical Engineering Intern - Automation",
-    "location": "Idaho - Boise",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T21:21:32.066909+00:00"
-  },
-  {
     "apply_url": "https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca",
     "company": "Shield AI",
     "role": "2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T15:12:11.232330+00:00"
+  },
+  {
+    "apply_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45986",
+    "company": "Arcadis",
+    "role": "Control, Automation & Energy Systems Engineering Intern",
+    "location": "Los Angeles, CA, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T15:32:04.046771+00:00"
   }
 ]

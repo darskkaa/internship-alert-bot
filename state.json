@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-17T15:12:11.264945+00:00",
+  "last_checked_utc": "2026-11-17T15:32:04.076251+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5090,6 +5090,7 @@
     "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45422",
     "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45542",
     "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45632",
+    "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45986",
     "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/252684",
     "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/252714",
     "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253136",
@@ -19470,6 +19471,7 @@
     "arc electrical hardware engineering intern",
     "arc software engineer intern",
     "arc software engineering intern",
+    "arcadis control automation energy systems engineering intern",
     "arcadis electrical engineer intern",
     "arcadis electrical engineering intern coop",
     "arcadis environmental engineer intern",
@@ -28164,6 +28166,7 @@
     "job:oracle:ebcs.fa.em2.oraclecloud.com:45422",
     "job:oracle:ebcs.fa.em2.oraclecloud.com:45542",
     "job:oracle:ebcs.fa.em2.oraclecloud.com:45632",
+    "job:oracle:ebcs.fa.em2.oraclecloud.com:45986",
     "job:oracle:ebgj.fa.us2.oraclecloud.com:252684",
     "job:oracle:ebgj.fa.us2.oraclecloud.com:252714",
     "job:oracle:ebgj.fa.us2.oraclecloud.com:253136",
