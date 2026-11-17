@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1",
-    "company": "Capital Power",
-    "role": "Student Intern - Data Science",
-    "location": "Edmonton, AB, Canada",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T23:41:42.167709+00:00"
-  },
-  {
     "apply_url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222",
     "company": "Capital Power",
     "role": "Summer Student Intern - Data Analytics",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T19:22:11.949917+00:00"
+  },
+  {
+    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Mechanical-Engineering-Intern--Onsite-_01889909",
+    "company": "RTX",
+    "role": "Mechanical Engineering Intern (Onsite)",
+    "location": "US-AL-HUNTSVILLE-315 ~ 315 Bob Heath Dr ~ BOB HEATH",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T19:32:12.652241+00:00"
   }
 ]

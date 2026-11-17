@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-17T19:22:11.975004+00:00",
+  "last_checked_utc": "2026-11-17T19:32:12.683372+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7219,6 +7219,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Gestion-des-Programmes-Moteurs---Introduction-de-Nouveau-produit----Internship---Operations-Program-Management---New-Product-Introduction_01887628",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Manufacturing-Engineer-Intern---1st-shift---On-site---Aeroestructuras_01872645",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---Engineering_01873565-1",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Mechanical-Engineering-Intern--Onsite-_01889909",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Power-Electrical-Engineer-Intern--Summer-2027----Onsite_01880823",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/TCMA-Systems-Engineering-Intern---Summer-2027-Onsite_01867372",
@@ -33230,6 +33231,7 @@
     "job:workday:globalhr:mechanical-engineer-intern--summer-2027-_01885537",
     "job:workday:globalhr:mechanical-engineering-intern---test-equipment_01881638",
     "job:workday:globalhr:mechanical-engineering-intern---test-solutions_01883602",
+    "job:workday:globalhr:mechanical-engineering-intern--onsite-_01889909",
     "job:workday:globalhr:mechanical-engineering-intern--summer-2027-_01873571",
     "job:workday:globalhr:mechanical-engineering-intern--summer-2027-_01876588",
     "job:workday:globalhr:mechanical-engineering-intern--summer-2027-_01880524",
@@ -42711,6 +42713,7 @@
     "rtx mechanical engineer intern summer 2027",
     "rtx mechanical engineer intern test equipment",
     "rtx mechanical engineer intern test solutions",
+    "rtx mechanical engineering intern onsite",
     "rtx mechanical engineering intern summer 2027",
     "rtx mechanical engineering intern test equipment",
     "rtx mechanical engineering intern test solutions",
