@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752",
-    "company": "Environmental Defense Fund",
-    "role": "Consumer Energy Analytics Intern",
-    "location": "Remote in USA, St. Petersburg, FL",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T00:11:35.736514+00:00"
-  },
-  {
     "apply_url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Technology-Internship--Summer-2027-_20189610-1",
     "company": "Cardinal Health",
     "role": "Technology Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T20:52:01.935896+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862",
+    "company": "Lean TECHniques",
+    "role": "Software Intern - Hybrid",
+    "location": "Hybrid",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T21:12:07.920711+00:00"
   }
 ]
