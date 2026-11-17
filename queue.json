@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monument-CO/Manufacturing-Engineering-Intern---Medical-Device-Manufacturing_J2469027",
-    "company": "Jabil",
-    "role": "Manufacturing Engineering Intern - Medical Device Manufacturing",
-    "location": "Monument, CO",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T20:11:52.225438+00:00"
-  },
-  {
-    "apply_url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--IS-Infrastructure_JR023723",
-    "company": "Martin Marietta",
-    "role": "Intern, IS Infrastructure (Summer 2027)",
-    "location": "Raleigh, NC",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T20:21:45.609185+00:00"
-  },
-  {
     "apply_url": "https://apply.workable.com/bask-health-1/j/F0E122E877/",
     "company": "Bask Health",
     "role": "AI Engineering Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T05:42:12.151521+00:00"
+  },
+  {
+    "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/RAN-System-Performance-Intern_R122138",
+    "company": "Samsung",
+    "role": "RAN System Performance Intern",
+    "location": "6555 Excellence Way, Plano, TX, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T06:52:00.632830+00:00"
+  },
+  {
+    "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020",
+    "company": "Samsung",
+    "role": "Technical Product Management Intern ( D2C Shopping Experiences (Mobile & Consumer Electronics)",
+    "location": "645 Clyde Avenue, Mountain View, CA, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T06:52:00.632830+00:00"
   }
 ]
