@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/NPI-Engineering-Development-Intern_JR-25334",
-    "company": "Bloom Energy",
-    "role": "NPI Engineering Development Intern",
-    "location": "San Jose, California",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T23:01:39.099446+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/muonspace/jobs/5294028007",
     "company": "Muon Space",
     "role": "Security Engineering Intern (Summer 2027)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T18:32:26.901682+00:00"
+  },
+  {
+    "apply_url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Skawina/R-D-Simulation-Engeenering-Intern---FEM-FEA--M-F-D-_REQ2026082440",
+    "company": "Valeo",
+    "role": "R&D Simulation Engeenering Intern - FEM/FEA (M/F/D)",
+    "location": "Skawina",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T18:52:19.022454+00:00"
   }
 ]
