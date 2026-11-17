@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/IT-Programmer-Analyst-Spring-Co-Op_J2471333",
-    "company": "Jabil",
-    "role": "IT Programmer Analyst Spring Co-Op",
-    "location": "Florence, KY",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T21:02:02.836440+00:00"
-  },
-  {
     "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--Investigator-Site-Budgets---Contracts-and-Data-Integration---Reporting_R20170",
     "company": "Moderna",
     "role": "2027 Co-Op, Investigator Site Budgets & Contracts and Data Integration & Reporting",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T13:32:01.682356+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254",
+    "company": "Robert Bosch Venture Capital",
+    "role": "AI Application Intern (8 months/40 hours per week)",
+    "location": "Farmington Hills, MI, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T13:42:19.094391+00:00"
   }
 ]
