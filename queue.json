@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Engineering-Technician---4---Electrical-Ground-Support-Equipment_R10260399",
-    "company": "Northrop Grumman",
-    "role": "SkillBridge Internship Opportunity - Seeking Enlisted-Active Military Applicants - Engineering Technician \u2013 4",
-    "location": "United States-Arizona-Chandler",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T19:51:43.658827+00:00"
-  },
-  {
-    "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147",
-    "company": "CACI",
-    "role": "Embedded Software Development Intern - Summer 2027",
-    "location": "Denver, CO, US",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T19:51:43.658827+00:00"
-  },
-  {
-    "apply_url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NC-Raleigh/Professional-Programmer---Intern_RQ232030",
-    "company": "General Dynamics Information Technology",
-    "role": "Professional Programmer - Intern",
-    "location": "USA NC Raleigh",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T19:51:43.658827+00:00"
-  },
-  {
     "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214783",
     "company": "Pinterest",
     "role": "Sales Analytics Intern 2027 (USA)",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T04:42:00.037896+00:00"
+  },
+  {
+    "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-2",
+    "company": "GE Vernova",
+    "role": "GE Vernova Electrical Intern - Summer 2027",
+    "location": "Salem VA USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T04:52:03.059637+00:00"
+  },
+  {
+    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Wilmington---DE/Finance-AI---Data-Analytics-Intern--Undergraduate---LIFT-Program_R-264458",
+    "company": "AstraZeneca",
+    "role": "Finance AI & Data Analytics Intern, Undergraduate - LIFT Program",
+    "location": "US - Wilmington - DE",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T04:52:03.059637+00:00"
+  },
+  {
+    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Wilmington---DE/Commercial-IT-Intern--Undergraduate_R-264455",
+    "company": "AstraZeneca",
+    "role": "Commercial IT Intern, Undergraduate",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T04:52:03.059637+00:00"
   }
 ]
