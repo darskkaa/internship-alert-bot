@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-17T14:42:13.805017+00:00",
+  "last_checked_utc": "2026-11-17T14:52:09.581503+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7954,6 +7954,7 @@
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008756",
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008822",
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008828",
+    "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008928",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007510",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442",
@@ -28958,6 +28959,7 @@
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008756",
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008822",
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008828",
+    "job:oracle:hdhl.fa.us6.oraclecloud.com:1008928",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26007510",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26008230",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26008442",
