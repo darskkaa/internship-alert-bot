@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f",
-    "company": "Zoox",
-    "role": "Systems & Safety Engineering Intern [Summer 2027]",
-    "location": "Foster City, CA",
-    "source": "Lever",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T01:51:39.532987+00:00"
-  },
-  {
-    "apply_url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196",
-    "company": "CoStar Group",
-    "role": "Vision & Learning Intern",
-    "location": "Sunnyvale, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T02:41:35.678739+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true",
     "company": "Shield AI",
     "role": "Hardware Test Engineering Co-op",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T22:31:59.443556+00:00"
+  },
+  {
+    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016343",
+    "company": "Texas Instruments",
+    "role": "Systems Engineering Intern - Power",
+    "location": "Dallas, TX, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T23:22:12.141640+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/illumio/8013747a-938c-41ef-9d5b-7b6188ae0b5c",
+    "company": "Illumio",
+    "role": "Security and Compliance Analyst Intern",
+    "location": "Sunnyvale, California - HQ",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T23:22:12.141640+00:00"
   }
 ]
