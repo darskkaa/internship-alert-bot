@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462",
-    "company": "ASML",
-    "role": "Internship - Data Scientist",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T00:01:44.354440+00:00"
-  },
-  {
     "apply_url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752",
     "company": "Environmental Defense Fund",
     "role": "Consumer Energy Analytics Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T20:32:10.272141+00:00"
+  },
+  {
+    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/AI-Research-Launch-Intern_R30599",
+    "company": "Crowdstrike",
+    "role": "AI Research Launch Intern",
+    "location": "4 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T20:52:01.935896+00:00"
   }
 ]
