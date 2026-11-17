@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Portsmouth-NH/XMLNAME-2027-Summer--Distribution-Engineering-Intern-NH_R-032406",
-    "company": "Eversource Energy",
-    "role": "2027 Summer: Distribution Engineering Intern-NH",
-    "location": "Portsmouth, NH",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T21:51:45.205114+00:00"
-  },
-  {
     "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Technical-Operations--GTO--Summer-Internships_R-264280",
     "company": "AstraZeneca",
     "role": "Global Technical Operations (GTO) Summer Internships",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T16:02:17.872747+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202834003",
+    "company": "Soros Fund Management",
+    "role": "Quantitative Strategist Intern",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T16:12:00.664455+00:00"
   }
 ]
