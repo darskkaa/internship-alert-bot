@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136",
-    "company": "CareSource",
-    "role": "Software Engineer Intern",
-    "location": "Remote in USA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T00:11:35.736514+00:00"
-  },
-  {
-    "apply_url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353",
-    "company": "CareSource",
-    "role": "Clinical Operations Business Analyst Intern",
-    "location": "Remote in USA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T00:11:35.736514+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008",
-    "company": "Stratolaunch",
-    "role": "Business Intelligence & Systems Analyst Intern",
-    "location": "Mojave, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T00:11:35.736514+00:00"
-  },
-  {
     "apply_url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
     "company": "Zoox",
     "role": "Data Scientist Intern [Summer 2027]",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T21:22:13.321874+00:00"
+  },
+  {
+    "apply_url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821",
+    "company": "Oracle",
+    "role": "OCI Intern Conversion - Undergrad Software Engineer Full-Time  - Nashville, TN - February 2027",
+    "location": "Nashville, TN, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T21:42:00.841193+00:00"
+  },
+  {
+    "apply_url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Strategy-Research--PhD-_2026-9120",
+    "company": "Dimensional Fund Advisors",
+    "role": "Internship in Strategy Research (PhD)",
+    "location": "Austin",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T21:42:00.841193+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/tri/0d74ff26-05cc-4616-bda0-97d821c9452b",
+    "company": "Toyota Research Institute",
+    "role": "Future Product Innovation Research Intern, Computational Cognitive Science",
+    "location": "Los Altos, CA",
+    "source": "Lever",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T21:42:00.841193+00:00"
   }
 ]
