@@ -1,45 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/vital-lyfe/e18ed2cd-2172-4971-8de0-c52a875b9fd0",
-    "company": "Vital Lyfe",
-    "role": "Electrical Engineering Internship - Summer 2027",
-    "location": "Los Angeles - Greater Area",
-    "source": "Ashby",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T22:11:52.851103+00:00"
-  },
-  {
-    "apply_url": "https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942",
-    "company": "Vital Lyfe",
-    "role": "Software Engineering Internship - Summer 2027",
-    "location": "Los Angeles - Greater Area",
-    "source": "Ashby",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T22:11:52.851103+00:00"
-  },
-  {
-    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839",
-    "company": "Entegris",
-    "role": "Data Engineering Intern - Summer 2027",
-    "location": "Aurora, IL",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T22:21:45.570540+00:00"
-  },
-  {
-    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Power-Platform---Copilot-Studio-Intern---AI---Summer-Intern_REQ-15841",
-    "company": "Entegris",
-    "role": "Power Platform / Copilot Studio Intern \u2013 AI - Summer Intern",
-    "location": "Aurora, IL",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T22:31:44.054866+00:00"
-  },
-  {
     "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Research---Development-Intern---Summer-2027_REQ-15859",
     "company": "Entegris",
     "role": "Research & Development Intern - Summer 2027",
@@ -2998,5 +2958,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T17:41:59.249021+00:00"
+  },
+  {
+    "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Summer-Co-op-Manufacturing-Science--Analytics--and-Technology--Framingham--MA_R2865211",
+    "company": "Sanofi",
+    "role": "2027 Summer Co-op Manufacturing Science, Analytics, and Technology, Framingham, MA",
+    "location": "Framingham, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T17:52:03.996973+00:00"
+  },
+  {
+    "apply_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Niskayuna/GE-Aerospace-Research---Composites-Internship--2027_R5043408",
+    "company": "GE Aerospace",
+    "role": "GE Aerospace Research - Composites Internship, 2027",
+    "location": "Niskayuna",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T17:52:03.996973+00:00"
+  },
+  {
+    "apply_url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa/Research-and-Innovation-Intern_R0348073-1",
+    "company": "Thales",
+    "role": "Research and Innovation Intern",
+    "location": "Ottawa",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T17:52:03.996973+00:00"
+  },
+  {
+    "apply_url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--May-2027-12-Months-_R10676",
+    "company": "SOTI",
+    "role": "Software Developer in Test Intern (May 2027 12 Months)",
+    "location": "Mississauga, Canada \u2013 Meadowvale Office (HQ)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T17:52:03.996973+00:00"
   }
 ]
