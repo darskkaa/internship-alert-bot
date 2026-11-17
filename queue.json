@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Reading/Intelligence-Launch-Intern---Summer-2027_R30500",
-    "company": "CrowdStrike",
-    "role": "Intelligence Launch Intern",
-    "location": "London, UK, Reading, UK",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T23:41:42.167709+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/stackav/jobs/5287594007",
-    "company": "StackAV",
-    "role": "Research Intern - Autonomy",
-    "location": "Remote in USA, Pittsburgh, PA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-12T23:41:42.167709+00:00"
-  },
-  {
     "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462",
     "company": "ASML",
     "role": "Internship - Data Scientist",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T20:22:08.659846+00:00"
+  },
+  {
+    "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Tewkesbury-GBR/Design-Engineering-Internship_R-26-20977",
+    "company": "Moog",
+    "role": "Design Engineering Internship",
+    "location": "Tewkesbury, GBR",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T20:32:10.272141+00:00"
+  },
+  {
+    "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Tewkesbury-GBR/Product-and-Quality-Engineering-Intern_R-26-20939",
+    "company": "Moog",
+    "role": "Product and Quality Engineering Intern",
+    "location": "Tewkesbury, GBR",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-17T20:32:10.272141+00:00"
   }
 ]
