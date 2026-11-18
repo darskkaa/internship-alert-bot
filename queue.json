@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors",
-    "company": "NextEra Energy",
-    "role": "Software Engineering Intern - Technical",
-    "location": "St Paul, MN",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T00:11:25.814264+00:00"
-  },
-  {
-    "apply_url": "https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states",
-    "company": "Amazon",
-    "role": "Robotics Applied Scientist 2 Intern - Robotics",
-    "location": "Seattle, WA, North Reading, MA, NYC, Bellevue, WA, Sunnyvale, CA, Westborough, MA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T00:11:25.814264+00:00"
-  },
-  {
     "apply_url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Engineering-Intern_JR-25266",
     "company": "Bloom Energy",
     "role": "Engineering Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T23:03:37.284723+00:00"
+  },
+  {
+    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Test-and-Measurement-Facilities--Liquid-Metal-Erosion-_J-00357423",
+    "company": "ASML",
+    "role": "Internship - Test and Measurement Facilities (Liquid Metal Erosion)",
+    "location": "San Diego, CA, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T23:12:10.301906+00:00"
+  },
+  {
+    "apply_url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Analytics-Engineering-Intern--Undergraduate-Summer-2027-_1667721",
+    "company": "Centene",
+    "role": "Analytics Engineering Intern (Undergraduate Summer 2027)",
+    "location": "Remote-MO",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T23:12:10.301906+00:00"
   }
 ]
