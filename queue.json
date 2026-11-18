@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Internship--d-f-m--within-the-mission-software-department_JR10434978",
-    "company": "Airbus",
-    "role": "Internship (d/f/m) within the mission software department",
-    "location": "Donauw\u00f6rth",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T13:21:40.765423+00:00"
-  },
-  {
     "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Generation-and-Management-of-AC-ICDs-using-AI-Technology-Intern_JR10457169",
     "company": "Airbus",
     "role": "#Discover I 2027-2028 Generation and Management of AC ICDs using AI Technology Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T00:02:27.923811+00:00"
+  },
+  {
+    "apply_url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Engineering---DevOps-Intern_JR003155",
+    "company": "Draper",
+    "role": "Software Engineering & DevOps Intern",
+    "location": "Cambridge, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T00:03:52.206924+00:00"
   }
 ]
