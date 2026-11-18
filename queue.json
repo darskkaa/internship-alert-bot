@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Manufacturing-Engineering-Co-op_JR-051444",
-    "company": "Brunswick",
-    "role": "Mercury Marine: Manufacturing Engineering Co-op",
-    "location": "Fond du Lac, WI",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T18:11:48.450439+00:00"
-  },
-  {
     "apply_url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405",
     "company": "Manulife Financial",
     "role": "Spring Co-op 2027 - Software Engineering Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T11:52:07.884567+00:00"
+  },
+  {
+    "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Global-Customer-Data-Management-Intern--2027-Internship-_R70600",
+    "company": "Motorola",
+    "role": "Global Customer Data Management Intern (2027 Internship)",
+    "location": "Chicago, IL, More...",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T12:42:09.548806+00:00"
   }
 ]
