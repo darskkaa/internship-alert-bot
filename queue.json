@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
-    "company": "Martin Marietta",
-    "role": "Intern, Software Data Integration Engineer",
-    "location": "Raleigh, NC",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T22:31:50.514053+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161548289",
-    "company": "ServiceNow",
-    "role": "AI Security Engineer Intern",
-    "location": "San Diego, California, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T22:31:50.514053+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161550869",
     "company": "ServiceNow",
     "role": "Information Security Analyst Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T18:12:20.749217+00:00"
+  },
+  {
+    "apply_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Niskayuna/GE-Aerospace-Research---Coatings-Internship_R5043479-1",
+    "company": "GE Aerospace",
+    "role": "GE Aerospace Research - Coatings Internship",
+    "location": "Niskayuna",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T18:32:23.086948+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000162369224",
+    "company": "AECOM",
+    "role": "Engineering Intern - Airport Projects",
+    "location": "Mississauga, ON, Canada",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T18:32:23.086948+00:00"
   }
 ]
