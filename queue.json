@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/IT-Asset-Management-Intern---Summer-2027_34985-1",
-    "company": "CME Group",
-    "role": "IT Asset Management Intern - Summer 2027",
-    "location": "Chicago - 20 S. Wacker",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T17:51:50.450539+00:00"
-  },
-  {
     "apply_url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857",
     "company": "Cigna Group",
     "role": "Healthcare Analytics Summer Intern - Start Date: May 24, 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T05:22:11.278536+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mannheim/Intern-Near-Patient-Care-Research-and-Early-Development_202611-129317-1",
+    "company": "Roche",
+    "role": "Intern Near Patient Care Research and Early Development",
+    "location": "Mannheim",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T10:52:15.830347+00:00"
   }
 ]

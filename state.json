@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T10:32:06.410251+00:00",
+  "last_checked_utc": "2026-11-18T10:52:15.859207+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16272,6 +16272,7 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kuwait/Cybersecurity---Digital-Solution-Assistant-Engineer-Intern--12-months-_202611-128979",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kuwait/Field-Service-Assistant-Engineer-Intern_202610-126627",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Ljubljana/Field-Service-Engineer-Internship-for-Electrical-or-Mechanical-Engineering-Students_202611-128362-1",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mannheim/Intern-Near-Patient-Care-Research-and-Early-Development_202611-129317-1",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/XMLNAME-2027-Winter-Internship----External-Quality-System-Intern_202608-121342",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Penzberg/Internship---Data-and-Digital-Enablement--PRLABD-_202610-126742-3",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Enterprise-Master-Data-Management---Intern_202609-124194",
@@ -36987,6 +36988,7 @@
     "job:workday:roche:industrial-placement-student---data-expert--compliance-by-design--data-capability--ddc--computational-sciences-center-of-excellence_202610-127533",
     "job:workday:roche:industrial-placement-student-cs-coe-ddc-data-capability_202610-124915",
     "job:workday:roche:intern---data---analytics-specialist_202610-127835",
+    "job:workday:roche:intern-near-patient-care-research-and-early-development_202611-129317-1",
     "job:workday:roche:intern_202609-124125",
     "job:workday:roche:internship---agentic-ai-for-environmental-regulatory-compliance_202609-124819",
     "job:workday:roche:internship---ai-metadata-augmentation_202609-123518",
@@ -42575,6 +42577,7 @@
     "roche field service assistant engineer intern",
     "roche field service engineer internship for electrical or mechanical engineering students",
     "roche intern data analytics specialist",
+    "roche intern near patient care research and early development",
     "roche internship agentic ai for environmental regulatory compliance",
     "roche internship ai metadata augmentation",
     "roche internship data and digital enablement prlabd",
