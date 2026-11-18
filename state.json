@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T22:42:14.547865+00:00",
+  "last_checked_utc": "2026-11-18T23:02:08.816356+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4775,6 +4775,7 @@
     "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353",
     "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173",
     "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111861",
+    "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR112072-1",
     "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR112593",
     "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107937",
     "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110789",
@@ -32032,6 +32033,7 @@
     "job:workday:copart:software-engineering-intern_jr110079",
     "job:workday:copart:software-engineering-intern_jr111173",
     "job:workday:copart:software-engineering-intern_jr111861",
+    "job:workday:copart:software-engineering-intern_jr112072-1",
     "job:workday:copart:software-engineering-intern_jr112593",
     "job:workday:copart:technology-product-analyst-intern_jr107937",
     "job:workday:copart:technology-product-analyst-intern_jr110789",
