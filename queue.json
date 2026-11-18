@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Torrance-CA/Intern---Assay-Development---Validation_2640398",
-    "company": "LabCorp",
-    "role": "Intern - Assay Development & Validation",
-    "location": "Torrance CA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T12:31:53.976124+00:00"
-  },
-  {
     "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Internship--d-f-m--within-the-mission-software-department_JR10434978",
     "company": "Airbus",
     "role": "Internship (d/f/m) within the mission software department",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-17T23:53:34.991434+00:00"
+  },
+  {
+    "apply_url": "https://theirc.wd1.myworkdayjobs.com/External_Careers/job/Elizabeth-NJ-USA/Youth-Programming-Intern--Unpaid-_JR00003983",
+    "company": "International Rescue Committee (IRC)",
+    "role": "Youth Programming Intern (Unpaid)",
+    "location": "Elizabeth, NJ USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T00:02:27.923811+00:00"
   }
 ]
