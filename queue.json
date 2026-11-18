@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/ramp/b87e898f-8d8b-447d-b3d5-9073ccf7d109",
-    "company": "Ramp",
-    "role": "Risk Strategy Intern",
-    "location": "New York, NY (HQ)",
-    "source": "Ashby",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T17:41:47.804173+00:00"
-  },
-  {
-    "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_334005",
-    "company": "CACI",
-    "role": "Configuration Control/Data Management Co-op - Spring & Summer 2027",
-    "location": "Danbury, CT, US",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T17:51:50.450539+00:00"
-  },
-  {
     "apply_url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/IT-Asset-Management-Intern---Summer-2027_34985-1",
     "company": "CME Group",
     "role": "IT Asset Management Intern - Summer 2027",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T05:12:10.188826+00:00"
+  },
+  {
+    "apply_url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer--Summer-2027-_R23352",
+    "company": "Nelnet",
+    "role": "Intern - IT Software Engineer (Summer 2027)",
+    "location": "Lincoln, NE",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T05:22:11.278536+00:00"
+  },
+  {
+    "apply_url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Data-Analytics_R23367",
+    "company": "Nelnet",
+    "role": "Intern - Data Analytics",
+    "location": "Lincoln, NE",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T05:22:11.278536+00:00"
   }
 ]
