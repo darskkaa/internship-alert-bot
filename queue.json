@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161550869",
-    "company": "ServiceNow",
-    "role": "Information Security Analyst Intern",
-    "location": "San Diego, CALIFORNIA, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T22:31:50.514053+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed",
     "company": "Reliable Robotics",
     "role": "Flight Software Engineer Intern (Summer 2027)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T18:32:23.086948+00:00"
+  },
+  {
+    "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Anagni/QC-Data-Management-Internship_R2873406",
+    "company": "Sanofi",
+    "role": "QC Data Management Internship",
+    "location": "Anagni",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T18:52:14.311572+00:00"
   }
 ]
