@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Russellville-Arkansas/Engineering-Internship_Req-040859",
-    "company": "Conagra Brands",
-    "role": "Engineering Internship",
-    "location": "Russellville, Arkansas",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T23:11:34.464740+00:00"
-  },
-  {
     "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Energy-Savings-Program-Intern_REQ_0000084318-1",
     "company": "Pennsylvania State University",
     "role": "Energy Savings Program Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T19:42:19.268617+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Translational-Medicine--Oncology-Translational-Research_202611-129224",
+    "company": "Genentech",
+    "role": "2027 Summer Intern - Translational Medicine, Oncology Translational Research",
+    "location": "South San Francisco",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T20:02:34.463416+00:00"
   }
 ]
