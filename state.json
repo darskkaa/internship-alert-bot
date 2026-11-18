@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T02:12:15.410987+00:00",
+  "last_checked_utc": "2026-11-18T02:32:03.545754+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14819,6 +14819,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Mechanical-Engineer-Intern--Redondo-beach-CA_R10260955-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural-Dynamics-Engineer-Intern---Redondo-Beach-CA_R10259391",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Thermal---Propulsion-Engineer-Intern---Redondo-Beach-CA_R10261254",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-mechanical-Engineer-Intern--Redondo-Beach-CA_R10258669",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Airworthiness-Engineer_R10255197",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435",
@@ -35937,6 +35938,7 @@
     "job:workday:ngc:xmlname-2027-technical-writer-intern---cape-canaveral-fl_r10251219",
     "job:workday:ngc:xmlname-2027-test-engineer-intern---sunnyvale-ca_r10255018-1",
     "job:workday:ngc:xmlname-2027-test-engineering-intern---vsfb-ca_r10253497",
+    "job:workday:ngc:xmlname-2027-thermal---propulsion-engineer-intern---redondo-beach-ca_r10261254",
     "job:workday:ngc:xmlname-2027-thermal-mechanical-engineer-internship---hanover-md_r10258425",
     "job:workday:ngc:xmlname-2027-vehicle-engineer-intern_r10253965",
     "job:workday:ngc:xmlname-2027-wafer-processing-engineering-internship---saint-charles-mo_r10260401",
@@ -40696,6 +40698,7 @@
     "northrop grumman 2027 technical writer intern cape canaveral fl",
     "northrop grumman 2027 test engineer intern sunnyvale ca",
     "northrop grumman 2027 thermal mechanical engineer internship hanover md",
+    "northrop grumman 2027 thermal propulsion engineer intern redondo beach ca",
     "northrop grumman 2027 vehicle engineer intern",
     "northrop grumman 2027 wafer processing engineering internship saint charles mo",
     "northrop grumman 2027aeronautical integration and test intern huntsville al",

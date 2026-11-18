@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Analytics-and-AI-Business-Analyst-Co-op_R0277519",
-    "company": "Fresenius Medical Care",
-    "role": "Analytics and AI Business Analyst Co-op",
-    "location": "Lawrence, MA, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T16:31:43.675517+00:00"
-  },
-  {
     "apply_url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cork-Ireland/Biomedical-Mechanical-Engineering-Co-op-2027---Cork_R569396",
     "company": "Stryker",
     "role": "Biomedical/Mechanical Engineering Co-op 2027 - Cork",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T02:12:15.381525+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Thermal---Propulsion-Engineer-Intern---Redondo-Beach-CA_R10261254",
+    "company": "Northrop Grumman",
+    "role": "2027 Thermal / Propulsion Engineer Intern - Redondo Beach CA",
+    "location": "United States-California-Redondo Beach",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T02:32:03.518630+00:00"
   }
 ]
