@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T14:52:16.952854+00:00",
+  "last_checked_utc": "2026-11-18T15:02:14.444257+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5292,6 +5292,7 @@
     "https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20761",
     "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257",
     "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257?utm_source=Simplify&ref=Simplify",
+    "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/231995",
     "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1436",
     "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1442",
     "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1443",
@@ -24336,6 +24337,7 @@
     "hilb group benefits analytics intern",
     "hilton worldwide 2027 corporate summer internship technology software engineering and cyber",
     "hilton worldwide corporate summer internship technology software engineering and cyber",
+    "hilton worldwide it intern",
     "hitachi 2027 summer electrical engineering intern raleigh",
     "hitachi 2027 summer engineering intern alamo",
     "hitachi 2027 summer engineering intern raleigh",
@@ -28492,6 +28494,7 @@
     "job:oracle:eexs.fa.us2.oraclecloud.com:41119",
     "job:oracle:eezy.fa.ca2.oraclecloud.com:20761",
     "job:oracle:efet.fa.us2.oraclecloud.com:218257",
+    "job:oracle:efet.fa.us2.oraclecloud.com:231995",
     "job:oracle:efsp.fa.us6.oraclecloud.com:1436",
     "job:oracle:efsp.fa.us6.oraclecloud.com:1442",
     "job:oracle:efsp.fa.us6.oraclecloud.com:1443",

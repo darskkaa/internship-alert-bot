@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---CAE-Simulation_R57192",
-    "company": "Cadence Design Systems",
-    "role": "Intern: Application Engineering - CAE Simulation",
-    "location": "BELO HORIZONTE",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T20:11:58.855850+00:00"
-  },
-  {
     "apply_url": "https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac",
     "company": "Toyota Research Institute",
     "role": "Research Intern, Continual Adaptation for Robotics",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T14:52:16.930537+00:00"
+  },
+  {
+    "apply_url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/231995",
+    "company": "Hilton Worldwide",
+    "role": "IT Intern",
+    "location": "Bahrain",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T15:02:14.414428+00:00"
   }
 ]
