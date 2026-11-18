@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T02:32:03.545754+00:00",
+  "last_checked_utc": "2026-11-18T02:42:07.805827+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16481,6 +16481,8 @@
     "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499",
     "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363",
     "https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-3",
+    "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633",
+    "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623",
     "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Anagni/Quality-System-Internship_R2870749",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Laboratory-Automation-Engineer-Process-Chemistry-Lab--Cambridge--MA_R2856035",
@@ -37187,6 +37189,8 @@
     "job:workday:salesforce:summer-2027-intern---tableau-research_jr363252-1",
     "job:workday:salesforce:summer-2027-intern---ui-ux-designer_jr363342",
     "job:workday:sallie-mae:data-science---engineering-intern_r26_000659",
+    "job:workday:sallie-mae:software-engineer-intern_r26_000633",
+    "job:workday:sallie-mae:software-engineering-intern_r26_000623",
     "job:workday:sanofi:analytical-science-intern---msat_r2873804",
     "job:workday:sanofi:analytics-and-powerbi-development-intern_r2868855",
     "job:workday:sanofi:engineering-intern_r2873345",
@@ -43115,6 +43119,7 @@
     "salesforce summer 2027 intern uiux designer",
     "salesforce tableau research intern",
     "sallie mae data science and engineering intern",
+    "sallie mae software engineer intern",
     "samaya ml research intern",
     "samsara account development representative intern atlanta",
     "samsara account development representative intern phoenix",
