@@ -1,55 +1,5 @@
 [
   {
-    "apply_url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Supply-Chain-Systems-Digitalization-Intern_DT-20680",
-    "company": "Daimler Truck",
-    "role": "Supply Chain Systems Digitalization Intern",
-    "location": "Portland, OR US",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T16:51:49.073481+00:00"
-  },
-  {
-    "apply_url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--Material-Science_REQ-31308-2",
-    "company": "Vertex Pharmaceuticals",
-    "role": "Summer Intern 2027, Material Science",
-    "location": "Boston, MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T17:11:52.778042+00:00"
-  },
-  {
-    "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5481668008?gh_jid=5481668008",
-    "company": "Lightmatter",
-    "role": "Physical Design, Intern (Summer 2027)",
-    "location": "Boston, MA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T17:21:51.464498+00:00"
-  },
-  {
-    "apply_url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156",
-    "company": "Seaspan",
-    "role": "Intern, Data Engineering (4 Months)",
-    "location": "North Vancouver, BC, Canada",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T17:31:48.865238+00:00"
-  },
-  {
-    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CH---Adliswil/Silicon-Photonics-Test---Characterisation-Intern_2605240",
-    "company": "Marvell",
-    "role": "Silicon Photonics Test & Characterisation Intern",
-    "location": "CH - Adliswil",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T17:41:47.804173+00:00"
-  },
-  {
     "apply_url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312",
     "company": "Vertex Pharmaceuticals",
     "role": "Summer Intern 2027, OSD Process Data Analytics",
@@ -2998,5 +2948,55 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T04:22:19.090402+00:00"
+  },
+  {
+    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Data-Scientist---Summer-Internship-2027_R-801213",
+    "company": "State Street",
+    "role": "State Street Investment Management - Data Scientist - Summer Internship 2027",
+    "location": "Boston, Massachusetts",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T04:42:07.286643+00:00"
+  },
+  {
+    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineer--Intergration-Services----Full-time-Internship--Jan---June-2027-_R-801234",
+    "company": "State Street",
+    "role": "Software Engineer (Intergration Services) - Full-time Internship (Jan - June 2027)",
+    "location": "Quincy, Massachusetts",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T04:42:07.286643+00:00"
+  },
+  {
+    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management--Client-Portfolio-Management---2027-Summer-Internship_R-801215-1",
+    "company": "State Street",
+    "role": "State Street Investment Management- Client Portfolio Management - 2027 Summer Internship",
+    "location": "Boston, Massachusetts",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T04:42:07.286643+00:00"
+  },
+  {
+    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801236",
+    "company": "State Street",
+    "role": "Software Engineering Intern - Full-time Internship (Jan - June 2027)",
+    "location": "Quincy, Massachusetts",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T04:42:07.286643+00:00"
+  },
+  {
+    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Full-Stack-Development-Intern--Full-time-Internship--Jan---June-2027-_R-801232",
+    "company": "State Street",
+    "role": "Full Stack Development Intern, Full-time Internship (Jan - June 2027)",
+    "location": "Quincy, Massachusetts",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T04:42:07.286643+00:00"
   }
 ]
