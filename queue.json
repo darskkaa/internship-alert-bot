@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844",
-    "company": "Entegris",
-    "role": "Associate Product Manager Intern",
-    "location": "Chaska, MN",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T14:51:39.124957+00:00"
-  },
-  {
     "apply_url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
     "company": "Verisk",
     "role": "Data Science/AI Intern | 2027 Summer Internship Program",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T00:12:17.187516+00:00"
+  },
+  {
+    "apply_url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bridgetown/Assurance---Student-Delivery-Model--SDM--Intern_709003WD",
+    "company": "PricewaterhouseCoopers (PwC)",
+    "role": "Student Delivery Model (SDM) Internship programme",
+    "location": "Bridgetown",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T00:42:16.597843+00:00"
   }
 ]
