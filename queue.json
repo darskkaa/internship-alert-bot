@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Insider-Risk-Engineering-Intern---Summer-2027_R30718",
-    "company": "Crowdstrike",
-    "role": "Insider Risk Engineering Intern - Summer 2027",
-    "location": "USA - Arlington, VA +2 more",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T19:11:50.086018+00:00"
-  },
-  {
     "apply_url": "https://iko.wd3.myworkdayjobs.com/iko_careers/job/Brampton-ON/Corporate-Process-Engineering-Co-Op_REQ-14186",
     "company": "IKO",
     "role": "Corporate Process Engineering Co-Op",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T14:12:16.277650+00:00"
+  },
+  {
+    "apply_url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439868",
+    "company": "Cummins",
+    "role": "EATON - Mechanical Engineering Internship (ECJV)",
+    "location": "Galesburg, MI, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T14:42:25.593699+00:00"
   }
 ]
