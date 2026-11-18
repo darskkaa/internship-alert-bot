@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T18:02:16.140363+00:00",
+  "last_checked_utc": "2026-11-18T18:12:20.776113+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16079,6 +16079,7 @@
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696-3",
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Model-Risk-Intern--4-Months-_R-0000185788-3",
     "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759-3",
+    "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-MFRM-Projects---GRM--Local-Market-Risk-Intern_R-0000192865",
     "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198",
     "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer--Raleigh_R-0000189675",
     "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201",
@@ -36963,6 +36964,7 @@
     "job:workday:rbc:xmlname-2027-winter---grm--mccr-policy-ai-applications-intern--4-months-_r-0000184696-3",
     "job:workday:rbc:xmlname-2027-winter---grm--model-risk-intern--4-months-_r-0000185788-3",
     "job:workday:rbc:xmlname-2027-winter---grm--retail-risk-modeling-analyst-intern--8-months-_r-0000185759-3",
+    "job:workday:rbc:xmlname-2027-winter-mfrm-projects---grm--local-market-risk-intern_r-0000192865",
     "job:workday:rbc:xmlname-2027-winter-student-opportunities-technology---operations---quantum-computing-specialist--8-months_r-0000188860",
     "job:workday:rbc:xmlname-2027-winter-student-opportunities-technology---operations---quantum-computing-specialist--8-months_r-0000188860-1",
     "job:workday:realtyincome:technology-intern---multiple-opportunities_r-100339",
@@ -42852,6 +42854,7 @@
     "royal bank of canada 2027 winter grm mccr policy ai applications intern 4 months",
     "royal bank of canada 2027 winter grm model risk intern 4 months",
     "royal bank of canada 2027 winter grm retail risk modeling analyst intern 8 months",
+    "royal bank of canada 2027 winter mfrm projects grm local market risk intern",
     "royal bank of canada 2027 winter student opportunities technology operations quantum technologies intern 8 months",
     "royal bank of canada ai engineer coop global equities",
     "royal bank of canada algorithmic trading developer coop global equities",

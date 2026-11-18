@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1",
-    "company": "Martin Marietta",
-    "role": "Intern, Data Scientist",
-    "location": "Raleigh, NC",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T22:31:50.514053+00:00"
-  },
-  {
     "apply_url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
     "company": "Martin Marietta",
     "role": "Intern, Software Data Integration Engineer",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T17:52:04.623405+00:00"
+  },
+  {
+    "apply_url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-MFRM-Projects---GRM--Local-Market-Risk-Intern_R-0000192865",
+    "company": "Royal Bank of Canada",
+    "role": "2027 Winter MFRM Projects - GRM, Local Market Risk Intern",
+    "location": "TORONTO, Ontario, Canada",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T18:12:20.749217+00:00"
   }
 ]
