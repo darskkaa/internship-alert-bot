@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Energy-Savings-Program-Intern_REQ_0000084318-1",
-    "company": "Pennsylvania State University",
-    "role": "Energy Savings Program Intern",
-    "location": "University Park, State College, PA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T23:41:24.419395+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e/application?embed=true",
     "company": "Reliable Robotics",
     "role": "Hardware Test Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T20:02:34.463416+00:00"
+  },
+  {
+    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-140--Aircraft-Rd--BLDG-140/Project-Engineering-Intern--Summer-2027---Onsite-_01889914",
+    "company": "RTX",
+    "role": "Project Engineering Intern (Summer 2027) (Onsite)",
+    "location": "US-CT-MIDDLETOWN-140 ~ Aircraft Rd ~ BLDG 140",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T20:12:13.571441+00:00"
   }
 ]
