@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019536",
-    "company": "Texas Instruments",
-    "role": "Test Engineering intern - PhD",
-    "location": "United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T18:51:42.975420+00:00"
-  },
-  {
-    "apply_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Last-Mile-Delivery-Data-Science-Intern_R-2686435",
-    "company": "Walmart",
-    "role": "Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern",
-    "location": "(USA) Together Building AR Bentonville Home Office",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T18:51:42.975420+00:00"
-  },
-  {
-    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Manufacturing-Engineering-Intern---Sunnyvale-CA_R10260394",
-    "company": "Northrop Grumman",
-    "role": "2027 Manufacturing Engineering Intern - Sunnyvale CA",
-    "location": "United States-California-Sunnyvale",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T19:01:55.284025+00:00"
-  },
-  {
     "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1",
     "company": "Sierra Nevada Corporation",
     "role": "Systems Engineer Intern",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T13:22:12.990099+00:00"
+  },
+  {
+    "apply_url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-Lock-Haven/Process-Engineer-Intern_R12279",
+    "company": "First Quality",
+    "role": "Process Engineer Intern",
+    "location": "US PA Lock Haven",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T13:52:17.110210+00:00"
+  },
+  {
+    "apply_url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-Lock-Haven/Controls-Engineer-Intern_R12278",
+    "company": "First Quality",
+    "role": "Controls Engineer Intern",
+    "location": "US PA Lock Haven",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T13:52:17.110210+00:00"
+  },
+  {
+    "apply_url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-Lock-Haven/Reliability-Engineer-Intern_R12343",
+    "company": "First Quality",
+    "role": "Reliability Engineer Intern",
+    "location": "US PA Lock Haven",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T13:52:17.110210+00:00"
   }
 ]
