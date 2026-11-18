@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625",
-    "company": "Amgen",
-    "role": "AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern",
-    "location": "Remote in USA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T23:41:24.419395+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000161574999",
     "company": "Renesas Electronics",
     "role": "Power Management Integrated Circuit Analog Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T21:12:19.292461+00:00"
+  },
+  {
+    "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Market-Risk--Interest-Rate-Risk-and-P-L-Attribution---Intern---Co-Op_R_1522539-1",
+    "company": "TD Bank",
+    "role": "Risk Management - Market Risk, Interest Rate Risk and P&L Attribution - Intern / Co-Op",
+    "location": "Toronto, Ontario",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T21:32:21.854063+00:00"
   }
 ]

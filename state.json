@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T21:12:19.317541+00:00",
+  "last_checked_utc": "2026-11-18T21:32:21.881868+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17131,6 +17131,7 @@
     "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Internship-Graduate-Leadership-Program--Consumer-Deposit-and-Payment-Products_R_1508783",
     "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Cyber-Security-Co-op-Intern---JEDI-Partnership_R_1512330",
     "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Equity-Research-Intern-Co-op_R_1515835",
+    "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Market-Risk--Interest-Rate-Risk-and-P-L-Attribution---Intern---Co-Op_R_1522539-1",
     "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Small-Business-Banking-Offers---Intern---Co-Op_R_1522533-1",
     "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435",
     "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Albany/Electrical-Engineer-Intern_R26-01995",
@@ -37873,6 +37874,7 @@
     "job:workday:tcenergy:student-intern--engineering_jr-10738",
     "job:workday:td:cyber-security-co-op-intern---jedi-partnership_r_1512330",
     "job:workday:td:equity-research-intern-co-op_r_1515835",
+    "job:workday:td:risk-management---market-risk--interest-rate-risk-and-p-l-attribution---intern---co-op_r_1522539-1",
     "job:workday:td:risk-management---small-business-banking-offers---intern---co-op_r_1522533-1",
     "job:workday:td:us-graduate-leadership-program--commercial-banking_r_1508612",
     "job:workday:td:xmlname-2027-spring-co-op---global-technology---solutions---business-management-analyst--bma-_r_1510120",
@@ -44452,6 +44454,8 @@
     "td bank graduate leadership program commercial banking intern",
     "td bank graduate leadership program consumer deposit and payment products intern",
     "td bank quantitative associate quantitative rotation program",
+    "td bank risk management market risk interest rate risk and pl attribution intern coop",
+    "td bank risk management small business banking intern coop",
     "td bank risk management small business banking offers intern coop",
     "td bank software engineer intern global technology solutions",
     "td bank software engineer intern software engineering rotational program",
