@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Corporate-Credit-Structuring-Intern-in-Technology--Media--and-Telecom_R7553",
-    "company": "Mizuho Securities USA",
-    "role": "2027 Corporate Credit Structuring Intern in Technology, Media, and Telecom",
-    "location": "New York, NY (1271 AOA/6th Ave)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T00:31:38.264400+00:00"
-  },
-  {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Engineer--Defectivity--Materials---Contamination-Analysis-_J-00357005",
-    "company": "ASML",
-    "role": "Internship - Engineer (Defectivity, Materials & Contamination Analysis)",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T00:41:35.976390+00:00"
-  },
-  {
-    "apply_url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336-1",
-    "company": "Carnegie Mellon University",
-    "role": "Advanced Computing Lab Intern",
-    "location": "Pittsburgh, PA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T08:11:22.145092+00:00"
-  },
-  {
     "apply_url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080",
     "company": "Camping World",
     "role": "Software Engineer Intern",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T23:32:09.631972+00:00"
+  },
+  {
+    "apply_url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Intern--Test-Automation--12-month-term-_JR100958",
+    "company": "Alberta Investment Management Corporation",
+    "role": "Intern, Test Automation (12-month term)",
+    "location": "Edmonton",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T23:42:10.503184+00:00"
+  },
+  {
+    "apply_url": "https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us",
+    "company": "Sheetz",
+    "role": "Business Intelligence Analytics Intern",
+    "location": "Pittsburgh, PA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T23:42:10.503184+00:00"
+  },
+  {
+    "apply_url": "https://qualcomm.eightfold.ai/careers/job/446722198182",
+    "company": "Qualcomm",
+    "role": "GPU Compiler Development Intern - Interim Engineering Intern - HW",
+    "location": "Markham, ON, Canada",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T23:42:10.503184+00:00"
   }
 ]
