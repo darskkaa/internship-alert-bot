@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080",
-    "company": "Camping World",
-    "role": "Software Engineer Intern",
-    "location": "Chicago, IL",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T16:11:25.587251+00:00"
-  },
-  {
     "apply_url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297",
     "company": "Camping World",
     "role": "Data Engineering Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T23:42:10.503184+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943",
+    "company": "Toyota Research Institute",
+    "role": "Robotics Intern, Generalist Robot Learning (GRL)",
+    "location": "Los Altos, CA",
+    "source": "Lever",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T23:52:10.282844+00:00"
   }
 ]
