@@ -1,55 +1,5 @@
 [
   {
-    "apply_url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250537",
-    "company": "Cantor Fitzgerald",
-    "role": "Technology Summer Internship - Development",
-    "location": "London, UK",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T15:41:51.833143+00:00"
-  },
-  {
-    "apply_url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832",
-    "company": "Rocket Mortgage",
-    "role": "Data Analyst Intern",
-    "location": "Detroit, MI",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T16:11:44.673616+00:00"
-  },
-  {
-    "apply_url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Customer-Correspondence-Analyst---Summer-2027_R-085167-1",
-    "company": "Rocket Mortgage",
-    "role": "Customer Correspondence Analyst Intern",
-    "location": "Detroit, MI",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T16:11:44.673616+00:00"
-  },
-  {
-    "apply_url": "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Portfolio-Management_R7551",
-    "company": "Mizuho Securities USA",
-    "role": "2027 Portfolio Management: Workout and Restructuring Intern",
-    "location": "New York, NY (1271 AOA/6th Ave)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T16:11:44.673616+00:00"
-  },
-  {
-    "apply_url": "https://careers.merrick.com/jobs/8476?icims=1&lang=en-us",
-    "company": "Merrick",
-    "role": "GIS Analyst Intern",
-    "location": "Greenwood Village, CO",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T16:11:44.673616+00:00"
-  },
-  {
     "apply_url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Analytics-and-AI-Business-Analyst-Co-op_R0277519",
     "company": "Fresenius Medical Care",
     "role": "Analytics and AI Business Analyst Co-op",
@@ -2998,5 +2948,55 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T01:52:23.541832+00:00"
+  },
+  {
+    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Albany-NY-USA/Internship---Field-Service-Engineer_J-00357527",
+    "company": "ASML",
+    "role": "Internship - Field Service Engineer",
+    "location": "Albany, NY, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T02:12:15.381525+00:00"
+  },
+  {
+    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship-Optical-Imaging-Product-Engineer_J-00355188",
+    "company": "ASML",
+    "role": "Internship-Optical Imaging Product Engineer",
+    "location": "San Jose, CA, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T02:12:15.381525+00:00"
+  },
+  {
+    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---EUV-Optical-Metrology-Engineer_J-00358146",
+    "company": "ASML",
+    "role": "Internship \u2013 EUV Optical Metrology Engineer",
+    "location": "San Diego, CA, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T02:12:15.381525+00:00"
+  },
+  {
+    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Optical-Engineering_J-00355371",
+    "company": "ASML",
+    "role": "Internship - Optical Engineering",
+    "location": "San Diego, CA, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T02:12:15.381525+00:00"
+  },
+  {
+    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Optical-Engineering--Non-Product-Metrology_J-00355369",
+    "company": "ASML",
+    "role": "Internship - Optical Engineering, Non Product Metrology",
+    "location": "San Diego, CA, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T02:12:15.381525+00:00"
   }
 ]
