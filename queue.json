@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1",
-    "company": "Sierra Nevada Corporation",
-    "role": "Systems Engineer Intern",
-    "location": "Southern Pines, NC",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T19:01:55.284025+00:00"
-  },
-  {
     "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Insider-Risk-Engineering-Intern---Summer-2027_R30718",
     "company": "Crowdstrike",
     "role": "Insider Risk Engineering Intern - Summer 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T13:52:17.110210+00:00"
+  },
+  {
+    "apply_url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200",
+    "company": "The Aerospace Corporation",
+    "role": "Lidar Undergraduate Intern",
+    "location": "El Segundo, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T14:12:16.277650+00:00"
   }
 ]

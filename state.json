@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T13:52:17.136798+00:00",
+  "last_checked_utc": "2026-11-18T14:12:16.308091+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1628,6 +1628,7 @@
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Formal-Methods-Researcher-Graduate-Intern_R016552",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Grad-Intern_R016953",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
+    "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432",
     "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Microwave-Measurements--Modeling-and-Simulation-UndergradIntern_R016892",
@@ -30045,6 +30046,7 @@
     "job:workday:aero:xmlname-2027-formal-methods-researcher-graduate-intern_r016552",
     "job:workday:aero:xmlname-2027-hardware-security-engineering-grad-intern_r016953",
     "job:workday:aero:xmlname-2027-hardware-security-engineering-undergrad--intern_r016954",
+    "job:workday:aero:xmlname-2027-lidar-undergraduate-intern_r017200",
     "job:workday:aero:xmlname-2027-machine-learning-engineer-undergrad-intern_r016667",
     "job:workday:aero:xmlname-2027-machine-learning-engineering-graduate-intern_r016432",
     "job:workday:aero:xmlname-2027-microwave-measurements--modeling-and-simulation-undergradintern_r016892",
@@ -44518,6 +44520,7 @@
     "the aerospace corporation 2027 systems integration and test graduate intern",
     "the aerospace corporation 2027 systems of systemsportfolio analysis undergraduate intern",
     "the aerospace corporation aerospace software engineer intern",
+    "the aerospace corporation lidar undergraduate intern",
     "the aerospace corporation machine learning engineering intern",
     "the aerospace corporation reliability and statistics intern",
     "the aerospace corporation software engineering intern",
