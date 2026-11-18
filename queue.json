@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007",
-    "company": "Arcesium",
-    "role": "AI Transformation Intern",
-    "location": "New York",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T22:31:50.514053+00:00"
-  },
-  {
     "apply_url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1",
     "company": "Martin Marietta",
     "role": "Intern, Data Scientist",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T17:32:19.391211+00:00"
+  },
+  {
+    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Intern--Test-Engineering_2603828",
+    "company": "Marvell",
+    "role": "Intern, Test Engineering",
+    "location": "Hsinchu City",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T17:52:04.623405+00:00"
   }
 ]

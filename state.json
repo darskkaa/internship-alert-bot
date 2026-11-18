@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T17:42:07.578791+00:00",
+  "last_checked_utc": "2026-11-18T17:52:04.652299+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14133,6 +14133,7 @@
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CH---Adliswil/Silicon-Photonics-Test---Characterisation-Intern_2605240",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Hardware-Validation-Intern_2604167",
+    "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Intern--Test-Engineering_2603828",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/PhD-Intern--Packaging-Substrate-Engineering_2604420",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Product-Quality-Engineer-Intern_2604438",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/IL---Petah-Tikva/Design-Verification--Intern_2604486",
@@ -35352,6 +35353,7 @@
     "job:workday:marvell:ic-validation-engineer-intern_2603925",
     "job:workday:marvell:intern--application-engineer_2604625",
     "job:workday:marvell:intern--software-qa-engineer_2603892",
+    "job:workday:marvell:intern--test-engineering_2603828",
     "job:workday:marvell:machine-learning-engineer-intern--bs-ms---summer-2027_2603860",
     "job:workday:marvell:machine-learning-engineer-intern--bs-ms---summer-2027_2603860-1",
     "job:workday:marvell:machine-learning-engineer-intern--bs-ms---summer-2027_2604989",
@@ -39608,6 +39610,7 @@
     "marvell ic validation engineer intern ms summer 2027",
     "marvell intern application engineer",
     "marvell intern software qa engineer",
+    "marvell intern test engineering",
     "marvell machine learning engineer intern bsms summer 2027",
     "marvell materials and reliability engineering intern",
     "marvell phd intern aiml design automation",
