@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac",
-    "company": "Toyota Research Institute",
-    "role": "Research Intern, Continual Adaptation for Robotics",
-    "location": "Cambridge, MA",
-    "source": "Lever",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T20:11:58.855850+00:00"
-  },
-  {
     "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2027-Summer-Intern---Computational-Science_202611-129030",
     "company": "Roche",
     "role": "2027 Summer Intern - Computational Science",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T15:02:14.414428+00:00"
+  },
+  {
+    "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineer-Developer-Intern---Summer-2027_R9919",
+    "company": "Great American Insurance Company",
+    "role": "Data Engineer Developer Intern \u2013 Summer 2027",
+    "location": "Cincinnati, OH (USA)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T15:12:30.226019+00:00"
   }
 ]
