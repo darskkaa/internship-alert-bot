@@ -1,55 +1,5 @@
 [
   {
-    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016015",
-    "company": "Texas Instruments",
-    "role": "Product Engineering Failure Anaylsis Intern",
-    "location": "Dallas, TX, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T21:31:56.766796+00:00"
-  },
-  {
-    "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008",
-    "company": "Lightmatter",
-    "role": "Hardware Test Engineering, Intern (Summer 2027)",
-    "location": "Mountain View, CA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T21:31:56.766796+00:00"
-  },
-  {
-    "apply_url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009264",
-    "company": "Emerson Electric",
-    "role": "Life Sciences Marketing Intern",
-    "location": "Round Rock, TX, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T21:41:55.332665+00:00"
-  },
-  {
-    "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114",
-    "company": "Ciena",
-    "role": "Technical Solution Engineer (Intern), SE&I",
-    "location": "Ottawa +1 more",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T21:51:56.468179+00:00"
-  },
-  {
-    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-140--Aircraft-Rd--BLDG-140/Composite-Engineering-Intern--Summer-2027--Onsite-_01887784",
-    "company": "RTX",
-    "role": "Composite Engineering Intern (Summer 2027)(Onsite)",
-    "location": "US-CT-MIDDLETOWN-140 ~ Aircraft Rd ~ BLDG 140",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T22:12:00.994152+00:00"
-  },
-  {
     "apply_url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Process-Development-Engineering-Intern_JR-25333",
     "company": "Bloom Energy",
     "role": "Process Development Engineering Intern",
@@ -2998,5 +2948,55 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T16:52:15.201632+00:00"
+  },
+  {
+    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Product-Quality-Engineer-Intern_2604438",
+    "company": "Marvell",
+    "role": "Product Quality Engineer Intern",
+    "location": "Hsinchu City",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T17:02:24.615046+00:00"
+  },
+  {
+    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/PhD-Intern--Packaging-Substrate-Engineering_2604420",
+    "company": "Marvell",
+    "role": "PhD Intern, Packaging Substrate Engineering",
+    "location": "Hsinchu City",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T17:02:24.615046+00:00"
+  },
+  {
+    "apply_url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/New-York---300-Vesey-Street/Quantitative-Data---AI-Analytics-Intern---Year-Round_35061",
+    "company": "CME Group",
+    "role": "Quantitative Data & AI Analytics Intern - Year Round",
+    "location": "New York - 300 Vesey Street",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T17:02:24.615046+00:00"
+  },
+  {
+    "apply_url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
+    "company": "Viavi Solutions",
+    "role": "Robotics Intern",
+    "location": "Bothell, WA USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T17:02:24.615046+00:00"
+  },
+  {
+    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Hardware-Validation-Intern_2604167",
+    "company": "Marvell",
+    "role": "Hardware Validation Intern",
+    "location": "Hsinchu City",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T17:02:24.615046+00:00"
   }
 ]
