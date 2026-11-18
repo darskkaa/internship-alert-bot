@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003",
-    "company": "Samsung",
-    "role": "Intern, ML Compiler (Kernel Auto-Tuning)",
-    "location": "San Jose, California, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T22:31:50.514053+00:00"
-  },
-  {
-    "apply_url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/Automation-Engineering-Intern_JR-25265",
-    "company": "Bloom Energy",
-    "role": "Automation Engineering Intern",
-    "location": "Fremont, California",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T22:41:46.057080+00:00"
-  },
-  {
-    "apply_url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/Electrical-Engineering-Intern_JR-25271",
-    "company": "Bloom Energy",
-    "role": "Electrical Engineering Intern",
-    "location": "Fremont, California",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T23:11:34.464740+00:00"
-  },
-  {
     "apply_url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Russellville-Arkansas/Engineering-Internship_Req-040859",
     "company": "Conagra Brands",
     "role": "Engineering Internship",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T19:32:17.000256+00:00"
+  },
+  {
+    "apply_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008962",
+    "company": "Stantec",
+    "role": "Civil/Environmental Engineering Intern - Water",
+    "location": "Honolulu, HI, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T19:42:19.268617+00:00"
+  },
+  {
+    "apply_url": "https://careers.roblox.com/jobs/8386080?gh_jid=8386080",
+    "company": "Roblox",
+    "role": "[Summer 2027 Canada] Software Engineer Intern, Engine",
+    "location": "Vancouver, British Columbia, Canada",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T19:42:19.268617+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000162381548",
+    "company": "Syngenta Group",
+    "role": "Data Science Intern",
+    "location": "Greensboro, North Carolina, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T19:42:19.268617+00:00"
   }
 ]
