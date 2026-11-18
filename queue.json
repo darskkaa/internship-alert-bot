@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003",
-    "company": "Samsung",
-    "role": "Intern, AI Systems Performance Engineer",
-    "location": "San Jose, California, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T22:31:50.514053+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003",
     "company": "Samsung",
     "role": "Intern, ML Compiler (Kernel Auto-Tuning)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T19:22:20.024056+00:00"
+  },
+  {
+    "apply_url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437601",
+    "company": "Cummins",
+    "role": "Chemical Systems Co-Op Positions",
+    "location": "Columbus, IN, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T19:32:17.000256+00:00"
   }
 ]
