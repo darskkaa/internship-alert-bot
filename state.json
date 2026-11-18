@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T18:12:20.776113+00:00",
+  "last_checked_utc": "2026-11-18T18:22:20.130260+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5603,6 +5603,7 @@
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94171",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94561",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94602",
+    "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94617",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94708",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94952",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94976",
@@ -28735,6 +28736,7 @@
     "job:oracle:emit.fa.ca3.oraclecloud.com:94171",
     "job:oracle:emit.fa.ca3.oraclecloud.com:94561",
     "job:oracle:emit.fa.ca3.oraclecloud.com:94602",
+    "job:oracle:emit.fa.ca3.oraclecloud.com:94617",
     "job:oracle:emit.fa.ca3.oraclecloud.com:94708",
     "job:oracle:emit.fa.ca3.oraclecloud.com:94952",
     "job:oracle:emit.fa.ca3.oraclecloud.com:94976",
