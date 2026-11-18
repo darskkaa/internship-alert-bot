@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000161574999",
-    "company": "Renesas Electronics",
-    "role": "Power Management Integrated Circuit Analog Intern",
-    "location": "San Jose, CA, Plano, TX, San Diego, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T23:41:24.419395+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/addepar1/jobs/8910306002",
-    "company": "Addepar",
-    "role": "Product Analyst Intern",
-    "location": "NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T23:41:24.419395+00:00"
-  },
-  {
     "apply_url": "https://apply.workable.com/bmlltech/j/685458148E/apply",
     "company": "BMLL Technologies",
     "role": "Junior Quantitative Analyst Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T21:32:21.854063+00:00"
+  },
+  {
+    "apply_url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337",
+    "company": "KLA",
+    "role": "Software Applications Engineering Intern",
+    "location": "Milpitas, CA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T21:42:18.362003+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/Crusoe/8d1d162e-7bed-44fb-aff8-6af75b62937b",
+    "company": "Crusoe",
+    "role": "AI Applied Research PhD Intern, Summer 2027",
+    "location": "San Francisco, CA - US",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T21:42:18.362003+00:00"
   }
 ]
