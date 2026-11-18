@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857",
-    "company": "Cigna Group",
-    "role": "Healthcare Analytics Summer Intern - Start Date: May 24, 2027",
-    "location": "Morris Plains, NJ",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T17:51:50.450539+00:00"
-  },
-  {
-    "apply_url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/High-Point-NC-US/Manufacturing-Engineering-Intern---Thomas-Built-Bus_DT-20682-1",
-    "company": "Daimler Truck",
-    "role": "Manufacturing Engineering Intern - Thomas Built Bus",
-    "location": "High Point, NC US",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T17:51:50.450539+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2",
     "company": "Horizon3.ai",
     "role": "Research Intern, Adversarial Intelligence",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T10:52:15.830347+00:00"
+  },
+  {
+    "apply_url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Holland---Haarlem/Intern---Pharmacy---Pharmaceutical-Sciences---In-Market-Quality_R427335-1",
+    "company": "Merck",
+    "role": "Intern \u2013 Pharmacy / Pharmaceutical Sciences \u2013 In-Market Quality",
+    "location": "NLD - North Holland - Haarlem",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T11:22:08.142654+00:00"
+  },
+  {
+    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Munich-Germany/Internship-Opportunity---Clinical-Operations---Karlsruhe-or-Munich_R-01334328",
+    "company": "Thermo Fisher Scientific",
+    "role": "Calling Pharmacy Students: Your First Step into Clinical Research - Internship Opportunity",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T11:22:08.142654+00:00"
   }
 ]
