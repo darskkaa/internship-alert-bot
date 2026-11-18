@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed",
-    "company": "Reliable Robotics",
-    "role": "Flight Software Engineer Intern (Summer 2027)",
-    "location": "Mountain View, CA",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T22:31:50.514053+00:00"
-  },
-  {
-    "apply_url": "https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335",
-    "company": "Atalanta",
-    "role": "Software Engineer Intern",
-    "location": "Washington D.C.",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": true,
-    "detected_at": "2026-11-13T22:31:50.514053+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003",
-    "company": "Samsung",
-    "role": "Intern, SSD Firmware Development",
-    "location": "San Jose, California, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T22:31:50.514053+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003",
     "company": "Samsung",
     "role": "Intern, AI Systems Performance Engineer",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T18:52:14.311572+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2027-Summer-Intern---Mechanical-Engineer---Systems-and-Hardware-Development_202611-128383",
+    "company": "Roche",
+    "role": "2027 Summer Intern - Mechanical Engineer - Systems and Hardware Development",
+    "location": "Tucson",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T19:22:20.024056+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2027-Summer-Intern---Microfluidic-Systems-Integration-Research_202611-129392",
+    "company": "Roche",
+    "role": "2027 Summer Intern - Microfluidic Systems Integration Research",
+    "location": "Santa Clara",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T19:22:20.024056+00:00"
+  },
+  {
+    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Portfolio--Capacity---AI-Enabled-Business-Operations-Intern_R-264635",
+    "company": "AstraZeneca",
+    "role": "Portfolio, Capacity & AI-Enabled Business Operations Intern",
+    "location": "US - Gaithersburg - MD",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T19:22:20.024056+00:00"
   }
 ]
