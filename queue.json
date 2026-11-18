@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161590090",
-    "company": "ServiceNow",
-    "role": "Senior Outbound Product Manager Intern",
-    "location": "San Diego, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T00:11:25.814264+00:00"
-  },
-  {
     "apply_url": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors",
     "company": "W.W. Grainger",
     "role": "Customer Experience Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T22:22:06.010614+00:00"
+  },
+  {
+    "apply_url": "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Jackson-TN/Engineering-Intern_R-38214-2",
+    "company": "Prysmian Cables & Systems",
+    "role": "Engineering Intern",
+    "location": "Jackson, TN",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T22:32:21.611747+00:00"
   }
 ]
