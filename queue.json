@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Engineering-Intern_R-00196931-1",
-    "company": "Leidos",
-    "role": "Radar Engineering Intern",
-    "location": "Huntsville, AL",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T15:11:52.847823+00:00"
-  },
-  {
-    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
-    "company": "Marvell",
-    "role": "Firmware Engineer Intern - Co-Op 2027",
-    "location": "Ottawa, Canada",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T15:41:51.833143+00:00"
-  },
-  {
     "apply_url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250537",
     "company": "Cantor Fitzgerald",
     "role": "Technology Summer Internship - Development",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T00:52:10.457908+00:00"
+  },
+  {
+    "apply_url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Kentucky-Florence/Engineering-Intern---Florence--KY--Summer-2027-_WD51291-1",
+    "company": "Clarios",
+    "role": "Engineering Intern - Florence, KY (Summer 2027)",
+    "location": "United States, Kentucky, Florence",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T01:52:23.541832+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000162212029",
+    "company": "Robert Bosch Venture Capital",
+    "role": "Robot Learning Research Intern",
+    "location": "Pittsburgh, PA, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T01:52:23.541832+00:00"
   }
 ]
