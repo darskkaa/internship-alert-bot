@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312",
-    "company": "Vertex Pharmaceuticals",
-    "role": "Summer Intern 2027, OSD Process Data Analytics",
-    "location": "Boston, MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T17:41:47.804173+00:00"
-  },
-  {
     "apply_url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Technical-Sales-Engineer-Intern_R-1892",
     "company": "Monolithic Power Systems",
     "role": "Technical Sales Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T04:42:07.286643+00:00"
+  },
+  {
+    "apply_url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+    "company": "Airbnb",
+    "role": "Software Engineering Intern (BS/MS)",
+    "location": "San Francisco, California",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T05:02:19.979433+00:00"
   }
 ]
