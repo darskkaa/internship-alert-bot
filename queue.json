@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
-    "company": "Verisk",
-    "role": "Data Science/AI Intern | 2027 Summer Internship Program",
-    "location": "Lehi, UT, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T14:51:39.124957+00:00"
-  },
-  {
-    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Automation-and-Controls-Interns_REQ-15858-1",
-    "company": "Entegris",
-    "role": "Automation and Controls Interns",
-    "location": "Rockrimmon, Colorado Springs, CO",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T15:11:52.847823+00:00"
-  },
-  {
     "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Engineering-Intern_R-00196931-1",
     "company": "Leidos",
     "role": "Radar Engineering Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T00:42:16.597843+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190640",
+    "company": "Veolia",
+    "role": "Process Engineering Operations Intern",
+    "location": "Oakville, ON, Canada",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T00:52:10.457908+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190929",
+    "company": "Veolia",
+    "role": "Mechanical Engineering Intern",
+    "location": "Boulder, CO, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T00:52:10.457908+00:00"
   }
 ]
