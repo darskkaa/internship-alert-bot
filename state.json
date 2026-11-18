@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T22:32:21.642454+00:00",
+  "last_checked_utc": "2026-11-18T22:42:14.547865+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1536,6 +1536,7 @@
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-MM--Internship-_14642546",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-SuccessFactors-Employee-Central--Internship-_14642554",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00345312",
+    "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00367112",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00369515",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Data-AI-Tech---as-of-February-2027_R00356309",
     "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Digital-Core-Architect--Cloud----as-of-February-2027_R00366968",
@@ -16259,6 +16260,7 @@
     "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045793",
     "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045794",
     "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045795",
+    "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045796",
     "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/UX-Intern_JR-043675",
     "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/UX-Intern_JR-045787",
     "https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Student-Research-Intern_JR109",
@@ -30098,6 +30100,7 @@
     "job:workday:accenture:security-internship-as-of-february-2026_r00287897",
     "job:workday:accenture:software-engineer-intern_r00342918-1",
     "job:workday:accenture:software-engineer-intern_r00345312",
+    "job:workday:accenture:software-engineer-intern_r00367112",
     "job:workday:accenture:software-engineer-intern_r00369515",
     "job:workday:accenture:supply-chain---engineering-internship_r00327505",
     "job:workday:accenture:talent-pool---buda-job-fair---electrical-engineer-intern_r00364910",
@@ -37111,6 +37114,7 @@
     "job:workday:revvity:full-stack-ai-developer-intern_jr-045793",
     "job:workday:revvity:full-stack-ai-developer-intern_jr-045794",
     "job:workday:revvity:full-stack-ai-developer-intern_jr-045795",
+    "job:workday:revvity:full-stack-ai-developer-intern_jr-045796",
     "job:workday:revvity:ux-intern_jr-043675",
     "job:workday:revvity:ux-intern_jr-045787",
     "job:workday:rfcuny:student-research-intern_jr109",
