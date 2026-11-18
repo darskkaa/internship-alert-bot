@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T05:22:11.303576+00:00",
+  "last_checked_utc": "2026-11-18T08:02:18.729801+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15420,6 +15420,7 @@
     "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828",
     "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Software-Engineering-Internship_R17826",
     "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Space-Nuclear-Propulsion-Materials-Test---Evaluation-Intern_R0172717",
+    "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0169773",
     "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Oak-Ridge/Mechanical-Engineering-Intern_R0174161",
     "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775",
     "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Performance-Engineering-Intern_R0172178-1",
@@ -36355,6 +36356,7 @@
     "job:workday:pae:mechanical-engineering-intern_r0174161",
     "job:workday:pae:performance-engineering-intern_r0172178-1",
     "job:workday:pae:performance-engineering-intern_r0172180-1",
+    "job:workday:pae:software-programmer-intern_r0169773",
     "job:workday:pae:software-programmer-intern_r0169775",
     "job:workday:pae:space-nuclear-propulsion-materials-test---evaluation-intern_r0172717",
     "job:workday:paloaltonetworks:intern---software-engineer--bachelors--eg_jr-022385",
