@@ -1,65 +1,5 @@
 [
   {
-    "apply_url": "https://iko.wd3.myworkdayjobs.com/iko_careers/job/Brampton-ON/Corporate-Process-Engineering-Co-Op_REQ-14186",
-    "company": "IKO",
-    "role": "Corporate Process Engineering Co-Op",
-    "location": "Brampton, ON",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T19:31:51.500955+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8936932002",
-    "company": "Flagship Pioneering",
-    "role": "Pioneering Medicines: Research Co-Op, Mechanism of Action \u2013 Metabolic Disease",
-    "location": "Cambridge, MA USA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T19:31:51.500955+00:00"
-  },
-  {
-    "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122243",
-    "company": "Samsung",
-    "role": "2027 SARC/ACL R&D Internship Program \u2013 Multiple Engineering Teams",
-    "location": "3900 N Capital of Texas Hwy, Austin, TX, USA +1 more",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T19:41:38.359510+00:00"
-  },
-  {
-    "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2470894",
-    "company": "Jabil",
-    "role": "Industrial Engineering Intern",
-    "location": "St. Petersburg/Tampa, FL",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T19:41:38.359510+00:00"
-  },
-  {
-    "apply_url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919",
-    "company": "TC Energy",
-    "role": "Intern, Intelligent Operations Technology",
-    "location": "Spokane, Washington",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T19:41:38.359510+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161567349",
-    "company": "Veolia",
-    "role": "Intern - Project Engineer",
-    "location": "Glen Allen, VA, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T20:02:00.640407+00:00"
-  },
-  {
     "apply_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---CAE-Simulation_R57192",
     "company": "Cadence Design Systems",
     "role": "Intern: Application Engineering - CAE Simulation",
@@ -2998,5 +2938,65 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T14:42:25.593699+00:00"
+  },
+  {
+    "apply_url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440079",
+    "company": "Cummins",
+    "role": "EATON - Electronic Systems Internship (ECJV)",
+    "location": "Galesburg, MI, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T14:52:16.930537+00:00"
+  },
+  {
+    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Electronics-Design_R-01374036",
+    "company": "Thermo Fisher Scientific",
+    "role": "Intern \u2013 Electronics Design",
+    "location": "Brno, Czechia",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T14:52:16.930537+00:00"
+  },
+  {
+    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Firmware-Development_R-01374048",
+    "company": "Thermo Fisher Scientific",
+    "role": "Intern \u2013 Firmware Development",
+    "location": "Brno, Czechia",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T14:52:16.930537+00:00"
+  },
+  {
+    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Developer--C--C---_R-01374078",
+    "company": "Thermo Fisher Scientific",
+    "role": "Intern \u2013 Software Developer (C#/C++)",
+    "location": "Brno, Czechia",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T14:52:16.930537+00:00"
+  },
+  {
+    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Sr-Intern---Python-Developer-for-Machine-Learning---Digital-Services_R-01374101-1",
+    "company": "Thermo Fisher Scientific",
+    "role": "Sr. Intern \u2013 Python Developer for Machine Learning & Digital Services",
+    "location": "Brno, Czechia",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T14:52:16.930537+00:00"
+  },
+  {
+    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Sr-Intern---Python-Developer-for-Digital-Services_R-01374102",
+    "company": "Thermo Fisher Scientific",
+    "role": "Sr. Intern \u2013 Python Developer for Digital Services",
+    "location": "Brno, Czechia",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T14:52:16.930537+00:00"
   }
 ]
