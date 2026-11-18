@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2",
-    "company": "Horizon3.ai",
-    "role": "Research Intern, Adversarial Intelligence",
-    "location": "Chicago, Illinois",
-    "source": "Ashby",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T18:01:51.997451+00:00"
-  },
-  {
     "apply_url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Manufacturing-Engineering-Co-op_JR-051444",
     "company": "Brunswick",
     "role": "Mercury Marine: Manufacturing Engineering Co-op",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T11:22:08.142654+00:00"
+  },
+  {
+    "apply_url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milano---Via-Monte-Rosa-91/AI-Adoption-Intern---Milano--DIG-_693282WD",
+    "company": "PricewaterhouseCoopers (PwC)",
+    "role": "AI Adoption Intern - Milano [DIG]",
+    "location": "Milano - Via Monte Rosa 91",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T11:52:07.884567+00:00"
   }
 ]

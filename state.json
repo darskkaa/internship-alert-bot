@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T11:42:14.021724+00:00",
+  "last_checked_utc": "2026-11-18T11:52:07.914052+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15818,6 +15818,7 @@
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/September-2027---Data-Enablement--CPA----8-month-Co-op---Calgary_754208WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Calgary_754211WD-1",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern--Cybersecurity---Privacy-Services--Data-privacy-focus-_769911WD",
+    "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milano---Via-Monte-Rosa-91/AI-Adoption-Intern---Milano--DIG-_693282WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/May-2027---Cloud--Data-and-AI---Summer-Intern---Montreal_753364WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ottawa/May-2027---Cloud--Data-and-AI---Summer-Intern---Ottawa_752827WD",
     "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rubano/Technology-EPM-Junior-Consultant---Internship---Rubano--Padova-_702780WD",
@@ -36695,6 +36696,7 @@
     "job:workday:ptc:software-engineering-summer-internship-2027---cambridge_jr112998",
     "job:workday:pwc:actuarial-science-intern_770348wd",
     "job:workday:pwc:advisory-intern-consultant---technology-epm---est--treviso--rubano--verona-_610467wd",
+    "job:workday:pwc:ai-adoption-intern---milano--dig-_693282wd",
     "job:workday:pwc:assurance---student-delivery-model--sdm--intern_709003wd",
     "job:workday:pwc:audit---japanese-business-network---intern---summer-2027_757086wd",
     "job:workday:pwc:audit---korean-business-network---intern---summer-2027_757088wd",
@@ -41832,6 +41834,7 @@
     "pretium ai data innovation intern",
     "pretium quantitative strategies intern",
     "pricewaterhousecoopers pwc actuarial science intern",
+    "pricewaterhousecoopers pwc ai adoption intern milano dig",
     "pricewaterhousecoopers pwc audit japanese business network jbn intern summer 2027",
     "pricewaterhousecoopers pwc audit korean business network kbn intern summer 2027",
     "pricewaterhousecoopers pwc business analytics intern mida",
