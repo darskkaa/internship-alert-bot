@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/Intuitive/744000161532709",
-    "company": "Intuitive Surgical",
-    "role": "Clinical Research Intern",
-    "location": "Sunnyvale, CA, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T16:31:43.675517+00:00"
-  },
-  {
-    "apply_url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1",
-    "company": "Daimler Truck",
-    "role": "IT Developer Analyst Intern",
-    "location": "Mount Holly, NC US",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T16:41:41.676951+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006",
-    "company": "SharkNinja",
-    "role": "Summer 2027: Mechanical Engineering Intern, Ninja (May to August)",
-    "location": "Needham, MA, United States",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T16:41:41.676951+00:00"
-  },
-  {
     "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Chief-Engineer-Intern_R-00196859",
     "company": "Leidos",
     "role": "Chief Engineer Intern",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T02:42:07.771878+00:00"
+  },
+  {
+    "apply_url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729",
+    "company": "Lumentum",
+    "role": "Internship - SW Developer Support - Program Management Office",
+    "location": "USA - CA - San Jose (Ridder)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T03:12:18.990175+00:00"
+  },
+  {
+    "apply_url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Analyst--Technology--Operations--Digital--and-Data-Regions-2026-Interns-only_R105132",
+    "company": "Regions Bank",
+    "role": "2027 ETP Analyst- Technology, Operations, Digital, and Data. Regions 2026 Interns only",
+    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T03:12:18.990175+00:00"
+  },
+  {
+    "apply_url": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749",
+    "company": "Smarty",
+    "role": "Product Management Intern",
+    "location": "Orem, UT",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T03:12:18.990175+00:00"
   }
 ]
