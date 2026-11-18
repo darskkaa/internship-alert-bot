@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717",
-    "company": "ASML",
-    "role": "Internship - EUV Data Science and Analytics",
-    "location": "Austin, TX, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T18:51:42.975420+00:00"
-  },
-  {
     "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019536",
     "company": "Texas Instruments",
     "role": "Test Engineering intern - PhD",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T13:12:23.952976+00:00"
+  },
+  {
+    "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-PhD-Battery-Research---Development-Intern_JR-202624190",
+    "company": "General Motors",
+    "role": "Summer 2027 PhD Battery Research & Development Intern",
+    "location": "Warren, Michigan, United States of America",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T13:22:12.990099+00:00"
   }
 ]

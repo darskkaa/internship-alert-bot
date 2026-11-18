@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T13:12:24.030004+00:00",
+  "last_checked_utc": "2026-11-18T13:22:13.022254+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6563,6 +6563,7 @@
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Computational-Design-Intern_JR-202621454",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657",
+    "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-PhD-Battery-Research---Development-Intern_JR-202624190",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538",
@@ -23512,6 +23513,7 @@
     "general motors software engineer intern machine learning engineer embodied ai",
     "general motors summer 2027 intern computational design intern",
     "general motors summer 2027 intern research and development smart manufacturing systems",
+    "general motors summer 2027 phd battery research development intern",
     "general motors summer intern ai hardware analytics adpt",
     "general motors summer intern global manufacturing robotics automation",
     "general motors summer intern onboard autonomy embodied ai",
@@ -32721,6 +32723,7 @@
     "job:workday:generalmotors:packaging-engineering-intern_jr-202618311",
     "job:workday:generalmotors:summer-2027-intern---computational-design-intern_jr-202621454",
     "job:workday:generalmotors:summer-2027-intern---research-and-development---smart-manufacturing-systems_jr-202621657",
+    "job:workday:generalmotors:summer-2027-phd-battery-research---development-intern_jr-202624190",
     "job:workday:generalmotors:xmlname-2027-co-op-student---manufacturing-quality-engineer_jr-202619309",
     "job:workday:generalmotors:xmlname-2027-intern---ai-ml-engineer---capacity---performance-engineering--autonomous-vehicles_jr-202622406",
     "job:workday:generalmotors:xmlname-2027-intern---ai-ml-engineer--autonomous-vehicle-ml-infrastructure_jr-202622410",
