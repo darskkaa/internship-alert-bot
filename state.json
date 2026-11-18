@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T14:12:16.308091+00:00",
+  "last_checked_utc": "2026-11-18T14:32:09.902330+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1713,6 +1713,7 @@
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---San-Pablo/XMLNAME--Discover-I-2027-2028-A400M-Support-to-Programme-Driven-offers-Intern_JR10455750",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-AI-Repair-Solutions_JR10455556",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-Eurodrone-Process-Engineer-Intern_JR10455451",
+    "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-Eurodrone-Process-Engineer_JR10457669",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla-Area/XMLNAME--Discover-I-2027-2028-A400M-MRO-Manufacturing-Engineering-processes-Intern_JR10454366",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship---Customer-Services---Digital-Transformation-for-Repair-Engineering_JR10449936",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ATR---Internship---Electrical-Hybrid-Systems--F-M-_JR10451223",
@@ -30153,6 +30154,7 @@
     "job:workday:ag:xmlname--discover-i-2027-2028-composite-process-engineer-intern_jr10456446",
     "job:workday:ag:xmlname--discover-i-2027-2028-composite-process-engineer-internship_jr10456435",
     "job:workday:ag:xmlname--discover-i-2027-2028-eurodrone-process-engineer-intern_jr10455451",
+    "job:workday:ag:xmlname--discover-i-2027-2028-eurodrone-process-engineer_jr10457669",
     "job:workday:ag:xmlname--discover-i-2027-2028-generation-and-management-of-ac-icds-using-ai-technology-intern_jr10457169",
     "job:workday:ag:xmlname--discover-i-2027-2028-health-management-and-predictive-analytics-engineer-internship_jr10457290",
     "job:workday:ag:xmlname--discover-i-2027-2028-high-energy-rigs-sw-engineer-intern_jr10456636",
