@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T12:42:09.576690+00:00",
+  "last_checked_utc": "2026-11-18T13:12:24.030004+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -12470,6 +12470,7 @@
     "https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415",
     "https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7",
     "https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2",
+    "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8",
     "https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37",
     "https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37/apply",
     "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3",
@@ -28218,6 +28219,7 @@
     "job:lever:b18cc87d-fca2-485a-a0f2-ad6197db63f2",
     "job:lever:b229baac-494b-4a0d-9a13-2e38806e06f3",
     "job:lever:b2615794-a2c1-4224-9d95-46a890f2a125",
+    "job:lever:b2bed6be-16bd-48ee-ba71-215307fa2ab8",
     "job:lever:b37569c3-d07f-4968-82dc-44020f34e54e",
     "job:lever:b3d81928-6c26-432f-8a0a-36602c2eefcb",
     "job:lever:b5f73774-1d5a-4edc-a184-d1734731cd9c",
@@ -45117,6 +45119,7 @@
     "toyota research institute robotics intern mechanical engineering",
     "toyota research institute robotics intern posttraining and continual learning",
     "toyota research institute robotics intern prototyping and research operations",
+    "toyota research institute robotics intern prototyping and robotics operations",
     "toyota research institute robotics intern teleoperation and spatial computing",
     "toyota research institute robotics intern trustworthy learning under uncertainty",
     "toyota research institute robotics intern world action models for robot policy",

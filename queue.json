@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405",
-    "company": "Manulife Financial",
-    "role": "Spring Co-op 2027 - Software Engineering Intern",
-    "location": "Boston, Massachusetts",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T18:21:50.668643+00:00"
-  },
-  {
     "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717",
     "company": "ASML",
     "role": "Internship - EUV Data Science and Analytics",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T12:42:09.548806+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8",
+    "company": "Toyota Research Institute",
+    "role": "Robotics Intern, Prototyping and Robotics Operations",
+    "location": "Cambridge, MA",
+    "source": "Lever",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T13:12:23.952976+00:00"
   }
 ]
