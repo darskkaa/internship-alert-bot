@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://apply.workable.com/bmlltech/j/685458148E/apply",
-    "company": "BMLL Technologies",
-    "role": "Junior Quantitative Analyst Intern",
-    "location": "London, UK",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T23:41:24.419395+00:00"
-  },
-  {
-    "apply_url": "https://koch.avature.net/en_US/careers/JobDetail/197821",
-    "company": "Koch Industries",
-    "role": "Product Management Intern - Aerospace & Defense Solutions",
-    "location": "Georgetown, TX",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T23:41:24.419395+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true",
     "company": "Nexus Cognitive Technologies",
     "role": "Data Engineer Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T21:42:18.362003+00:00"
+  },
+  {
+    "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/FPGA-Engineer-Intern_R-00197304",
+    "company": "Leidos",
+    "role": "FPGA Engineer Intern",
+    "location": "Arlington, VA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T21:52:11.942674+00:00"
+  },
+  {
+    "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Software-Developer--AI-Project--Intern_R-00197294",
+    "company": "Leidos",
+    "role": "Software Developer (AI Project) Intern",
+    "location": "Colorado Springs, CO",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T21:52:11.942674+00:00"
   }
 ]
