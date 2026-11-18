@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Technical-Sales-Engineer-Intern_R-1892",
-    "company": "Monolithic Power Systems",
-    "role": "Technical Sales Engineer Intern",
-    "location": "San Jose, CA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T17:41:47.804173+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/ramp/b87e898f-8d8b-447d-b3d5-9073ccf7d109",
     "company": "Ramp",
     "role": "Risk Strategy Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T05:02:19.979433+00:00"
+  },
+  {
+    "apply_url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Michigan---Grand-Rapids/Food--Beverage--Dairy-Plant-Sanitation---Technical-Sales-Internship_R00303120",
+    "company": "Ecolab",
+    "role": "Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern",
+    "location": "7 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T05:12:10.188826+00:00"
   }
 ]

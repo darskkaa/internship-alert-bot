@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-18T05:02:20.009892+00:00",
+  "last_checked_utc": "2026-11-18T05:12:10.217943+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5194,6 +5194,7 @@
     "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/NLD---Zuid-Holland---Oegstgeest/Internship-Virtual-Technical-assist-Team_R00306689",
     "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/SAU---Al-Mintaqah-ash-Sharqiyah---Dammam/Plant-Engineer-Intern---Tamheer_R00302662",
     "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Illinois---Chicago/Engineering-Technical-Sales-Intern_R00303114",
+    "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Michigan---Grand-Rapids/Food--Beverage--Dairy-Plant-Sanitation---Technical-Sales-Internship_R00303120",
     "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Eagan/Research-and-Development-Intern_R00304540",
     "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249",
     "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Missouri---Saint-Louis/Engineering-Technical-Sales-Intern_R00303114",
@@ -22262,6 +22263,7 @@
     "ecolab digital ai technology intern",
     "ecolab electrical engineering coop",
     "ecolab engineering technical sales intern",
+    "ecolab food beverage dairy plant sanitation technical sales intern",
     "ecolab hydraulic modelling and simulation intern 100 mfd",
     "ecolab internship virtual technical assist team",
     "ecolab plant engineer intern tamheer",
@@ -32161,6 +32163,7 @@
     "job:workday:ecolab:digital---ai-technology-intern_r00303249",
     "job:workday:ecolab:electrical-engineering-co-op_r00310179",
     "job:workday:ecolab:engineering-technical-sales-intern_r00303114",
+    "job:workday:ecolab:food--beverage--dairy-plant-sanitation---technical-sales-internship_r00303120",
     "job:workday:ecolab:hydraulic-modelling-and-simulation-intern-100---m-f-d_r00308918",
     "job:workday:ecolab:internship-virtual-technical-assist-team_r00306689",
     "job:workday:ecolab:plant-engineer-intern---tamheer_r00302662",
