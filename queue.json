@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/reliable-robotics/131987a0-ede9-4291-9cd2-1aaadabd2a54/application?embed=true",
-    "company": "Reliable Robotics",
-    "role": "FPGA Design Engineer Intern",
-    "location": "Mountain View, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T23:41:24.419395+00:00"
-  },
-  {
     "apply_url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625",
     "company": "Amgen",
     "role": "AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T20:32:15.361810+00:00"
+  },
+  {
+    "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008",
+    "company": "Lightmatter",
+    "role": "Photonics Circuit Simulation Intern \u2013 Summer 2027",
+    "location": "Mountain View, CA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T21:12:19.292461+00:00"
   }
 ]
