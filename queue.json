@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CH---Adliswil/Silicon-Photonic-Design-Intern_2605294",
-    "company": "Marvell",
-    "role": "Silicon Photonic Design Intern",
-    "location": "CH - Adliswil",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-13T20:51:49.196235+00:00"
-  },
-  {
     "apply_url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Cohesity---Heathrow/Security-Governance---Risk-Intern_R04596-1",
     "company": "Cohesity",
     "role": "Security Governance & Risk Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T15:42:12.452428+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true",
+    "company": "DriveWealth",
+    "role": "AI Consulting Associate Program People Analytics Intern",
+    "location": "Chicago, IL, NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-18T16:12:27.042266+00:00"
   }
 ]
