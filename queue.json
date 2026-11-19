@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505556009",
-    "company": "Pacific Fusion",
-    "role": "Summer 2027 Vacuum Systems Engineering Internship",
-    "location": "San Leandro, CA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T19:52:08.485952+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505980009",
-    "company": "Pacific Fusion",
-    "role": "Summer 2027 Structural Analysis Engineer Internship",
-    "location": "San Leandro, CA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T19:52:08.485952+00:00"
-  },
-  {
     "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Integration-and-Test-Engineer-Intern_R-00196657",
     "company": "Leidos",
     "role": "Integration and Test Engineer Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T21:41:48.841715+00:00"
+  },
+  {
+    "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620",
+    "company": "Vertiv",
+    "role": "AI Intern (Summer 2027)",
+    "location": "Huntsville, AL, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T22:01:48.526223+00:00"
+  },
+  {
+    "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169",
+    "company": "Ralliant",
+    "role": "Electrical Design Engineer Intern (Summer 2027)",
+    "location": "Beaverton, OR, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T22:01:48.526223+00:00"
   }
 ]
