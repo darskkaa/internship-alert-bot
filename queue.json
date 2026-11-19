@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000161691198",
-    "company": "AECOM",
-    "role": "Civil Engineering Intern - Civil & GET",
-    "location": "Perth, WA, Australia",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-15T22:41:56.226301+00:00"
-  },
-  {
     "apply_url": "https://southernstatesllc.applytojob.com/apply/NL0wxVo8tr/Summer-2027-Electrical-Engineering-Intern-SATD1",
     "company": "Southern States, LLC",
     "role": "Electrical Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T14:31:40.255105+00:00"
+  },
+  {
+    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Engineering--C---NET-_R-01373993",
+    "company": "Thermo Fisher Scientific",
+    "role": "Intern - Software Engineering (C#, .NET)",
+    "location": "Brno, Czechia",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T14:41:51.309095+00:00"
   }
 ]
