@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T17:31:31.245848+00:00",
+  "last_checked_utc": "2026-11-19T17:41:56.558145+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5281,6 +5281,7 @@
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019665",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019928",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319",
+    "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020388",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25007757",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012948",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012970",
@@ -5309,6 +5310,7 @@
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019665",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019928",
     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25020319",
+    "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25020388",
     "https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26173",
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435",
     "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605677",
@@ -28681,6 +28683,7 @@
     "job:oracle:edbz.fa.us2.oraclecloud.com:25019665",
     "job:oracle:edbz.fa.us2.oraclecloud.com:25019928",
     "job:oracle:edbz.fa.us2.oraclecloud.com:25020319",
+    "job:oracle:edbz.fa.us2.oraclecloud.com:25020388",
     "job:oracle:edxn.fa.us2.oraclecloud.com:26173",
     "job:oracle:eedu.fa.em3.oraclecloud.com:202605435",
     "job:oracle:eedu.fa.em3.oraclecloud.com:202605677",
@@ -44852,6 +44855,7 @@
     "texas instruments software engineering intern compiler",
     "texas instruments software engineering intern longmont co",
     "texas instruments software intern summer 2027",
+    "texas instruments systems engineering intern gan",
     "texas instruments systems engineering intern machine learning expert",
     "texas instruments systems engineering intern power",
     "texas instruments test engineering intern phd",

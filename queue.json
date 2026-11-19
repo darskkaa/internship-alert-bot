@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536",
-    "company": "Shopify",
-    "role": "Applied Machine Learning Engineer Intern",
-    "location": "Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T16:12:12.259642+00:00"
-  },
-  {
     "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
     "company": "Boston Scientific",
     "role": "AI Engineer Intern - Generative & Agentic AI",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T17:31:31.217248+00:00"
+  },
+  {
+    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020388",
+    "company": "Texas Instruments",
+    "role": "Systems Engineering Intern (GaN)",
+    "location": "Dallas, TX, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T17:41:56.532007+00:00"
   }
 ]
