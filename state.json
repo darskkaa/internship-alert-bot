@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T23:11:46.864176+00:00",
+  "last_checked_utc": "2026-11-19T23:21:31.787863+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14703,6 +14703,7 @@
     "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Shanghai---China/Sales-Engineer--Intern-_R-1053",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Design-Engineering_R-26-21242",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053",
+    "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Industrial-Engineering_R-26-21355",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern-Engineering--Product-Engineering_R-26-21312",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Additive-Manufacturing-Engineering_R-26-20786",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-20288",
@@ -36060,6 +36061,7 @@
     "job:workday:moog:intern--engineering_r-26-19391",
     "job:workday:moog:intern--engineering_r-26-21444",
     "job:workday:moog:intern--hardware-design-engineering_r-26-19887",
+    "job:workday:moog:intern--industrial-engineering_r-26-21355",
     "job:workday:moog:intern--it-computer-science---data-analytics_r-26-17145",
     "job:workday:moog:intern--it-computer-science_r-26-19378",
     "job:workday:moog:intern--manufacturing-and-industrial-engineering_r-26-19823",
@@ -40582,6 +40584,7 @@
     "moog intern embedded design engineering",
     "moog intern engineering",
     "moog intern engineering product engineering",
+    "moog intern industrial engineering",
     "moog intern it computer science",
     "moog intern it computer science data analytics",
     "moog intern manufacturing and industrial engineering",

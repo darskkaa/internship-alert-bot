@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USTXHouston/Civil-Engineer-Intern---Summer-2027_R-171528",
-    "company": "AtkinsR\u00e9alis",
-    "role": "Civil Engineer Intern - Summer 2027",
-    "location": "US.TX.Houston",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T21:12:09.137813+00:00"
-  },
-  {
     "apply_url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---People-Analytics_2640527",
     "company": "LabCorp",
     "role": "Intern - People Analytics",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T23:11:46.835450+00:00"
+  },
+  {
+    "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Industrial-Engineering_R-26-21355",
+    "company": "Moog",
+    "role": "Intern, Industrial Engineering",
+    "location": "Blacksburg, VA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T23:21:31.759470+00:00"
   }
 ]
