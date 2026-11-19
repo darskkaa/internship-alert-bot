@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
-    "company": "Octaura",
-    "role": "Data Engineer Intern",
-    "location": "NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T11:11:52.601459+00:00"
-  },
-  {
     "apply_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Pomigliano-DArco/Internship---Lean-Manufacturing-Engineer_R5043209-1",
     "company": "GE Aerospace",
     "role": "Internship - Lean Manufacturing Engineer",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T15:51:40.569076+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228",
+    "company": "Georgian Partners Growth",
+    "role": "Physical AI & Robotics Intern (2027)",
+    "location": "Toronto Headquarters",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T16:01:50.757975+00:00"
   }
 ]
