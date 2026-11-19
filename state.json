@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T22:11:32.900985+00:00",
+  "last_checked_utc": "2026-11-19T22:31:28.495492+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8803,6 +8803,7 @@
     "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10681",
     "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153",
     "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11167",
+    "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11168",
     "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169",
     "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11231",
     "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11266",
@@ -29603,6 +29604,7 @@
     "job:oracle:ibwujb.fa.ocs.oraclecloud.com:10681",
     "job:oracle:ibwujb.fa.ocs.oraclecloud.com:11153",
     "job:oracle:ibwujb.fa.ocs.oraclecloud.com:11167",
+    "job:oracle:ibwujb.fa.ocs.oraclecloud.com:11168",
     "job:oracle:ibwujb.fa.ocs.oraclecloud.com:11169",
     "job:oracle:ibwujb.fa.ocs.oraclecloud.com:11231",
     "job:oracle:ibwujb.fa.ocs.oraclecloud.com:11266",
@@ -42744,6 +42746,7 @@
     "ralliant process engineer intern summer 2027",
     "ralliant research and development coop",
     "ralliant software engineering intern summer 2027",
+    "ralliant system level verification engineer intern summer 2027",
     "rambus product engineer intern",
     "ramiel capital intern",
     "ramiel capital trading intern",
