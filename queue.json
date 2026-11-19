@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b",
-    "company": "Eight Sleep",
-    "role": "Short-Term Firmware Intern",
-    "location": "San Francisco",
-    "source": "Ashby",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T23:41:27.547636+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/eightsleep/aeff9ae3-ce36-49ba-916d-d8f07c75997f",
     "company": "Eight Sleep",
     "role": "Field Service Engineer (Contract or Intern)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T03:42:04.646073+00:00"
+  },
+  {
+    "apply_url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Westborough-MA/Intern---Bioinformatics-Scientist_2638415-1",
+    "company": "LabCorp",
+    "role": "Intern - Bioinformatics Scientist",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T04:02:22.254149+00:00"
   }
 ]
