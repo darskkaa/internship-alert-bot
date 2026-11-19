@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247",
-    "company": "GM financial",
-    "role": "Intern - Product Owner",
-    "location": "Arlington, TX, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T16:32:17.871966+00:00"
-  },
-  {
-    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/XMLNAME-2027-Manufacturing-Engineer-Intern----Salt-Lake-City-UT_R10260837",
-    "company": "Northrop Grumman",
-    "role": "2027 Manufacturing Engineer Intern -  Salt Lake City UT",
-    "location": "United States-Utah-Salt Lake City",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T16:42:05.007549+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/Intuitive/744000161861679",
-    "company": "Intuitive Surgical",
-    "role": "Clinical Research Engineering Intern",
-    "location": "Sunnyvale, CA, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T16:42:05.007549+00:00"
-  },
-  {
     "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Predictive-Analytics-Intern---Summer-2027_R9904",
     "company": "Great American Insurance Company",
     "role": "Predictive Analytics Intern - Summer 2027",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T18:11:45.817895+00:00"
+  },
+  {
+    "apply_url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Engineer-Intern--Summer-2027-_JR15464",
+    "company": "DraftKings",
+    "role": "Data Engineer Intern (Summer 2027)",
+    "location": "Boston, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T18:31:43.995900+00:00"
+  },
+  {
+    "apply_url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/Product-Engineering-Intern_R58071",
+    "company": "Trimble",
+    "role": "Product Engineering Intern",
+    "location": "US - OH, Dayton",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T18:31:43.995900+00:00"
+  },
+  {
+    "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5473832008?gh_jid=5473832008",
+    "company": "Lightmatter",
+    "role": "Silicon Validation & Test Automation, Intern Summer 2027",
+    "location": "Mountain View, CA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T18:31:43.995900+00:00"
   }
 ]
