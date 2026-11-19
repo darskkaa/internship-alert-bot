@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009",
-    "company": "Fanatics",
-    "role": "Product Intern - Physical Trading Cards",
-    "location": "Coppell, TX",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-15T16:11:47.802736+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009",
     "company": "Fanatics",
     "role": "Product Management Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T10:11:44.313273+00:00"
+  },
+  {
+    "apply_url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Application-Engineer-Intern_2643260",
+    "company": "KLA",
+    "role": "Software Application Engineer Intern",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T10:51:34.716499+00:00"
   }
 ]
