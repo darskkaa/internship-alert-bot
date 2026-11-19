@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering---Summer-Intern-2027---Onsite_01873971",
-    "company": "RTX",
-    "role": "Systems Engineering - Summer Intern 2027 - Onsite",
-    "location": "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T04:31:48.189925+00:00"
-  },
-  {
-    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Software-Engineering---Onsite_01885225",
-    "company": "RTX",
-    "role": "2027 Summer Intern - Software Engineering - Onsite",
-    "location": "US-CA-EL SEGUNDO-E04 ~ 2006 E El Segundo Blvd ~ BLDG E04",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T05:02:07.012672+00:00"
-  },
-  {
-    "apply_url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323",
-    "company": "General Dynamics Information Technology",
-    "role": "Summer 2027 Engineering (General) Internship",
-    "location": "USA VA Falls Church +1 more",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T05:02:07.012672+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/instil/b1be07e8-60de-432c-82ff-6ffb220ce563/application?embed=true",
     "company": "Instil Software Ltd",
     "role": "Software Engineer Placement Intern",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T15:31:41.071086+00:00"
+  },
+  {
+    "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Risk-Solutions-Claims-Intern---Summer-2027_R9917",
+    "company": "Great American Insurance Company",
+    "role": "Risk Solutions Claims Intern - Summer 2027",
+    "location": "Cincinnati, OH (USA)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T15:41:45.489413+00:00"
+  },
+  {
+    "apply_url": "https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us",
+    "company": "MSA Safety",
+    "role": "Electrical Engineering Intern/Co-op",
+    "location": "Cranberry Township, PA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T15:41:45.489413+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079",
+    "company": "Renesas Electronics",
+    "role": "Digital Design Engineer Intern",
+    "location": "Duluth, GEORGIA, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T15:41:45.489413+00:00"
   }
 ]
