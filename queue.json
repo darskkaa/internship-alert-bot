@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Predictive-Analytics-Intern---Summer-2027_R9904",
-    "company": "Great American Insurance Company",
-    "role": "Predictive Analytics Intern - Summer 2027",
-    "location": "Cincinnati, OH (USA)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T17:32:17.214145+00:00"
-  },
-  {
     "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Foundry-Intern--Summer-2027-_01875840",
     "company": "RTX",
     "role": "Semiconductor Foundry Intern (Summer 2027)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T18:31:43.995900+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000162583857",
+    "company": "AECOM",
+    "role": "Geotechnical Engineering Intern",
+    "location": "Mississauga, ON, Canada",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T18:51:38.387174+00:00"
   }
 ]
