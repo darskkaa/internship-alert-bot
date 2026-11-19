@@ -1,55 +1,5 @@
 [
   {
-    "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10491",
-    "company": "Ralliant",
-    "role": "Hardware Verification Engineer Co-op (Summer 2027)",
-    "location": "Solon, OH, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T22:02:08.902668+00:00"
-  },
-  {
-    "apply_url": "https://rgare.wd1.myworkdayjobs.com/Careers/job/United-States-Creve-Coeur-MO-CityPlace/Summer-Intern---Global-Technology_J28414-1",
-    "company": "RGA Reinsurance Company",
-    "role": "Summer Intern - Global Technology",
-    "location": "United States, Creve Coeur, MO, CityPlace",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T22:22:14.355976+00:00"
-  },
-  {
-    "apply_url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Firmware-Intern_2642154",
-    "company": "KLA",
-    "role": "Firmware Intern",
-    "location": "Milpitas, CA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T22:42:01.743540+00:00"
-  },
-  {
-    "apply_url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Science-Writing-Intern_RQ4086146",
-    "company": "Mass General Brigham",
-    "role": "Science Writing Intern",
-    "location": "Somerville-MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T22:42:01.743540+00:00"
-  },
-  {
-    "apply_url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Technology-Intern-2027_R26_0000037382",
-    "company": "Genuine Parts Company",
-    "role": "Technology Intern 2027",
-    "location": "Atlanta, GA, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T22:52:05.662180+00:00"
-  },
-  {
     "apply_url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Ohio-Holland/Engineering-Intern---Toledo--OH--Summer-2027-_WD51206",
     "company": "Clarios",
     "role": "Engineering Intern, Pasting Process - Toledo, OH (Summer 2027)",
@@ -2998,5 +2948,55 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T23:31:43.045138+00:00"
+  },
+  {
+    "apply_url": "https://careers.gov2x.com/jobs/63954?icims=1&lang=en-us",
+    "company": "V2X",
+    "role": "Electrical Engineer Production Support Intern",
+    "location": "Indianapolis, IN",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T23:41:36.495748+00:00"
+  },
+  {
+    "apply_url": "https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us",
+    "company": "Publicis Groupe",
+    "role": "Identity Analytics Intern",
+    "location": "Chicago, IL",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T23:41:36.495748+00:00"
+  },
+  {
+    "apply_url": "https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f",
+    "company": "Barry's",
+    "role": "Undergraduate Summer Scholar Intern - Data Analyst",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T23:41:36.495748+00:00"
+  },
+  {
+    "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8401116",
+    "company": "Waymo",
+    "role": "Agentic AI Intern",
+    "location": "Mountain View, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T23:41:36.495748+00:00"
+  },
+  {
+    "apply_url": "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007",
+    "company": "Lucid Motors",
+    "role": "Embedded Software Intern",
+    "location": "Newark, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T23:41:36.495748+00:00"
   }
 ]
