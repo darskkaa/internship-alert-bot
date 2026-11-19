@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T18:51:38.415754+00:00",
+  "last_checked_utc": "2026-11-19T19:11:41.726135+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5763,6 +5763,7 @@
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99260",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99277",
     "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99544",
+    "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99732",
     "https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Summer-2027-Intern_R0062297",
     "https://energynorthwest.wd1.myworkdayjobs.com/External/job/Richland-WA/Civil---Mechanical-Engineering-Intern---Year-Round_REQ26_352",
     "https://energynorthwest.wd1.myworkdayjobs.com/External/job/Richland-WA/Engineering-Intern---Year-Round_REQ26_351",
@@ -29045,6 +29046,7 @@
     "job:oracle:emit.fa.ca3.oraclecloud.com:99260",
     "job:oracle:emit.fa.ca3.oraclecloud.com:99277",
     "job:oracle:emit.fa.ca3.oraclecloud.com:99544",
+    "job:oracle:emit.fa.ca3.oraclecloud.com:99732",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81238",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81239",
     "job:oracle:eofe.fa.us2.oraclecloud.com:81240",
@@ -46553,6 +46555,7 @@
     "wsp electrical engineering renewable transmission interconnections intern summer 2027",
     "wsp electrical engineering substation intern summer 2027",
     "wsp electrical engineering transmission intern summer 2027",
+    "wsp environmental engineering intern summer 2027",
     "wsp geotechnical engineering intern summer 2027",
     "wsp intern process engineering",
     "wsp intern transit and rail engineering",
