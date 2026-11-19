@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95",
-    "company": "Shopify",
-    "role": "Data Intern",
-    "location": "Montreal, QC, Canada, Toronto, ON, Canada, NYC, Ottawa, ON, Canada",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T16:12:12.259642+00:00"
-  },
-  {
     "apply_url": "https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536",
     "company": "Shopify",
     "role": "Applied Machine Learning Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T17:11:52.811234+00:00"
+  },
+  {
+    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007",
+    "company": "Anduril",
+    "role": "2027 Engineering Systems Intern",
+    "location": "Costa Mesa, California, United States",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T17:31:31.217248+00:00"
   }
 ]
