@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T12:31:48.499518+00:00",
+  "last_checked_utc": "2026-11-19T12:51:40.785252+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17309,6 +17309,7 @@
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Engineering-Co-Op_R-01372098",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Advanced-technology-intern_R-01373998-1",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Advanced-Technology_R-01374000",
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Application-Development-Engineer_R-01374004",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Business-Intelligence---Analytics_R-01374051",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Data-Analyst_R-01374008-1",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---DevOps_R-01374014-1",
@@ -38127,6 +38128,7 @@
     "job:workday:thermofisher:advanced-technology-intern_r-01373998-1",
     "job:workday:thermofisher:engineering-co-op_r-01372098",
     "job:workday:thermofisher:intern---advanced-technology_r-01374000",
+    "job:workday:thermofisher:intern---application-development-engineer_r-01374004",
     "job:workday:thermofisher:intern---business-intelligence---analytics_r-01374051",
     "job:workday:thermofisher:intern---data-analyst_r-01374008-1",
     "job:workday:thermofisher:intern---devops_r-01374014-1",
@@ -45102,6 +45104,7 @@
     "thermo fisher scientific calling pharmacy students your first step into clinical research internship opportunity",
     "thermo fisher scientific engineering coop",
     "thermo fisher scientific intern advanced technology",
+    "thermo fisher scientific intern application development engineer",
     "thermo fisher scientific intern business intelligence analytics",
     "thermo fisher scientific intern data analyst",
     "thermo fisher scientific intern devops",

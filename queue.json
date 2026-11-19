@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145",
-    "company": "Philips",
-    "role": "Intern \u2013 Upstream Product Management (MBA / PhD) \u2013 Bedford, MA \u2013 Summer 2027",
-    "location": "Bedford, Massachusetts, United States",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-15T17:01:59.360204+00:00"
-  },
-  {
     "apply_url": "https://www.samsara.com/company/careers/roles/8214590?gh_jid=8214590",
     "company": "Samsara",
     "role": "Product Design (Mechanical Engineering) Co-Op",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T11:01:51.657759+00:00"
+  },
+  {
+    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Application-Development-Engineer_R-01374004",
+    "company": "Thermo Fisher Scientific",
+    "role": "Intern \u2013 Application Development Engineer",
+    "location": "Brno, Czechia",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T12:51:40.758011+00:00"
   }
 ]
