@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
-    "company": "Northrop Grumman",
-    "role": "2027 Mechanical Engineer Intern - Baltimore MD",
-    "location": "United States-Maryland-Baltimore",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T18:51:59.340002+00:00"
-  },
-  {
-    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Systems-Engineer-Intern---Baltimore-MD_R10251094",
-    "company": "Northrop Grumman",
-    "role": "2027 Systems Engineer Intern - Baltimore MD",
-    "location": "United States-Maryland-Baltimore",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T18:51:59.340002+00:00"
-  },
-  {
     "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship-Generative-AI-developer_J-00355346",
     "company": "ASML",
     "role": "Internship-Generative AI developer",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T19:51:31.516103+00:00"
+  },
+  {
+    "apply_url": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603",
+    "company": "Canadian Solar",
+    "role": "Data Engineering Intern",
+    "location": "Kitchener, ON",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T20:11:46.110600+00:00"
+  },
+  {
+    "apply_url": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Technical-Writer-Intern_10001601-1",
+    "company": "Canadian Solar",
+    "role": "Technical Writer Intern",
+    "location": "Kitchener, ON",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T20:11:46.110600+00:00"
   }
 ]
