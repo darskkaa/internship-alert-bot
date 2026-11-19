@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T15:11:42.898640+00:00",
+  "last_checked_utc": "2026-11-19T15:31:41.098663+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14761,6 +14761,7 @@
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/IRL---Tipperary---Ballydine/Engineering-Department-Intern_R411420",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---BSc--HLO--or-MSc-Biology--Life-sciences---Poultry-R-D_R422847-1",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---Formulation----Discovery-and-Technology-Research_R421952-1",
+    "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---HBO-AI-Machine-Learning-or-Bachelor-ICT-AI---QA-Packaging_R424672-1",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---HBO-WO-Business-administration-or-Data-Analytics---Intellectual-Property_R421707-1",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---Life-Sciences-Molecular-Virology---Discovery---Technology_R423484-2",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---Master-Statistics-Bioinformatics--Global-Statistics-and-Data-Management_R424236-1",
@@ -35987,6 +35988,7 @@
     "job:workday:msd:engineering-department-intern_r411420",
     "job:workday:msd:intern---bsc--hlo--or-msc-biology--life-sciences---poultry-r-d_r422847-1",
     "job:workday:msd:intern---formulation----discovery-and-technology-research_r421952-1",
+    "job:workday:msd:intern---hbo-ai-machine-learning-or-bachelor-ict-ai---qa-packaging_r424672-1",
     "job:workday:msd:intern---hbo-wo-business-administration-or-data-analytics---intellectual-property_r421707-1",
     "job:workday:msd:intern---life-sciences-molecular-virology---discovery---technology_r423484-2",
     "job:workday:msd:intern---master-statistics-bioinformatics--global-statistics-and-data-management_r424236-1",
@@ -40060,6 +40062,7 @@
     "merck intern",
     "merck intern bsc hlo or msc biology life sciences poultry rd",
     "merck intern formulation discovery and technology research",
+    "merck intern hbo aimachine learning or bachelor ict ai qa packaging",
     "merck intern hbowo business administration or data analytics intellectual property",
     "merck intern life sciencesmolecular virology discovery technology",
     "merck intern master statisticsbioinformatics global statistics and data management",
