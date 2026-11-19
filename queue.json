@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/Quality-Engineering-Intern_JR-21905",
-    "company": "Vishay Intertechnology",
-    "role": "Quality Engineering Intern",
-    "location": "Yankton, SD",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T17:42:17.363427+00:00"
-  },
-  {
     "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Ontario---Toronto/System-Engineer---Optical-DSP-Intern--PhD----Co-Op-2027_2604424",
     "company": "Marvell",
     "role": "System Engineer - Optical DSP Intern (PhD) - Co-Op 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T19:11:41.695746+00:00"
+  },
+  {
+    "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11292",
+    "company": "Ralliant",
+    "role": "Process Engineer Intern (Summer 2027)",
+    "location": "Beaverton, OR, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T19:21:39.899321+00:00"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T19:11:41.726135+00:00",
+  "last_checked_utc": "2026-11-19T19:21:39.927377+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8783,6 +8783,7 @@
     "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10680",
     "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10681",
     "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153",
+    "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11292",
     "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6603",
     "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6604",
     "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605",
@@ -29541,6 +29542,7 @@
     "job:oracle:ibwujb.fa.ocs.oraclecloud.com:10680",
     "job:oracle:ibwujb.fa.ocs.oraclecloud.com:10681",
     "job:oracle:ibwujb.fa.ocs.oraclecloud.com:11153",
+    "job:oracle:ibwujb.fa.ocs.oraclecloud.com:11292",
     "job:oracle:icbpjb.fa.ocs.oraclecloud.com:6604",
     "job:oracle:icbpjb.fa.ocs.oraclecloud.com:6605",
     "job:oracle:icbpjb.fa.ocs.oraclecloud.com:6611",
@@ -42650,6 +42652,7 @@
     "ralliant hardware verification engineer coop",
     "ralliant hardware verification engineer coop summer 2027",
     "ralliant manufacturing engineering intern summer 2027",
+    "ralliant process engineer intern summer 2027",
     "ralliant research and development coop",
     "ralliant software engineering intern summer 2027",
     "rambus product engineer intern",
