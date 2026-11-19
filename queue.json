@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297",
-    "company": "Camping World",
-    "role": "Data Engineering Intern",
-    "location": "Chicago, IL, Lincolnshire, IL",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T16:11:25.587251+00:00"
-  },
-  {
-    "apply_url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300",
-    "company": "Camping World",
-    "role": "Data Analyst Intern - AI & Machine Learning Focus",
-    "location": "Chicago, IL, Lincolnshire, IL",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T16:11:25.587251+00:00"
-  },
-  {
-    "apply_url": "https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1",
-    "company": "Watts Water",
-    "role": "Product Management Co-op",
-    "location": "Menomonee Falls, WI",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T16:11:25.587251+00:00"
-  },
-  {
     "apply_url": "https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false",
     "company": "SAS",
     "role": "Software Developer Intern - Go/Golang Experience",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-18T23:52:10.282844+00:00"
+  },
+  {
+    "apply_url": "https://careers.andersen.com/jobs/8348?icims=1&lang=en-us",
+    "company": "Andersen",
+    "role": "PhD Summer Intern",
+    "location": "Remote in USA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T00:12:23.145221+00:00"
+  },
+  {
+    "apply_url": "https://higher.gs.com/roles/189373?type=students",
+    "company": "Goldman Sachs",
+    "role": "Summer Analyst Intern - Multiple Teams",
+    "location": "Albany, NY",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T00:12:23.145221+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004",
+    "company": "Lucid",
+    "role": "Product Management Intern",
+    "location": "Raleigh, NC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T00:12:23.145221+00:00"
   }
 ]
