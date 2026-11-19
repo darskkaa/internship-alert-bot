@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Ontario---Toronto/System-Engineer---Optical-DSP-Intern--PhD----Co-Op-2027_2604424",
-    "company": "Marvell",
-    "role": "System Engineer - Optical DSP Intern (PhD) - Co-Op 2027",
-    "location": "2 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T18:02:17.547628+00:00"
-  },
-  {
     "apply_url": "https://flowserve.wd1.myworkdayjobs.com/applied/job/Rancho-Dominguez-California-US/Project-Engineer-Co-op_R-21052",
     "company": "Flowserve",
     "role": "Project Engineer Co-op",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T19:21:39.899321+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Fall-Co-op-Tooling-Engineer_R10261559",
+    "company": "Northrop Grumman",
+    "role": "2027 Fall Co-op Tooling Engineer",
+    "location": "United States-Mississippi-Iuka",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T19:31:31.494139+00:00"
   }
 ]
