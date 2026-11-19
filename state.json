@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T23:41:36.527726+00:00",
+  "last_checked_utc": "2026-11-19T23:51:39.259580+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7404,6 +7404,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01885537",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineering-Intern--Summer-2027-_01883293",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/RF-Systems-Engineer-Intern--Summer-2027-_01880552",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E02--2002-E-El-Segundo-Blvd--BLDG-E02/Mechanical-Engineer-Intern-Summer-2027--Onsite-_01890290",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Electrical-Engineering-Intern--Summer-2027-_01883021",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Software-Engineering---Onsite_01885225",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Systems-Engineering---Onsite_01881121",
@@ -33856,6 +33857,7 @@
     "job:workday:globalhr:mechanical-engineer-intern--summer-2027-_01884484",
     "job:workday:globalhr:mechanical-engineer-intern--summer-2027-_01885181",
     "job:workday:globalhr:mechanical-engineer-intern--summer-2027-_01885537",
+    "job:workday:globalhr:mechanical-engineer-intern-summer-2027--onsite-_01890290",
     "job:workday:globalhr:mechanical-engineering-intern---test-equipment_01881638",
     "job:workday:globalhr:mechanical-engineering-intern---test-solutions_01883602",
     "job:workday:globalhr:mechanical-engineering-intern--onsite-_01889909",
@@ -43560,6 +43562,7 @@
     "rtx mechanical engineer intern air launched effectors 2027 summer",
     "rtx mechanical engineer intern special tooling and test fixtures summer 2027",
     "rtx mechanical engineer intern summer 2027",
+    "rtx mechanical engineer intern summer 2027 onsite",
     "rtx mechanical engineer intern test equipment",
     "rtx mechanical engineer intern test solutions",
     "rtx mechanical engineering intern onsite",
