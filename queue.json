@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009",
-    "company": "Fanatics",
-    "role": "Product Management Intern",
-    "location": "Seattle, WA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-15T16:11:47.802736+00:00"
-  },
-  {
     "apply_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145",
     "company": "Philips",
     "role": "Intern \u2013 Upstream Product Management (MBA / PhD) \u2013 Bedford, MA \u2013 Summer 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T10:51:34.716499+00:00"
+  },
+  {
+    "apply_url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Bangkok-MSG-Headquarters/Internship---Data-analyst_R-2022034762",
+    "company": "Michelin",
+    "role": "Thailand Internship : Data Analyst (4-6 months)",
+    "location": "5 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T11:01:51.657759+00:00"
   }
 ]
