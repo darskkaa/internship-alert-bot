@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false",
-    "company": "SAS",
-    "role": "Software Developer Intern - Go/Golang Experience",
-    "location": "Cary, NC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T16:11:25.587251+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161592679",
     "company": "ServiceNow",
     "role": "Security Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T00:12:23.145221+00:00"
+  },
+  {
+    "apply_url": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/New-York-City/Summer-2027-Internship-Program----B2B-Risk-Marketing-Intern_Job_Req_56543",
+    "company": "Dow Jones",
+    "role": "Summer 2027 Internship Program -- B2B Risk Marketing Intern",
+    "location": "New York City",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T00:42:16.037676+00:00"
   }
 ]
