@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Hardware-in-the-Loop-Engineering-Intern----Summer-2027-_01882927",
-    "company": "RTX",
-    "role": "Hardware in the Loop Engineering Intern - (Summer 2027)",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T19:12:13.864405+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161893169",
-    "company": "Veolia",
-    "role": "Intern - Municipal Engineering",
-    "location": "Oakville, ON, Canada",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T19:12:13.864405+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505488009",
-    "company": "Pacific Fusion",
-    "role": "Summer 2027 Materials Science Internship",
-    "location": "San Leandro, CA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T19:42:01.157324+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/Intuitive/744000161896235",
     "company": "Intuitive Surgical",
     "role": "Mechanical Engineering Intern",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T20:51:47.995771+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2027-Summer-Intern---Software-Applications-and-Pipelines--R-D-Internal-Solutions--Computational-Science-and-Informatics-_202611-128312",
+    "company": "Roche",
+    "role": "2027 Summer Intern - Software Applications and Pipelines (R&D Internal Solutions, Computational Science and Informatics)",
+    "location": "Santa Clara",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T21:31:44.302401+00:00"
+  },
+  {
+    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016331",
+    "company": "Texas Instruments",
+    "role": "Compute In-Memory System Engineer Intern",
+    "location": "Dallas, TX, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T21:31:44.302401+00:00"
+  },
+  {
+    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016339",
+    "company": "Texas Instruments",
+    "role": "Synthetic Data for Edge AI System Engineer Intern",
+    "location": "Dallas, TX, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T21:31:44.302401+00:00"
   }
 ]
