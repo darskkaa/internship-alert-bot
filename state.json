@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T15:01:48.172501+00:00",
+  "last_checked_utc": "2026-11-19T15:11:42.898640+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7528,6 +7528,7 @@
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Co-op---Boeing-Platforms-Displays--Summer-Fall-_01871761",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702",
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Senior-Software-Security-Intern_01890095",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Co-op--Summer-Fall-2027-_01877158",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
     "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875?utm_source=Simplify&ref=Simplify",
@@ -33739,6 +33740,7 @@
     "job:workday:globalhr:rse---systems-engineering-intern-2027--onsite-_01867566",
     "job:workday:globalhr:secure-software-intern--summer-2027-_01884942",
     "job:workday:globalhr:semiconductor-foundry-intern--summer-2027-_01875840",
+    "job:workday:globalhr:senior-software-security-intern_01890095",
     "job:workday:globalhr:skillbridge--sr-prin-systems-engineer-intern_01887483",
     "job:workday:globalhr:soa-platform-systems-futures--spring-summer-co-op_01880874",
     "job:workday:globalhr:software-engineer-co-op---onsite_01871478",
@@ -43391,6 +43393,7 @@
     "rtx software engineering intern summer 2027 hybrid",
     "rtx software engineering intern summerfall 2027",
     "rtx software engineering internsummer 2027",
+    "rtx software security intern summer 2027",
     "rtx spectrum dominance intern",
     "rtx stage gestion des programmes moteurs introduction de nouveau produit internship operations program management new product introduction",
     "rtx structural engineering coop january 2027 hybrid",
