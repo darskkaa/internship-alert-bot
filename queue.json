@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a",
-    "company": "Shopify",
-    "role": "Software Engineer Intern",
-    "location": "Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T16:12:12.259642+00:00"
-  },
-  {
     "apply_url": "https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95",
     "company": "Shopify",
     "role": "Data Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T17:01:49.477605+00:00"
+  },
+  {
+    "apply_url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/WAP-C/Mechanical-Engineering-Co-op-Fall-2026_R-32004",
+    "company": "Varian",
+    "role": "Mechanical Engineering Co-op Fall 2026",
+    "location": "WAP C",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T17:11:52.811234+00:00"
   }
 ]

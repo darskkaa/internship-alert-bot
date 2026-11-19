@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T17:01:49.504839+00:00",
+  "last_checked_utc": "2026-11-19T17:11:52.836495+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15444,6 +15444,7 @@
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/KNV-I/Mechanical-Engineer-Co-op---Knoxville--TN_R-30286",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/OAV-N/Billing-Data-Analyst-Intern_R-31164",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PAO-H/Portfolio-Strategy-Intern--MBA-_R-32106",
+    "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/WAP-C/Mechanical-Engineering-Co-op-Fall-2026_R-32004",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Application-Software-Developer-Co-Op_R-31984",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Calibration-Engineer-Co-op_R-31892",
     "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Embedded-Software-Developer-Co-Op_R-31985",
@@ -36625,6 +36626,7 @@
     "job:workday:onehealthineers:embedded-software-developer-co-op_r-31948",
     "job:workday:onehealthineers:embedded-software-developer-co-op_r-31985",
     "job:workday:onehealthineers:mechanical-engineer-co-op---knoxville--tn_r-30286",
+    "job:workday:onehealthineers:mechanical-engineering-co-op-fall-2026_r-32004",
     "job:workday:onehealthineers:performance-engineering-assistant-co-op_r-31160",
     "job:workday:onehealthineers:portfolio-strategy-intern--mba-_r-32106",
     "job:workday:onehealthineers:quality-systems-co-op_r-29246",
@@ -45892,6 +45894,7 @@
     "varian calibration engineer coop",
     "varian embedded software developer coop",
     "varian mechanical engineer coop knoxville tn",
+    "varian mechanical engineering coop fall 2026",
     "varian performance engineering assistant coop",
     "varian portfolio strategy intern mba",
     "varian quality systems coop",
