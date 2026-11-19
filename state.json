@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T22:01:48.555262+00:00",
+  "last_checked_utc": "2026-11-19T22:11:32.900985+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10835,6 +10835,7 @@
     "https://job-boards.greenhouse.io/usafacts/jobs/4472154009",
     "https://job-boards.greenhouse.io/usafacts/jobs/4478239009",
     "https://job-boards.greenhouse.io/usafacts/jobs/4478253009",
+    "https://job-boards.greenhouse.io/usafacts/jobs/4486674009",
     "https://job-boards.greenhouse.io/uvimco/jobs/5300713008",
     "https://job-boards.greenhouse.io/uvimco/jobs/5300713008?utm_source=Simplify&ref=Simplify",
     "https://job-boards.greenhouse.io/vardaspace/jobs/8005821003",
@@ -26352,6 +26353,7 @@
     "job:greenhouse:4485182009",
     "job:greenhouse:4485306009",
     "job:greenhouse:4485410009",
+    "job:greenhouse:4486674009",
     "job:greenhouse:4505488009",
     "job:greenhouse:4505556009",
     "job:greenhouse:4505668009",
@@ -45957,6 +45959,7 @@
     "usaa visualization engineer intern",
     "usafacts ai product intern",
     "usafacts ai software engineering intern",
+    "usafacts data storytelling intern",
     "usafacts technical product manager intern",
     "v2x ai engineering intern",
     "v2x artificial intelligence intern",
