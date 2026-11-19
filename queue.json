@@ -1,45 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/eightsleep/aeff9ae3-ce36-49ba-916d-d8f07c75997f",
-    "company": "Eight Sleep",
-    "role": "Field Service Engineer (Contract or Intern)",
-    "location": "San Francisco",
-    "source": "Ashby",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-15T08:01:36.249528+00:00"
-  },
-  {
-    "apply_url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350",
-    "company": "Blizzard Entertainment",
-    "role": "Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering",
-    "location": "Irvine, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-15T08:11:43.679294+00:00"
-  },
-  {
-    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Software-Firmware-Engineering_2604496",
-    "company": "Marvell",
-    "role": "Software/Firmware Engineering Intern",
-    "location": "Petah-Tikva",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-15T08:21:49.514225+00:00"
-  },
-  {
-    "apply_url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203746",
-    "company": "Northwell Health",
-    "role": "Emerging Technology & AI Internship",
-    "location": "New Hyde Park, Nassau, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-15T09:01:53.000373+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009",
     "company": "Fanatics",
     "role": "People Intelligence Intern",
@@ -2998,5 +2958,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T04:02:22.254149+00:00"
+  },
+  {
+    "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/XMLNAME-2027-Summer--GIS-Engineering-Intern_R-032643",
+    "company": "Eversource Energy",
+    "role": "2027 Summer: GIS Engineering Intern",
+    "location": "Berlin, CT",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T04:32:12.494723+00:00"
+  },
+  {
+    "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/XMLNAME-2027-Summer--Asset-Strategy-and-Regulatory-Compliance--Engineering-Intern_R-032638",
+    "company": "Eversource Energy",
+    "role": "2027 Summer: Asset Strategy and Regulatory Compliance, Engineering Intern",
+    "location": "Berlin, CT",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T04:32:12.494723+00:00"
+  },
+  {
+    "apply_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE-Inc-Nike-Computational-Materials-Innovation--Apparel--Innovation--Graduate-Internship_R-97647",
+    "company": "Nike",
+    "role": "NIKE Inc. Nike Computational Materials Innovation, Apparel, Innovation, Graduate Internship",
+    "location": "Beaverton, Oregon",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T04:32:12.494723+00:00"
+  },
+  {
+    "apply_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE-Inc-Nike-Sports-Research-Lab--Innovation--Researcher-Graduate-Internship_R-97644",
+    "company": "Nike",
+    "role": "NIKE Inc. Nike Sports Research Lab, Innovation, Researcher Graduate Internship",
+    "location": "Beaverton, Oregon",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T04:32:12.494723+00:00"
   }
 ]
