@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false",
-    "company": "SAS",
-    "role": "IoT Product Strategy Intern",
-    "location": "Cary, NC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T23:41:27.547636+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b",
     "company": "Eight Sleep",
     "role": "Short-Term Firmware Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T01:52:08.806565+00:00"
+  },
+  {
+    "apply_url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302",
+    "company": "Intel",
+    "role": "Signal integrity AI enabling intern",
+    "location": "US, Arizona, Phoenix",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T03:42:04.646073+00:00"
   }
 ]

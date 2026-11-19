@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T03:12:04.141623+00:00",
+  "last_checked_utc": "2026-11-19T03:42:04.676222+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8912,6 +8912,7 @@
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Module-Engineering-PhD-Intern_JR0286932",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502",
+    "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
@@ -25071,6 +25072,7 @@
     "intel process integration yield engineering phd intern",
     "intel research scientist intern graphics ml",
     "intel robotics phd intern",
+    "intel signal integrity ai enabling intern",
     "intel silicon hardware engineering intern bachelors",
     "intel silicon hardware engineering intern graduate",
     "intel software development graduate intern",
@@ -34686,6 +34688,7 @@
     "job:workday:intel:process-integration-development-engineer-phd-intern-new-2027_jr0287977",
     "job:workday:intel:research-scientist-intern---graphics--ml_jr0287525",
     "job:workday:intel:robotics-phd-intern_jr0288833",
+    "job:workday:intel:signal-integrity-ai-enabling-intern_jr0289302",
     "job:workday:intel:silicon-hardware-engineering---intern--bachelor-s_jr0286829",
     "job:workday:intel:silicon-hardware-engineering---intern--graduate_jr0286830",
     "job:workday:intel:software-development-graduate-intern_jr0285451-1",
