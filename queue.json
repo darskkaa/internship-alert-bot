@@ -1,45 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/Intuitive/744000161896235",
-    "company": "Intuitive Surgical",
-    "role": "Mechanical Engineering Intern",
-    "location": "Blacksburg, VA, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T19:42:01.157324+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009",
-    "company": "Pacific Fusion",
-    "role": "Summer 2027 HPC/DevOps Engineering Intern",
-    "location": "San Leandro, CA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T19:42:01.157324+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505730009",
-    "company": "Pacific Fusion",
-    "role": "Summer 2027 Modeling and Simulation Intern",
-    "location": "San Leandro, CA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T19:52:08.485952+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505884009",
-    "company": "Pacific Fusion",
-    "role": "Summer 2027 Nuclear Diagnostics Mechanical Engineer Internship",
-    "location": "San Leandro, CA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T19:52:08.485952+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505556009",
     "company": "Pacific Fusion",
     "role": "Summer 2027 Vacuum Systems Engineering Internship",
@@ -2998,5 +2958,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T21:31:44.302401+00:00"
+  },
+  {
+    "apply_url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160",
+    "company": "Blue Cross Blue Shield of Michigan",
+    "role": "Summer 2027 Intern - Object Oriented Programming",
+    "location": "Detroit, MI, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T21:41:48.841715+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d",
+    "company": "Snowflake",
+    "role": "Software Engineer Intern (Database Engineering) - Summer 2027",
+    "location": "US-CA-Menlo Park",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T21:41:48.841715+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
+    "company": "Snowflake",
+    "role": "Software Engineer Intern (AI / ML) - Summer 2027",
+    "location": "US-CA-Menlo Park",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T21:41:48.841715+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897",
+    "company": "Snowflake",
+    "role": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Summer 2027",
+    "location": "US-CA-Menlo Park",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T21:41:48.841715+00:00"
   }
 ]
