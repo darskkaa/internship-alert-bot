@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T14:01:42.737842+00:00",
+  "last_checked_utc": "2026-11-19T14:31:40.281175+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17711,6 +17711,7 @@
     "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Holden-MA/Mechanical-Engineer-Summer-Intern_R-101230",
     "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/New-York-NY-En-Power/Energy-Engineering---Auditing-Intern_R-101293-1",
     "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Remote-TX/Data-Analytics-Intern-Summer-2027_R-101128",
+    "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/San-Diego-CA-ASEC/Engineering-Intern_R-101322",
     "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Syracuse-NY/Data-Analytics-and-GIS-Intern_R-101135",
     "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Wilkes-Barre-PA/Summer-2027-Environmental-Engineer-Intern_R-101185",
     "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Wilmington-DE/Summer-2027-Engineering-Intern_R-101159",
@@ -38456,6 +38457,7 @@
     "job:workday:verdantas:data-analytics-and-gis-intern_r-101135",
     "job:workday:verdantas:electrical-engineer-intern_r-101302",
     "job:workday:verdantas:energy-engineering---auditing-intern_r-101293-1",
+    "job:workday:verdantas:engineering-intern_r-101322",
     "job:workday:verdantas:geotechnical-engineer-intern_r-101118-1",
     "job:workday:verdantas:mechanical-engineer-summer-intern_r-101230",
     "job:workday:verdantas:summer-2027-engineering-intern_r-101159",
@@ -45873,6 +45875,7 @@
     "verdantas data analytics intern",
     "verdantas electrical engineer intern",
     "verdantas energy engineering auditing intern",
+    "verdantas engineering intern",
     "verdantas geotechnical engineer intern",
     "verdantas mechanical engineer summer intern",
     "verdantas summer 2027 engineering intern",

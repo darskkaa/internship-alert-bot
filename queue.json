@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://www.samsara.com/company/careers/roles/8214590?gh_jid=8214590",
-    "company": "Samsara",
-    "role": "Product Design (Mechanical Engineering) Co-Op",
-    "location": "San Francisco - SF9",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-15T18:52:04.592268+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000161691198",
     "company": "AECOM",
     "role": "Civil Engineering Intern - Civil & GET",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T12:51:40.758011+00:00"
+  },
+  {
+    "apply_url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/San-Diego-CA-ASEC/Engineering-Intern_R-101322",
+    "company": "Verdantas",
+    "role": "Engineering Intern",
+    "location": "San Diego CA-ASEC",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T14:31:40.255105+00:00"
   }
 ]
