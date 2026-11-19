@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721309006",
-    "company": "SharkNinja",
-    "role": "Summer 2027: HW UX/UI Design Intern (May through August)",
-    "location": "Needham, MA, United States",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T16:22:03.490601+00:00"
-  },
-  {
     "apply_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247",
     "company": "GM financial",
     "role": "Intern - Product Owner",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T18:01:44.161945+00:00"
+  },
+  {
+    "apply_url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11503",
+    "company": "UL Solutions",
+    "role": "Summer 2027 Intern: R&D Engineering Intern",
+    "location": "Northbrook, IL, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T18:11:45.817895+00:00"
   }
 ]

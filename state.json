@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T18:01:44.195545+00:00",
+  "last_checked_utc": "2026-11-19T18:11:45.846286+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6116,6 +6116,7 @@
     "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11182",
     "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11183",
     "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11186",
+    "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11503",
     "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/391876",
     "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190",
     "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029",
@@ -29151,6 +29152,7 @@
     "job:oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com:11182",
     "job:oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com:11183",
     "job:oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com:11186",
+    "job:oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com:11503",
     "job:oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com:391876",
     "job:oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com:392190",
     "job:oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com:394029",
@@ -45712,6 +45714,7 @@
     "ul solutions mechanical engineering intern",
     "ul solutions product management intern",
     "ul solutions sar laboratory intern",
+    "ul solutions summer 2027 intern rd engineering intern",
     "uline business intelligence developer intern",
     "uline database administrator intern",
     "uline database administrator internship summer 2027",
