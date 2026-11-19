@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
-    "company": "Boston Scientific",
-    "role": "AI Engineer Intern - Generative & Agentic AI",
-    "location": "Marlborough, MA, Maple Grove, MN, Arden Hills, MN",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T16:12:12.259642+00:00"
-  },
-  {
-    "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813862390",
-    "company": "Boston Scientific",
-    "role": "AI Acceleration Intern",
-    "location": "Marlborough, MA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T16:12:12.259642+00:00"
-  },
-  {
-    "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807923",
-    "company": "JP Morgan Chase",
-    "role": "Consumer & Community Banking Intern",
-    "location": "Palo Alto, CA, Columbus, OH, NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T16:12:12.259642+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721309006",
     "company": "SharkNinja",
     "role": "Summer 2027: HW UX/UI Design Intern (May through August)",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T17:41:56.532007+00:00"
+  },
+  {
+    "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Process-Engineering-Swiftwater-PA_R2863610",
+    "company": "Sanofi",
+    "role": "2027 Summer Intern Process Engineering Swiftwater PA",
+    "location": "Swiftwater, PA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T18:01:44.161945+00:00"
+  },
+  {
+    "apply_url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/Product-Marketing-Engineering-Intern_JR-22082",
+    "company": "Vishay Intertechnology",
+    "role": "Product Marketing Engineering Intern",
+    "location": "Yankton, SD",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T18:01:44.161945+00:00"
+  },
+  {
+    "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153",
+    "company": "Ralliant",
+    "role": "Software Engineering Intern (Summer 2027)",
+    "location": "Beaverton, OR, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T18:01:44.161945+00:00"
   }
 ]
