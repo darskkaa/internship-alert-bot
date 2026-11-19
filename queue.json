@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east",
-    "company": "Amazon",
-    "role": "Data Center Infrastructure Engineer Intern, Summer 2027 - East",
-    "location": "Herndon, Virginia, USA",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T17:11:22.778784+00:00"
-  },
-  {
-    "apply_url": "https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast",
-    "company": "Amazon",
-    "role": "Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast",
-    "location": "Umatilla, Oregon, USA",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-14T17:11:22.778784+00:00"
-  },
-  {
     "apply_url": "https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false",
     "company": "SAS",
     "role": "IoT Product Strategy Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T01:12:18.746804+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Thermal-Engineer-Intern---Azusa-CA_R10261449",
+    "company": "Northrop Grumman",
+    "role": "2027 Thermal Engineer Intern - Azusa CA",
+    "location": "United States-California-Azusa",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T01:52:08.806565+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/XMLNAME-2027-Propulsion-Test-Engineer-Intern---Edwards-AFB-CA_R10261436",
+    "company": "Northrop Grumman",
+    "role": "2027 Propulsion Test Engineer Intern - Edwards AFB CA",
+    "location": "United States-California-Edwards AFB",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T01:52:08.806565+00:00"
   }
 ]
