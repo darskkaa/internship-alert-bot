@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009",
-    "company": "Fanatics",
-    "role": "People Intelligence Intern",
-    "location": "NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-15T16:11:47.802736+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009",
     "company": "Fanatics",
     "role": "Product Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T04:32:12.494723+00:00"
+  },
+  {
+    "apply_url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1",
+    "company": "Carnegie Mellon University",
+    "role": "AI Engineer Intern - Mission Innovation Lab",
+    "location": "Pittsburgh, PA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T08:12:17.329338+00:00"
   }
 ]
