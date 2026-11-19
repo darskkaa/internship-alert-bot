@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/El-Puerto-Sta-Maria/XMLNAME--DISCOVER-I-2027-2028-Composite-Process-Engineer-Internship_JR10456435",
-    "company": "Airbus",
-    "role": "#DISCOVER I 2027-2028 Composite Process Engineer Internship",
-    "location": "El Puerto Sta Maria",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T20:22:04.701127+00:00"
-  },
-  {
-    "apply_url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Technical-Training-Content-Creation-Co-Op_R20802",
-    "company": "ZOLL Medical Corporation",
-    "role": "Technical Training Content Creation Co-Op",
-    "location": "Chelmsford, MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T20:42:12.861254+00:00"
-  },
-  {
-    "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Underwriting-Product-Management-Intern--Year-Round-_R9910-1",
-    "company": "Great American Insurance Company",
-    "role": "Underwriting/Product Management Intern (Year-Round)",
-    "location": "Cincinnati, OH (USA)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T20:42:12.861254+00:00"
-  },
-  {
     "apply_url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778",
     "company": "Lumentum",
     "role": "AI Engineer - Co-op/Intern",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T22:41:37.003389+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Computational-Biology---Medicine--CBM--Immunology_202611-129665",
+    "company": "Genentech",
+    "role": "2027 Summer Intern - Computational Biology & Medicine (CBM) Immunology",
+    "location": "South San Francisco",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T23:01:32.564676+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1",
+    "company": "Genentech",
+    "role": "2027 Summer Intern - AI for Drug Discovery (AIDD)",
+    "location": "New York City",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T23:01:32.564676+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5490107008",
+    "company": "QuEra Computing",
+    "role": "Intern, Quantum Calibrations, Quantum Computing Services",
+    "location": "Boston, MA, USA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T23:01:32.564676+00:00"
   }
 ]
