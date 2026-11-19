@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T11:01:51.684364+00:00",
+  "last_checked_utc": "2026-11-19T12:31:48.499518+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16684,6 +16684,7 @@
     "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1",
     "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996",
     "https://sedgwick.wd1.myworkdayjobs.com/Sedgwick/job/Telecommuter-MA/Data-Analyst-Intern_R79691",
+    "https://selinc.wd1.myworkdayjobs.com/SEL/job/California---Irvine/Electrical-Engineering-Intern_2026-24990-1",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Electrical-Engineering-Intern_2026-23433",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Electrical-Engineering-Intern_2026-24188",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Florida---Wesley-Chapel/Electrical-Engineering-Intern_2026-22684",
@@ -16719,6 +16720,7 @@
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Power-Engineering-Intern_2026-22717",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Research-Intern---Business-Development_2026-19576-1",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-23816",
+    "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-24060",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-24190",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/UI-UX-Designer-Intern_2026-24271",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231",
@@ -37591,6 +37593,7 @@
     "job:workday:selinc:electrical-engineering-intern_2026-23753",
     "job:workday:selinc:electrical-engineering-intern_2026-23755",
     "job:workday:selinc:electrical-engineering-intern_2026-24188",
+    "job:workday:selinc:electrical-engineering-intern_2026-24990-1",
     "job:workday:selinc:electrical-engineering-specialist-intern_2026-23259",
     "job:workday:selinc:engineering-intern_2025-18137",
     "job:workday:selinc:engineering-intern_2026-20169",
@@ -37614,6 +37617,7 @@
     "job:workday:selinc:software-engineer-intern_2026-22958",
     "job:workday:selinc:software-engineer-intern_2026-23076",
     "job:workday:selinc:software-engineer-intern_2026-23816",
+    "job:workday:selinc:software-engineer-intern_2026-24060",
     "job:workday:selinc:software-engineer-intern_2026-24190",
     "job:workday:selinc:software-engineering-intern---power-systems_2026-22933",
     "job:workday:selinc:ui-ux-designer-intern_2026-24271",
