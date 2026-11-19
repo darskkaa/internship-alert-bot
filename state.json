@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T17:11:52.836495+00:00",
+  "last_checked_utc": "2026-11-19T17:21:35.000940+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3241,6 +3241,8 @@
     "https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008",
     "https://boards.greenhouse.io/lightmatter/jobs/5473740008",
     "https://boards.greenhouse.io/lightmatter/jobs/5473740008?gh_jid=5473740008",
+    "https://boards.greenhouse.io/lightmatter/jobs/5473749008?gh_jid=5473749008",
+    "https://boards.greenhouse.io/lightmatter/jobs/5473774008?gh_jid=5473774008",
     "https://boards.greenhouse.io/lightmatter/jobs/5473869008",
     "https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008",
     "https://boards.greenhouse.io/lightmatter/jobs/5474690008",
@@ -27053,6 +27055,8 @@
     "job:greenhouse:5470001008",
     "job:greenhouse:5470246008",
     "job:greenhouse:5473740008",
+    "job:greenhouse:5473749008",
+    "job:greenhouse:5473774008",
     "job:greenhouse:5473803008",
     "job:greenhouse:5473869008",
     "job:greenhouse:5474346008",
@@ -39492,6 +39496,7 @@
     "light wonder software engineer intern",
     "lightcast software engineer intern 1076",
     "lightguide inc product innovation coop",
+    "lightmatter analog engineering intern summer 2027",
     "lightmatter data ai platform intern",
     "lightmatter data ai platform intern summer 2027",
     "lightmatter hardware test engineer intern",
