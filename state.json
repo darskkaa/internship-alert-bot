@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T04:32:12.521680+00:00",
+  "last_checked_utc": "2026-11-19T05:32:00.326461+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2552,6 +2552,7 @@
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356548",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356697",
+    "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Optical-Engineer--Co-op-_J-00357286",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Optical-Engineer--Co-op-_J-00357417",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Supplier-Quality-Engineer_J-00357508",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Tool-Center-Engineer--Co-op-_J-00358223",
@@ -19835,6 +19836,8 @@
     "asml internship computational imaging and metrology summer",
     "asml internship coop ai engineer",
     "asml internship coop data engineer",
+    "asml internship coop test and measurement facilities electrical engineer",
+    "asml internship coop test and measurement facilities liquid metal erosion",
     "asml internship data scientist",
     "asml internship design engineer",
     "asml internship droplet generation research",
@@ -30901,6 +30904,7 @@
     "job:workday:asml:internship---mechatronics-engineer_j-00356543",
     "job:workday:asml:internship---mechatronics-engineer_j-00356548",
     "job:workday:asml:internship---mechatronics-engineer_j-00356697",
+    "job:workday:asml:internship---optical-engineer--co-op-_j-00357286",
     "job:workday:asml:internship---optical-engineer--co-op-_j-00357417",
     "job:workday:asml:internship---optical-engineering--non-product-metrology_j-00355369",
     "job:workday:asml:internship---optical-engineering_j-00355371",
