@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://flowserve.wd1.myworkdayjobs.com/applied/job/Rancho-Dominguez-California-US/Project-Engineer-Co-op_R-21052",
-    "company": "Flowserve",
-    "role": "Project Engineer Co-op",
-    "location": "Rancho Dominguez, California US",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T18:12:10.326668+00:00"
-  },
-  {
     "apply_url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607332",
     "company": "WTW",
     "role": "Early Careers: Early Careers: Corporate Risk & Broking Construction Part-time Internship - 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T19:31:31.494139+00:00"
+  },
+  {
+    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Analysis-Engineer_J-00356966",
+    "company": "ASML",
+    "role": "Internship - Mechanical Analysis Engineer",
+    "location": "Wilton, CT, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T19:41:47.678459+00:00"
   }
 ]
