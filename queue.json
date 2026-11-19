@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship-Generative-AI-developer_J-00355346",
-    "company": "ASML",
-    "role": "Internship-Generative AI developer",
-    "location": "San Jose, CA, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T18:51:59.340002+00:00"
-  },
-  {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Supplier-Quality-Engineer_J-00357508",
-    "company": "ASML",
-    "role": "Internship - Supplier Quality Engineer",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T18:51:59.340002+00:00"
-  },
-  {
     "apply_url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Data-Science--SMAI_JR117444",
     "company": "Micron Technology",
     "role": "Intern - Data Science, SMAI",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T20:11:46.110600+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-AI-ML-Engineering-Intern---Morrisville-NC_R10261585-1",
+    "company": "Northrop Grumman",
+    "role": "2027 AI/ML Engineering Intern - Morrisville NC",
+    "location": "United States-North Carolina-Morrisville",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T20:31:39.703606+00:00"
+  },
+  {
+    "apply_url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064",
+    "company": "Neogen",
+    "role": "Software or Firmware Engineer Intern",
+    "location": "Oakdale",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T20:31:39.703606+00:00"
   }
 ]
