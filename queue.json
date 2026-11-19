@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e",
-    "company": "Toyota Research Institute",
-    "role": "Research Intern, Spatial Intelligence for Robotics",
-    "location": "Cambridge, MA",
-    "source": "Lever",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T15:42:15.951556+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726669006",
-    "company": "SharkNinja",
-    "role": "Electrical Engineer Intern",
-    "location": "London, UK",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T16:12:12.259642+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161793229",
     "company": "Robert Bosch Venture Capital",
     "role": "Data Analyst & Marketing/Sales Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T16:31:39.951602+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cybersecurity-Engineer-Intern_R10261475",
+    "company": "Northrop Grumman",
+    "role": "2027 Cybersecurity Engineer Intern",
+    "location": "United States-Utah-Roy +4 more",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T16:41:54.666497+00:00"
+  },
+  {
+    "apply_url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Luxembourg-Sige-Lux-House/INTERNSHIP---Process-Automation---AI-Analyst_REQ-10125007",
+    "company": "ING",
+    "role": "INTERNSHIP - Process Automation & AI Analyst",
+    "location": "Luxembourg (Si\u00e8ge Lux House)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T16:41:54.666497+00:00"
   }
 ]
