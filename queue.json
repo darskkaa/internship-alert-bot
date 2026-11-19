@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161793229",
-    "company": "Robert Bosch Venture Capital",
-    "role": "Data Analyst & Marketing/Sales Intern",
-    "location": "Denham, UK",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T16:12:12.259642+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/addepar1/jobs/8910324002",
-    "company": "Addepar",
-    "role": "Technical Product Management Intern - ADX",
-    "location": "NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T16:12:12.259642+00:00"
-  },
-  {
     "apply_url": "https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a",
     "company": "Shopify",
     "role": "Software Engineer Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T16:41:54.666497+00:00"
+  },
+  {
+    "apply_url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Summer-Intern--Fixed-Income-Pricing_332613-2",
+    "company": "S&P Global",
+    "role": "Summer Intern, Fixed Income Pricing",
+    "location": "New York, NY",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T17:01:49.477605+00:00"
+  },
+  {
+    "apply_url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Michigan---Kalamazoo/Paper---Pulp-Engineering-Technical-Sales--Intern_R00305937",
+    "company": "Ecolab",
+    "role": "Paper & Pulp Engineering Technical Sales  Intern",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T17:01:49.477605+00:00"
   }
 ]
