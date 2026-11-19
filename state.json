@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-19T08:12:17.357664+00:00",
+  "last_checked_utc": "2026-11-19T10:11:44.336800+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16623,6 +16623,7 @@
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-US-Advanced-Analytics-Cambridge-MA_R2865218",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Summer-Co-op-Manufacturing-Science--Analytics--and-Technology--Framingham--MA_R2865211",
+    "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gent/Research-Intern_R2879877-1",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/internship-6-months-data-and-ia-engineer_R2873938",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-6-mois-communication-scientifique_R2874270",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Praha/Analytics-and-PowerBI-Development-Intern_R2868855",
@@ -37522,6 +37523,7 @@
     "job:workday:sanofi:quality-systems-intern_r2872831-1",
     "job:workday:sanofi:quality-systems-internship----digital---validation-projects_r2877329",
     "job:workday:sanofi:quality-systems-internship_r2877324",
+    "job:workday:sanofi:research-intern_r2879877-1",
     "job:workday:sanofi:site-portfolio-intern_r2873717",
     "job:workday:sanofi:stage-6-mois-communication-scientifique_r2874270",
     "job:workday:sanofi:validation-engineering-intern_r2873342",
@@ -43554,6 +43556,7 @@
     "sanofi quality systems intern",
     "sanofi quality systems internship",
     "sanofi quality systems internship digital validation projects",
+    "sanofi research intern",
     "sanofi site portfolio intern",
     "sanofi us advanced analytics intern",
     "sanofi validation engineering intern",
