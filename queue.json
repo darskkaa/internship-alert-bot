@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---People-Analytics_2640527",
-    "company": "LabCorp",
-    "role": "Intern - People Analytics",
-    "location": "Durham NC",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T21:32:13.304051+00:00"
-  },
-  {
-    "apply_url": "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3",
-    "company": "Toyota Research Institute",
-    "role": "Robotics Intern, World Models, Multimodal Sensing",
-    "location": "Cambridge, MA",
-    "source": "Lever",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T21:32:13.304051+00:00"
-  },
-  {
     "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10491",
     "company": "Ralliant",
     "role": "Hardware Verification Engineer Co-op (Summer 2027)",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T23:21:31.759470+00:00"
+  },
+  {
+    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016340",
+    "company": "Texas Instruments",
+    "role": "Systems Engineering Intern - MEMS",
+    "location": "Santa Clara, CA, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T23:31:43.045138+00:00"
+  },
+  {
+    "apply_url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Science-Intern--Graduate---Summer-_1671421",
+    "company": "Centene",
+    "role": "Data Science Intern (Graduate - Summer)",
+    "location": "Remote-MO",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T23:31:43.045138+00:00"
   }
 ]
