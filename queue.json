@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/instil/b1be07e8-60de-432c-82ff-6ffb220ce563/application?embed=true",
-    "company": "Instil Software Ltd",
-    "role": "Software Engineer Placement Intern",
-    "location": "Belfast, UK",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T10:41:45.709250+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
     "company": "Octaura",
     "role": "Data Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T15:41:45.489413+00:00"
+  },
+  {
+    "apply_url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSATennesseeLexington-TN/Mechanical-Engineering-Intern_R0018523",
+    "company": "Nidec",
+    "role": "Mechanical Engineering Intern",
+    "location": "North America/USA/Tennessee/Lexington, TN",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-19T15:51:40.569076+00:00"
   }
 ]
