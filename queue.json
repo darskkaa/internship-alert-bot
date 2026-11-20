@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Research-Scientist-Intern---Summer-2027_REQ-15836",
-    "company": "Entegris",
-    "role": "Research Scientist Intern - Summer 2027",
-    "location": "Aurora, IL",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T01:02:03.917865+00:00"
-  },
-  {
     "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Manufacturing-Engineer-Intern---Summer-2027_REQ-15879",
     "company": "Entegris",
     "role": "Manufacturing Engineer Intern - Summer 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T03:21:44.070298+00:00"
+  },
+  {
+    "apply_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2027--Three-Month-Duration----_R57170",
+    "company": "Cadence Design Systems",
+    "role": "Intern Software Engineer, Summer 2027, Three Month Duration",
+    "location": "EDINBURGH 01",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T03:41:30.891148+00:00"
   }
 ]
