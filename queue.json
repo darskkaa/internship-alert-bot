@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply",
-    "company": "Quest Analytics",
-    "role": "Software Engineer Intern - C# - ASP.NET",
-    "location": "Overland Park, KS",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T23:41:57.731542+00:00"
-  },
-  {
     "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007",
     "company": "Anduril",
     "role": "2027 Mission Operations Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T00:31:32.046536+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990016986196",
+    "company": "Lawrence Livermore National Laboratory (LLNL)",
+    "role": "Nuclear and Chemical Sciences Division Graduate Intern - Summer 2027",
+    "location": "Livermore, CA, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T00:41:35.170106+00:00"
   }
 ]
