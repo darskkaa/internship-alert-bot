@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93",
-    "company": "Zoox",
-    "role": "UX Designer Intern [Summer 2027]",
-    "location": "Foster City, CA",
-    "source": "Lever",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T02:22:05.447599+00:00"
-  },
-  {
     "apply_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Investments---Direct-Private-Opportunities---Portfolio-Management---New-York_R267220",
     "company": "BlackRock",
     "role": "2027 MBA Internship Program - Investments - Direct Private Opportunities - Portfolio Management - New York",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T07:01:41.725804+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf",
+    "company": "Melaleuca",
+    "role": "Software Development Intern",
+    "location": "Idaho Falls, ID",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T07:41:31.951090+00:00"
   }
 ]
