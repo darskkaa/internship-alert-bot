@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Houston---Greenspoint-TX/Purchasing-Data-Validation-Intern_JR0049274",
-    "company": "ALFA LAVAL",
-    "role": "Purchasing Data Validation Intern",
-    "location": "Houston - Greenspoint, TX",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T18:32:26.901682+00:00"
-  },
-  {
-    "apply_url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/High-Point-NC-US/Mechanical-Design-Engineering-Intern_DT-20712",
-    "company": "Daimler Truck",
-    "role": "Mechanical Design Engineering Intern",
-    "location": "High Point, NC US",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T18:32:26.901682+00:00"
-  },
-  {
     "apply_url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Skawina/R-D-Simulation-Engeenering-Intern---FEM-FEA--M-F-D-_REQ2026082440",
     "company": "Valeo",
     "role": "R&D Simulation Engeenering Intern - FEM/FEA (M/F/D)",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T18:01:52.082043+00:00"
+  },
+  {
+    "apply_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166",
+    "company": "Walmart",
+    "role": "Summer 2027 MBA Intern: APD Product Manager - MBA",
+    "location": "(USA) Together Building AR Bentonville Home Office",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T18:11:39.892954+00:00"
+  },
+  {
+    "apply_url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Payer---Health-Systems-Oncology---Intern_R413129",
+    "company": "Merck",
+    "role": "2027 Future Talent Program - Payer & Health Systems Oncology - Intern",
+    "location": "USA - Pennsylvania - North Wales (Upper Gwynedd)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T18:11:39.892954+00:00"
   }
 ]
