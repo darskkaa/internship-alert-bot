@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T13:41:52.833943+00:00",
+  "last_checked_utc": "2026-11-20T14:11:37.243006+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5123,6 +5123,7 @@
     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002767",
     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Operations-Engineering-Intern--Summer-2027-_JR003037",
     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094",
+    "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Process-Automation-Co-Op_JR003160",
     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Intern--Summer-2027-_JR003095",
     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Engineering---DevOps-Intern_JR003155",
     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Intern--Summer-2027-_JR002945-1",
@@ -22563,6 +22564,7 @@
     "draper operations engineering intern summer 2027",
     "draper opticsphysics sensor engineer intern",
     "draper opticsphysics sensor engineering intern summer 2027",
+    "draper process automation coop",
     "draper requirements engineering intern digital engineering",
     "draper sensor electrical engineering intern summer 2027",
     "draper software engineering devops intern",
@@ -32731,6 +32733,7 @@
     "job:workday:draper:mechanical-engineering---system-packaging-intern_jr002767",
     "job:workday:draper:operations-engineering-intern--summer-2027-_jr003037",
     "job:workday:draper:optics-physics-sensor-engineering-intern--summer-2027-_jr003094",
+    "job:workday:draper:process-automation-co-op_jr003160",
     "job:workday:draper:sensor-electrical-engineering-intern--summer-2027-_jr003095",
     "job:workday:draper:software-engineering---devops-intern_jr003155",
     "job:workday:drivetime:analyst-intern--summer-2027-_r16502",

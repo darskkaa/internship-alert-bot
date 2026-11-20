@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49",
-    "company": "Toyota Research Institute",
-    "role": "Robotics Intern, Agentic Robotics",
-    "location": "Cambridge, MA",
-    "source": "Lever",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T17:32:06.770347+00:00"
-  },
-  {
     "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829-1",
     "company": "Marvell",
     "role": "AI Infrastructure Engineer Intern, MS - Summer 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T13:41:52.792978+00:00"
+  },
+  {
+    "apply_url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Process-Automation-Co-Op_JR003160",
+    "company": "Draper",
+    "role": "Process Automation Co-Op",
+    "location": "Cambridge, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T14:11:37.209676+00:00"
   }
 ]
