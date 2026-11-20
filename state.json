@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T14:31:38.434358+00:00",
+  "last_checked_utc": "2026-11-20T14:51:54.578184+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3704,6 +3704,7 @@
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/Exoskeleton-Design-and-Rehabilitation-Engineering-Intern_R8818",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Cloud-Security-Analyst-Intern_R8668",
+    "https://cai.wd5.myworkdayjobs.com/computer_aid/job/IL-CLIENT-STATE/Software-Developer-Intern_R8554",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Azure-Cloud-Security---Monitoring-Intern_R8641",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Azure-Cloud-Security---Monitoring-Intern_R8642",
     "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8655",
@@ -17778,6 +17779,7 @@
     "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684",
     "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684?utm_source=Simplify&ref=Simplify",
     "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537",
+    "https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/AI-Intern_R-9796",
     "https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/IT-Blockchain-Intern_R-8444",
     "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144",
     "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102542",
@@ -38813,6 +38815,7 @@
     "job:workday:uline:ux-design-internship---summer-2027_r266218",
     "job:workday:uline:ux-internship---summer-2027_r265920",
     "job:workday:uline:ux-internship---summer-2027_r268775",
+    "job:workday:umb:ai-intern_r-9796",
     "job:workday:umb:it-blockchain-intern_r-8444",
     "job:workday:umiami:data-science---ai-intern_r100102144",
     "job:workday:umiami:data-science---ai-intern_r100102542",
@@ -46182,6 +46185,7 @@
     "uline ux internship summer 2027",
     "ulta beauty digital product management intern",
     "ulta beauty supply chain data analytics intern",
+    "umb ai intern",
     "umb it blockchain intern",
     "uncountable fullstack intern",
     "uncountable working student software engineer munich",

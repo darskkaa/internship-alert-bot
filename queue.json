@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Summer-Co-op-Manufacturing-Science--Analytics--and-Technology--Framingham--MA_R2865211",
-    "company": "Sanofi",
-    "role": "2027 Summer Co-op Manufacturing Science, Analytics, and Technology, Framingham, MA",
-    "location": "Framingham, MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T17:52:03.996973+00:00"
-  },
-  {
     "apply_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Niskayuna/GE-Aerospace-Research---Composites-Internship--2027_R5043408",
     "company": "GE Aerospace",
     "role": "GE Aerospace Research - Composites Internship, 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T14:31:38.404351+00:00"
+  },
+  {
+    "apply_url": "https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/AI-Intern_R-9796",
+    "company": "UMB",
+    "role": "AI Intern",
+    "location": "Kansas City MO",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T14:51:54.549302+00:00"
   }
 ]
