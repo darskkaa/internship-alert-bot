@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T22:11:47.435760+00:00",
+  "last_checked_utc": "2026-11-20T22:21:42.831954+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3596,6 +3596,8 @@
     "https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Security-Operations-Intern---Summer-2027_R104533-1",
     "https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Store-Operations-Industrial-Engineer-Intern-Summer-2027_R105139",
     "https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Sustainability-Intern---Summer-2027_R104521",
+    "https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/09103---DC-Savannah/Distribution-Center-Industrial-Engineer-Intern---Summer-2027_R105240",
+    "https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/99520---DC-Riverside/Distribution-Center-Industrial-Engineer-Intern---Summer-2027_R105275",
     "https://c3.ai/job-description/8738918002?gh_jid=8738918002",
     "https://c3.ai/job-description/8739037002?gh_jid=8739037002",
     "https://c3.ai/job-description/8860563002?gh_jid=8860563002",
@@ -21268,6 +21270,7 @@
     "bti360 software engineer intern",
     "bti360 software engineering intern",
     "buildertrend software engineering intern",
+    "burlington stores distribution center industrial engineer intern summer 2027",
     "burlington stores security operations intern summer 2027",
     "burlington stores store operations industrial engineer internsummer 2027",
     "burlington stores sustainability intern",
@@ -32071,6 +32074,8 @@
     "job:workday:brunswick:software-engineering-intern_jr-051449",
     "job:workday:brunswick:transducer-engineering-intern_jr-051320",
     "job:workday:buildertrend:software-engineering-inter_jr-000467",
+    "job:workday:burlington:distribution-center-industrial-engineer-intern---summer-2027_r105240",
+    "job:workday:burlington:distribution-center-industrial-engineer-intern---summer-2027_r105275",
     "job:workday:burlington:security-operations-intern---summer-2027_r104533-1",
     "job:workday:burlington:store-operations-industrial-engineer-intern-summer-2027_r105139",
     "job:workday:burlington:sustainability-intern---summer-2027_r104521",
