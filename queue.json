@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007",
-    "company": "Anduril",
-    "role": "2027 Mission Operations Engineer Intern",
-    "location": "Honolulu, Hawaii, United States; Washington, District of Columbia, United States",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T23:41:57.731542+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true",
     "company": "Reliable Robotics",
     "role": "Displays Software Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T00:41:35.170106+00:00"
+  },
+  {
+    "apply_url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product---Engineering-Co-Op_Req199630",
+    "company": "The Home Depot",
+    "role": "Product & Engineering Co-Op",
+    "location": "STORE SUPPORT CENTER, ATLANTA - 9090",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T01:11:45.112322+00:00"
   }
 ]

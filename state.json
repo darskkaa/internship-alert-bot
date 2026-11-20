@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T01:01:55.402705+00:00",
+  "last_checked_utc": "2026-11-20T01:11:45.139061+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8555,6 +8555,7 @@
     "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/White-Plains-NY-Westchester-Hudson-Valley/Intern-Engineer---Summer-2027_R-32291",
     "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010",
     "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012",
+    "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product---Engineering-Co-Op_Req199630",
     "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Cybersecurity_Req191938",
     "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968",
     "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---PhD-Data-Science_Req191948",
@@ -34669,6 +34670,7 @@
     "job:workday:hntb:wed---new-grad-mechanical---fire-protection-engineer-i--for-current---recent-hntb-interns-only-_r-32196-1",
     "job:workday:homedepot:intern--ai-machine-learning-developer_req195010",
     "job:workday:homedepot:intern--full-stack-software-developer_req195012",
+    "job:workday:homedepot:product---engineering-co-op_req199630",
     "job:workday:homedepot:xmlname-2027-summer-internship---cybersecurity_req191938",
     "job:workday:homedepot:xmlname-2027-summer-internship---data-science---analytics_req191968",
     "job:workday:homedepot:xmlname-2027-summer-internship---phd-data-science_req191948",
@@ -45362,6 +45364,7 @@
     "the home depot data science intern",
     "the home depot intern ai machine learning developer",
     "the home depot intern full stack software developer",
+    "the home depot product engineering coop",
     "the home depot product management intern",
     "the home depot software engineer intern",
     "the marzetti company ai solutions intern human resources",
