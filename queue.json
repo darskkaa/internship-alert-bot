@@ -1,55 +1,5 @@
 [
   {
-    "apply_url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607348",
-    "company": "WTW",
-    "role": "Early Careers: Corporate Risk and Broking (CRB)- Internship - Facultative Reinsurance Placement - New York - 2027",
-    "location": "New York, NY, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T13:32:01.682356+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254",
-    "company": "Robert Bosch Venture Capital",
-    "role": "AI Application Intern (8 months/40 hours per week)",
-    "location": "Farmington Hills, MI, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T13:42:19.094391+00:00"
-  },
-  {
-    "apply_url": "https://jobs.lever.co/evr/5e2bb870-428b-4c25-9caa-2c96068428f0",
-    "company": "Elk Valley Resources",
-    "role": "January 2027 Mining and Geology Systems Co-op",
-    "location": "Calgary, AB",
-    "source": "Lever",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T13:52:14.306455+00:00"
-  },
-  {
-    "apply_url": "https://jobs.ashbyhq.com/socket/7b97ecb2-2fc6-4895-b8d9-7ce4174322e2",
-    "company": "Socket",
-    "role": "Research Intern",
-    "location": "United States",
-    "source": "Ashby",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T14:42:13.773691+00:00"
-  },
-  {
-    "apply_url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Optics-and-Optical-Engineering-R-D_R93286",
-    "company": "Smith+Nephew",
-    "role": "Intern Optics and Optical Engineering R&D",
-    "location": "Andover, MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T15:12:11.232330+00:00"
-  },
-  {
     "apply_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45986",
     "company": "Arcadis",
     "role": "Control, Automation & Energy Systems Engineering Intern",
@@ -2998,5 +2948,55 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/State-Street-Product-Team---Data-Intelligence---2027-Summer-Internship_R-801340",
+    "company": "State Street",
+    "role": "State Street Product Team - Data Intelligence - 2027 Summer Internship",
+    "location": "Cambridge, Massachusetts",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:21:44.584668+00:00"
+  },
+  {
+    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-s-Model-Risk-Management---Quantitative-Analyst---2027-Summer-Internship_R-801342",
+    "company": "State Street",
+    "role": "State Street\u2019s Model Risk Management - Quantitative Analyst - 2027 Summer Internship",
+    "location": "Boston, Massachusetts",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:21:44.584668+00:00"
+  },
+  {
+    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Fixed-Income-Technology---2027-Summer-Internship_R-801337-1",
+    "company": "State Street",
+    "role": "State Street Investment Management - Fixed Income Technology - 2027 Summer Internship",
+    "location": "Boston, Massachusetts",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:21:44.584668+00:00"
+  },
+  {
+    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Product-Management-Team---Business-Analyst---Summer-Internship-2027_R-801339",
+    "company": "State Street",
+    "role": "State Street Product Management Team - Business Analyst - Summer Internship 2027",
+    "location": "Boston, Massachusetts",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:21:44.584668+00:00"
+  },
+  {
+    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Model-Risk-Management---Quantitative-Analyst---2027-Summer-Internship_R-801343",
+    "company": "State Street",
+    "role": "State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship",
+    "location": "Boston, Massachusetts",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:21:44.584668+00:00"
   }
 ]
