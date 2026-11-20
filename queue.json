@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--May-2027-12-Months-_R10676",
-    "company": "SOTI",
-    "role": "Software Developer in Test Intern (May 2027 12 Months)",
-    "location": "Mississauga, Canada \u2013 Meadowvale Office (HQ)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T17:52:03.996973+00:00"
-  },
-  {
     "apply_url": "https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c",
     "company": "Exowatt",
     "role": "Robotics & Physical AI Spring Intern (Miami)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T15:41:36.279071+00:00"
+  },
+  {
+    "apply_url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Automation-Intern_R20929",
+    "company": "ZOLL Medical Corporation",
+    "role": "Software Automation Intern",
+    "location": "Chelmsford, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T15:51:50.569440+00:00"
   }
 ]

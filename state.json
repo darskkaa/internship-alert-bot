@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T15:41:36.309925+00:00",
+  "last_checked_utc": "2026-11-20T15:51:50.598405+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -18708,6 +18708,7 @@
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Biomedical-Engineering-Intern_R20769",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Manufacturing-Engineering-Co-Op_R20300",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Mechanical-Engineering-Intern_R20310",
+    "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Automation-Intern_R20929",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Supplier-Quality-Engineering-Co-Op_R20738-1",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Sustaining-Mechanical-Engineer-Intern_R20313",
     "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Technical-Training-Content-Creation-Co-Op_R20802",
@@ -39264,6 +39265,7 @@
     "job:workday:zoll:mechanical-engineering-co-op_r20707",
     "job:workday:zoll:mechanical-engineering-intern_r20310",
     "job:workday:zoll:operations-engineering-co-op---spring-summer_r20411",
+    "job:workday:zoll:software-automation-intern_r20929",
     "job:workday:zoll:supplier-quality-engineering-co-op_r20738-1",
     "job:workday:zoll:sustaining-mechanical-engineer-intern_r20313",
     "job:workday:zoll:technical-training-content-creation-co-op_r20802",
@@ -47242,6 +47244,7 @@
     "zoll medical corporation mechanical engineering coop",
     "zoll medical corporation mechanical engineering intern",
     "zoll medical corporation operations engineering coop springsummer",
+    "zoll medical corporation software automation intern",
     "zoll medical corporation supplier quality engineering coop",
     "zoll medical corporation sustaining mechanical engineer intern",
     "zoll medical corporation technical training content creation coop",
