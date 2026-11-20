@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/AI-Research-Launch-Intern_R30599",
-    "company": "Crowdstrike",
-    "role": "AI Research Launch Intern",
-    "location": "4 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T20:52:01.935896+00:00"
-  },
-  {
-    "apply_url": "https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862",
-    "company": "Lean TECHniques",
-    "role": "Software Intern - Hybrid",
-    "location": "Hybrid",
-    "source": "Ashby",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T21:12:07.920711+00:00"
-  },
-  {
-    "apply_url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering--Security---Operations_JR26100273",
-    "company": "Manulife Financial",
-    "role": "Summer Intern 2027 - Software Engineering, Security & Operations",
-    "location": "Boston, Massachusetts",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T21:22:13.321874+00:00"
-  },
-  {
     "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Newtown-CT/XMLNAME-2027-Distribution-Engineering-Intern--CT--Hybrid-Schedule-_R-032403",
     "company": "Eversource Energy",
     "role": "2027 Distribution Engineering Intern (CT, Hybrid Schedule)",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T19:11:43.209401+00:00"
+  },
+  {
+    "apply_url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Research-Intern---Agentic-AI---NLP---ML_JREQ205375",
+    "company": "Thomson Reuters",
+    "role": "Research Intern - Agentic AI / NLP / ML",
+    "location": "N/A",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T19:31:44.910951+00:00"
+  },
+  {
+    "apply_url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Research-Intern---KG---Agentic-AI---ML_JREQ205376",
+    "company": "Thomson Reuters",
+    "role": "Research Intern - KG / Agentic AI / ML",
+    "location": "N/A",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T19:31:44.910951+00:00"
+  },
+  {
+    "apply_url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45321",
+    "company": "NOV",
+    "role": "Forward Deployed Engineer Intern",
+    "location": "Houston, TX, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T19:31:44.910951+00:00"
   }
 ]
