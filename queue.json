@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Firmware-Intern_2642154-1",
-    "company": "KLA Corporation",
-    "role": "Firmware Intern",
-    "location": "Milpitas, CA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T01:02:03.917865+00:00"
-  },
-  {
-    "apply_url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771",
-    "company": "Lumentum",
-    "role": "Internship - Data Science & Analytics",
-    "location": "USA - CA - San Jose (Ridder)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T01:22:01.675837+00:00"
-  },
-  {
     "apply_url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Columbus-Ohio/XMLNAME-2027-Technology-Internship-Program---Cybersecurity--Columbus--OH-_R-10407190",
     "company": "Fiserv",
     "role": "2027 Technology Internship Program - Cybersecurity (Columbus, OH)",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T04:01:39.499450+00:00"
+  },
+  {
+    "apply_url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/CAN-TRNT-Virtual/Intern--Business-Systems-Analyst_JR0308628",
+    "company": "Fidelity National Information Services",
+    "role": "Intern, Business Systems Analyst",
+    "location": "CAN TRNT Virtual",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T04:11:39.598070+00:00"
+  },
+  {
+    "apply_url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/CAN-TRNT-Virtual/Intern--Digital-Media---UX-Design_JR0308625",
+    "company": "Fidelity National Information Services",
+    "role": "Intern, Digital Media / UX Design",
+    "location": "CAN TRNT Virtual",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T04:11:39.598070+00:00"
   }
 ]
