@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F135-Engine-Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01886311",
-    "company": "RTX",
-    "role": "F135 Engine Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite)",
-    "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T17:02:19.122952+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/Intuitive/744000162128885",
-    "company": "Intuitive Surgical",
-    "role": "Clinical Development Engineering Intern",
-    "location": "Sunnyvale, CA, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T17:02:19.122952+00:00"
-  },
-  {
-    "apply_url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Summer-Intern--Client-Services--Equity-Analytics-Products_332606-1",
-    "company": "S&P Global",
-    "role": "Summer Intern, Client Services, Equity Analytics Products",
-    "location": "New York, NY",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T17:06:45.597750+00:00"
-  },
-  {
     "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008",
     "company": "Lightmatter",
     "role": "Product & Test Engineering, Intern Summer 2027",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T11:41:40.164508+00:00"
+  },
+  {
+    "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Anagni/Qualification---Validation-Internship_R2879887",
+    "company": "Sanofi",
+    "role": "Qualification & Validation Internship",
+    "location": "Anagni",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T13:21:35.058590+00:00"
+  },
+  {
+    "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gent/Junior-Associate-Scientist--Intern-Host-Creation-_R2879993",
+    "company": "Sanofi",
+    "role": "Junior Associate Scientist (Intern Host Creation)",
+    "location": "Gent",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T13:21:35.058590+00:00"
+  },
+  {
+    "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gent/Junior-Associate-Scientist--Intern-USP-_R2879991",
+    "company": "Sanofi",
+    "role": "Junior Associate Scientist (Intern USP)",
+    "location": "Gent",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T13:21:35.058590+00:00"
   }
 ]
