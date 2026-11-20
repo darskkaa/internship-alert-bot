@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T05:11:41.853389+00:00",
+  "last_checked_utc": "2026-11-20T07:01:41.754871+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3679,6 +3679,7 @@
     "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Intern---Data-Center-GTM-Intern_R57099-1",
     "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/IT-Internship--Techstop-Support-_R57021-3",
     "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-1",
+    "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254",
     "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282",
     "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/VALBONNE-Sophia/Intern--AI-for-Silicon-Test-Data-Analytics---Failure-Analysis_R56810",
     "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/VALBONNE-Sophia/Intern--AI-for-Smarter-ATE-Test-Development---Debug_R56811",
@@ -21289,6 +21290,7 @@
     "cadence design systems product engineering intern electronics hardware design",
     "cadence design systems product engineering internship electronics hardware design fall 2026",
     "cadence design systems software engineering intern",
+    "cadence design systems software engineering intern circuit simulation infrastructure",
     "cadence design systems software intern",
     "cadence solutions product management intern",
     "cadence solutions software engineer intern",
@@ -31968,6 +31970,7 @@
     "job:workday:cadence:product-engineering-internship--electronics-hardware-design--fall-2026-_r54158",
     "job:workday:cadence:product-engineering-internship--electronics-hardware-design--fall-2026-_r54158-1",
     "job:workday:cadence:product-engineering-internship--electronics-hardware-design--fall-2026-_r54158-2",
+    "job:workday:cadence:software-engineering-intern---circuit-simulation-infrastructure_r57254",
     "job:workday:cadence:software-engineering-intern_r57179",
     "job:workday:cadence:software-intern_r53282",
     "job:workday:cadence:software-intern_r53282-1",
