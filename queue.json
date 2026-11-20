@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016343",
-    "company": "Texas Instruments",
-    "role": "Systems Engineering Intern - Power",
-    "location": "Dallas, TX, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T23:22:12.141640+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/illumio/8013747a-938c-41ef-9d5b-7b6188ae0b5c",
     "company": "Illumio",
     "role": "Security and Compliance Analyst Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T20:31:44.128157+00:00"
+  },
+  {
+    "apply_url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa/Member-of-Technical-Staff--Intern_R0348683-2",
+    "company": "Thales",
+    "role": "Member of Technical Staff- Intern",
+    "location": "Ottawa",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T20:41:50.433520+00:00"
   }
 ]
