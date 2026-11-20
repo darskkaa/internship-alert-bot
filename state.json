@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T20:21:48.244824+00:00",
+  "last_checked_utc": "2026-11-20T20:31:44.155833+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2510,6 +2510,7 @@
     "https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Albany-NY-USA/Internship---Field-Service-Engineer_J-00357527",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717",
+    "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Internship-Field-Service-Engineer_J-00355817",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/N-Phoenix-AZ-USA/Internship---Supply-Chain-Analytics_J-00356114",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Contract-Management-and-AI_J-00357971",
@@ -20165,6 +20166,7 @@
     "asml internship tool center engineer coop",
     "asml internshipcoop ai engineer",
     "asml internshipcoop data engineer",
+    "asml internshipfield service engineer",
     "asml internshipgenerative ai developer",
     "asml internshipoptical imaging product engineer",
     "asml internshipoptical modeling and simulation engineering",
@@ -31403,6 +31405,7 @@
     "job:workday:asml:internship--software-development-engineer-in-test_j-00354459",
     "job:workday:asml:internship-co-op--ai-engineer_j-00355629",
     "job:workday:asml:internship-co-op--data-engineer_j-00355626",
+    "job:workday:asml:internship-field-service-engineer_j-00355817",
     "job:workday:asml:internship-generative-ai-developer_j-00355346",
     "job:workday:asml:internship-optical-imaging-product-engineer_j-00355188",
     "job:workday:asml:internship-optical-modeling-and-simulation-engineering_j-00354940",

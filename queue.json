@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Cybersecurity-Intern---Summer-2027_335105",
-    "company": "CACI",
-    "role": "Cybersecurity Intern - Summer 2027",
-    "location": "2 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T22:31:59.443556+00:00"
-  },
-  {
     "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016343",
     "company": "Texas Instruments",
     "role": "Systems Engineering Intern - Power",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T20:21:48.219472+00:00"
+  },
+  {
+    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Internship-Field-Service-Engineer_J-00355817",
+    "company": "ASML",
+    "role": "Internship-Field Service Engineer",
+    "location": "Hillsboro, OR, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T20:31:44.128157+00:00"
   }
 ]
