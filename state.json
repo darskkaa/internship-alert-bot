@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T14:11:37.243006+00:00",
+  "last_checked_utc": "2026-11-20T14:31:38.434358+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17339,6 +17339,7 @@
     "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330",
     "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Liquidity-Optimization-Intern_R-001346",
     "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Systematic-Multi-Strategy-Intern_R-001342",
+    "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1",
     "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Brooksville-FL/Co-Op--System-Engineer_R8261",
     "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Melrose-Park-IL/Co-Op--System-Engineer_R8215",
     "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Palestine-TX/Co-Op--System-Engineer_R8211",
@@ -38447,6 +38448,7 @@
     "job:workday:symbotic:intern--machine-learning-ops_r8202",
     "job:workday:symbotic:intern--manufacturing-engineer_r8400",
     "job:workday:symbotic:intern--robot-manipulation_r8278",
+    "job:workday:symbotic:intern--software-engineer--front-end_r8567-1",
     "job:workday:symbotic:phd-applied-scientist--routing_r7966",
     "job:workday:symbotic:software-engineer_r7963",
     "job:workday:synchronyfinancial:blp-intern---data-analytics_2601688",
@@ -45050,6 +45052,7 @@
     "symbotic intern phd applied scientist robotics planning",
     "symbotic intern phd applied scientist routing",
     "symbotic intern software engineer",
+    "symbotic intern software engineer frontend",
     "symbotic robot manipulation intern",
     "synchrony financial blp intern data analytics",
     "synchrony financial blp intern risk",
