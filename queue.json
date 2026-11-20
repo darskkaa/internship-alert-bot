@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775",
-    "company": "Amentum",
-    "role": "Software Programmer Intern",
-    "location": "US-TN-Tullahoma",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T23:53:34.991434+00:00"
-  },
-  {
-    "apply_url": "https://theirc.wd1.myworkdayjobs.com/External_Careers/job/Elizabeth-NJ-USA/Youth-Programming-Intern--Unpaid-_JR00003983",
-    "company": "International Rescue Committee (IRC)",
-    "role": "Youth Programming Intern (Unpaid)",
-    "location": "Elizabeth, NJ USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T00:02:27.923811+00:00"
-  },
-  {
     "apply_url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Engineering---DevOps-Intern_JR003155",
     "company": "Draper",
     "role": "Software Engineering & DevOps Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T22:51:40.800092+00:00"
+  },
+  {
+    "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Dulles-VA-US/Hardware-Production-Technician-Intern---Summer-2027_335319",
+    "company": "CACI",
+    "role": "Hardware Production Technician Intern - Summer 2027",
+    "location": "Dulles, VA, US",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:01:58.833300+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/Intuitive/744000162832659",
+    "company": "Intuitive Surgical",
+    "role": "Data Engineering Intern",
+    "location": "Sunnyvale, CA, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:01:58.833300+00:00"
   }
 ]
