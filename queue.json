@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://impulsespace.pinpointhq.com/en/postings/829256fd-cd06-4f0d-91c9-8bb59eaf6772?ats=pinpointhq",
-    "company": "Impulse Space",
-    "role": "Digital Design Engineering Intern - FPGA/ASIC",
-    "location": "Redondo Beach, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T23:41:57.731542+00:00"
-  },
-  {
     "apply_url": "https://lifeattiktok.com/search/7708750900450134325",
     "company": "TikTok",
     "role": "Client Security & Data Foundation Machine Learning Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T00:11:39.753497+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990016985836",
+    "company": "Lawrence Livermore National Laboratory (LLNL)",
+    "role": "Seaborg Institute Nuclear Science and Security Graduate Intern - Summer 2027",
+    "location": "Livermore, CA, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T00:21:37.481526+00:00"
   }
 ]
