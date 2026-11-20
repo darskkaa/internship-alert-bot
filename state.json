@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T01:21:51.785975+00:00",
+  "last_checked_utc": "2026-11-20T02:31:37.901546+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3079,6 +3079,9 @@
     "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/Gurugram-India/Technology-Intern--BlackRock_R266314",
     "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Investments---Direct-Private-Opportunities---Portfolio-Management---New-York_R267220",
     "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Edinburgh-Scotland/Veteran---Elite-Athletes-Internship-Programme---Edinburgh_R266225",
+    "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Investments---Direct-Private-Opportunities---Portfolio-Management---New-York_R267220-2",
+    "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477",
+    "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476",
     "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470",
     "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465",
     "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468",
@@ -20677,6 +20680,8 @@
     "blackhawk network holdings product management intern",
     "blackhawk network holdings technology intern",
     "blackrock 2027 mba internship program investments direct private opportunities portfolio management new york",
+    "blackrock 2027 quantitative masters internship program technology analytics modeling new york",
+    "blackrock 2027 quantitative masters internship program technology analytics modeling san francisco",
     "blackrock quantitative masters intern investments global capital markets",
     "blackrock quantitative masters intern investments portfolio management",
     "blackrock quantitative masters intern investments quantitative investing",
@@ -31638,6 +31643,7 @@
     "job:workday:blackrock:technology-intern--blackrock_r266314",
     "job:workday:blackrock:veteran---elite-athletes-internship-programme---edinburgh_r266225",
     "job:workday:blackrock:xmlname-2027-mba-internship-program---investments---direct-private-opportunities---portfolio-management---new-york_r267220",
+    "job:workday:blackrock:xmlname-2027-mba-internship-program---investments---direct-private-opportunities---portfolio-management---new-york_r267220-2",
     "job:workday:blackrock:xmlname-2027-quantitative-masters-internship-program---investments---global-capital-markets---new-york_r266468",
     "job:workday:blackrock:xmlname-2027-quantitative-masters-internship-program---investments---global-capital-markets---san-francisco_r266469",
     "job:workday:blackrock:xmlname-2027-quantitative-masters-internship-program---investments---portfolio-management---atlanta_r266470",
