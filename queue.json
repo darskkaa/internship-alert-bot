@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.jobvite.com/nychdc/job/o8D0Afw5?nl=1&nl=1&fr=false",
-    "company": "New York City Housing Development Corporation",
-    "role": "Strategic Operations Graduate Intern",
-    "location": "NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T23:42:07.347528+00:00"
-  },
-  {
-    "apply_url": "https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a",
-    "company": "Raptor Maps",
-    "role": "Software Engineer Intern",
-    "location": "Somerville, MA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T23:42:07.347528+00:00"
-  },
-  {
-    "apply_url": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164",
-    "company": "APEX Analytix",
-    "role": "Product Management Intern - DevOps",
-    "location": "Greensboro, NC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T23:42:07.347528+00:00"
-  },
-  {
     "apply_url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/DevOps-Analyst-Intern_R-6724",
     "company": "TMX Group",
     "role": "DevOps Analyst Intern",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T21:51:39.482198+00:00"
+  },
+  {
+    "apply_url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/IT-Intern--WI-_JR105139",
+    "company": "Greenheck Group",
+    "role": "IT Intern Opportunities",
+    "location": "Schofield, WI",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T22:01:44.187953+00:00"
+  },
+  {
+    "apply_url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Product-Application-Engineer-Co-op-Opportunities_JR105141",
+    "company": "Greenheck Group",
+    "role": "Product Application Engineer Co-op Opportunities",
+    "location": "Schofield, WI",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T22:01:44.187953+00:00"
+  },
+  {
+    "apply_url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Marion-NC/Product-Development-Engineer-Co-Op_JR104708",
+    "company": "Greenheck Group",
+    "role": "Product Development Engineer Co-Op",
+    "location": "Marion, NC",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T22:01:44.187953+00:00"
   }
 ]
