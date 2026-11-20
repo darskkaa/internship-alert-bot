@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T16:41:37.122552+00:00",
+  "last_checked_utc": "2026-11-20T16:51:43.475695+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16655,6 +16655,7 @@
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1",
+    "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern---ISM--Cyber-Security-and-AI_R26-5040-2",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2",
     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Customer-Response-Engineering_R26-7270-1",
@@ -37800,6 +37801,7 @@
     "job:workday:rockwellautomation:firmware-engineer-intern_r26-8321-2",
     "job:workday:rockwellautomation:intern---embedded-controls-engineering_r26-5043-1",
     "job:workday:rockwellautomation:intern---embedded-controls-engineering_r26-5043-2",
+    "job:workday:rockwellautomation:intern---ism--cyber-security-and-ai_r26-5040-2",
     "job:workday:rockwellautomation:intern--ai-software-engineering--june-august-2027-_r26-6980",
     "job:workday:rockwellautomation:intern--ai-software-engineering--june-august-2027-_r26-6980-1",
     "job:workday:rockwellautomation:intern--application-engineer_r26-7707",
@@ -43576,6 +43578,7 @@
     "rockwell automation intern firmware engineering",
     "rockwell automation intern hardware development engineer may aug 2027",
     "rockwell automation intern information technology",
+    "rockwell automation intern ism cyber security and ai",
     "rockwell automation intern marketing engineer",
     "rockwell automation intern product management",
     "rockwell automation intern software developerengineering",

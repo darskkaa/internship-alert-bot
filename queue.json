@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Human-Factors-Engineering_R10261097",
-    "company": "Northrop Grumman",
-    "role": "2027 Intern - Human Factors Engineering",
-    "location": "United States-Florida-Melbourne",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T18:22:03.110578+00:00"
-  },
-  {
     "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Industrial-Engineer-Intern---Apopka-FL_R10261054",
     "company": "Northrop Grumman",
     "role": "2027 Industrial Engineer Intern - Apopka FL",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T16:21:43.287061+00:00"
+  },
+  {
+    "apply_url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern---ISM--Cyber-Security-and-AI_R26-5040-2",
+    "company": "Rockwell Automation",
+    "role": "Intern - ISM, Cyber Security and AI",
+    "location": "Mayfield Heights, Ohio, United States",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T16:51:43.450032+00:00"
   }
 ]
