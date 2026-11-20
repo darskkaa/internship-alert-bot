@@ -1,65 +1,5 @@
 [
   {
-    "apply_url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Ohio-Holland/Engineering-Intern---Toledo--OH--Summer-2027-_WD51203",
-    "company": "Clarios",
-    "role": "Engineering Intern - Toledo, OH (Summer 2027)",
-    "location": "United States, Ohio, Holland",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T23:02:15.218817+00:00"
-  },
-  {
-    "apply_url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Santiago/Cloud-Services-Intern_R-059108",
-    "company": "Red Hat",
-    "role": "Cloud Services Intern",
-    "location": "Santiago",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T23:22:07.992715+00:00"
-  },
-  {
-    "apply_url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Segment-Marketing-Data-Analyst_JR116851",
-    "company": "Micron Technology",
-    "role": "Intern - Segment Marketing Data Analyst",
-    "location": "San Jose, CA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T23:32:05.177852+00:00"
-  },
-  {
-    "apply_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007840",
-    "company": "Stantec",
-    "role": "Electrical Engineering Intern/Co-op - Buildings (Summer 2027)",
-    "location": "Rochester, NY, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T23:32:05.177852+00:00"
-  },
-  {
-    "apply_url": "https://careers-sas.icims.com/jobs/42753/job?mobile=true&needsRedirect=false",
-    "company": "SAS",
-    "role": "Time Series Foundation Model Intern",
-    "location": "Cary, NC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T23:41:57.731542+00:00"
-  },
-  {
-    "apply_url": "https://careers-sas.icims.com/jobs/42754/job?mobile=true&needsRedirect=false",
-    "company": "SAS",
-    "role": "Optimization Intern",
-    "location": "Cary, NC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-16T23:41:57.731542+00:00"
-  },
-  {
     "apply_url": "https://impulsespace.pinpointhq.com/en/postings/829256fd-cd06-4f0d-91c9-8bb59eaf6772?ats=pinpointhq",
     "company": "Impulse Space",
     "role": "Digital Design Engineering Intern - FPGA/ASIC",
@@ -2998,5 +2938,65 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-19T23:51:39.238952+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489232008",
+    "company": "Scout Space",
+    "role": "Embedded Firmware Engineer Intern",
+    "location": "Reston, VA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T00:11:39.753497+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8400915",
+    "company": "Schonfeld",
+    "role": "PhD Quantitative Research Intern",
+    "location": "London, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T00:11:39.753497+00:00"
+  },
+  {
+    "apply_url": "https://amperity.com/careers?gh_jid=8393990#openpositions",
+    "company": "Amperity",
+    "role": "Software Development Engineer Intern",
+    "location": "Seattle, WA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T00:11:39.753497+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8398982",
+    "company": "Deliveroo",
+    "role": "Software Engineer Intern",
+    "location": "London, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T00:11:39.753497+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply",
+    "company": "Pivotal Software",
+    "role": "Autonomy Intern - Autonomy - Path Planning",
+    "location": "Palo Alto, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T00:11:39.753497+00:00"
+  },
+  {
+    "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557076095",
+    "company": "Microsoft",
+    "role": "Research Intern - Deep Learning Group",
+    "location": "Redmond, WA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T00:11:39.753497+00:00"
   }
 ]
