@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2027-Summer-Intern---Logistics-Engineering_202611-128366",
-    "company": "Roche",
-    "role": "2027 Summer Intern - Logistics Engineering",
-    "location": "Indianapolis",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T23:53:34.991434+00:00"
-  },
-  {
     "apply_url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775",
     "company": "Amentum",
     "role": "Software Programmer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T22:21:42.803459+00:00"
+  },
+  {
+    "apply_url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Optical-Systems-Student-Engineer_2641844-1",
+    "company": "KLA Corporation",
+    "role": "Optical Systems Engineering Intern",
+    "location": "Milpitas, CA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T22:51:40.800092+00:00"
   }
 ]
