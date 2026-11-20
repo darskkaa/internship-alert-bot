@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2/apply",
-    "company": "Duetti",
-    "role": "Product Intern",
-    "location": "NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T00:12:13.897594+00:00"
-  },
-  {
     "apply_url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Research-Scientist-Intern---Summer-2027_REQ-15836",
     "company": "Entegris",
     "role": "Research Scientist Intern - Summer 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T03:11:43.409156+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2",
+    "company": "OpusClip",
+    "role": "AI Research Intern",
+    "location": "Mountain View",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T03:21:44.070298+00:00"
   }
 ]
