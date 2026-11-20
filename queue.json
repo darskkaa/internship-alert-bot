@@ -1,85 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true",
-    "company": "Reliable Robotics",
-    "role": "Displays Software Engineer Intern",
-    "location": "Mountain View, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T00:12:13.897594+00:00"
-  },
-  {
-    "apply_url": "https://jmp-sas.icims.com/jobs/47455/job?mobile=true&needsRedirect=false",
-    "company": "JMP Statistical Discovery",
-    "role": "JMP Core User Interface Team R&D Intern - Master's/PhD",
-    "location": "Cary, NC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T00:12:13.897594+00:00"
-  },
-  {
-    "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Wichita-KS/Digital-Engineering-Intern_R0031381",
-    "company": "Sierra Nevada Corporation",
-    "role": "Digital Engineer Intern (Summer 2027)",
-    "location": "Wichita, KS",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T00:12:13.897594+00:00"
-  },
-  {
-    "apply_url": "https://i3-corps.jibeapply.com/jobs/5588?icims=1&lang=en-us",
-    "company": "Integration Innovation (i3)",
-    "role": "Embedded Systems Reverse Engineer Intern",
-    "location": "Washington, DC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T00:12:13.897594+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161885234",
-    "company": "ServiceNow",
-    "role": "Inbound Product Manager Intern",
-    "location": "San Diego, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T00:12:13.897594+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936020",
-    "company": "ServiceNow",
-    "role": "Forward Deployed Solution Engineer Intern",
-    "location": "Santa Clara, CA, NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T00:12:13.897594+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128",
-    "company": "ServiceNow",
-    "role": "Associate Forward Deployed Solution Engineer Intern",
-    "location": "Santa Clara, CA, NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T00:12:13.897594+00:00"
-  },
-  {
-    "apply_url": "https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd",
-    "company": "Bound",
-    "role": "Engineering Intern",
-    "location": "Ames, IA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T00:12:13.897594+00:00"
-  },
-  {
     "apply_url": "https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316",
     "company": "Bound",
     "role": "Product Management Intern",
@@ -2998,5 +2918,85 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T01:11:45.112322+00:00"
+  },
+  {
+    "apply_url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007",
+    "company": "Lucid Motors",
+    "role": "AI & Data Intern - Applied AI/Machine Learning",
+    "location": "Newark, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T02:41:32.026987+00:00"
+  },
+  {
+    "apply_url": "https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855",
+    "company": "Formlabs",
+    "role": "API & Automation Intern",
+    "location": "Somerville, MA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T02:41:32.026987+00:00"
+  },
+  {
+    "apply_url": "https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007",
+    "company": "Lucid Motors",
+    "role": "ADAS Systems Integration Intern",
+    "location": "Newark, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T02:41:32.026987+00:00"
+  },
+  {
+    "apply_url": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
+    "company": "Lucid Motors",
+    "role": "Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving",
+    "location": "Newark, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T02:41:32.026987+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623368",
+    "company": "LinkedIn",
+    "role": "Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems",
+    "location": "Mountain View, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T02:41:32.026987+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623639",
+    "company": "LinkedIn",
+    "role": "AI/ML Engineer Intern - Generative AI",
+    "location": "Mountain View, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T02:41:32.026987+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162628808",
+    "company": "LinkedIn",
+    "role": "AI/ML Engineer Intern",
+    "location": "Mountain View, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T02:41:32.026987+00:00"
+  },
+  {
+    "apply_url": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007",
+    "company": "Lucid Motors",
+    "role": "Infotainment Software Intern",
+    "location": "Newark, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T02:41:32.026987+00:00"
   }
 ]
