@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/illumio/8013747a-938c-41ef-9d5b-7b6188ae0b5c",
-    "company": "Illumio",
-    "role": "Security and Compliance Analyst Intern",
-    "location": "Sunnyvale, California - HQ",
-    "source": "Ashby",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T23:22:12.141640+00:00"
-  },
-  {
-    "apply_url": "https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false",
-    "company": "SAS",
-    "role": "IoT Analytics Intern",
-    "location": "Cary, NC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T23:42:07.347528+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?embed=true",
     "company": "Basis Research Institute",
     "role": "Research Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T20:41:50.433520+00:00"
+  },
+  {
+    "apply_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electrical-Engineer-Intern_1213420",
+    "company": "Hewlett Packard Enterprise",
+    "role": "Electrical Engineer Intern",
+    "location": "Chippewa Falls, Wisconsin, United States of America",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T21:11:47.733581+00:00"
+  },
+  {
+    "apply_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/HPC-Mechanical-Engineer-Intern_1213418",
+    "company": "Hewlett Packard Enterprise",
+    "role": "HPC Mechanical Engineer Intern",
+    "location": "Chippewa Falls, Wisconsin, United States of America",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T21:11:47.733581+00:00"
   }
 ]
