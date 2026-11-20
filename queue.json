@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319",
-    "company": "Texas Instruments",
-    "role": "Analog IC Design (AI/ML) Engineering Intern",
-    "location": "Dallas, TX, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T16:02:17.872747+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202834003",
     "company": "Soros Fund Management",
     "role": "Quantitative Strategist Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T10:31:45.620604+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002",
+    "company": "iCapital Network",
+    "role": "Data Solutions Intern",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T10:41:30.652876+00:00"
   }
 ]
