@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa/Research-and-Innovation-Intern_R0348073-1",
-    "company": "Thales",
-    "role": "Research and Innovation Intern",
-    "location": "Ottawa",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T17:52:03.996973+00:00"
-  },
-  {
     "apply_url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--May-2027-12-Months-_R10676",
     "company": "SOTI",
     "role": "Software Developer in Test Intern (May 2027 12 Months)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T15:21:50.388500+00:00"
+  },
+  {
+    "apply_url": "https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us",
+    "company": "Systems Planning and Analysis",
+    "role": "Integrated Analytics Intern",
+    "location": "Alexandria, VA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T15:41:36.279071+00:00"
   }
 ]
