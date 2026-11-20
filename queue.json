@@ -1,215 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.jobvite.com/cmimedia/job/oBH1sfwv?nl=1&nl=1&fr=false",
-    "company": "CMI Media Group",
-    "role": "Business Insights Intern",
-    "location": "Chicago, IL",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T00:12:17.187516+00:00"
-  },
-  {
-    "apply_url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983",
-    "company": "Uber",
-    "role": "Product Management Intern",
-    "location": "SF",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T00:12:17.187516+00:00"
-  },
-  {
-    "apply_url": "https://qualcomm.eightfold.ai/careers/job/446722176432",
-    "company": "Qualcomm",
-    "role": "AI/Machine Learning Intern - Interim Engineering Intern - SW",
-    "location": "Markham, ON, Canada",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T00:12:17.187516+00:00"
-  },
-  {
-    "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557075074",
-    "company": "Microsoft",
-    "role": "Research Intern - Frontier Tuning",
-    "location": "Boston, MA, SF, Redmond, WA, NYC, Sunnyvale, CA, Mountain View, CA, Baltimore, MD",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T00:12:17.187516+00:00"
-  },
-  {
-    "apply_url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors",
-    "company": "Paccar",
-    "role": "Data Scientist Intern",
-    "location": "Denton, TX",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T00:12:17.187516+00:00"
-  },
-  {
-    "apply_url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bridgetown/Assurance---Student-Delivery-Model--SDM--Intern_709003WD",
-    "company": "PricewaterhouseCoopers (PwC)",
-    "role": "Student Delivery Model (SDM) Internship programme",
-    "location": "Bridgetown",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T00:42:16.597843+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190640",
-    "company": "Veolia",
-    "role": "Process Engineering Operations Intern",
-    "location": "Oakville, ON, Canada",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T00:52:10.457908+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190929",
-    "company": "Veolia",
-    "role": "Mechanical Engineering Intern",
-    "location": "Boulder, CO, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T00:52:10.457908+00:00"
-  },
-  {
-    "apply_url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Kentucky-Florence/Engineering-Intern---Florence--KY--Summer-2027-_WD51291-1",
-    "company": "Clarios",
-    "role": "Engineering Intern - Florence, KY (Summer 2027)",
-    "location": "United States, Kentucky, Florence",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T01:52:23.541832+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000162212029",
-    "company": "Robert Bosch Venture Capital",
-    "role": "Robot Learning Research Intern",
-    "location": "Pittsburgh, PA, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T01:52:23.541832+00:00"
-  },
-  {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Albany-NY-USA/Internship---Field-Service-Engineer_J-00357527",
-    "company": "ASML",
-    "role": "Internship - Field Service Engineer",
-    "location": "Albany, NY, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T02:12:15.381525+00:00"
-  },
-  {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship-Optical-Imaging-Product-Engineer_J-00355188",
-    "company": "ASML",
-    "role": "Internship-Optical Imaging Product Engineer",
-    "location": "San Jose, CA, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T02:12:15.381525+00:00"
-  },
-  {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---EUV-Optical-Metrology-Engineer_J-00358146",
-    "company": "ASML",
-    "role": "Internship \u2013 EUV Optical Metrology Engineer",
-    "location": "San Diego, CA, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T02:12:15.381525+00:00"
-  },
-  {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Optical-Engineering_J-00355371",
-    "company": "ASML",
-    "role": "Internship - Optical Engineering",
-    "location": "San Diego, CA, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T02:12:15.381525+00:00"
-  },
-  {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Optical-Engineering--Non-Product-Metrology_J-00355369",
-    "company": "ASML",
-    "role": "Internship - Optical Engineering, Non Product Metrology",
-    "location": "San Diego, CA, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T02:12:15.381525+00:00"
-  },
-  {
-    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Thermal---Propulsion-Engineer-Intern---Redondo-Beach-CA_R10261254",
-    "company": "Northrop Grumman",
-    "role": "2027 Thermal / Propulsion Engineer Intern - Redondo Beach CA",
-    "location": "United States-California-Redondo Beach",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T02:32:03.518630+00:00"
-  },
-  {
-    "apply_url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633",
-    "company": "Sallie Mae",
-    "role": "Software Engineer Intern",
-    "location": "Indianapolis, IN",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T02:42:07.771878+00:00"
-  },
-  {
-    "apply_url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729",
-    "company": "Lumentum",
-    "role": "Internship - SW Developer Support - Program Management Office",
-    "location": "USA - CA - San Jose (Ridder)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T03:12:18.990175+00:00"
-  },
-  {
-    "apply_url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Analyst--Technology--Operations--Digital--and-Data-Regions-2026-Interns-only_R105132",
-    "company": "Regions Bank",
-    "role": "2027 ETP Analyst- Technology, Operations, Digital, and Data. Regions 2026 Interns only",
-    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T03:12:18.990175+00:00"
-  },
-  {
-    "apply_url": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749",
-    "company": "Smarty",
-    "role": "Product Management Intern",
-    "location": "Orem, UT",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T03:12:18.990175+00:00"
-  },
-  {
-    "apply_url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/_R0020366",
-    "company": "Howden",
-    "role": "Summer Broking Internship Program - Private Equity/Marine",
-    "location": "N/A",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T04:22:19.090402+00:00"
-  },
-  {
     "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Data-Scientist---Summer-Internship-2027_R-801213",
     "company": "State Street",
     "role": "State Street Investment Management - Data Scientist - Summer Internship 2027",
@@ -2998,5 +2788,215 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T23:22:07.527031+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?embed=true",
+    "company": "Shield AI",
+    "role": "Operational Analysis Intern - Operational Analysis",
+    "location": "Arlington County, Arlington, VA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007",
+    "company": "Lucid Motors",
+    "role": "AI/ML Intern - Vehicle Infotainment - Summer 2027",
+    "location": "Newark, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8400148",
+    "company": "Gusto",
+    "role": "Economics Research Intern",
+    "location": "SF",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us",
+    "company": "Constellation Energy",
+    "role": "Powerfolio Data Analyst Intern",
+    "location": "Houston, TX",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=52b782dd-a1b7-4a41-8bde-a39d265fc776",
+    "company": "GTI Energy",
+    "role": "Data Science Intern",
+    "location": "Des Plaines, IL",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=016d2b83-b435-4bb0-bb74-cb0555970a87",
+    "company": "Daikin Comfort",
+    "role": "Data Analyst Intern",
+    "location": "Waller, TX",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=00243c22-9228-4aab-8146-9699c52b1fa0",
+    "company": "Encore",
+    "role": "IT Data Analyst Intern",
+    "location": "Schiller Park, IL",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=542e34a6-1977-4fcb-a173-6f32705efcb8",
+    "company": "Encore",
+    "role": "IT Application Development Intern - Summer 2027",
+    "location": "Schiller Park, IL",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80",
+    "company": "AFL",
+    "role": "Web Design/Development Intern",
+    "location": "Duncan, SC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=6985c6f8-7b03-4906-8c45-1636863e8a58",
+    "company": "Avista",
+    "role": "Central Analytics Intern - Multiple Teams",
+    "location": "Spokane, WA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=31935864-401f-416a-9671-92af3d294895",
+    "company": "Jewelers Mutual Group",
+    "role": "Data Science Intern",
+    "location": "Neenah, WI",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=58e2b100-19b0-4b86-9204-6e04fc06943f",
+    "company": "Jewelers Mutual Group",
+    "role": "Business Intelligence Intern",
+    "location": "Neenah, WI",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=73e636fd-4bf6-45be-9b83-3f5d3a9315ea",
+    "company": "Jewelers Mutual Group",
+    "role": "Product Intern",
+    "location": "Neenah, WI",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=ee5ca626-0eea-4cb4-95ce-735ab0ebca6e",
+    "company": "Jewelers Mutual Group",
+    "role": "Behavioral Analytics Intern",
+    "location": "Raleigh, NC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557076525",
+    "company": "Microsoft",
+    "role": "Research Intern - Quantum Applications",
+    "location": "Redmond, WA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa",
+    "company": "Ulteig",
+    "role": "GIS Intern",
+    "location": "Remote in USA, Minneapolis, MN, Greenwood Village, CO",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/FIR1024FRME/JobBoard/d8ba2a8e-910f-42cf-9614-28c6f0ccdee4/OpportunityDetail?opportunityId=affbbaee-6ee2-45f7-a52b-7accf4458029",
+    "company": "First Merchants Bank",
+    "role": "Treasury Management Product Intern",
+    "location": "Columbus, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=053a469a-5814-43e3-aff9-af40031df83d",
+    "company": "Southwest Power Pool",
+    "role": "Market Monitoring Intern",
+    "location": "Little Rock, AR",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=51168e8a-cd42-4169-9c50-0019367a9d83",
+    "company": "Southwest Power Pool",
+    "role": "Operations Developer Intern",
+    "location": "Little Rock, AR",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=fc18a34f-19de-457e-910a-adb510ce2ec7",
+    "company": "GCI",
+    "role": "Targeting Intelligence Analyst Intern - Paid",
+    "location": "Virginia",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=561ce011-a9e5-4635-b991-2c8abd3d88bf",
+    "company": "GCI",
+    "role": "Software Developer Intern",
+    "location": "Virginia",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:41:55.173610+00:00"
   }
 ]
