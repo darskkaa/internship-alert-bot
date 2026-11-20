@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.lever.co/tri/0d74ff26-05cc-4616-bda0-97d821c9452b",
-    "company": "Toyota Research Institute",
-    "role": "Future Product Innovation Research Intern, Computational Cognitive Science",
-    "location": "Los Altos, CA",
-    "source": "Lever",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T21:42:00.841193+00:00"
-  },
-  {
-    "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Small-Business-Banking-Offers---Intern---Co-Op_R_1522533-1",
-    "company": "TD Bank",
-    "role": "Risk Management - Small Business Banking Offers - Intern / Co-Op",
-    "location": "Toronto, Ontario",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T22:12:21.015618+00:00"
-  },
-  {
     "apply_url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/LosAltos_CA/PhD-Research-Intern--AI-Lab_REQ26-1172",
     "company": "Interdigital",
     "role": "PhD Research Intern, AI Lab",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T19:51:45.374959+00:00"
+  },
+  {
+    "apply_url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Signal-Integrity-Engineering-Intern_JR0289449",
+    "company": "Intel",
+    "role": "Signal Integrity Engineering Intern",
+    "location": "US, Arizona, Phoenix",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T20:01:44.442771+00:00"
+  },
+  {
+    "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/33339",
+    "company": "Navy Federal",
+    "role": "Intern - Year Round (Systems Support)",
+    "location": "Pensacola, FL, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T20:01:44.442771+00:00"
   }
 ]
