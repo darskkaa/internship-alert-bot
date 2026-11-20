@@ -1,185 +1,5 @@
 [
   {
-    "apply_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Investments---Direct-Private-Opportunities---Portfolio-Management---New-York_R267220",
-    "company": "BlackRock",
-    "role": "2027 MBA Internship Program - Investments - Direct Private Opportunities - Portfolio Management - New York",
-    "location": "New York, NY",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T02:52:12.669259+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202862003",
-    "company": "Soros Fund Management",
-    "role": "Trading Intern - Middle and Back Office Dev",
-    "location": "NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T03:12:09.201568+00:00"
-  },
-  {
-    "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5478834008",
-    "company": "Lightmatter",
-    "role": "Optical Packaging Integration Intern",
-    "location": "Mountain View, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T03:12:09.201568+00:00"
-  },
-  {
-    "apply_url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---IT-Portfolio-Analyst-Intern_R-0000034092",
-    "company": "The Federal Reserve System",
-    "role": "2027 Summer Internship Program - IT Portfolio Analyst Intern",
-    "location": "Atlanta, GA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T04:42:00.037896+00:00"
-  },
-  {
-    "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-2",
-    "company": "GE Vernova",
-    "role": "GE Vernova Electrical Intern - Summer 2027",
-    "location": "Salem VA USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T04:52:03.059637+00:00"
-  },
-  {
-    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Wilmington---DE/Finance-AI---Data-Analytics-Intern--Undergraduate---LIFT-Program_R-264458",
-    "company": "AstraZeneca",
-    "role": "Finance AI & Data Analytics Intern, Undergraduate - LIFT Program",
-    "location": "US - Wilmington - DE",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T04:52:03.059637+00:00"
-  },
-  {
-    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Wilmington---DE/Commercial-IT-Intern--Undergraduate_R-264455",
-    "company": "AstraZeneca",
-    "role": "Commercial IT Intern, Undergraduate",
-    "location": "2 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T04:52:03.059637+00:00"
-  },
-  {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--AI-Research-and-Development_J-00357860",
-    "company": "ASML",
-    "role": "Internship- AI Research and Development",
-    "location": "San Jose, CA, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T05:42:12.151521+00:00"
-  },
-  {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Tool-Center-Engineer--Co-op-_J-00358223",
-    "company": "ASML",
-    "role": "Internship - Tool Center Engineer (Co-op)",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T05:42:12.151521+00:00"
-  },
-  {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Optical-Engineer--Co-op-_J-00357417",
-    "company": "ASML",
-    "role": "Internship - Optical Engineer (Co-op)",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T05:42:12.151521+00:00"
-  },
-  {
-    "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/RAN-System-Performance-Intern_R122138",
-    "company": "Samsung",
-    "role": "RAN System Performance Intern",
-    "location": "6555 Excellence Way, Plano, TX, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T06:52:00.632830+00:00"
-  },
-  {
-    "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020",
-    "company": "Samsung",
-    "role": "Technical Product Management Intern ( D2C Shopping Experiences (Mobile & Consumer Electronics)",
-    "location": "645 Clyde Avenue, Mountain View, CA, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T06:52:00.632830+00:00"
-  },
-  {
-    "apply_url": "https://alloptions.bamboohr.com/careers/85/",
-    "company": "All Options",
-    "role": "Graduate Quantitative Trader Intern",
-    "location": "Austin, TX",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T07:38:44.518340+00:00"
-  },
-  {
-    "apply_url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Standards-Assurance-and-Risk-Monitoring_JR26071466",
-    "company": "Manulife Financial",
-    "role": "Winter Co-op 2027 - Standards Assurance and Risk Monitoring",
-    "location": "Toronto, Ontario",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T08:32:04.045640+00:00"
-  },
-  {
-    "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2027-Summer-Intern---GCS-ML-Sequencing_202611-128793",
-    "company": "Roche",
-    "role": "2027 Summer Intern - GCS ML Sequencing",
-    "location": "Santa Clara",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T08:32:04.045640+00:00"
-  },
-  {
-    "apply_url": "https://jobs.lever.co/syntax/75c16db8-4cfd-4d7c-98b0-c9153e2034fe/apply",
-    "company": "Syntax",
-    "role": "Index Analyst Intern",
-    "location": "NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T10:12:01.226487+00:00"
-  },
-  {
-    "apply_url": "https://rcoc.bamboohr.com/careers/314/",
-    "company": "Road Commission for Oakland County",
-    "role": "Geographic Information Systems Intern",
-    "location": "Michigan",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T10:42:42.201685+00:00"
-  },
-  {
-    "apply_url": "https://surepoint.bamboohr.com/careers/109/",
-    "company": "SurePoint Ag Systems",
-    "role": "Drone Imaging Agronomy Intern",
-    "location": "Manhattan, KS",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T10:42:42.201685+00:00"
-  },
-  {
     "apply_url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607348",
     "company": "WTW",
     "role": "Early Careers: Corporate Risk and Broking (CRB)- Internship - Facultative Reinsurance Placement - New York - 2027",
@@ -2998,5 +2818,185 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T07:41:31.951090+00:00"
+  },
+  {
+    "apply_url": "https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Store-Operations-Industrial-Engineer-Intern-Summer-2027_R105139",
+    "company": "Burlington Stores",
+    "role": "Store Operations Industrial Engineer Intern\u2014Summer 2027",
+    "location": "00000 - Burlington Corporate Office",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120238",
+    "company": "Honeywell Aerospace",
+    "role": "Information Systems Data Science Intern",
+    "location": "United States",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119718",
+    "company": "Honeywell Aerospace",
+    "role": "Software Engineer Intern",
+    "location": "United States",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471",
+    "company": "Honeywell Aerospace",
+    "role": "Information Systems Data Science Intern - IT",
+    "location": "United States",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119888",
+    "company": "Honeywell Aerospace",
+    "role": "Semiconductor Engineer Intern",
+    "location": "United States",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119843",
+    "company": "Honeywell Aerospace",
+    "role": "Embedded Engineer Intern",
+    "location": "United States",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880",
+    "company": "Honeywell Aerospace",
+    "role": "AI Software Engineer Intern",
+    "location": "United States",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1",
+    "company": "iA",
+    "role": "Software Development Engineer Intern",
+    "location": "Binghamton, NY",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1",
+    "company": "iA",
+    "role": "Software Data Engineer Intern",
+    "location": "Indianapolis, IN",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=2225e962-d694-4585-a937-82c9c01b6337",
+    "company": "CAS",
+    "role": "Cheminformatics Scientist Intern",
+    "location": "Columbus, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a",
+    "company": "CAS",
+    "role": "Business Data Analytics Intern - AI/ML Focus",
+    "location": "Columbus, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336",
+    "company": "CAS",
+    "role": "Product Management Intern",
+    "location": "Columbus, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=1fe1ecbc-5b12-4c0e-a2cf-5d75049ab527",
+    "company": "CAS",
+    "role": "CAS 2027 Technology Summer Intern - Business Data Governance",
+    "location": "Columbus, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=78caa2c6-394a-4c51-b7bd-224461099eda",
+    "company": "CAS",
+    "role": "Technology Intern - Application Technology",
+    "location": "Columbus, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=8b5cdf5c-af19-431d-b135-9f2c62c4d002",
+    "company": "CAS",
+    "role": "Technology Intern - Databases",
+    "location": "Columbus, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=edd053a0-276c-4c40-895a-a28c09759e93",
+    "company": "CAS",
+    "role": "Chemist Intern - Content Operations",
+    "location": "Columbus, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f9b67716-a1c1-489e-8c95-ed52ab2ca846",
+    "company": "CAS",
+    "role": "Technology Intern - Software Engineering",
+    "location": "Columbus, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f0600bf5-5242-4565-9d1a-021544b8fca1",
+    "company": "CAS",
+    "role": "Product Management in AI for Chemistry Fellow",
+    "location": "Columbus, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T08:11:37.964710+00:00"
   }
 ]
