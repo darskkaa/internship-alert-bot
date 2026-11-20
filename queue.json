@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Strategy-Research--PhD-_2026-9120",
-    "company": "Dimensional Fund Advisors",
-    "role": "Internship in Strategy Research (PhD)",
-    "location": "Austin",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T21:42:00.841193+00:00"
-  },
-  {
     "apply_url": "https://jobs.lever.co/tri/0d74ff26-05cc-4616-bda0-97d821c9452b",
     "company": "Toyota Research Institute",
     "role": "Future Product Innovation Research Intern, Computational Cognitive Science",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T19:41:48.965813+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8954135002",
+    "company": "Flagship Pioneering",
+    "role": "Fathem: Protein Sciences Co-Op",
+    "location": "Cambridge, MA USA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T19:51:45.374959+00:00"
   }
 ]
