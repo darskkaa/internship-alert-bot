@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T23:01:58.863590+00:00",
+  "last_checked_utc": "2026-11-20T23:11:50.101522+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15041,6 +15041,7 @@
     "https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Corporate-Intern-Information-Technology_JR95562",
     "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Applied-Machine-Learning---Co-op-Student_R2000697038",
     "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Engineering-Analyst---PEY-Co-op-Student_R2000723368",
+    "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000695571",
     "https://nanopath.com/careers?gh_jid=4605514005",
     "https://nanopath.com/careers?gh_jid=4605529005",
     "https://nanopath.com/careers?gh_jid=4732881005",
@@ -36600,6 +36601,7 @@
     "job:workday:mymvw:corporate-intern-information-technology_jr95562",
     "job:workday:myview:applied-machine-learning---co-op-student_r2000697038",
     "job:workday:myview:engineering-analyst---pey-co-op-student_r2000723368",
+    "job:workday:myview:software-development---co-op-student_r2000695571",
     "job:workday:nasdaq:intelligent-automation-intern---2027-summer-internship_r0027113",
     "job:workday:nasdaq:product-owner-intern---2027-summer-internship_r0026976",
     "job:workday:nasdaq:software-developer--engineer-intern---2027-summer-internship_r0026972",
@@ -40137,6 +40139,7 @@
     "llbean software developer intern summer 2027",
     "loblaw companies applied machine learning coop student",
     "loblaw companies engineering analyst pey coop student",
+    "loblaw companies software development coop student",
     "loft orbital test engineering intern test engineering",
     "loram electrical engineering intern",
     "loram machine learning artificial intelligence ai intern",

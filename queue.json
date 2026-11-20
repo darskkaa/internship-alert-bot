@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Engineering---DevOps-Intern_JR003155",
-    "company": "Draper",
-    "role": "Software Engineering & DevOps Intern",
-    "location": "Cambridge, MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T00:03:52.206924+00:00"
-  },
-  {
     "apply_url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Translational-Pharmacokinetics-and-Pharmacodynamics--Modeling-and-Simulation_202611-129384",
     "company": "Genentech",
     "role": "2027 Summer Intern - Translational Pharmacokinetics and Pharmacodynamics, Modeling and Simulation",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T23:01:58.833300+00:00"
+  },
+  {
+    "apply_url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000695571",
+    "company": "Loblaw Companies",
+    "role": "Software Development - Co-op Student",
+    "location": "500 Lake Shore Blvd W, Toronto, ON",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:11:50.072473+00:00"
   }
 ]
