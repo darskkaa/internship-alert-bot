@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Waynesboro-Pennsylvania-United-States-of-America/Mechanical-Engineering-Intern---Compressor-Team_WD30285226",
-    "company": "Johnson Controls",
-    "role": "Mechanical Engineering Intern / Compressor Team",
-    "location": "Waynesboro-Pennsylvania-United States of America",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T16:52:10.613404+00:00"
-  },
-  {
     "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F135-Engine-Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01886311",
     "company": "RTX",
     "role": "F135 Engine Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T11:01:42.917794+00:00"
+  },
+  {
+    "apply_url": "https://careers.medpace.com/jobs/13130?icims=1&lang=en-us",
+    "company": "Medpace",
+    "role": "Feasibility Informatics Industrial Placement Intern",
+    "location": "London, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T11:41:40.164508+00:00"
   }
 ]
