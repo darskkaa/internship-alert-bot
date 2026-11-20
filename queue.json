@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Niskayuna/GE-Aerospace-Research---Composites-Internship--2027_R5043408",
-    "company": "GE Aerospace",
-    "role": "GE Aerospace Research - Composites Internship, 2027",
-    "location": "Niskayuna",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T17:52:03.996973+00:00"
-  },
-  {
     "apply_url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa/Research-and-Innovation-Intern_R0348073-1",
     "company": "Thales",
     "role": "Research and Innovation Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T14:51:54.549302+00:00"
+  },
+  {
+    "apply_url": "https://rehlko.wd12.myworkdayjobs.com/Reh/job/KohlerWI/Product-Engineering-Intern-2027_R05241",
+    "company": "Rehlko",
+    "role": "Product Engineering Intern 2027",
+    "location": "Kohler,WI",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T15:21:50.388500+00:00"
   }
 ]

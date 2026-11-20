@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T14:51:54.578184+00:00",
+  "last_checked_utc": "2026-11-20T15:21:50.416396+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16457,6 +16457,7 @@
     "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Analyst--Technology--Operations--Digital--and-Data-Regions-2026-Interns-only_R105132",
     "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426",
     "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Technology_R105425",
+    "https://rehlko.wd12.myworkdayjobs.com/Reh/job/KohlerWI/Product-Engineering-Intern-2027_R05241",
     "https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Electrical-Engineering-Intern-2027_R04824",
     "https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Mechanical-Engineer-Intern-2027--Wisconsin-_R04821",
     "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/USA---Raleigh-NC-RDU/Data-Science-Internship_R118691-1",
@@ -37632,6 +37633,7 @@
     "job:workday:regions:xmlname-2027-etp-intern---technology--operations--digital--and-data---technology_r105425",
     "job:workday:rehlko:electrical-engineering-intern-2027_r04824",
     "job:workday:rehlko:mechanical-engineer-intern-2027--wisconsin-_r04821",
+    "job:workday:rehlko:product-engineering-intern-2027_r05241",
     "job:workday:relx:data-analyst-intern_r119377",
     "job:workday:relx:data-science-intern_r118955",
     "job:workday:relx:data-science-internship_r118691-1",
@@ -43138,6 +43140,7 @@
     "regions bank technology operations digital and data analytics intern",
     "rehlko electrical engineering intern 2027",
     "rehlko mechanical engineer intern 2027 wisconsin",
+    "rehlko product engineering intern 2027",
     "relay accounts payable intern summer 2027",
     "relay financial analyst intern summer 2027",
     "relay relay launchpad intern software engineer aiml",
