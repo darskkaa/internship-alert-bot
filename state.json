@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T08:21:44.613672+00:00",
+  "last_checked_utc": "2026-11-20T08:41:31.287532+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2254,6 +2254,7 @@
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577",
+    "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R267570",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Design-Evaluation-Engineer-Intern_R266128",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Design-Evaluation-Engineer-Intern_R269550-1",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132",
@@ -31132,6 +31133,7 @@
     "job:workday:analogdevices:analog-design-engineering-intern_r267446",
     "job:workday:analogdevices:analog-design-engineering-intern_r268078",
     "job:workday:analogdevices:biomedical-engineering-intern_r265577",
+    "job:workday:analogdevices:biomedical-engineering-intern_r267570",
     "job:workday:analogdevices:design-evaluation-engineer-intern_r266128",
     "job:workday:analogdevices:design-evaluation-engineer-intern_r269550-1",
     "job:workday:analogdevices:design-evaluation-engineering-intern_r267479",
