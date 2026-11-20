@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T03:41:30.917517+00:00",
+  "last_checked_utc": "2026-11-20T04:01:39.532550+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9051,6 +9051,7 @@
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-New-2027_JR0287977",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Robotics-PhD-Intern_JR0288833",
+    "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Semiconductor-Device-Modeling-Intern_JR0289406",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491",
@@ -25297,6 +25298,7 @@
     "intel process integration yield engineering phd intern",
     "intel research scientist intern graphics ml",
     "intel robotics phd intern",
+    "intel semiconductor device modeling phd intern",
     "intel signal integrity ai enabling intern",
     "intel silicon hardware engineering intern bachelors",
     "intel silicon hardware engineering intern graduate",
@@ -35035,6 +35037,7 @@
     "job:workday:intel:process-integration-development-engineer-phd-intern-new-2027_jr0287977",
     "job:workday:intel:research-scientist-intern---graphics--ml_jr0287525",
     "job:workday:intel:robotics-phd-intern_jr0288833",
+    "job:workday:intel:semiconductor-device-modeling-intern_jr0289406",
     "job:workday:intel:signal-integrity-ai-enabling-intern_jr0289302",
     "job:workday:intel:silicon-hardware-engineering---intern--bachelor-s_jr0286829",
     "job:workday:intel:silicon-hardware-engineering---intern--graduate_jr0286830",
