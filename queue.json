@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Environmental-Health-and-Safety-Engineer-Intern---Sunnyvale-CA_R10261033",
-    "company": "Northrop Grumman",
-    "role": "2027 Environmental Health and Safety Engineer Intern - Sunnyvale CA",
-    "location": "United States-California-Sunnyvale",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T18:22:03.110578+00:00"
-  },
-  {
     "apply_url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/PMB-Hardware-Engineering-Intern_R26-8346-2",
     "company": "Rockwell Automation",
     "role": "PMB Hardware Engineering Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T17:31:37.281642+00:00"
+  },
+  {
+    "apply_url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Technical-Solutions/Engineering-Intern---Facilities-Development---Capital-Projects_R-84584-1",
+    "company": "Hendrick Motorsports",
+    "role": "Engineering Intern \u2013 Facilities Development & Capital Projects",
+    "location": "Hendrick Technical Solutions",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T17:51:47.702419+00:00"
   }
 ]
