@@ -1,45 +1,5 @@
 [
   {
-    "apply_url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Translational-Pharmacokinetics-and-Pharmacodynamics--Modeling-and-Simulation_202611-129384",
-    "company": "Genentech",
-    "role": "2027 Summer Intern - Translational Pharmacokinetics and Pharmacodynamics, Modeling and Simulation",
-    "location": "South San Francisco",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T00:12:17.187516+00:00"
-  },
-  {
-    "apply_url": "https://careers.bissell.com/jobs/9995?icims=1&lang=en-us",
-    "company": "Bissell",
-    "role": "AI & Automation Intern",
-    "location": "Grand Rapids, MI",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T00:12:17.187516+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/deeplocal/jobs/8395842",
-    "company": "Deeplocal",
-    "role": "Engineering Intern",
-    "location": "Pittsburgh, PA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T00:12:17.187516+00:00"
-  },
-  {
-    "apply_url": "https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us",
-    "company": "Constellation Energy",
-    "role": "IT Software Developer Intern",
-    "location": "San Diego, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T00:12:17.187516+00:00"
-  },
-  {
     "apply_url": "https://jobs.jobvite.com/cmimedia/job/oBH1sfwv?nl=1&nl=1&fr=false",
     "company": "CMI Media Group",
     "role": "Business Insights Intern",
@@ -2998,5 +2958,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T23:11:50.072473+00:00"
+  },
+  {
+    "apply_url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Test-Development_20261580",
+    "company": "Lumentum",
+    "role": "Internship - Test Development",
+    "location": "USA - CA - San Jose (Ridder)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:22:07.527031+00:00"
+  },
+  {
+    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/State-Street-Enterprise-Risk-Management---Quantitative-Risk-Internship---2027-Summer-Internship_R-801341",
+    "company": "State Street",
+    "role": "State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship",
+    "location": "Clifton, New Jersey",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:22:07.527031+00:00"
+  },
+  {
+    "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Aerospace-M-S-Engineer-Intern_R-00197493",
+    "company": "Leidos",
+    "role": "Aerospace M&S Engineer Intern",
+    "location": "Huntsville, AL",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:22:07.527031+00:00"
+  },
+  {
+    "apply_url": "https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864",
+    "company": "First Bank & Trust",
+    "role": "Data Analyst Intern",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T23:22:07.527031+00:00"
   }
 ]
