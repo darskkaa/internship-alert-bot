@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Newtown-CT/XMLNAME-2027-Distribution-Engineering-Intern--CT--Hybrid-Schedule-_R-032403",
-    "company": "Eversource Energy",
-    "role": "2027 Distribution Engineering Intern (CT, Hybrid Schedule)",
-    "location": "4 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T21:22:13.321874+00:00"
-  },
-  {
-    "apply_url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821",
-    "company": "Oracle",
-    "role": "OCI Intern Conversion - Undergrad Software Engineer Full-Time  - Nashville, TN - February 2027",
-    "location": "Nashville, TN, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T21:42:00.841193+00:00"
-  },
-  {
     "apply_url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Strategy-Research--PhD-_2026-9120",
     "company": "Dimensional Fund Advisors",
     "role": "Internship in Strategy Research (PhD)",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T19:31:44.910951+00:00"
+  },
+  {
+    "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/AOS-Intern--Facilities_R-26-21231",
+    "company": "Moog",
+    "role": "Associate of Occupational Studies/Science Intern, Facilities",
+    "location": "Buffalo, NY",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T19:41:48.965813+00:00"
+  },
+  {
+    "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Intern--TMF-Systems---Operations_R20220",
+    "company": "Moderna",
+    "role": "2027 Intern, TMF Systems & Operations",
+    "location": "N/A",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T19:41:48.965813+00:00"
   }
 ]
