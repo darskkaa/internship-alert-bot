@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://careers-sas.icims.com/jobs/42755/job?mobile=true&needsRedirect=false",
-    "company": "SAS",
-    "role": "Econometrics Intern",
-    "location": "Cary, NC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T15:42:19.373847+00:00"
-  },
-  {
     "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319",
     "company": "Texas Instruments",
     "role": "Analog IC Design (AI/ML) Engineering Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T10:01:52.972072+00:00"
+  },
+  {
+    "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineering-Intern-Summer-2027_R70793-1",
+    "company": "Motorola",
+    "role": "Electrical Engineering Intern-Summer 2027",
+    "location": "Plantation, FL",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T10:31:45.620604+00:00"
   }
 ]
