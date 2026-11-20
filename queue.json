@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Skawina/R-D-Simulation-Engeenering-Intern---FEM-FEA--M-F-D-_REQ2026082440",
-    "company": "Valeo",
-    "role": "R&D Simulation Engeenering Intern - FEM/FEA (M/F/D)",
-    "location": "Skawina",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T18:52:19.022454+00:00"
-  },
-  {
-    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007",
-    "company": "Anduril",
-    "role": "2027 Product Data Quality Co-op",
-    "location": "Santa Ana, California, United States",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T19:12:06.208497+00:00"
-  },
-  {
     "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
     "company": "Anduril",
     "role": "2027 Machine Learning Engineer Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T18:11:39.892954+00:00"
+  },
+  {
+    "apply_url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Data-Analyst-Co-op_JR104734-1",
+    "company": "Greenheck Group",
+    "role": "Data Analyst Co-op",
+    "location": "Schofield, WI",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T18:41:53.059901+00:00"
+  },
+  {
+    "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279361",
+    "company": "Vertiv",
+    "role": "Manufacturing Engineering Intern (Summer 2027)",
+    "location": "Pelzer, SC, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T18:41:53.059901+00:00"
   }
 ]
