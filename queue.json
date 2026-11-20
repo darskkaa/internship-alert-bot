@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://careers.publicisgroupe.com/jobs/182963?icims=1&lang=en-us",
-    "company": "Publicis Groupe",
-    "role": "PhD Data Visualization Intern",
-    "location": "Boston, MA, Chicago, IL, Westminster, CO, Irving, TX, Atlanta, GA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T23:42:07.347528+00:00"
-  },
-  {
-    "apply_url": "https://careers.publicisgroupe.com/jobs/182898?icims=1&lang=en-us",
-    "company": "Publicis Groupe",
-    "role": "PhD Data Science Intern",
-    "location": "Boston, MA, Chicago, IL, Westminster, CO, Irving, TX, Atlanta, GA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T23:42:07.347528+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/attainpartners/jobs/5485427008",
-    "company": "Attain Partners",
-    "role": "Data Analytics Intern",
-    "location": "McLean, VA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T23:42:07.347528+00:00"
-  },
-  {
     "apply_url": "https://jobs.jobvite.com/nychdc/job/o8D0Afw5?nl=1&nl=1&fr=false",
     "company": "New York City Housing Development Corporation",
     "role": "Strategic Operations Graduate Intern",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T21:31:56.558289+00:00"
+  },
+  {
+    "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Software-Engineering-Intern_J2472697",
+    "company": "Jabil",
+    "role": "Software Engineering Intern",
+    "location": "Austin, TX",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T21:51:39.482198+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/ibotta/a3981036-8c0e-47f3-8720-92362bbbda4f",
+    "company": "ibotta",
+    "role": "Information Technology Intern",
+    "location": "Hybrid - Denver",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T21:51:39.482198+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000162824903",
+    "company": "Renesas Electronics",
+    "role": "System Verification Engineering Intern",
+    "location": "Austin, TEXAS, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T21:51:39.482198+00:00"
   }
 ]
