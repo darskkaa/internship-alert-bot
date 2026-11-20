@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Translational-Safety--Complex-In-Vitro-Systems-_202611-129214",
-    "company": "Genentech",
-    "role": "2027 Summer Intern - Translational Safety (Complex In Vitro Systems)",
-    "location": "South San Francisco",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T23:42:07.347528+00:00"
-  },
-  {
     "apply_url": "https://careers.publicisgroupe.com/jobs/182963?icims=1&lang=en-us",
     "company": "Publicis Groupe",
     "role": "PhD Data Visualization Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T21:21:50.186120+00:00"
+  },
+  {
+    "apply_url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Market-Risk-Summer-Intern_Req1636216",
+    "company": "Santander",
+    "role": "2027 Market Risk Summer Intern",
+    "location": "Madison Ave Corp",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T21:31:56.558289+00:00"
   }
 ]
