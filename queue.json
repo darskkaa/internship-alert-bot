@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Technical-Product-Management-Intern---Summer-2027_R9883-1",
-    "company": "Great American Insurance Company",
-    "role": "Technical Product Management Intern - Summer 2027",
-    "location": "Cincinnati, OH (USA)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T22:22:01.682502+00:00"
-  },
-  {
     "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Cybersecurity-Intern---Summer-2027_335105",
     "company": "CACI",
     "role": "Cybersecurity Intern - Summer 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T20:11:45.861659+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8952950002",
+    "company": "Atoms",
+    "role": "Industrial Engineering Intern - Operations & Process Excellence",
+    "location": "Nova Lima, BRA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T20:21:48.219472+00:00"
   }
 ]
