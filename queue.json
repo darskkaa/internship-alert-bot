@@ -1,45 +1,5 @@
 [
   {
-    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
-    "company": "Anduril",
-    "role": "2027 Machine Learning Engineer Intern",
-    "location": "Santa Ana, California, United States",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T19:22:11.949917+00:00"
-  },
-  {
-    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Mechanical-Engineering-Intern--Onsite-_01889909",
-    "company": "RTX",
-    "role": "Mechanical Engineering Intern (Onsite)",
-    "location": "US-AL-HUNTSVILLE-315 ~ 315 Bob Heath Dr ~ BOB HEATH",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T19:32:12.652241+00:00"
-  },
-  {
-    "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Dorchester--MA-Hybrid-Schedule-_R-032415",
-    "company": "Eversource Energy",
-    "role": "2027 Summer: Distribution Engineering Intern (Dorchester, MA-Hybrid Schedule)",
-    "location": "Dorchester, MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T19:42:11.667500+00:00"
-  },
-  {
-    "apply_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2705761",
-    "company": "Walmart",
-    "role": "Summer 2027 Corporate Intern: Platform Stability & Defect Prevention \u2013 Last Mile Delivery",
-    "location": "(USA) Together Building AR Bentonville Home Office",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T20:22:08.659846+00:00"
-  },
-  {
     "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Tewkesbury-GBR/Design-Engineering-Internship_R-26-20977",
     "company": "Moog",
     "role": "Design Engineering Internship",
@@ -2998,5 +2958,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T18:41:53.059901+00:00"
+  },
+  {
+    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Contract-Management-and-AI_J-00357971",
+    "company": "ASML",
+    "role": "Internship - Contract Management and AI",
+    "location": "San Diego, CA, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T18:51:44.764375+00:00"
+  },
+  {
+    "apply_url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-BA-BARI-STRADA-PROVINCIALE-PER-MODUGNO-10C613/Intern---AMS-Test-Market-Analyst---Bari--Italy---2026--M-F-D-_R172796",
+    "company": "Baker Hughes",
+    "role": "Intern \u2013 AMS Test Market Analyst \u2013 Bari, Italy \u2013 2026 (M/F/D)",
+    "location": "IT-BA-BARI-STRADA PROVINCIALE PER MODUGNO 10+C613",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T18:51:44.764375+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505719009",
+    "company": "Pacific Fusion",
+    "role": "Summer 2027 Controls Electrical Engineer Internship",
+    "location": "San Leandro, CA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T18:51:44.764375+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4515017009",
+    "company": "Pacific Fusion",
+    "role": "Summer 2027 Mechanical Engineering - Precision Positioning and Alignment Internship",
+    "location": "San Leandro, CA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T18:51:44.764375+00:00"
   }
 ]
