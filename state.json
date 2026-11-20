@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T08:41:31.287532+00:00",
+  "last_checked_utc": "2026-11-20T10:01:52.998645+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1994,6 +1994,7 @@
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----Intern_R03324",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----PEY-Intern_R03443",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299",
+    "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R03445",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/High-Level-Synthesis-Engineer---Intern_R03254",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108",
@@ -19292,6 +19293,7 @@
     "altera corporation fpga development tools intern",
     "altera corporation fpga ip design engineer intern",
     "altera corporation fpga ip design engineer pey intern",
+    "altera corporation fpga software engineer intern",
     "altera corporation graduate intern engineering infrastructure",
     "altera corporation hardware design engineer intern",
     "altera corporation high level synthesis engineer intern",
@@ -30934,6 +30936,7 @@
     "job:workday:altera:fpga-ip-design-engineer----intern_r03324",
     "job:workday:altera:fpga-ip-design-engineer----pey-intern_r03443",
     "job:workday:altera:fpga-ip-design-engineer---intern_r03299",
+    "job:workday:altera:fpga-software-engineer-intern_r03445",
     "job:workday:altera:hardware-design-engineer---intern_r03367",
     "job:workday:altera:high-level-synthesis-engineer---intern_r03254",
     "job:workday:altera:quartus-compiler-software---intern_r03108",

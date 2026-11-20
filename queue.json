@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45986",
-    "company": "Arcadis",
-    "role": "Control, Automation & Energy Systems Engineering Intern",
-    "location": "Los Angeles, CA, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T15:32:04.046771+00:00"
-  },
-  {
     "apply_url": "https://careers-sas.icims.com/jobs/42755/job?mobile=true&needsRedirect=false",
     "company": "SAS",
     "role": "Econometrics Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T08:21:44.584668+00:00"
+  },
+  {
+    "apply_url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R03445",
+    "company": "Altera Corporation",
+    "role": "FPGA Software Engineer Intern",
+    "location": "Toronto, Ontario, Canada",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T10:01:52.972072+00:00"
   }
 ]
