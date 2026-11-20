@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-20T21:31:56.587414+00:00",
+  "last_checked_utc": "2026-11-20T21:41:43.735364+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14829,6 +14829,7 @@
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-19569",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-20268",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-21409",
+    "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-21567",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Engineering_R-26-19391",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378",
@@ -36378,6 +36379,7 @@
     "job:workday:moog:intern--electrical-engineering_r-26-20268",
     "job:workday:moog:intern--electrical-engineering_r-26-20487",
     "job:workday:moog:intern--electrical-engineering_r-26-21409",
+    "job:workday:moog:intern--electrical-engineering_r-26-21567",
     "job:workday:moog:intern--embedded-design-engineering_r-26-20053",
     "job:workday:moog:intern--engineering_r-26-19391",
     "job:workday:moog:intern--engineering_r-26-21444",
