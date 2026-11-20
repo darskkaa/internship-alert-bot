@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316",
-    "company": "Bound",
-    "role": "Product Management Intern",
-    "location": "Ames, IA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T00:12:13.897594+00:00"
-  },
-  {
-    "apply_url": "https://jobs.lever.co/duetti/9db49695-8ec8-40ad-b780-c73bb4594567/apply",
-    "company": "Duetti",
-    "role": "Data Intern",
-    "location": "NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-17T00:12:13.897594+00:00"
-  },
-  {
     "apply_url": "https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2/apply",
     "company": "Duetti",
     "role": "Product Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T02:41:32.026987+00:00"
+  },
+  {
+    "apply_url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805",
+    "company": "Piper Sandler",
+    "role": "Data Engineering Intern",
+    "location": "Minneapolis, MN",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T03:11:43.409156+00:00"
+  },
+  {
+    "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135",
+    "company": "Samsung",
+    "role": "Business Operations & Data Analytics Intern",
+    "location": "6555 Excellence Way, Plano, TX, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-20T03:11:43.409156+00:00"
   }
 ]
