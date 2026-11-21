@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineer-Developer-Intern---Summer-2027_R9919",
-    "company": "Great American Insurance Company",
-    "role": "Data Engineer Developer Intern \u2013 Summer 2027",
-    "location": "Cincinnati, OH (USA)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T15:12:30.226019+00:00"
-  },
-  {
-    "apply_url": "https://jobs.ashbyhq.com/trainline/b0174860-8a94-4bd3-a307-373eeab586dd/application?embed=true",
-    "company": "Trainline",
-    "role": "Engineer Intern",
-    "location": "London, UK",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T15:42:12.452428+00:00"
-  },
-  {
     "apply_url": "https://careers.medpace.com/jobs/13079?icims=1&lang=en-us",
     "company": "Medpace",
     "role": "Informatics Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-21T06:01:45.410032+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true",
+    "company": "Etched",
+    "role": "Signal Integrity and Power Integrity Intern",
+    "location": "San Jose, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T07:41:36.046862+00:00"
+  },
+  {
+    "apply_url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1",
+    "company": "iA",
+    "role": "Industrial Engineer Intern",
+    "location": "Johnson City, NY",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T07:41:36.046862+00:00"
   }
 ]
