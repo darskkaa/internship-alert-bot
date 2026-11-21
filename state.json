@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-21T05:01:52.579394+00:00",
+  "last_checked_utc": "2026-11-21T06:01:45.437285+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15007,6 +15007,7 @@
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Holland---Haarlem/Intern---Pharmacy---Pharmaceutical-Sciences---In-Market-Quality_R427335-1",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/TUR---Ankara---Ankara-KMDB/Clinical-Research-Intern_R424417",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---San-Diego-Science-Park-Road/XMLNAME-2027-Future-Talent-Program---Translational-Genome-Analytics---Co-op_R424008",
+    "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Precision-Genetics---Co-op_R427119",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Translational-Sciences-and-Outsourcing---Intern_R413062",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Kansas---De-Soto/XMLNAME-2026-Future-Talent-Program---Associate-Specialist--Process-Engineer---Global-Engineering-Solutions-Co-op--Summer-Fall-2026-Start-_R392762",
     "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Kansas---De-Soto/XMLNAME-2027-Future-Talent-Program---Engineering---Co-op_R412906",
@@ -36658,6 +36659,7 @@
     "job:workday:msd:xmlname-2027-future-talent-program---computer-scientist---agentic---augmented-authoring-systems---co-op_r412857",
     "job:workday:msd:xmlname-2027-future-talent-program---data--ai--and-genome-sciences---intern_r423333",
     "job:workday:msd:xmlname-2027-future-talent-program---data--ai--and-genome-sciences--foundation-models---intern_r423438",
+    "job:workday:msd:xmlname-2027-future-talent-program---data--ai--and-genome-sciences--precision-genetics---co-op_r427119",
     "job:workday:msd:xmlname-2027-future-talent-program---data-analytics-and-insights---intern_r413657",
     "job:workday:msd:xmlname-2027-future-talent-program---data-science---intern_r413312",
     "job:workday:msd:xmlname-2027-future-talent-program---device-development---technology---device-technical-operations---co-op_r422540",
@@ -40779,6 +40781,7 @@
     "merck 2027 future talent program computer scientist agentic augmented authoring systems coop",
     "merck 2027 future talent program data ai and genome sciences foundation models intern",
     "merck 2027 future talent program data ai and genome sciences intern",
+    "merck 2027 future talent program data ai and genome sciences precision genetics coop",
     "merck 2027 future talent program data science intern",
     "merck 2027 future talent program device development technology device technical operations coop",
     "merck 2027 future talent program device development technology systems human factors engineering coop",
