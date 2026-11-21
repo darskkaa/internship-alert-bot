@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Electronics-Design_R-01374036",
-    "company": "Thermo Fisher Scientific",
-    "role": "Intern \u2013 Electronics Design",
-    "location": "Brno, Czechia",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T14:52:16.930537+00:00"
-  },
-  {
     "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Firmware-Development_R-01374048",
     "company": "Thermo Fisher Scientific",
     "role": "Intern \u2013 Firmware Development",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-21T00:51:37.983986+00:00"
+  },
+  {
+    "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Cybersecurity-Education---Awareness-Program-Intern_JR-202624606",
+    "company": "General Motors",
+    "role": "2027 Summer Intern - Cybersecurity Education & Awareness Program Intern",
+    "location": "Warren, Michigan, United States of America",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T01:31:52.380730+00:00"
   }
 ]
