@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Developer--C--C---_R-01374078",
-    "company": "Thermo Fisher Scientific",
-    "role": "Intern \u2013 Software Developer (C#/C++)",
-    "location": "Brno, Czechia",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T14:52:16.930537+00:00"
-  },
-  {
     "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Sr-Intern---Python-Developer-for-Machine-Learning---Digital-Services_R-01374101-1",
     "company": "Thermo Fisher Scientific",
     "role": "Sr. Intern \u2013 Python Developer for Machine Learning & Digital Services",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-21T02:41:43.225449+00:00"
+  },
+  {
+    "apply_url": "https://koch.avature.net/en_US/careers/JobDetail/198151",
+    "company": "Koch Industries",
+    "role": "Data and Analytics Intern",
+    "location": "Lisle, IL",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T03:11:42.576592+00:00"
   }
 ]
