@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true",
-    "company": "DriveWealth",
-    "role": "AI Consulting Associate Program People Analytics Intern",
-    "location": "Chicago, IL, NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T16:12:27.042266+00:00"
-  },
-  {
-    "apply_url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Wealth-Management--Winter--PAG-Fixed-Income-Co-op--4-months-_R-0000192977",
-    "company": "Royal Bank of Canada",
-    "role": "2027 Wealth Management, Winter, PAG Fixed Income Co-op (4 months)",
-    "location": "TORONTO, Ontario, Canada",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T16:23:50.644054+00:00"
-  },
-  {
     "apply_url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---NH-Portsmouth/QA-Engineer-Intern_R57945",
     "company": "Trimble",
     "role": "QA Engineer Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-21T11:21:41.151825+00:00"
+  },
+  {
+    "apply_url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840",
+    "company": "Compassion International",
+    "role": "Summer Intern - Data and Software Engineering",
+    "location": "Colorado Springs, CO",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T15:41:38.065179+00:00"
+  },
+  {
+    "apply_url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305",
+    "company": "AriensCo",
+    "role": "Product Management Intern",
+    "location": "Brillion, WI",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T15:41:38.065179+00:00"
   }
 ]
