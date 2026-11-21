@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-21T08:11:12.284791+00:00",
+  "last_checked_utc": "2026-11-21T11:21:41.180839+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4448,6 +4448,7 @@
     "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306",
     "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181",
     "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136",
+    "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Digital-Technology-Intern---Summer_30222631",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Engineering-Intern---Summer_30220419-2",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG01-CTD-Athens-700-Olympic-Drive-Athens-GA-30601-USA/Systems-Engineering-Intern---Summer_30220566",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG16-AL-Georgia-ATL-1975-Vaughn-Road-Kennesaw-GA-30144-USA/Building-Automation-Field-Engineer-Intern---Summer_30220863",
@@ -21589,6 +21590,7 @@
     "carrier global chemical materials engineering intern summer",
     "carrier global data analytics intern summer",
     "carrier global design engineering intern summer",
+    "carrier global digital technology intern summer",
     "carrier global electrical engineering intern summer",
     "carrier global engineering apprentice",
     "carrier global general engineering intern summer",
@@ -32375,6 +32377,7 @@
     "job:workday:carrier:chemical-materials-engineering-intern---summer_30220341",
     "job:workday:carrier:data-analytics-intern---summer_30220000",
     "job:workday:carrier:design-engineering-intern---summer_30220221-2",
+    "job:workday:carrier:digital-technology-intern---summer_30222631",
     "job:workday:carrier:electrical-engineering-intern---summer_30219720-2",
     "job:workday:carrier:electrical-engineering-intern---summer_30220218",
     "job:workday:carrier:engineering-apprenticeship_30190431",

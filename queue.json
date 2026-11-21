@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://careers.medpace.com/jobs/13079?icims=1&lang=en-us",
-    "company": "Medpace",
-    "role": "Informatics Intern",
-    "location": "London, UK",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T15:42:12.452428+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true",
     "company": "DriveWealth",
     "role": "AI Consulting Associate Program People Analytics Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-21T07:41:36.046862+00:00"
+  },
+  {
+    "apply_url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Digital-Technology-Intern---Summer_30222631",
+    "company": "Carrier Global",
+    "role": "Digital Technology Intern - Summer",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T11:21:41.151825+00:00"
   }
 ]
