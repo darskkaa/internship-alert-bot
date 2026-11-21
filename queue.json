@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440079",
-    "company": "Cummins",
-    "role": "EATON - Electronic Systems Internship (ECJV)",
-    "location": "Galesburg, MI, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T14:52:16.930537+00:00"
-  },
-  {
     "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Electronics-Design_R-01374036",
     "company": "Thermo Fisher Scientific",
     "role": "Intern \u2013 Electronics Design",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-21T00:41:38.031427+00:00"
+  },
+  {
+    "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Product-Management-Tools-and-Automation-Intern_R122022",
+    "company": "Samsung",
+    "role": "Product Management Tools and Automation Intern",
+    "location": "6555 Excellence Way, Plano, TX, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:51:37.983986+00:00"
   }
 ]

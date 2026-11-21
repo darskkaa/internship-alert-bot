@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-21T00:41:38.061172+00:00",
+  "last_checked_utc": "2026-11-21T00:51:38.012444+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16990,6 +16990,7 @@
     "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122278-1",
     "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020",
     "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135",
+    "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Product-Management-Tools-and-Automation-Intern_R122022",
     "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/RAN-System-Performance-Intern_R122138",
     "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959",
     "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949",
@@ -38272,6 +38273,7 @@
     "job:workday:sec:business-intelligence---data-analytics-intern_r121949",
     "job:workday:sec:business-operations---data-analytics-intern_r122135",
     "job:workday:sec:epro-business---data-analyst-intern_r121996",
+    "job:workday:sec:product-management-tools-and-automation-intern_r122022",
     "job:workday:sec:ran-system-performance-intern_r122138",
     "job:workday:sec:samsung-care-ai-data-analytic-intern_r121971-1",
     "job:workday:sec:technical-product-management-intern---d2c-shopping-experiences--mobile---consumer-electronics-_r122020",
@@ -44358,6 +44360,7 @@
     "samsung intern powerthermal simulation software engineer",
     "samsung intern ssd firmware development",
     "samsung intern systems software engineering",
+    "samsung product management tools and automation intern",
     "samsung ran system performance intern",
     "samsung research america 2027 spring intern robotics lab",
     "samsung research america 2027 springsummer intern agentic ai solutions",
