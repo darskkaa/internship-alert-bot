@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-Lock-Haven/Reliability-Engineer-Intern_R12343",
-    "company": "First Quality",
-    "role": "Reliability Engineer Intern",
-    "location": "US PA Lock Haven",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T13:52:17.110210+00:00"
-  },
-  {
-    "apply_url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200",
-    "company": "The Aerospace Corporation",
-    "role": "Lidar Undergraduate Intern",
-    "location": "El Segundo, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T14:12:16.277650+00:00"
-  },
-  {
-    "apply_url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439868",
-    "company": "Cummins",
-    "role": "EATON - Mechanical Engineering Internship (ECJV)",
-    "location": "Galesburg, MI, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T14:42:25.593699+00:00"
-  },
-  {
     "apply_url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440079",
     "company": "Cummins",
     "role": "EATON - Electronic Systems Internship (ECJV)",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7",
+    "company": "Acuity Insurance",
+    "role": "Strategic Information Intern",
+    "location": "Sheboygan, WI",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:41:38.031427+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7",
+    "company": "Acuity Insurance",
+    "role": "Data Analytics Intern - Data Science",
+    "location": "Sheboygan, WI",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:41:38.031427+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217",
+    "company": "Acuity Insurance",
+    "role": "Software Engineer Intern",
+    "location": "Remote in USA, Sheboygan, WI",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:41:38.031427+00:00"
   }
 ]
