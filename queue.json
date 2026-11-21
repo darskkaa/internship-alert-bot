@@ -1,185 +1,5 @@
 [
   {
-    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Data-Scientist---Summer-Internship-2027_R-801213",
-    "company": "State Street",
-    "role": "State Street Investment Management - Data Scientist - Summer Internship 2027",
-    "location": "Boston, Massachusetts",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T04:42:07.286643+00:00"
-  },
-  {
-    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineer--Intergration-Services----Full-time-Internship--Jan---June-2027-_R-801234",
-    "company": "State Street",
-    "role": "Software Engineer (Intergration Services) - Full-time Internship (Jan - June 2027)",
-    "location": "Quincy, Massachusetts",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T04:42:07.286643+00:00"
-  },
-  {
-    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management--Client-Portfolio-Management---2027-Summer-Internship_R-801215-1",
-    "company": "State Street",
-    "role": "State Street Investment Management- Client Portfolio Management - 2027 Summer Internship",
-    "location": "Boston, Massachusetts",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T04:42:07.286643+00:00"
-  },
-  {
-    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801236",
-    "company": "State Street",
-    "role": "Software Engineering Intern - Full-time Internship (Jan - June 2027)",
-    "location": "Quincy, Massachusetts",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T04:42:07.286643+00:00"
-  },
-  {
-    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Full-Stack-Development-Intern--Full-time-Internship--Jan---June-2027-_R-801232",
-    "company": "State Street",
-    "role": "Full Stack Development Intern, Full-time Internship (Jan - June 2027)",
-    "location": "Quincy, Massachusetts",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T04:42:07.286643+00:00"
-  },
-  {
-    "apply_url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
-    "company": "Airbnb",
-    "role": "Software Engineering Intern (BS/MS)",
-    "location": "San Francisco, California",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T05:02:19.979433+00:00"
-  },
-  {
-    "apply_url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Michigan---Grand-Rapids/Food--Beverage--Dairy-Plant-Sanitation---Technical-Sales-Internship_R00303120",
-    "company": "Ecolab",
-    "role": "Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern",
-    "location": "7 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T05:12:10.188826+00:00"
-  },
-  {
-    "apply_url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer--Summer-2027-_R23352",
-    "company": "Nelnet",
-    "role": "Intern - IT Software Engineer (Summer 2027)",
-    "location": "Lincoln, NE",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T05:22:11.278536+00:00"
-  },
-  {
-    "apply_url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Data-Analytics_R23367",
-    "company": "Nelnet",
-    "role": "Intern - Data Analytics",
-    "location": "Lincoln, NE",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T05:22:11.278536+00:00"
-  },
-  {
-    "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mannheim/Intern-Near-Patient-Care-Research-and-Early-Development_202611-129317-1",
-    "company": "Roche",
-    "role": "Intern Near Patient Care Research and Early Development",
-    "location": "Mannheim",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T10:52:15.830347+00:00"
-  },
-  {
-    "apply_url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Holland---Haarlem/Intern---Pharmacy---Pharmaceutical-Sciences---In-Market-Quality_R427335-1",
-    "company": "Merck",
-    "role": "Intern \u2013 Pharmacy / Pharmaceutical Sciences \u2013 In-Market Quality",
-    "location": "NLD - North Holland - Haarlem",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T11:22:08.142654+00:00"
-  },
-  {
-    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Munich-Germany/Internship-Opportunity---Clinical-Operations---Karlsruhe-or-Munich_R-01334328",
-    "company": "Thermo Fisher Scientific",
-    "role": "Calling Pharmacy Students: Your First Step into Clinical Research - Internship Opportunity",
-    "location": "2 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T11:22:08.142654+00:00"
-  },
-  {
-    "apply_url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milano---Via-Monte-Rosa-91/AI-Adoption-Intern---Milano--DIG-_693282WD",
-    "company": "PricewaterhouseCoopers (PwC)",
-    "role": "AI Adoption Intern - Milano [DIG]",
-    "location": "Milano - Via Monte Rosa 91",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T11:52:07.884567+00:00"
-  },
-  {
-    "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Global-Customer-Data-Management-Intern--2027-Internship-_R70600",
-    "company": "Motorola",
-    "role": "Global Customer Data Management Intern (2027 Internship)",
-    "location": "Chicago, IL, More...",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T12:42:09.548806+00:00"
-  },
-  {
-    "apply_url": "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8",
-    "company": "Toyota Research Institute",
-    "role": "Robotics Intern, Prototyping and Robotics Operations",
-    "location": "Cambridge, MA",
-    "source": "Lever",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T13:12:23.952976+00:00"
-  },
-  {
-    "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-PhD-Battery-Research---Development-Intern_JR-202624190",
-    "company": "General Motors",
-    "role": "Summer 2027 PhD Battery Research & Development Intern",
-    "location": "Warren, Michigan, United States of America",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T13:22:12.990099+00:00"
-  },
-  {
-    "apply_url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-Lock-Haven/Process-Engineer-Intern_R12279",
-    "company": "First Quality",
-    "role": "Process Engineer Intern",
-    "location": "US PA Lock Haven",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T13:52:17.110210+00:00"
-  },
-  {
-    "apply_url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-Lock-Haven/Controls-Engineer-Intern_R12278",
-    "company": "First Quality",
-    "role": "Controls Engineer Intern",
-    "location": "US PA Lock Haven",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T13:52:17.110210+00:00"
-  },
-  {
     "apply_url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-Lock-Haven/Reliability-Engineer-Intern_R12343",
     "company": "First Quality",
     "role": "Reliability Engineer Intern",
@@ -2998,5 +2818,185 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-20T23:41:55.173610+00:00"
+  },
+  {
+    "apply_url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Applied-Science_R028347",
+    "company": "Blizzard Entertainment",
+    "role": "Applied Science Intern - PhD",
+    "location": "Irvine, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://careers-sas.icims.com/jobs/42752/job?mobile=true&needsRedirect=false",
+    "company": "SAS",
+    "role": "Quantum Research & Development Intern",
+    "location": "Cary, NC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Process-Standardization---Delivery-Automation--LCS-_R26-5072-1",
+    "company": "Rockwell Automation",
+    "role": "Co-op, Process Standardization & Delivery Automation (LCS)",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/biohub/jobs/8400682",
+    "company": "Biohub",
+    "role": "AI Research Scientist Intern",
+    "location": "Redwood City, CA, NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8944694002",
+    "company": "iCapital Network",
+    "role": "Product Management Intern",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052",
+    "company": "The Allen Institute for AI",
+    "role": "Research Intern - Climate Modeling",
+    "location": "Seattle, WA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/method/jobs/8207611003",
+    "company": "Method",
+    "role": "Product Management Resident Intern",
+    "location": "London, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/method/jobs/8207585003",
+    "company": "Method",
+    "role": "Product Management Intern",
+    "location": "Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000162827365",
+    "company": "ServiceNow",
+    "role": "Security Software Engineer Intern",
+    "location": "Kirkland, WA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf",
+    "company": "Southern Farm Bureau Life Insurance",
+    "role": "Data Analytics Intern",
+    "location": "Jackson, MS",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=fff73393-2657-4159-86d3-5a04f5767214",
+    "company": "Mesirow",
+    "role": "Software Developer Intern - IT",
+    "location": "Chicago, IL",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.com/LOS1000LADOD/JobBoard/5365ad6e-23ff-4703-bb77-1e9451fb855e/OpportunityDetail?opportunityId=fb796a9d-16f1-4514-8f6b-e5c5dbbb6019",
+    "company": "Los Angeles Dodgers",
+    "role": "Summer Analyst Intern",
+    "location": "LA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d",
+    "company": "Werner Electric Supply",
+    "role": "AI Intern",
+    "location": "Appleton, WI",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b/apply",
+    "company": "EP Wealth Advisors",
+    "role": "Data AI Engineer Intern",
+    "location": "Austin, TX, Torrance, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba",
+    "company": "Milliman",
+    "role": "Data Analyst Intern",
+    "location": "Brookfield, WI",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/momsmeals/9cc07826-a8bc-4ad4-a570-b54eabc95774/apply",
+    "company": "Mom's Meals",
+    "role": "Data Analytics Intern",
+    "location": "Ankeny, IA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8",
+    "company": "Pason Systems",
+    "role": "Software Developer Intern - Datahub",
+    "location": "Calgary, AB, Canada",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1",
+    "company": "Great Southern Wood Preserving",
+    "role": "Engineering Intern - Data Analyst",
+    "location": "Abbeville, AL",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T00:11:41.794234+00:00"
   }
 ]
