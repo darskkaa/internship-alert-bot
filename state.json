@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-21T16:11:42.804474+00:00",
+  "last_checked_utc": "2026-11-21T17:41:41.322553+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -47660,5 +47660,8 @@
     "zus health data acquisition software engineering coop",
     "zus health platform software engineering coop"
   ],
-  "source_failures": {}
+  "source_failures": {
+    "fetch_simplify": 1,
+    "fetch_zshah": 1
+  }
 }
