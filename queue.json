@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---NH-Portsmouth/QA-Engineer-Intern_R57945",
-    "company": "Trimble",
-    "role": "QA Engineer Intern",
-    "location": "US - NH, Portsmouth",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T16:52:15.201632+00:00"
-  },
-  {
-    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007",
-    "company": "Anduril",
-    "role": "2027 Business Systems Engineer Intern",
-    "location": "Costa Mesa, California, United States",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T16:52:15.201632+00:00"
-  },
-  {
-    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Product-Quality-Engineer-Intern_2604438",
-    "company": "Marvell",
-    "role": "Product Quality Engineer Intern",
-    "location": "Hsinchu City",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T17:02:24.615046+00:00"
-  },
-  {
     "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/PhD-Intern--Packaging-Substrate-Engineering_2604420",
     "company": "Marvell",
     "role": "PhD Intern, Packaging Substrate Engineering",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-21T15:41:38.065179+00:00"
+  },
+  {
+    "apply_url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358",
+    "company": "Blizzard Entertainment",
+    "role": "Data Platform Engineering Intern - Data Platform Engineering",
+    "location": "Irvine, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T16:11:42.777454+00:00"
+  },
+  {
+    "apply_url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Work-Experience---Stevenage-2027_R40714",
+    "company": "MBDA",
+    "role": "Software Work Experience Intern",
+    "location": "Stevenage, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T16:11:42.777454+00:00"
+  },
+  {
+    "apply_url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-University-Relations/job/Rapid-City/R-D-Engineering-Intern_JR-112833-1",
+    "company": "Littelfuse",
+    "role": "R&D Engineering Intern",
+    "location": "Rapid City, SD",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-21T16:11:42.777454+00:00"
   }
 ]
