@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
-    "company": "Viavi Solutions",
-    "role": "Robotics Intern",
-    "location": "Bothell, WA USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T17:02:24.615046+00:00"
-  },
-  {
     "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Hardware-Validation-Intern_2604167",
     "company": "Marvell",
     "role": "Hardware Validation Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-21T23:41:34.835207+00:00"
+  },
+  {
+    "apply_url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450",
+    "company": "TransUnion",
+    "role": "Data Science and Analytics Intern",
+    "location": "Chicago, IL",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-22T00:11:51.107597+00:00"
   }
 ]

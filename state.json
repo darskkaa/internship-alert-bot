@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-21T23:41:34.859141+00:00",
+  "last_checked_utc": "2026-11-22T00:11:51.133616+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17768,6 +17768,7 @@
     "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1",
     "https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648",
     "https://transamerica.wd5.myworkdayjobs.com/AUK_JobSite/job/Edinburgh-UK/Actuarial-Intern--Summer-2027-_R20063117",
+    "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450",
     "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/White-Plains-New-York/Financial-Services---Argus-Advisory-Internship---Summer-2027_19042627",
     "https://travelers.wd5.myworkdayjobs.com/External/job/CA---Irvine/Risk-Control-Intern_R-53503",
     "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-52305",
@@ -38996,6 +38997,7 @@
     "job:workday:toyota:xmlname-2027-tfs-data-science-internship_10338545-1",
     "job:workday:tranetechnologies:software-development-engineering-intern_jr-15648",
     "job:workday:transamerica:actuarial-intern--summer-2027-_r20063117",
+    "job:workday:transunion:data-science---analytics-internship---summer-2027_19043450",
     "job:workday:transunion:financial-services---argus-advisory-internship---summer-2027_19042627",
     "job:workday:travelers:business-insights---analytics-leadership-development-program--bi-a-ldp--geospatial-intern_r-52305",
     "job:workday:travelers:business-insights---analytics-leadership-development-program--bi-a-ldp--intern_r-52304",
@@ -46440,6 +46442,7 @@
     "transmarket group devopssre intern",
     "transmarket group quantitative trader intern",
     "transmarket group software engineering intern",
+    "transunion data science and analytics intern",
     "transunion financial services argus advisory intern",
     "trata research scientist intern",
     "travelers business insights analytics intern bia ldp",
