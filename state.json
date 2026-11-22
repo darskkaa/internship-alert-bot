@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-22T03:11:40.952917+00:00",
+  "last_checked_utc": "2026-11-22T05:51:34.523808+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17827,6 +17827,7 @@
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
+    "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Workplace-Experience-Data-and-Automation-Intern_R58488-1",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---NH-Portsmouth/QA-Engineer-Intern_R57945",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Developer-Intern_R58195",
@@ -39109,6 +39110,7 @@
     "job:workday:trimble:software-engineering-intern_r57676",
     "job:workday:trimble:software-engineering-intern_r57963",
     "job:workday:trimble:software-engineering-intern_r58120",
+    "job:workday:trimble:workplace-experience-data-and-automation-intern_r58488-1",
     "job:workday:trinitylifesciences:data-science-intern_jr100881",
     "job:workday:troweprice:equity-research-internship-opportunity---summer-2027_80630",
     "job:workday:troweprice:xmlname-2027-technology-and-data-internship_82677",
@@ -46585,6 +46587,7 @@
     "trimble qa engineer intern",
     "trimble software engineer intern",
     "trimble software engineering intern",
+    "trimble workplace experience data and automation intern",
     "trinity life sciences data science intern",
     "truist bank technology and operations intern data",
     "trumpf application engineering interncoop",
