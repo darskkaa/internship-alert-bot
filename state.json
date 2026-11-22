@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-22T02:21:51.149265+00:00",
+  "last_checked_utc": "2026-11-22T02:41:36.851017+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10432,6 +10432,7 @@
     "https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009",
     "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007",
     "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007",
+    "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
     "https://job-boards.greenhouse.io/newsbreak/jobs/4684555006",
     "https://job-boards.greenhouse.io/newsbreak/jobs/4700333006",
     "https://job-boards.greenhouse.io/newsbreak/jobs/4711146006",
@@ -27203,6 +27204,7 @@
     "job:greenhouse:5277475007",
     "job:greenhouse:5277706008",
     "job:greenhouse:5278662007",
+    "job:greenhouse:5278981007",
     "job:greenhouse:5279504007",
     "job:greenhouse:5281707007",
     "job:greenhouse:5282758008",
@@ -41614,6 +41616,7 @@
     "neosigma member of technical staff intern",
     "neros technologies autonomy intern",
     "neros technologies electrical engineer intern",
+    "neros technologies firmwareembedded software engineer intern",
     "netflix aiml scientist intern aims ai foundations",
     "netflix software engineer intern",
     "netflix software engineer intern summer 2027",
