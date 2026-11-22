@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Engineer_J-00356984",
-    "company": "ASML",
-    "role": "Internship - Engineer",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T22:22:06.010614+00:00"
-  },
-  {
     "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Test-and-Measurement-Facilities--Electrical-Engineer-_J-00357421",
     "company": "ASML",
     "role": "Internship - Test and Measurement Facilities (Electrical Engineer)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-22T02:41:36.822310+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475",
+    "company": "NBCUniversal",
+    "role": "Business Data Intern - Film IT",
+    "location": "London, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-22T08:11:31.060511+00:00"
   }
 ]
