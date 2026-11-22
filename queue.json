@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Test-and-Measurement-Facilities--Electrical-Engineer-_J-00357421",
-    "company": "ASML",
-    "role": "Internship - Test and Measurement Facilities (Electrical Engineer)",
-    "location": "San Diego, CA, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T22:22:06.010614+00:00"
-  },
-  {
     "apply_url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Detroit-MI-US/Quality-Engineering-Intern_DT-20768",
     "company": "Daimler Truck",
     "role": "Quality Engineering Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-22T08:11:31.060511+00:00"
+  },
+  {
+    "apply_url": "https://careers.amd.com/jobs/90475?icims=1&lang=en-us",
+    "company": "AMD",
+    "role": "BIOS Engineering Co-op",
+    "location": "Austin, TX",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-22T11:11:20.781261+00:00"
   }
 ]
