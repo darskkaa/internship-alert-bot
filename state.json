@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-23T20:02:28.822977+00:00",
+  "last_checked_utc": "2026-11-23T20:12:13.254518+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13861,6 +13861,7 @@
     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Helpdesk-IT-Support-Intern_R-00196247-1",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980",
+    "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00197526",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Administration-Intern_R-00195528",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940",
     "https://leidos.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Power-Delivery-Engineering-Intern_R-00195828",
@@ -36147,6 +36148,7 @@
     "job:workday:leidos:software-engineer-intern_r-00193933",
     "job:workday:leidos:software-engineering---ai-intern_r-00196220",
     "job:workday:leidos:software-engineering-intern_r-00195980",
+    "job:workday:leidos:software-engineering-intern_r-00197526",
     "job:workday:leidos:system-administration-cybersecurity-intern_r-00197267",
     "job:workday:leidos:systems--integration-and-software-engineer-intern_r-00194152",
     "job:workday:leidos:systems-administration-intern_r-00195528",
