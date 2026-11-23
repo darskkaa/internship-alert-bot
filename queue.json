@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337-1",
-    "company": "KLA Corporation",
-    "role": "Software Applications Engineering Intern",
-    "location": "Milpitas, CA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T16:31:39.951602+00:00"
-  },
-  {
     "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Life-Cycle-Systems-Engineer-Intern--Onsite-_01890521",
     "company": "RTX",
     "role": "Life Cycle Systems Engineer Intern (Onsite)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T19:02:16.339461+00:00"
+  },
+  {
+    "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Software-Development-Engineer---Intern_R122018",
+    "company": "Samsung",
+    "role": "Software Development Engineer - Intern",
+    "location": "645 Clyde Avenue, Mountain View, CA, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T19:12:14.858425+00:00"
   }
 ]
