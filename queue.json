@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Intern--Test-Automation--12-month-term-_JR100958",
-    "company": "Alberta Investment Management Corporation",
-    "role": "Intern, Test Automation (12-month term)",
-    "location": "Edmonton",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T23:42:10.503184+00:00"
-  },
-  {
     "apply_url": "https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us",
     "company": "Sheetz",
     "role": "Business Intelligence Analytics Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T03:11:39.902701+00:00"
+  },
+  {
+    "apply_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Westford-Massachusetts-United-States-of-America/Networking---Cybersecurity-Intern_1214057",
+    "company": "Hewlett Packard Enterprise",
+    "role": "Networking & Cybersecurity Intern",
+    "location": "Westford, Massachusetts, United States of America",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T04:11:31.980138+00:00"
   }
 ]
