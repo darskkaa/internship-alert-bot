@@ -1,45 +1,5 @@
 [
   {
-    "apply_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE-Inc-Nike-Sports-Research-Lab--Innovation--Researcher-Graduate-Internship_R-97644",
-    "company": "Nike",
-    "role": "NIKE Inc. Nike Sports Research Lab, Innovation, Researcher Graduate Internship",
-    "location": "Beaverton, Oregon",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T04:32:12.494723+00:00"
-  },
-  {
-    "apply_url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1",
-    "company": "Carnegie Mellon University",
-    "role": "AI Engineer Intern - Mission Innovation Lab",
-    "location": "Pittsburgh, PA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T08:12:17.329338+00:00"
-  },
-  {
-    "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gent/Research-Intern_R2879877-1",
-    "company": "Sanofi",
-    "role": "Research Intern",
-    "location": "Gent",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T10:11:44.313273+00:00"
-  },
-  {
-    "apply_url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Application-Engineer-Intern_2643260",
-    "company": "KLA",
-    "role": "Software Application Engineer Intern",
-    "location": "2 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T10:51:34.716499+00:00"
-  },
-  {
     "apply_url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Bangkok-MSG-Headquarters/Internship---Data-analyst_R-2022034762",
     "company": "Michelin",
     "role": "Thailand Internship : Data Analyst (4-6 months)",
@@ -2998,5 +2958,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T15:42:21.961161+00:00"
+  },
+  {
+    "apply_url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Advanced-Modeling-and-AI-Solutions_JR118093",
+    "company": "Micron Technology",
+    "role": "Intern - Advanced Modeling and AI Solutions",
+    "location": "Boise, ID - Main Site",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T16:12:24.109211+00:00"
+  },
+  {
+    "apply_url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-Engineering-Internship_3171404",
+    "company": "Hewlett Packard (HP)",
+    "role": "Personal Systems Engineering Internship",
+    "location": "Spring, Texas, United States of America",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T16:12:24.109211+00:00"
+  },
+  {
+    "apply_url": "https://www.playfly.com/careers?gh_jid=4486378009",
+    "company": "Playfly Sports",
+    "role": "Research & Insights Intern",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T16:12:24.109211+00:00"
+  },
+  {
+    "apply_url": "https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19",
+    "company": "APEX Analytix",
+    "role": "Software Engineer Intern - Platform Tooling",
+    "location": "Greensboro, NC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T16:12:24.109211+00:00"
   }
 ]
