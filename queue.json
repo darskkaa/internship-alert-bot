@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Application-Development-Engineer_R-01374004",
-    "company": "Thermo Fisher Scientific",
-    "role": "Intern \u2013 Application Development Engineer",
-    "location": "Brno, Czechia",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T12:51:40.758011+00:00"
-  },
-  {
-    "apply_url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/San-Diego-CA-ASEC/Engineering-Intern_R-101322",
-    "company": "Verdantas",
-    "role": "Engineering Intern",
-    "location": "San Diego CA-ASEC",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T14:31:40.255105+00:00"
-  },
-  {
-    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Engineering--C---NET-_R-01373993",
-    "company": "Thermo Fisher Scientific",
-    "role": "Intern - Software Engineering (C#, .NET)",
-    "location": "Brno, Czechia",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T14:41:51.309095+00:00"
-  },
-  {
     "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Senior-Software-Security-Intern_01890095",
     "company": "RTX",
     "role": "Software Security Intern (Summer 2027)",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T16:52:22.869870+00:00"
+  },
+  {
+    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Data---AI--Controls_J-00357861",
+    "company": "ASML",
+    "role": "Internship-Data & AI, Controls",
+    "location": "San Diego, CA, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T17:12:27.686102+00:00"
+  },
+  {
+    "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00197462",
+    "company": "Leidos",
+    "role": "Network Engineering & Operations Intern",
+    "location": "Shiloh, IL",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T17:12:27.686102+00:00"
+  },
+  {
+    "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Clarksburg-WV/System-Administration-Cybersecurity-Intern_R-00197267",
+    "company": "Leidos",
+    "role": "System Administration/Cybersecurity Intern",
+    "location": "Clarksburg, WV",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T17:12:27.686102+00:00"
   }
 ]
