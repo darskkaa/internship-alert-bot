@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Bangkok-MSG-Headquarters/Internship---Data-analyst_R-2022034762",
-    "company": "Michelin",
-    "role": "Thailand Internship : Data Analyst (4-6 months)",
-    "location": "5 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T11:01:51.657759+00:00"
-  },
-  {
     "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Application-Development-Engineer_R-01374004",
     "company": "Thermo Fisher Scientific",
     "role": "Intern \u2013 Application Development Engineer",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T16:12:24.109211+00:00"
+  },
+  {
+    "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286643",
+    "company": "Vertiv",
+    "role": "Engineering Intern - DC Power Systems (Summer 2027)",
+    "location": "Lorain, OH, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T16:52:22.869870+00:00"
   }
 ]
