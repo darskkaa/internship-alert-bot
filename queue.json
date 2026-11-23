@@ -1,45 +1,5 @@
 [
   {
-    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Falcon-Guardian_R30622",
-    "company": "Crowdstrike",
-    "role": "Product Engineering Intern - Falcon Guardian",
-    "location": "2 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T23:03:37.284723+00:00"
-  },
-  {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Test-and-Measurement-Facilities--Liquid-Metal-Erosion-_J-00357423",
-    "company": "ASML",
-    "role": "Internship - Test and Measurement Facilities (Liquid Metal Erosion)",
-    "location": "San Diego, CA, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T23:12:10.301906+00:00"
-  },
-  {
-    "apply_url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Analytics-Engineering-Intern--Undergraduate-Summer-2027-_1667721",
-    "company": "Centene",
-    "role": "Analytics Engineering Intern (Undergraduate Summer 2027)",
-    "location": "Remote-MO",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T23:12:10.301906+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/Intuitive/744000162406479",
-    "company": "Intuitive Surgical",
-    "role": "Learning Experience Research Intern",
-    "location": "Sunnyvale, CA, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T23:32:09.631972+00:00"
-  },
-  {
     "apply_url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Intern--Test-Automation--12-month-term-_JR100958",
     "company": "Alberta Investment Management Corporation",
     "role": "Intern, Test Automation (12-month term)",
@@ -2998,5 +2958,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T02:41:23.619934+00:00"
+  },
+  {
+    "apply_url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/PS-D-Innovation-Intern_R8004",
+    "company": "CSAA Insurance Group",
+    "role": "Product Strategy & Development Intern",
+    "location": "Arizona",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T03:11:39.902701+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958071002",
+    "company": "Artefact",
+    "role": "AI Strategy Intern",
+    "location": "135 W 26th Street, New York, NY 10001",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T03:11:39.902701+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002",
+    "company": "Artefact",
+    "role": "AI Engineering Intern",
+    "location": "135 W 26th Street, New York, NY 10001",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T03:11:39.902701+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002",
+    "company": "Artefact",
+    "role": "AI Adoption Intern",
+    "location": "135 W 26th Street, New York, NY 10001",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T03:11:39.902701+00:00"
   }
 ]
