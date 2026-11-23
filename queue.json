@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016336",
-    "company": "Texas Instruments",
-    "role": "Systems Engineering Intern (Robotics and AI) at Kilby Labs",
-    "location": "Dallas, TX, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T20:51:47.995771+00:00"
-  },
-  {
     "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2027-Summer-Intern---Software-Applications-and-Pipelines--R-D-Internal-Solutions--Computational-Science-and-Informatics-_202611-128312",
     "company": "Roche",
     "role": "2027 Summer Intern - Software Applications and Pipelines (R&D Internal Solutions, Computational Science and Informatics)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T22:52:20.183862+00:00"
+  },
+  {
+    "apply_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---AI-Agentic-Embedded-Software-Development---Bothell--WA---Summer-2027_594989",
+    "company": "Philips",
+    "role": "Intern \u2013 AI-Agentic Embedded Software Development - Bothell, WA - Summer 2027",
+    "location": "Bothell, Washington, United States",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T23:12:17.235779+00:00"
   }
 ]
