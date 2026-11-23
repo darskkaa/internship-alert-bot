@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Michigan---Kalamazoo/Paper---Pulp-Engineering-Technical-Sales--Intern_R00305937",
-    "company": "Ecolab",
-    "role": "Paper & Pulp Engineering Technical Sales  Intern",
-    "location": "2 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T17:01:49.477605+00:00"
-  },
-  {
     "apply_url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/WAP-C/Mechanical-Engineering-Co-op-Fall-2026_R-32004",
     "company": "Varian",
     "role": "Mechanical Engineering Co-op Fall 2026",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T20:22:17.166485+00:00"
+  },
+  {
+    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Internship---Diagnostics-Engineer_J-00358468",
+    "company": "ASML",
+    "role": "Internship - Diagnostics Engineer",
+    "location": "Hillsboro, OR, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T20:32:17.595250+00:00"
   }
 ]
