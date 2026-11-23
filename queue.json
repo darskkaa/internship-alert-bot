@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000162583857",
-    "company": "AECOM",
-    "role": "Geotechnical Engineering Intern",
-    "location": "Mississauga, ON, Canada",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T18:51:38.387174+00:00"
-  },
-  {
-    "apply_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99732",
-    "company": "WSP",
-    "role": "Environmental Engineering Intern - Summer 2027",
-    "location": "Mount Laurel, NJ, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T19:11:41.695746+00:00"
-  },
-  {
-    "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11292",
-    "company": "Ralliant",
-    "role": "Process Engineer Intern (Summer 2027)",
-    "location": "Beaverton, OR, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T19:21:39.899321+00:00"
-  },
-  {
     "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Fall-Co-op-Tooling-Engineer_R10261559",
     "company": "Northrop Grumman",
     "role": "2027 Fall Co-op Tooling Engineer",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T21:02:38.255597+00:00"
+  },
+  {
+    "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Data-Engineer-Intern_R122374",
+    "company": "Samsung",
+    "role": "Data Engineer Intern",
+    "location": "6555 Excellence Way, Plano, TX, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T21:32:14.039875+00:00"
+  },
+  {
+    "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-vRAN-Automation-Intern_R122025",
+    "company": "Samsung",
+    "role": "5G vRAN Automation Intern",
+    "location": "6555 Excellence Way, Plano, TX, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T21:32:14.039875+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Software-Engineer--Robotics----Lab-Automation_202611-129832",
+    "company": "Genentech",
+    "role": "2027 Summer Intern - Software Engineer (Robotics) - Lab Automation",
+    "location": "South San Francisco",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T21:32:14.039875+00:00"
   }
 ]
