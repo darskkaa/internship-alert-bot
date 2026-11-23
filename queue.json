@@ -1,45 +1,5 @@
 [
   {
-    "apply_url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11503",
-    "company": "UL Solutions",
-    "role": "Summer 2027 Intern: R&D Engineering Intern",
-    "location": "Northbrook, IL, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T18:11:45.817895+00:00"
-  },
-  {
-    "apply_url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Engineer-Intern--Summer-2027-_JR15464",
-    "company": "DraftKings",
-    "role": "Data Engineer Intern (Summer 2027)",
-    "location": "Boston, MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T18:31:43.995900+00:00"
-  },
-  {
-    "apply_url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/Product-Engineering-Intern_R58071",
-    "company": "Trimble",
-    "role": "Product Engineering Intern",
-    "location": "US - OH, Dayton",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T18:31:43.995900+00:00"
-  },
-  {
-    "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5473832008?gh_jid=5473832008",
-    "company": "Lightmatter",
-    "role": "Silicon Validation & Test Automation, Intern Summer 2027",
-    "location": "Mountain View, CA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T18:31:43.995900+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000162583857",
     "company": "AECOM",
     "role": "Geotechnical Engineering Intern",
@@ -2998,5 +2958,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T20:52:14.967313+00:00"
+  },
+  {
+    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Embedded-System-Engineering-Intern_01890950",
+    "company": "RTX",
+    "role": "Embedded System Engineering Intern",
+    "location": "US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T21:02:38.255597+00:00"
+  },
+  {
+    "apply_url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-MFRM-Projects---GRM--Investment-Risk-Intern_R-0000193280",
+    "company": "Royal Bank of Canada",
+    "role": "2027 Winter MFRM Projects - GRM, Investment Risk Intern",
+    "location": "TORONTO, Ontario, Canada",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T21:02:38.255597+00:00"
+  },
+  {
+    "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-Graduate-Intern---Quantum-Embedding-for-Strongly-Correlated-Materials_R14629",
+    "company": "National Laboratory of the Rockies",
+    "role": "Undergraduate/Graduate Intern \u2013 Quantum Embedding for Strongly Correlated Materials",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T21:02:38.255597+00:00"
+  },
+  {
+    "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergaduate-Graduate-Intern---Interfacing-the-Anderson-Impurity-Model-Benchmark-for-Correlated-Electron-Systems_R14630",
+    "company": "National Laboratory of the Rockies",
+    "role": "Undergaduate/Graduate Intern \u2013 Interfacing the Anderson Impurity Model Benchmark for Correlated Electron Systems",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T21:02:38.255597+00:00"
   }
 ]
