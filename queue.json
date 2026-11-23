@@ -1,45 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/fgsglobal/jobs/5302039007",
-    "company": "FGS Global",
-    "role": "Intern, Research & Insights",
-    "location": "Washington, District of Columbia, United States",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T16:31:39.951602+00:00"
-  },
-  {
-    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cybersecurity-Engineer-Intern_R10261475",
-    "company": "Northrop Grumman",
-    "role": "2027 Cybersecurity Engineer Intern",
-    "location": "United States-Utah-Roy +4 more",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T16:41:54.666497+00:00"
-  },
-  {
-    "apply_url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Luxembourg-Sige-Lux-House/INTERNSHIP---Process-Automation---AI-Analyst_REQ-10125007",
-    "company": "ING",
-    "role": "INTERNSHIP - Process Automation & AI Analyst",
-    "location": "Luxembourg (Si\u00e8ge Lux House)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T16:41:54.666497+00:00"
-  },
-  {
-    "apply_url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Summer-Intern--Fixed-Income-Pricing_332613-2",
-    "company": "S&P Global",
-    "role": "Summer Intern, Fixed Income Pricing",
-    "location": "New York, NY",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T17:01:49.477605+00:00"
-  },
-  {
     "apply_url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Michigan---Kalamazoo/Paper---Pulp-Engineering-Technical-Sales--Intern_R00305937",
     "company": "Ecolab",
     "role": "Paper & Pulp Engineering Technical Sales  Intern",
@@ -2998,5 +2958,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T20:02:28.792074+00:00"
+  },
+  {
+    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Irvine-CA/AMS-CAD-Engineer-Intern_2604571",
+    "company": "Marvell",
+    "role": "AMS CAD Engineer Intern",
+    "location": "Irvine, CA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T20:22:17.166485+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955762002",
+    "company": "Samsung Research America",
+    "role": "2027 PhD Intern, AI Research",
+    "location": "665 Clyde Avenue, Mountain View,  CA, USA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T20:22:17.166485+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8948210002",
+    "company": "Flagship Pioneering",
+    "role": "Flagship Pioneering: Formulations Research Associate Co-Op",
+    "location": "Cambridge, MA USA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T20:22:17.166485+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002",
+    "company": "Samsung Research America",
+    "role": "2027 Summer Intern, Computer Vision",
+    "location": "665 Clyde Avenue, Mountain View,  CA, USA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T20:22:17.166485+00:00"
   }
 ]
