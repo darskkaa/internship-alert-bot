@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Synthetic-Molecule-Analytical-Chemistry--SMAC---Synthetic-Molecule-Pharmaceutical-Sciences--SMPS---gRED_202611-129534",
-    "company": "Genentech",
-    "role": "2027 Summer Intern - Synthetic Molecule Analytical Chemistry (SMAC), Synthetic Molecule Pharmaceutical Sciences (SMPS), gRED",
-    "location": "South San Francisco",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T20:51:47.995771+00:00"
-  },
-  {
     "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016336",
     "company": "Texas Instruments",
     "role": "Systems Engineering Intern (Robotics and AI) at Kilby Labs",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T22:32:17.912797+00:00"
+  },
+  {
+    "apply_url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Data-Science-Intern---The-Toro-Company_JR17932",
+    "company": "The Toro Company",
+    "role": "Data Science Intern - The Toro Company",
+    "location": "Bloomington, MN",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T22:52:20.183862+00:00"
   }
 ]
