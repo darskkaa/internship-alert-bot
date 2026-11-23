@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-23T18:22:17.964952+00:00",
+  "last_checked_utc": "2026-11-23T18:42:26.228415+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4997,6 +4997,7 @@
     "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/AI-Research-Launch-Intern_R30599",
     "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/MBA-Product-Manager-Intern_R30957",
     "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Falcon-Guardian_R30622",
+    "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Threat-Detection_R30621",
     "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sales-Data-Analytics-Intern_R30801",
     "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Reading/Intelligence-Launch-Intern---Summer-2027_R30500",
     "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Sales-Technical-Intern--Remote--GBR-_R30657-1",
@@ -22496,6 +22497,7 @@
     "crowdstrike mba product manager intern",
     "crowdstrike overwatch intern research summer 2027",
     "crowdstrike product engineering intern falcon guardian",
+    "crowdstrike product engineering intern threat detection",
     "crowdstrike sales data analytics intern",
     "crowdstrike sales technical intern remote gbr",
     "crowdstrike sales technical intern summer 2027 reading gbr",
@@ -33061,6 +33063,7 @@
     "job:workday:crowdstrike:mba-product-manager-intern_r30957",
     "job:workday:crowdstrike:overwatch-intern---research---summer-2027_r30418-1",
     "job:workday:crowdstrike:product-engineering-intern---falcon-guardian_r30622",
+    "job:workday:crowdstrike:product-engineering-intern---threat-detection_r30621",
     "job:workday:crowdstrike:sales-data-analytics-intern_r30801",
     "job:workday:crowdstrike:sales-technical-intern--remote--gbr-_r30657-1",
     "job:workday:crowe:ai-engineering-intern_r-51782",

@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079",
-    "company": "Renesas Electronics",
-    "role": "Digital Design Engineer Intern",
-    "location": "Duluth, GEORGIA, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T15:41:45.489413+00:00"
-  },
-  {
     "apply_url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSATennesseeLexington-TN/Mechanical-Engineering-Intern_R0018523",
     "company": "Nidec",
     "role": "Mechanical Engineering Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T18:22:17.935843+00:00"
+  },
+  {
+    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Threat-Detection_R30621",
+    "company": "Crowdstrike",
+    "role": "Product Engineering Intern - Threat Detection",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T18:42:26.190084+00:00"
   }
 ]
