@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Newark-Delaware/Manufacturing-Product-Engineering-Intern_JR-25415",
-    "company": "Bloom Energy",
-    "role": "Manufacturing Product Engineering Intern",
-    "location": "Newark, Delaware",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T19:51:31.516103+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162593209",
-    "company": "Veolia",
-    "role": "Project Engineer Intern",
-    "location": "Glen Allen, VA, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T19:51:31.516103+00:00"
-  },
-  {
-    "apply_url": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603",
-    "company": "Canadian Solar",
-    "role": "Data Engineering Intern",
-    "location": "Kitchener, ON",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T20:11:46.110600+00:00"
-  },
-  {
     "apply_url": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Technical-Writer-Intern_10001601-1",
     "company": "Canadian Solar",
     "role": "Technical Writer Intern",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T21:42:14.825752+00:00"
+  },
+  {
+    "apply_url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Mt-Juliet-TN/Mechanical-Engineer-Co-op--Summer-2027-_JR0000047210-1",
+    "company": "Marmon Holdings",
+    "role": "Mechanical Engineer Co-op (Summer 2027)",
+    "location": "Mt. Juliet, TN",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T22:02:21.001904+00:00"
+  },
+  {
+    "apply_url": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/WASHINGTON-DC---MCLEAN/Metro-DC-Legal--Risk-and-Compliance-Intern---2027_JR-258922-2",
+    "company": "Protiviti",
+    "role": "Metro DC Legal, Risk and Compliance Intern - 2027",
+    "location": "WASHINGTON DC - MCLEAN",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T22:02:21.001904+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/brave/jobs/8412598",
+    "company": "Brave",
+    "role": "Systems Build Intern - Waterloo University",
+    "location": "Canada",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T22:02:21.001904+00:00"
   }
 ]
