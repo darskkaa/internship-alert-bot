@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---HBO-AI-Machine-Learning-or-Bachelor-ICT-AI---QA-Packaging_R424672-1",
-    "company": "Merck",
-    "role": "Intern \u2013 HBO AI/Machine Learning or Bachelor ICT AI \u2013 QA Packaging",
-    "location": "NLD - North Brabant - Boxmeer",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T15:31:41.071086+00:00"
-  },
-  {
-    "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Risk-Solutions-Claims-Intern---Summer-2027_R9917",
-    "company": "Great American Insurance Company",
-    "role": "Risk Solutions Claims Intern - Summer 2027",
-    "location": "Cincinnati, OH (USA)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T15:41:45.489413+00:00"
-  },
-  {
     "apply_url": "https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us",
     "company": "MSA Safety",
     "role": "Electrical Engineering Intern/Co-op",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T17:22:30.875641+00:00"
+  },
+  {
+    "apply_url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R26-5303-2",
+    "company": "Rockwell Automation",
+    "role": "Intern, Software Engineer",
+    "location": "Milwaukee, Wisconsin, United States",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T18:02:30.491169+00:00"
+  },
+  {
+    "apply_url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Process-Engineer-Intern_R01174375",
+    "company": "3M",
+    "role": "Internship - 2027 Undergraduate Process Engineer Intern",
+    "location": "20 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T18:02:30.491169+00:00"
   }
 ]
