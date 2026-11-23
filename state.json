@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-23T18:52:11.802107+00:00",
+  "last_checked_utc": "2026-11-23T19:02:16.362161+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1998,6 +1998,7 @@
     "https://altera.wd1.myworkdayjobs.com/altera/job/Haifa-Israel/Undergrad-Intern-Technical_R03001",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Regus-Madhapur/AI-Automation-Intern_R03334",
     "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066",
+    "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Physical-Design-Graduate-Intern_R03503",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Design-Verification-Intern_R03440",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394",
     "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----Intern_R03324",
@@ -19564,6 +19565,7 @@
     "altera corporation graduate intern engineering infrastructure",
     "altera corporation hardware design engineer intern",
     "altera corporation high level synthesis engineer intern",
+    "altera corporation physical design graduate intern",
     "altera corporation quartus compiler software intern",
     "altera corporation software engineer factory apps intern",
     "altera corporation software engineer intern",
@@ -31389,6 +31391,7 @@
     "job:workday:altera:fpga-software-engineer-intern_r03445",
     "job:workday:altera:hardware-design-engineer---intern_r03367",
     "job:workday:altera:high-level-synthesis-engineer---intern_r03254",
+    "job:workday:altera:physical-design-graduate-intern_r03503",
     "job:workday:altera:quartus-compiler-software---intern_r03108",
     "job:workday:altera:software-engineer----intern_r03252",
     "job:workday:altera:software-engineer----intern_r03320",

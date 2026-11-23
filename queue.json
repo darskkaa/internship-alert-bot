@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551",
-    "company": "Atlantic Health System",
-    "role": "Pharmacy Intern - Data Analytics",
-    "location": "Morristown, NJ",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T16:11:46.118634+00:00"
-  },
-  {
     "apply_url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337-1",
     "company": "KLA Corporation",
     "role": "Software Applications Engineering Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T18:52:11.769398+00:00"
+  },
+  {
+    "apply_url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Physical-Design-Graduate-Intern_R03503",
+    "company": "Altera Corporation",
+    "role": "Physical Design Graduate Intern",
+    "location": "San Jose, California, United States",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T19:02:16.339461+00:00"
   }
 ]
