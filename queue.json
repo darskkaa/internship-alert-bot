@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943",
-    "company": "Toyota Research Institute",
-    "role": "Robotics Intern, Generalist Robot Learning (GRL)",
-    "location": "Los Altos, CA",
-    "source": "Lever",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T23:52:10.282844+00:00"
-  },
-  {
-    "apply_url": "https://careers.andersen.com/jobs/8348?icims=1&lang=en-us",
-    "company": "Andersen",
-    "role": "PhD Summer Intern",
-    "location": "Remote in USA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T00:12:23.145221+00:00"
-  },
-  {
-    "apply_url": "https://higher.gs.com/roles/189373?type=students",
-    "company": "Goldman Sachs",
-    "role": "Summer Analyst Intern - Multiple Teams",
-    "location": "Albany, NY",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T00:12:23.145221+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004",
     "company": "Lucid",
     "role": "Product Management Intern",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T08:11:27.607849+00:00"
+  },
+  {
+    "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Credit-Research-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139046",
+    "company": "Barclays",
+    "role": "Credit Research Analyst Summer Internship Program 2028 New York",
+    "location": "New York, 745 7th Avenue",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T08:21:25.915981+00:00"
+  },
+  {
+    "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Equity-Research-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139045",
+    "company": "Barclays",
+    "role": "Equity Research Analyst Summer Internship Program 2028 New York",
+    "location": "New York, 745 7th Avenue",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T08:21:25.915981+00:00"
+  },
+  {
+    "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Markets-Quantitative-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139049",
+    "company": "Barclays",
+    "role": "Markets Quantitative Analyst Summer Internship Program 2028 New York",
+    "location": "New York, 745 7th Avenue",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T08:21:25.915981+00:00"
   }
 ]
