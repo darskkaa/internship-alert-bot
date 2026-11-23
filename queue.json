@@ -1,105 +1,5 @@
 [
   {
-    "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2027-Summer-Intern---Software-Applications-and-Pipelines--R-D-Internal-Solutions--Computational-Science-and-Informatics-_202611-128312",
-    "company": "Roche",
-    "role": "2027 Summer Intern - Software Applications and Pipelines (R&D Internal Solutions, Computational Science and Informatics)",
-    "location": "Santa Clara",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T21:31:44.302401+00:00"
-  },
-  {
-    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016331",
-    "company": "Texas Instruments",
-    "role": "Compute In-Memory System Engineer Intern",
-    "location": "Dallas, TX, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T21:31:44.302401+00:00"
-  },
-  {
-    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016339",
-    "company": "Texas Instruments",
-    "role": "Synthetic Data for Edge AI System Engineer Intern",
-    "location": "Dallas, TX, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T21:31:44.302401+00:00"
-  },
-  {
-    "apply_url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160",
-    "company": "Blue Cross Blue Shield of Michigan",
-    "role": "Summer 2027 Intern - Object Oriented Programming",
-    "location": "Detroit, MI, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T21:41:48.841715+00:00"
-  },
-  {
-    "apply_url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d",
-    "company": "Snowflake",
-    "role": "Software Engineer Intern (Database Engineering) - Summer 2027",
-    "location": "US-CA-Menlo Park",
-    "source": "Ashby",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T21:41:48.841715+00:00"
-  },
-  {
-    "apply_url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
-    "company": "Snowflake",
-    "role": "Software Engineer Intern (AI / ML) - Summer 2027",
-    "location": "US-CA-Menlo Park",
-    "source": "Ashby",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T21:41:48.841715+00:00"
-  },
-  {
-    "apply_url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897",
-    "company": "Snowflake",
-    "role": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Summer 2027",
-    "location": "US-CA-Menlo Park",
-    "source": "Ashby",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T21:41:48.841715+00:00"
-  },
-  {
-    "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620",
-    "company": "Vertiv",
-    "role": "AI Intern (Summer 2027)",
-    "location": "Huntsville, AL, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T22:01:48.526223+00:00"
-  },
-  {
-    "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169",
-    "company": "Ralliant",
-    "role": "Electrical Design Engineer Intern (Summer 2027)",
-    "location": "Beaverton, OR, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T22:01:48.526223+00:00"
-  },
-  {
-    "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11168",
-    "company": "Ralliant",
-    "role": "System Level Verification Engineer Intern (Summer 2027)",
-    "location": "United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T22:31:28.467782+00:00"
-  },
-  {
     "apply_url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9178",
     "company": "Seaspan",
     "role": "Intern, Operations & Engineering (4 Months)",
@@ -2998,5 +2898,105 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T23:12:17.235779+00:00"
+  },
+  {
+    "apply_url": "https://hq-lifeway.icims.com/jobs/27218/job?mobile=true&needsRedirect=false",
+    "company": "Lifeway",
+    "role": "Summer Internship - Business Intelligence",
+    "location": "Remote in USA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T23:42:12.076938+00:00"
+  },
+  {
+    "apply_url": "https://hq-lifeway.icims.com/jobs/27217/job?mobile=true&needsRedirect=false",
+    "company": "Lifeway",
+    "role": "Software Engineer Intern - Full Stack - Back-End",
+    "location": "Remote in USA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T23:42:12.076938+00:00"
+  },
+  {
+    "apply_url": "https://hq-lifeway.icims.com/jobs/27216/job?mobile=true&needsRedirect=false",
+    "company": "Lifeway",
+    "role": "Front-End Engineer Intern",
+    "location": "Nashville, TN, Remote in USA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T23:42:12.076938+00:00"
+  },
+  {
+    "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Student-Intern--Spring-Semester----Commercial-Vehicle-Logistics-and-Data-Science_R14649",
+    "company": "National Laboratory of the Rockies",
+    "role": "Graduate Student Intern (Spring Semester) \u2013 Commercial Vehicle Logistics and Data Science",
+    "location": "Golden, CO",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T23:42:12.076938+00:00"
+  },
+  {
+    "apply_url": "https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027",
+    "company": "CornerStone Partners",
+    "role": "AI and Automation Intern",
+    "location": "Charlottesville, VA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T23:42:12.076938+00:00"
+  },
+  {
+    "apply_url": "https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern - Artificial General Intelligence",
+    "location": "Boston, MA, Seattle, WA, Bellevue, WA, Sunnyvale, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T23:42:12.076938+00:00"
+  },
+  {
+    "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
+    "company": "JP Morgan Chase",
+    "role": "Applied AI Intern - HR CDAO",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T23:42:12.076938+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/illumio/c7efc869-b5da-48ca-a6ce-defc15525a34",
+    "company": "Illumio",
+    "role": "Technical Program Manager Intern",
+    "location": "Sunnyvale, California - HQ",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T23:42:12.076938+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101",
+    "company": "Illumio",
+    "role": "Product Management Intern, Solution Economics",
+    "location": "Sunnyvale, California - HQ",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T23:42:12.076938+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/illumio/a047eb49-ac58-46f7-9043-b226f74a5605",
+    "company": "Illumio",
+    "role": "Product Design Intern",
+    "location": "Sunnyvale, California - HQ",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T23:42:12.076938+00:00"
   }
 ]
