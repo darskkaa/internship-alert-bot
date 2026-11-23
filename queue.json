@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us",
-    "company": "Sheetz",
-    "role": "Business Intelligence Analytics Intern",
-    "location": "Pittsburgh, PA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T23:42:10.503184+00:00"
-  },
-  {
-    "apply_url": "https://qualcomm.eightfold.ai/careers/job/446722198182",
-    "company": "Qualcomm",
-    "role": "GPU Compiler Development Intern - Interim Engineering Intern - HW",
-    "location": "Markham, ON, Canada",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-18T23:42:10.503184+00:00"
-  },
-  {
     "apply_url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943",
     "company": "Toyota Research Institute",
     "role": "Robotics Intern, Generalist Robot Learning (GRL)",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T04:11:31.980138+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true",
+    "company": "First Resonance",
+    "role": "Product Management Intern",
+    "location": "El Segundo, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T08:11:27.607849+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true",
+    "company": "First Resonance",
+    "role": "Software Engineer Intern - Platform",
+    "location": "LA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T08:11:27.607849+00:00"
   }
 ]
