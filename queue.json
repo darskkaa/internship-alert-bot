@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Application-Engineer-Intern_2643260-1",
-    "company": "KLA Corporation",
-    "role": "Software Application Engineer Intern",
-    "location": "Austin, TX +1 more",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T16:31:39.951602+00:00"
-  },
-  {
-    "apply_url": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Charlotte-NC-USA/Wholesale-Risk-Management---Insurance-Intern_R26_0000004070",
-    "company": "Brown & Brown Insurance",
-    "role": "Wholesale Risk Management & Insurance Intern",
-    "location": "Charlotte, NC, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T16:31:39.951602+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/fgsglobal/jobs/5302039007",
     "company": "FGS Global",
     "role": "Intern, Research & Insights",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T19:32:10.529267+00:00"
+  },
+  {
+    "apply_url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Software-Engineering-Intern---Circuit-Simulation_R57251",
+    "company": "Cadence Design Systems",
+    "role": "Software Engineering Intern - Circuit Simulation",
+    "location": "AUSTIN",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T20:02:28.792074+00:00"
+  },
+  {
+    "apply_url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-MFRM-Projects---GRM--ESG-Risk-Analytics-Intern_R-0000193117",
+    "company": "Royal Bank of Canada",
+    "role": "2027 Winter MFRM Projects - GRM, ESG Risk Analytics Intern",
+    "location": "TORONTO, Ontario, Canada",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T20:02:28.792074+00:00"
   }
 ]
