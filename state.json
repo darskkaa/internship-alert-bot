@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-22T23:41:35.613738+00:00",
+  "last_checked_utc": "2026-11-23T00:11:21.698333+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4797,6 +4797,7 @@
     "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Agentic-Development-Intern_2025292-1",
     "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1",
     "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2",
+    "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364",
     "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336",
     "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Agentic-Development-Intern_2025292",
     "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300",
@@ -16976,6 +16977,7 @@
     "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623",
     "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000625",
     "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659",
+    "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Software-Engineering-Intern_R26_000688",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Anagni/QC-Data-Management-Internship_R2873406",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Anagni/Qualification---Validation-Internship_R2879887",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Anagni/Quality-System-Internship_R2870749",
@@ -32798,6 +32800,7 @@
     "job:workday:cmu:advanced-computing-lab-intern---summer-2027-_2025336-1",
     "job:workday:cmu:agentic-development-intern_2025292",
     "job:workday:cmu:agentic-development-intern_2025292-1",
+    "job:workday:cmu:ai-engineer-intern---mission-innovation-lab--summer-2027-_2025364",
     "job:workday:cmu:ai-engineer-intern---mission-innovation-lab--summer-2027-_2025364-1",
     "job:workday:cmu:ai-security-research-intern---sept-2026---may-2027-_2025068-2",
     "job:workday:cmu:ai-security-research-intern---summer-2027_2025199-1",
@@ -38354,6 +38357,7 @@
     "job:workday:sallie-mae:software-engineer-intern_r26_000633",
     "job:workday:sallie-mae:software-engineering-intern_r26_000623",
     "job:workday:sallie-mae:software-engineering-intern_r26_000625",
+    "job:workday:sallie-mae:software-engineering-intern_r26_000688",
     "job:workday:sanofi:analytical-science-intern---msat_r2873804",
     "job:workday:sanofi:analytics-and-powerbi-development-intern_r2868855",
     "job:workday:sanofi:engineering-intern_r2873345",
