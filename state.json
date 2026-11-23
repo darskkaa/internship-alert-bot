@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-23T08:21:25.945160+00:00",
+  "last_checked_utc": "2026-11-23T08:41:28.786195+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15384,6 +15384,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10261728",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Structural-Engineering-Intern--Roy-UT_R10258270",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/XMLNAME-2027-Manufacturing-Engineer-Intern----Salt-Lake-City-UT_R10260837",
@@ -37084,6 +37085,7 @@
     "job:workday:ngc:xmlname-2027-software-engineering-intern---roy-ut_r10259181",
     "job:workday:ngc:xmlname-2027-software-engineering-intern-dulles-va_r10253731",
     "job:workday:ngc:xmlname-2027-software-test-engineering-intern---roy-ut_r10259179",
+    "job:workday:ngc:xmlname-2027-software-test-engineering-intern---roy-ut_r10261728",
     "job:workday:ngc:xmlname-2027-software-test-engineering-intern--roy-ut_r10258276-1",
     "job:workday:ngc:xmlname-2027-software-testing-engineering-intern---apopka-fl_r10259820-1",
     "job:workday:ngc:xmlname-2027-spring-co-op-software-engineer-intern---mcclellan-ca_r10259329",
