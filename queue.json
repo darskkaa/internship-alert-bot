@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/XMLNAME-2027-Propulsion-Test-Engineer-Intern---Edwards-AFB-CA_R10261436",
-    "company": "Northrop Grumman",
-    "role": "2027 Propulsion Test Engineer Intern - Edwards AFB CA",
-    "location": "United States-California-Edwards AFB",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T01:52:08.806565+00:00"
-  },
-  {
     "apply_url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302",
     "company": "Intel",
     "role": "Signal integrity AI enabling intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T13:32:08.594629+00:00"
+  },
+  {
+    "apply_url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Internship-AI-for-ESG_REQ-10124904",
+    "company": "ING",
+    "role": "Internship AI for ESG",
+    "location": "Bruxelles Avenue Marnix (ING)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T14:12:19.307409+00:00"
   }
 ]
