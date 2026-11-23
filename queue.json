@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Cyber-Defense-Response-Intern---Summer-2026_35062-1",
-    "company": "CME Group",
-    "role": "Cyber Defense Response Intern - Summer 2027",
-    "location": "Chicago - 20 S. Wacker +1 more",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T01:12:18.746804+00:00"
-  },
-  {
     "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Thermal-Engineer-Intern---Azusa-CA_R10261449",
     "company": "Northrop Grumman",
     "role": "2027 Thermal Engineer Intern - Azusa CA",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T12:51:24.877369+00:00"
+  },
+  {
+    "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Armenia-Yerevan/Applied-Research-Intern---2027_JR2030233",
+    "company": "NVIDIA",
+    "role": "Applied Research Intern - 2027",
+    "location": "Armenia, Yerevan",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T13:22:08.561098+00:00"
   }
 ]
