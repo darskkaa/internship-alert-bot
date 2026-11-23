@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Thermal-Engineer-Intern---Azusa-CA_R10261449",
-    "company": "Northrop Grumman",
-    "role": "2027 Thermal Engineer Intern - Azusa CA",
-    "location": "United States-California-Azusa",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T01:52:08.806565+00:00"
-  },
-  {
     "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/XMLNAME-2027-Propulsion-Test-Engineer-Intern---Edwards-AFB-CA_R10261436",
     "company": "Northrop Grumman",
     "role": "2027 Propulsion Test Engineer Intern - Edwards AFB CA",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T13:22:08.561098+00:00"
+  },
+  {
+    "apply_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005",
+    "company": "Stantec",
+    "role": "Data Scientist Intern - Water (Summer 2027)",
+    "location": "San Diego, CA, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T13:32:08.594629+00:00"
   }
 ]

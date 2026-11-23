@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-23T13:22:08.593501+00:00",
+  "last_checked_utc": "2026-11-23T13:32:08.627863+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -8208,6 +8208,7 @@
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008928",
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008962",
     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008995",
+    "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007510",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230",
     "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442",
@@ -30047,6 +30048,7 @@
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008928",
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008962",
     "job:oracle:hdhl.fa.us6.oraclecloud.com:1008995",
+    "job:oracle:hdhl.fa.us6.oraclecloud.com:1009005",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26007510",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26008230",
     "job:oracle:hdjq.fa.us2.oraclecloud.com:26008442",
@@ -45373,6 +45375,7 @@
     "stantec civiltransportation engineering intern infrastructure summer 2027",
     "stantec coastal engineering intern water summer 2027",
     "stantec data science intern infrastructure summer 2027",
+    "stantec data scientist intern water summer 2027",
     "stantec digital practice coopintern infrastructure springsummer 2027",
     "stantec electrical engineer intern buildings summer 2027",
     "stantec electrical engineering intern buildings summer 2027",
