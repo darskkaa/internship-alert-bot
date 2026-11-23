@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSATennesseeLexington-TN/Mechanical-Engineering-Intern_R0018523",
-    "company": "Nidec",
-    "role": "Mechanical Engineering Intern",
-    "location": "North America/USA/Tennessee/Lexington, TN",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T15:51:40.569076+00:00"
-  },
-  {
-    "apply_url": "https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228",
-    "company": "Georgian Partners Growth",
-    "role": "Physical AI & Robotics Intern (2027)",
-    "location": "Toronto Headquarters",
-    "source": "Ashby",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T16:01:50.757975+00:00"
-  },
-  {
     "apply_url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551",
     "company": "Atlantic Health System",
     "role": "Pharmacy Intern - Data Analytics",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T18:42:26.190084+00:00"
+  },
+  {
+    "apply_url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Analytics-Intern--Texas-Institute-for-Electronics_R_00050136",
+    "company": "University of Texas at Austin",
+    "role": "Analytics Intern, Texas Institute for Electronics",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T18:52:11.769398+00:00"
+  },
+  {
+    "apply_url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Procurement-Intern--Texas-Institute-for-Electronics_R_00050140-1",
+    "company": "University of Texas at Austin",
+    "role": "Procurement Intern, Texas Institute for Electronics",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T18:52:11.769398+00:00"
   }
 ]
