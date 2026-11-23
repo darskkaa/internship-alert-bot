@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-23T04:11:32.020544+00:00",
+  "last_checked_utc": "2026-11-23T04:51:37.722339+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6976,6 +6976,7 @@
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Intern-Engineering-Designer--Rail-and-Transit_6683",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Intern-Engineering-Designer--Roads-and-Highways_6687",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Intern-Engineering-Designer--Water_6440",
+    "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Transportation-Traffic-Engineering-Intern_6766",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IN--Indianapolis---8250-Haverstick-Road/Intern-Engineering-Designer--Water_6443",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--KS--Overland-Park---10561-Barkley-Street/Electrical-Engineering-Intern-Co-Op_6631",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--MA--Boston---100-City-Hall-Plaza/Engineering-Intern--Buildings_6569",
@@ -24366,6 +24367,7 @@
     "global infrastructure mechanical engineering intern baggage handling systems",
     "global infrastructure mechanical engineering intern fire protection",
     "global infrastructure transportation engineering intern",
+    "global infrastructure transportationtraffic engineering intern",
     "global partners supply and trading coop",
     "global payments cybersecurity intern",
     "globalfoundries 2h university intern aidriven process intern advanced process control",
@@ -34006,6 +34008,7 @@
     "job:workday:gi:mechanical-engineering-intern--baggage-handling-systems_6694",
     "job:workday:gi:mechanical-engineering-intern--fire-protection_6630",
     "job:workday:gi:transportation-engineering-intern_6749",
+    "job:workday:gi:transportation-traffic-engineering-intern_6766",
     "job:workday:gilead:intern---cfo----it--digital-marketing-_r0054868",
     "job:workday:gilead:intern---cfo---corporate-operation--technical-engineering-_r0054563",
     "job:workday:gilead:intern---cfo---finance--fp-a--tax--treasury--controllership--risk--ir--corp-dev--strategy-transformation-_r0054859",
