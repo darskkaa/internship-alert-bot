@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Technical-Writer-Intern_10001601-1",
-    "company": "Canadian Solar",
-    "role": "Technical Writer Intern",
-    "location": "Kitchener, ON",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T20:11:46.110600+00:00"
-  },
-  {
-    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-AI-ML-Engineering-Intern---Morrisville-NC_R10261585-1",
-    "company": "Northrop Grumman",
-    "role": "2027 AI/ML Engineering Intern - Morrisville NC",
-    "location": "United States-North Carolina-Morrisville",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T20:31:39.703606+00:00"
-  },
-  {
-    "apply_url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064",
-    "company": "Neogen",
-    "role": "Software or Firmware Engineer Intern",
-    "location": "Oakdale",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T20:31:39.703606+00:00"
-  },
-  {
     "apply_url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Synthetic-Molecule-Analytical-Chemistry--SMAC---Synthetic-Molecule-Pharmaceutical-Sciences--SMPS---gRED_202611-129534",
     "company": "Genentech",
     "role": "2027 Summer Intern - Synthetic Molecule Analytical Chemistry (SMAC), Synthetic Molecule Pharmaceutical Sciences (SMPS), gRED",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T22:02:21.001904+00:00"
+  },
+  {
+    "apply_url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineering-Intern_R20923",
+    "company": "ZOLL Medical Corporation",
+    "role": "Software Engineering Intern",
+    "location": "Chelmsford, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T22:32:17.912797+00:00"
+  },
+  {
+    "apply_url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Materials-and-Chemistry-Engineering-Intern--Summer-2027-_JR003177",
+    "company": "Draper",
+    "role": "Materials and Chemistry Engineering Intern (Summer 2027)",
+    "location": "Cambridge, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T22:32:17.912797+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434",
+    "company": "Contoro",
+    "role": "Robotics Software Engineer Intern, Autonomy [Automation]",
+    "location": "Austin, TX",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T22:32:17.912797+00:00"
   }
 ]
