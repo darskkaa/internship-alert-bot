@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us",
-    "company": "MSA Safety",
-    "role": "Electrical Engineering Intern/Co-op",
-    "location": "Cranberry Township, PA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T15:41:45.489413+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079",
     "company": "Renesas Electronics",
     "role": "Digital Design Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T18:02:30.491169+00:00"
+  },
+  {
+    "apply_url": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Intern-Ugrad-Tech-US-CA_WD30286070",
+    "company": "Johnson Controls",
+    "role": "Mechanical Engineering Intern",
+    "location": "New Freedom-Pennsylvania-United States of America",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T18:22:17.935843+00:00"
   }
 ]
