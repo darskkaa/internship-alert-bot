@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004",
-    "company": "Lucid",
-    "role": "Product Management Intern",
-    "location": "Raleigh, NC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T00:12:23.145221+00:00"
-  },
-  {
     "apply_url": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/New-York-City/Summer-2027-Internship-Program----B2B-Risk-Marketing-Intern_Job_Req_56543",
     "company": "Dow Jones",
     "role": "Summer 2027 Internship Program -- B2B Risk Marketing Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T08:21:25.915981+00:00"
+  },
+  {
+    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/AI-research-intern_2605267",
+    "company": "Marvell",
+    "role": "AI research intern",
+    "location": "Petah-Tikva",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T11:11:26.707016+00:00"
   }
 ]

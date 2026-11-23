@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-23T08:41:28.786195+00:00",
+  "last_checked_utc": "2026-11-23T11:11:26.736092+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14511,6 +14511,7 @@
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/AI-Infrastructure-Engineer-Intern_2604499",
+    "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/AI-research-intern_2605267",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Design-Verification---Intern_2604481-1",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Design-Verification--Intern_2604479",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Design-Verification-Intern_2604492",
@@ -36308,6 +36309,7 @@
     "job:workday:marvell:ai-infrastructure-engineer-intern_2604499",
     "job:workday:marvell:ai-native-development-platform-engineer-intern--ms---summer-2027_2603848",
     "job:workday:marvell:ai-native-development-platform-engineer-intern--ms---summer-2027_2603848-1",
+    "job:workday:marvell:ai-research-intern_2605267",
     "job:workday:marvell:ams-layout-engineer-intern---bs---2027-co-op_2604790",
     "job:workday:marvell:ams-validation-intern_2603863",
     "job:workday:marvell:ams-validation-intern_2603863-1",
@@ -40745,6 +40747,7 @@
     "marvell ai data science intern ms summer 2027",
     "marvell ai infrastructure engineer intern",
     "marvell ai infrastructure engineer intern ms summer 2027",
+    "marvell ai research intern",
     "marvell ainative development platform engineer intern",
     "marvell ainative development platform engineer intern ms summer 2027",
     "marvell aiops forward deployment engineer intern bs summer 2027",
