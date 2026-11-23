@@ -1,45 +1,5 @@
 [
   {
-    "apply_url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Westborough-MA/Intern---Bioinformatics-Scientist_2638415-1",
-    "company": "LabCorp",
-    "role": "Intern - Bioinformatics Scientist",
-    "location": "2 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T04:02:22.254149+00:00"
-  },
-  {
-    "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/XMLNAME-2027-Summer--GIS-Engineering-Intern_R-032643",
-    "company": "Eversource Energy",
-    "role": "2027 Summer: GIS Engineering Intern",
-    "location": "Berlin, CT",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T04:32:12.494723+00:00"
-  },
-  {
-    "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/XMLNAME-2027-Summer--Asset-Strategy-and-Regulatory-Compliance--Engineering-Intern_R-032638",
-    "company": "Eversource Energy",
-    "role": "2027 Summer: Asset Strategy and Regulatory Compliance, Engineering Intern",
-    "location": "Berlin, CT",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T04:32:12.494723+00:00"
-  },
-  {
-    "apply_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE-Inc-Nike-Computational-Materials-Innovation--Apparel--Innovation--Graduate-Internship_R-97647",
-    "company": "Nike",
-    "role": "NIKE Inc. Nike Computational Materials Innovation, Apparel, Innovation, Graduate Internship",
-    "location": "Beaverton, Oregon",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T04:32:12.494723+00:00"
-  },
-  {
     "apply_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE-Inc-Nike-Sports-Research-Lab--Innovation--Researcher-Graduate-Internship_R-97644",
     "company": "Nike",
     "role": "NIKE Inc. Nike Sports Research Lab, Innovation, Researcher Graduate Internship",
@@ -2998,5 +2958,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T14:52:25.281846+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?embed=true",
+    "company": "Benchling",
+    "role": "Software Engineer Intern",
+    "location": "SF",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T15:42:21.961161+00:00"
+  },
+  {
+    "apply_url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Technology---AMAIS_JR118211",
+    "company": "Micron Technology",
+    "role": "Intern - Technology, AMAIS",
+    "location": "Boise, ID - Main Site",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T15:42:21.961161+00:00"
+  },
+  {
+    "apply_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Digital-Electronics-Engineering-Intern--3-6-months-_R57319",
+    "company": "Cadence Design Systems",
+    "role": "Digital Electronics Engineering Intern (3-6 months)",
+    "location": "EDINBURGH 01",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T15:42:21.961161+00:00"
+  },
+  {
+    "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784",
+    "company": "JP Morgan Chase",
+    "role": "Machine Learning Intern - Time Series and Reinforcement Learning",
+    "location": "London, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T15:42:21.961161+00:00"
   }
 ]
