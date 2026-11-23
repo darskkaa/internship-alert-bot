@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-23T14:12:19.336368+00:00",
+  "last_checked_utc": "2026-11-23T14:52:25.303573+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14943,6 +14943,7 @@
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Engineering_R-26-19391",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378",
+    "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Manufacturing---Industrial-Engineering_R-26-21458",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Manufacturing-Engineering_R-26-20528",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Mechanical-Analysis-Engineering_R-26-20226",
     "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Mechanical-Design-Engineering_R-26-21029",
@@ -36728,6 +36729,7 @@
     "job:workday:moog:intern--industrial-engineering_r-26-21355",
     "job:workday:moog:intern--it-computer-science---data-analytics_r-26-17145",
     "job:workday:moog:intern--it-computer-science_r-26-19378",
+    "job:workday:moog:intern--manufacturing---industrial-engineering_r-26-21458",
     "job:workday:moog:intern--manufacturing-and-industrial-engineering_r-26-19823",
     "job:workday:moog:intern--manufacturing-engineering_r-26-20528",
     "job:workday:moog:intern--mechanical-analysis-engineering_r-26-20226",
@@ -41371,6 +41373,7 @@
     "moog intern it computer science data analytics",
     "moog intern manufacturing and industrial engineering",
     "moog intern manufacturing engineering",
+    "moog intern manufacturing industrial engineering",
     "moog intern mechanical analysis engineering",
     "moog intern mechanical design engineering",
     "moog intern mechanical engineering",
