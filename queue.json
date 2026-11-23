@@ -1,55 +1,5 @@
 [
   {
-    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007",
-    "company": "Anduril",
-    "role": "2027 Engineering Systems Intern",
-    "location": "Costa Mesa, California, United States",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T17:31:31.217248+00:00"
-  },
-  {
-    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020388",
-    "company": "Texas Instruments",
-    "role": "Systems Engineering Intern (GaN)",
-    "location": "Dallas, TX, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T17:41:56.532007+00:00"
-  },
-  {
-    "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Process-Engineering-Swiftwater-PA_R2863610",
-    "company": "Sanofi",
-    "role": "2027 Summer Intern Process Engineering Swiftwater PA",
-    "location": "Swiftwater, PA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T18:01:44.161945+00:00"
-  },
-  {
-    "apply_url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/Product-Marketing-Engineering-Intern_JR-22082",
-    "company": "Vishay Intertechnology",
-    "role": "Product Marketing Engineering Intern",
-    "location": "Yankton, SD",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T18:01:44.161945+00:00"
-  },
-  {
-    "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153",
-    "company": "Ralliant",
-    "role": "Software Engineering Intern (Summer 2027)",
-    "location": "Beaverton, OR, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T18:01:44.161945+00:00"
-  },
-  {
     "apply_url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11503",
     "company": "UL Solutions",
     "role": "Summer 2027 Intern: R&D Engineering Intern",
@@ -2998,5 +2948,55 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T20:42:09.469786+00:00"
+  },
+  {
+    "apply_url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Industrial-Engineer-Intern_R01174377",
+    "company": "3M",
+    "role": "Internship - 2027 Undergraduate Industrial Engineer Intern",
+    "location": "US, Minnesota, Maplewood",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T20:52:14.967313+00:00"
+  },
+  {
+    "apply_url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Manufacturing-Technology-Intern_R01174449",
+    "company": "3M",
+    "role": "Internship - 2027 Undergraduate Manufacturing Technology Intern",
+    "location": "US, Minnesota, Maplewood",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T20:52:14.967313+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/exowatt/d31ed418-2635-4c70-a82d-b851dda2a844",
+    "company": "Exowatt",
+    "role": "Mechanical Engineering Spring Intern (Miami, FL)",
+    "location": "Miami, FL",
+    "source": "Lever",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T20:52:14.967313+00:00"
+  },
+  {
+    "apply_url": "https://jobs.lever.co/exowatt/944f1678-7a96-41f2-93ac-5971097279ac",
+    "company": "Exowatt",
+    "role": "Mechanical Engineering Spring Intern (Austin, TX)",
+    "location": "Austin, TX",
+    "source": "Lever",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T20:52:14.967313+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000163324070",
+    "company": "AECOM",
+    "role": "Highway Design Engineering Intern",
+    "location": "Mechanicsburg, PA, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T20:52:14.967313+00:00"
   }
 ]
