@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Fall-Co-op-Tooling-Engineer_R10261559",
-    "company": "Northrop Grumman",
-    "role": "2027 Fall Co-op Tooling Engineer",
-    "location": "United States-Mississippi-Iuka",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T19:31:31.494139+00:00"
-  },
-  {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Analysis-Engineer_J-00356966",
-    "company": "ASML",
-    "role": "Internship - Mechanical Analysis Engineer",
-    "location": "Wilton, CT, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T19:41:47.678459+00:00"
-  },
-  {
     "apply_url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Newark-Delaware/Manufacturing-Product-Engineering-Intern_JR-25415",
     "company": "Bloom Energy",
     "role": "Manufacturing Product Engineering Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-23T21:32:14.039875+00:00"
+  },
+  {
+    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Electrical-Engineering-Electromagnetic-Environmental-Effects-Intern--Summer-2027-_01885207",
+    "company": "RTX",
+    "role": "Electrical Engineering Electromagnetic Environmental Effects Intern (Summer 2027)",
+    "location": "US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T21:42:14.825752+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/brave/jobs/8412532",
+    "company": "Brave",
+    "role": "Software Development Intern - Waterloo University - Web3 Core",
+    "location": "Canada",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-23T21:42:14.825752+00:00"
   }
 ]
