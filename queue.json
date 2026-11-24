@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990016986166",
-    "company": "Lawrence Livermore National Laboratory (LLNL)",
-    "role": "Nuclear and Chemical Sciences Division Undergraduate Intern - Summer 2027",
-    "location": "Livermore, CA, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T00:31:32.046536+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990016986196",
-    "company": "Lawrence Livermore National Laboratory (LLNL)",
-    "role": "Nuclear and Chemical Sciences Division Graduate Intern - Summer 2027",
-    "location": "Livermore, CA, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T00:41:35.170106+00:00"
-  },
-  {
     "apply_url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product---Engineering-Co-Op_Req199630",
     "company": "The Home Depot",
     "role": "Product & Engineering Co-Op",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T02:12:08.598096+00:00"
+  },
+  {
+    "apply_url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Intern--Undergraduate---Summer-_1674027",
+    "company": "Centene",
+    "role": "Community Impact Data & Reporting Intern (Undergraduate - Summer)",
+    "location": "49 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T02:22:10.952769+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163376109",
+    "company": "Veolia",
+    "role": "Assemblies Engineering intern",
+    "location": "Minnetonka, MN, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T02:22:10.952769+00:00"
   }
 ]
