@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166",
-    "company": "Walmart",
-    "role": "Summer 2027 MBA Intern: APD Product Manager - MBA",
-    "location": "(USA) Together Building AR Bentonville Home Office",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T18:11:39.892954+00:00"
-  },
-  {
     "apply_url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Payer---Health-Systems-Oncology---Intern_R413129",
     "company": "Merck",
     "role": "2027 Future Talent Program - Payer & Health Systems Oncology - Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T22:12:05.290420+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807",
+    "company": "Super",
+    "role": "Data Engineering Intern",
+    "location": "Canada",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T22:52:03.477338+00:00"
   }
 ]
