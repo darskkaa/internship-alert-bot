@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000162736176",
-    "company": "AECOM",
-    "role": "Transportation Engineering Intern",
-    "location": "Winnipeg, MB, Canada",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T13:41:52.792978+00:00"
-  },
-  {
-    "apply_url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Process-Automation-Co-Op_JR003160",
-    "company": "Draper",
-    "role": "Process Automation Co-Op",
-    "location": "Cambridge, MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T14:11:37.209676+00:00"
-  },
-  {
     "apply_url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1",
     "company": "Symbotic",
     "role": "Intern- Software Engineer, Front-End",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T20:11:15.872722+00:00"
+  },
+  {
+    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/FPGA-Electrical-Engineer-Intern--Summer-2027-_01890532",
+    "company": "RTX",
+    "role": "FPGA Electrical Engineer Intern (Summer 2027)",
+    "location": "US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T20:21:20.881541+00:00"
+  },
+  {
+    "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11249",
+    "company": "Ralliant",
+    "role": "Applications Engineering Intern (Summer 2027)",
+    "location": "Beaverton, OR, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T20:21:20.881541+00:00"
   }
 ]
