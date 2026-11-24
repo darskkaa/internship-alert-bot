@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120238",
-    "company": "Honeywell Aerospace",
-    "role": "Information Systems Data Science Intern",
-    "location": "United States",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
     "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119718",
     "company": "Honeywell Aerospace",
     "role": "Software Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T14:51:33.731697+00:00"
+  },
+  {
+    "apply_url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/HWIL---Real-Time-Simulation-Intern--Summer-2027-_JR003188",
+    "company": "Draper",
+    "role": "HWIL & Real Time Simulation Intern (Summer 2027)",
+    "location": "Cambridge, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T15:21:37.853552+00:00"
   }
 ]
