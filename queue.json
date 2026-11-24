@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us",
-    "company": "Systems Planning and Analysis",
-    "role": "Integrated Analytics Intern",
-    "location": "Alexandria, VA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T15:41:36.279071+00:00"
-  },
-  {
-    "apply_url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Automation-Intern_R20929",
-    "company": "ZOLL Medical Corporation",
-    "role": "Software Automation Intern",
-    "location": "Chelmsford, MA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T15:51:50.569440+00:00"
-  },
-  {
     "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324",
     "company": "Ralliant",
     "role": "Software Engineering (AI Building) Intern (Summer 2027)",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T20:41:19.157250+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/apex-technology-inc/e34724bd-0db2-4433-9352-7ad49d37e627",
+    "company": "Apex",
+    "role": "Mechanical Ground Systems Engineering Internship (Summer 2027)",
+    "location": "Los Angeles",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T20:51:19.660286+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000163546179",
+    "company": "AECOM",
+    "role": "Civil/Transportation Engineering Intern/Co-op",
+    "location": "Burnaby, BC, Canada",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T20:51:19.660286+00:00"
   }
 ]
