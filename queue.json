@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Fixed-Income-Technology---2027-Summer-Internship_R-801337-1",
-    "company": "State Street",
-    "role": "State Street Investment Management - Fixed Income Technology - 2027 Summer Internship",
-    "location": "Boston, Massachusetts",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:21:44.584668+00:00"
-  },
-  {
     "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Product-Management-Team---Business-Analyst---Summer-Internship-2027_R-801339",
     "company": "State Street",
     "role": "State Street Product Management Team - Business Analyst - Summer Internship 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T17:51:38.356687+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5273590007",
+    "company": "Tenstorrent",
+    "role": "IT Systems Administrator Co-Op",
+    "location": "Toronto, Ontario, Canada",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T18:01:41.129693+00:00"
   }
 ]
