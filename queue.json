@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Store-Operations-Industrial-Engineer-Intern-Summer-2027_R105139",
-    "company": "Burlington Stores",
-    "role": "Store Operations Industrial Engineer Intern\u2014Summer 2027",
-    "location": "00000 - Burlington Corporate Office",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
     "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120238",
     "company": "Honeywell Aerospace",
     "role": "Information Systems Data Science Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T14:21:41.077323+00:00"
+  },
+  {
+    "apply_url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/PhD-Intern--Wireless---AI-ML-_REQ26-1174",
+    "company": "Interdigital",
+    "role": "Ph.D. Intern (Wireless + AI/ML)",
+    "location": "Conshohocken, PA +1 more",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T14:51:33.731697+00:00"
   }
 ]
