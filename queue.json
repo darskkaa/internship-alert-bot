@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324",
-    "company": "Ralliant",
-    "role": "Software Engineering (AI Building) Intern (Summer 2027)",
-    "location": "Beaverton, OR, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T16:21:43.287061+00:00"
-  },
-  {
-    "apply_url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern---ISM--Cyber-Security-and-AI_R26-5040-2",
-    "company": "Rockwell Automation",
-    "role": "Intern - ISM, Cyber Security and AI",
-    "location": "Mayfield Heights, Ohio, United States",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T16:51:43.450032+00:00"
-  },
-  {
     "apply_url": "https://generac.wd5.myworkdayjobs.com/external/job/Toronto-Canada/Intern-Hardware_JR17325",
     "company": "Generac",
     "role": "Intern Hardware",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T20:51:19.660286+00:00"
+  },
+  {
+    "apply_url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Simulation-Engineering-Intern--Summer-2027-_JR003181",
+    "company": "Draper",
+    "role": "Simulation Engineering Intern (Summer 2027)",
+    "location": "Cambridge, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T20:52:35.708873+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/apex-technology-inc/2268adcb-a0f6-4e12-a206-8f99e048486d",
+    "company": "Apex",
+    "role": "Software Engineer, Test Automation Internship (Summer 2027)",
+    "location": "Los Angeles",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T20:52:35.708873+00:00"
   }
 ]
