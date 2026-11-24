@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T17:31:27.620796+00:00",
+  "last_checked_utc": "2026-11-24T17:51:38.388235+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3438,6 +3438,7 @@
     "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Analytics-Business-Operations-Intern--Government-Services-_JR2026526163-1",
     "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1",
     "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Intern---Student-Engineer--Systems-Eng-_JR2026525683",
+    "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---RAF-Lossiemouth-United-Kingdom/Test---Evaluation-Intern-2027---12-Month-Placement_JR2026530394",
     "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/POL---Gdansk-Poland/Intern-Software-Engineer_JR2026492187-1",
     "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659",
     "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1",
@@ -32609,6 +32610,7 @@
     "job:workday:boeing:intern---student-engineer--systems-eng-_jr2026525683",
     "job:workday:boeing:intern-software-engineer_jr2026492187",
     "job:workday:boeing:intern-software-engineer_jr2026492187-1",
+    "job:workday:boeing:test---evaluation-intern-2027---12-month-placement_jr2026530394",
     "job:workday:borgwarner:advanced-inverter-electrical-engineering-intern_r2026-4197",
     "job:workday:borgwarner:automation-and-controls-engineering-co-op_r2026-0976",
     "job:workday:borgwarner:co-op-undergrad-technical_r2026-3712-1",
@@ -46548,6 +46550,7 @@
     "the boeing company engineering technology innovation graduate researcher program advanced materials structures intern",
     "the boeing company intern software engineer",
     "the boeing company intern student engineer systems eng",
+    "the boeing company test evaluation intern 2027 12 month placement",
     "the brattle group energy analyst intern economics",
     "the brattle group energy analyst intern economics multiple teams",
     "the brattle group energy analyst intern economics summer 2027",

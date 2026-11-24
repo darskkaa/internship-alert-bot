@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-s-Model-Risk-Management---Quantitative-Analyst---2027-Summer-Internship_R-801342",
-    "company": "State Street",
-    "role": "State Street\u2019s Model Risk Management - Quantitative Analyst - 2027 Summer Internship",
-    "location": "Boston, Massachusetts",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:21:44.584668+00:00"
-  },
-  {
     "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Fixed-Income-Technology---2027-Summer-Internship_R-801337-1",
     "company": "State Street",
     "role": "State Street Investment Management - Fixed Income Technology - 2027 Summer Internship",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T17:31:27.597113+00:00"
+  },
+  {
+    "apply_url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---RAF-Lossiemouth-United-Kingdom/Test---Evaluation-Intern-2027---12-Month-Placement_JR2026530394",
+    "company": "The Boeing Company",
+    "role": "Test & Evaluation Intern 2027 - 12 Month Placement",
+    "location": "2 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T17:51:38.356687+00:00"
   }
 ]
