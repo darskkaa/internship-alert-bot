@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8398982",
-    "company": "Deliveroo",
-    "role": "Software Engineer Intern",
-    "location": "London, UK",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T00:11:39.753497+00:00"
-  },
-  {
-    "apply_url": "https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply",
-    "company": "Pivotal Software",
-    "role": "Autonomy Intern - Autonomy - Path Planning",
-    "location": "Palo Alto, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T00:11:39.753497+00:00"
-  },
-  {
-    "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557076095",
-    "company": "Microsoft",
-    "role": "Research Intern - Deep Learning Group",
-    "location": "Redmond, WA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T00:11:39.753497+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990016985836",
     "company": "Lawrence Livermore National Laboratory (LLNL)",
     "role": "Seaborg Institute Nuclear Science and Security Graduate Intern - Summer 2027",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T00:32:09.629960+00:00"
+  },
+  {
+    "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_335424",
+    "company": "CACI",
+    "role": "Business Systems Analyst Intern - Summer 2027",
+    "location": "Remote (Any State)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T01:02:14.476939+00:00"
+  },
+  {
+    "apply_url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---North-Falmouth-MA/Engineering-Intern---Summer_REQ34028-1",
+    "company": "Teledyne",
+    "role": "Engineering Intern - Summer",
+    "location": "US - North Falmouth, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T01:02:14.476939+00:00"
+  },
+  {
+    "apply_url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---North-Falmouth-MA/Engineering-Intern---Fall_REQ34030",
+    "company": "Teledyne",
+    "role": "Engineering Intern - Fall",
+    "location": "US - North Falmouth, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T01:02:14.476939+00:00"
   }
 ]
