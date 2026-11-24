@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Anagni/Qualification---Validation-Internship_R2879887",
-    "company": "Sanofi",
-    "role": "Qualification & Validation Internship",
-    "location": "Anagni",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T13:21:35.058590+00:00"
-  },
-  {
     "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gent/Junior-Associate-Scientist--Intern-Host-Creation-_R2879993",
     "company": "Sanofi",
     "role": "Junior Associate Scientist (Intern Host Creation)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T19:31:20.231475+00:00"
+  },
+  {
+    "apply_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/OUJDA-01/Embedded-Systems-Verification-Engineer-Intern_R57191",
+    "company": "Cadence Design Systems",
+    "role": "Embedded Systems Verification Engineer Intern",
+    "location": "OUJDA 01",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T19:41:28.481919+00:00"
   }
 ]
