@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T05:02:28.644484+00:00",
+  "last_checked_utc": "2026-11-24T05:32:08.433921+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14015,6 +14015,7 @@
     "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Electronic-Engineer_R0034554",
     "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1",
     "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Summer-Placement-Software-Engineer_R0033874",
+    "https://levistraussandco.wd5.myworkdayjobs.com/external/job/Ixelles-Belgium/Merchandising-Analytics-Intern_R-0160427",
     "https://levistraussandco.wd5.myworkdayjobs.com/external/job/Ixelles-Belgium/Trading---Operations-Intern_R-0156460",
     "https://levistraussandco.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1",
     "https://levistraussandco.wd5.myworkdayjobs.com/external/job/Milan-Italy/MPIM-Analytics-Intern_R-0154405-1",
@@ -36369,6 +36370,7 @@
     "job:workday:leonardocompany:summer-placement-software-engineer_r0033874",
     "job:workday:leonardocompany:summer-placement-software-engineer_r0034282",
     "job:workday:levistraussandco:analytics-intern_r-0155618-1",
+    "job:workday:levistraussandco:merchandising-analytics-intern_r-0160427",
     "job:workday:levistraussandco:mpim-analytics-intern_r-0154405-1",
     "job:workday:levistraussandco:trading---operations-intern_r-0156460",
     "job:workday:lifefitness:android-software-intern_jr-025277",
@@ -40665,6 +40667,7 @@
     "leonardo test systems engineer intern",
     "levi strauss co analytics intern",
     "levi strauss co analytics intern ecommerce",
+    "levi strauss co merchandising analytics intern",
     "levi strauss co mpim analytics intern",
     "levi strauss co trading operations intern",
     "lexington medical electricalembedded software engineer intern",
