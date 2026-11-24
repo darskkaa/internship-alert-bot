@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8952896002",
-    "company": "Atoms",
-    "role": "Robotics & Autonomous Systems Intern - AHS Operations & Diagnostics",
-    "location": "Nova Lima, BRA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T17:31:37.281642+00:00"
-  },
-  {
     "apply_url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Technical-Solutions/Engineering-Intern---Facilities-Development---Capital-Projects_R-84584-1",
     "company": "Hendrick Motorsports",
     "role": "Engineering Intern \u2013 Facilities Development & Capital Projects",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T21:01:43.129259+00:00"
+  },
+  {
+    "apply_url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Florence-Kentucky-United-States/Manufacturing-Engineering-Co-Op_R26_00665",
+    "company": "Regal Rexnord",
+    "role": "Manufacturing Engineering Co-Op",
+    "location": "Florence, Kentucky, United States",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T21:11:17.221483+00:00"
   }
 ]

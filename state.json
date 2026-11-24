@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T21:01:43.156470+00:00",
+  "last_checked_utc": "2026-11-24T21:11:17.252416+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16830,6 +16830,7 @@
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Technical-Product-Intern_R-059526-1",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Santiago/Cloud-Services-Intern_R-059108",
     "https://redhat.wd5.myworkdayjobs.com/jobs/job/Waterford-City/Software-Engineering-Internship--Ireland-_R-059589",
+    "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Florence-Kentucky-United-States/Manufacturing-Engineering-Co-Op_R26_00665",
     "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Grafton-Wisconsin-United-States/Information-Technology-Summer-Intern_R26_04545-1",
     "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Engineering-Summer-Intern_R26_04578-2",
     "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Strategic-Pricing-and-Analytics-Summer-Intern_R26_04973-1",
@@ -38591,6 +38592,7 @@
     "job:workday:redhat:technical-product-intern_r-059526-1",
     "job:workday:regalrexnord:engineering-summer-intern_r26_04578-2",
     "job:workday:regalrexnord:information-technology-summer-intern_r26_04545-1",
+    "job:workday:regalrexnord:manufacturing-engineering-co-op_r26_00665",
     "job:workday:regalrexnord:strategic-pricing-and-analytics-summer-intern_r26_04973-1",
     "job:workday:regeneron:xmlname-2027-co-op-data-analytics---digital-tools--iops-_r50983-1",
     "job:workday:regeneron:xmlname-2027-co-op-data-science---digital-innovation--preclinical-manufacturing---research-it-_r51031-1",
@@ -44238,6 +44240,7 @@
     "reflect orbital mission operations engineering intern",
     "regal rexnord engineering summer intern",
     "regal rexnord information technology summer intern",
+    "regal rexnord manufacturing engineering coop",
     "regal rexnord strategic pricing and analytics summer intern",
     "regdesk front end developer intern",
     "regeneron pharmaceuticals aiml data engineering intern",
