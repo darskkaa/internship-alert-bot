@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T21:11:17.252416+00:00",
+  "last_checked_utc": "2026-11-24T21:32:03.828078+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16217,6 +16217,7 @@
     "https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302",
     "https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/Research---Development-Summer-Internship--MSc--2027_R000160062",
     "https://pg.wd5.myworkdayjobs.com/1000/job/Novomoskovsk/Technical-Projects-Intern_R000147816",
+    "https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Engineer-Intern_R000161464",
     "https://pg.wd5.myworkdayjobs.com/1000/job/POMEZIA-PLANT--TECH-CENTER/Intelligent-Controls-and-Automation-Engineer-Internship_R000157957",
     "https://pg.wd5.myworkdayjobs.com/1000/job/POMEZIA-PLANT--TECH-CENTER/Manufacturing---Process-Engineer-Internship--Pomezia-Plant-_R000162388",
     "https://pg.wd5.myworkdayjobs.com/1000/job/READING-TECH-CENTER/Electrical-Engineering-Internship-2027_R000160051",
@@ -38143,6 +38144,7 @@
     "job:workday:pg:data---analytics-intern_r000160083",
     "job:workday:pg:data-activation---asset-management-internship--m-w-d-_r000150400",
     "job:workday:pg:data-engineer-intern_r000159290",
+    "job:workday:pg:data-engineer-intern_r000161464",
     "job:workday:pg:data-engineer-internship--m-f-x-_r000155816",
     "job:workday:pg:data-engineer-internship--m-f-x-_r000156073",
     "job:workday:pg:data-scientist--master-s-degree--internship_r000157504",
