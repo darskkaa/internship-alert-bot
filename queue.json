@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=78caa2c6-394a-4c51-b7bd-224461099eda",
-    "company": "CAS",
-    "role": "Technology Intern - Application Technology",
-    "location": "Columbus, OH",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
     "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=8b5cdf5c-af19-431d-b135-9f2c62c4d002",
     "company": "CAS",
     "role": "Technology Intern - Databases",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T16:41:21.183263+00:00"
+  },
+  {
+    "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811859",
+    "company": "JP Morgan Chase",
+    "role": "2027 Market Risk Management Internship - Emerging Talent Summer Experience Program",
+    "location": "New York, NY, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T17:01:34.548419+00:00"
   }
 ]
