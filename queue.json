@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119718",
-    "company": "Honeywell Aerospace",
-    "role": "Software Engineer Intern",
-    "location": "United States",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
     "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471",
     "company": "Honeywell Aerospace",
     "role": "Information Systems Data Science Intern - IT",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T15:21:37.853552+00:00"
+  },
+  {
+    "apply_url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606205",
+    "company": "WTW",
+    "role": "Early Careers: Corporate Risk and Broking (CRB)- Internship - Broking Placement- Multiple Locations - 2027",
+    "location": "Houston, TX, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T15:31:30.204638+00:00"
   }
 ]
