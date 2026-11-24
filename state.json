@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T13:01:31.611496+00:00",
+  "last_checked_utc": "2026-11-24T13:51:33.935818+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17174,6 +17174,7 @@
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-US-Advanced-Analytics-Cambridge-MA_R2865218",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Summer-Co-op-Manufacturing-Science--Analytics--and-Technology--Framingham--MA_R2865211",
+    "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gent/Data-Visualization---Process-Tooling-Intern_R2880422",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gent/Junior-Associate-Scientist--Intern-Host-Creation-_R2879993",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gent/Junior-Associate-Scientist--Intern-USP-_R2879991",
     "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gent/Research-Intern_R2879877-1",
@@ -38817,6 +38818,7 @@
     "job:workday:sallie-mae:software-engineering-intern_r26_000688",
     "job:workday:sanofi:analytical-science-intern---msat_r2873804",
     "job:workday:sanofi:analytics-and-powerbi-development-intern_r2868855",
+    "job:workday:sanofi:data-visualization---process-tooling-intern_r2880422",
     "job:workday:sanofi:engineering-intern_r2873345",
     "job:workday:sanofi:integrated-manufacturing-systems-intern_r2873923",
     "job:workday:sanofi:internship-6-months-data-and-ia-engineer_r2873938",
@@ -45091,6 +45093,7 @@
     "sanofi 2027 summer intern us advanced analytics cambridge ma",
     "sanofi analytical science intern msat",
     "sanofi analytics and powerbi development intern",
+    "sanofi data visualization process tooling intern",
     "sanofi engineering intern",
     "sanofi integrated manufacturing systems intern",
     "sanofi internship 6 months data and ia engineer",
