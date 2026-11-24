@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineering-Intern-Summer-2027_R70793-1",
-    "company": "Motorola",
-    "role": "Electrical Engineering Intern-Summer 2027",
-    "location": "Plantation, FL",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T10:31:45.620604+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002",
     "company": "iCapital Network",
     "role": "Data Solutions Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T18:41:15.115136+00:00"
+  },
+  {
+    "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Campinas/Controls-Engineering-Intern_R5058717-1",
+    "company": "GE Vernova",
+    "role": "Controls Engineering Intern",
+    "location": "Campinas",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T18:51:29.895045+00:00"
   }
 ]
