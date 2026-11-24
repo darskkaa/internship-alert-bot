@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Contract-Management-and-AI_J-00357971",
-    "company": "ASML",
-    "role": "Internship - Contract Management and AI",
-    "location": "San Diego, CA, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T18:51:44.764375+00:00"
-  },
-  {
     "apply_url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-BA-BARI-STRADA-PROVINCIALE-PER-MODUGNO-10C613/Intern---AMS-Test-Market-Analyst---Bari--Italy---2026--M-F-D-_R172796",
     "company": "Baker Hughes",
     "role": "Intern \u2013 AMS Test Market Analyst \u2013 Bari, Italy \u2013 2026 (M/F/D)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T23:32:07.829757+00:00"
+  },
+  {
+    "apply_url": "https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us",
+    "company": "Amazon",
+    "role": "Front-End Engineer Intern",
+    "location": "Seattle, WA, Chicago, IL, Bellevue, WA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T23:42:00.467246+00:00"
   }
 ]
