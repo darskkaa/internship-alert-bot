@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T03:12:10.512381+00:00",
+  "last_checked_utc": "2026-11-24T03:22:09.899695+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13591,6 +13591,8 @@
     "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162593209",
     "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162593839",
     "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163376109",
+    "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969",
+    "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163378029",
     "https://jobs.smartrecruiters.com/VusionGroupSA/744000149935589",
     "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771",
     "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149874105",
@@ -31023,6 +31025,8 @@
     "job:smartrecruiters:744000163278459",
     "job:smartrecruiters:744000163324070",
     "job:smartrecruiters:744000163376109",
+    "job:smartrecruiters:744000163377969",
+    "job:smartrecruiters:744000163378029",
     "job:smartrecruiters:75886593",
     "job:smartrecruiters:80298252",
     "job:smartrecruiters:81353217",
@@ -47364,6 +47368,7 @@
     "veolia intern project engineer",
     "veolia intern quality engineering",
     "veolia manufacturing software engineer intern",
+    "veolia mechanical engineer intern",
     "veolia mechanical engineering intern",
     "veolia operations engineering intern",
     "veolia process engineering intern water technologies",

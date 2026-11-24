@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855",
-    "company": "Formlabs",
-    "role": "API & Automation Intern",
-    "location": "Somerville, MA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T02:41:32.026987+00:00"
-  },
-  {
     "apply_url": "https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007",
     "company": "Lucid Motors",
     "role": "ADAS Systems Integration Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T03:12:10.481900+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163378029",
+    "company": "Veolia",
+    "role": "Mechanical Engineer Intern",
+    "location": "West Orange, TX, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T03:22:09.870579+00:00"
   }
 ]
