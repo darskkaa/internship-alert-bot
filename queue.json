@@ -1,45 +1,5 @@
 [
   {
-    "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880",
-    "company": "Honeywell Aerospace",
-    "role": "AI Software Engineer Intern",
-    "location": "United States",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
-    "apply_url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1",
-    "company": "iA",
-    "role": "Software Development Engineer Intern",
-    "location": "Binghamton, NY",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
-    "apply_url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1",
-    "company": "iA",
-    "role": "Software Data Engineer Intern",
-    "location": "Indianapolis, IN",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
-    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=2225e962-d694-4585-a937-82c9c01b6337",
-    "company": "CAS",
-    "role": "Cheminformatics Scientist Intern",
-    "location": "Columbus, OH",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
     "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a",
     "company": "CAS",
     "role": "Business Data Analytics Intern - AI/ML Focus",
@@ -2998,5 +2958,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T15:41:26.768891+00:00"
+  },
+  {
+    "apply_url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PCT/Research-Intern---Computer-Vision-and-Robotics-for-Interventional-AI_R-32162",
+    "company": "Varian",
+    "role": "Research Intern - Computer Vision and Robotics for Interventional AI",
+    "location": "PCT",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T16:11:20.177210+00:00"
+  },
+  {
+    "apply_url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PCT/Research-Intern---Multimodal-Perception--VLA-Models--and-Autonomous-Robotics_R-32261",
+    "company": "Varian",
+    "role": "Research Intern - Multimodal Perception, VLA Models, and Autonomous Robotics",
+    "location": "PCT",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T16:11:20.177210+00:00"
+  },
+  {
+    "apply_url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Lawrence-KS/Thermoform-Engineering-Intern---Summer-2027_REQ_98994",
+    "company": "Amcor",
+    "role": "Thermoform Engineering Intern - Summer 2027",
+    "location": "RPSNA Lawrence KS",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T16:11:20.177210+00:00"
+  },
+  {
+    "apply_url": "https://careers.amd.com/jobs/89564?icims=1&lang=en-us",
+    "company": "AMD",
+    "role": "Masters AI Rack/Cluster Design Engineering Co-op",
+    "location": "Austin, TX",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T16:11:20.177210+00:00"
   }
 ]
