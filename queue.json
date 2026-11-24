@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R03445",
-    "company": "Altera Corporation",
-    "role": "FPGA Software Engineer Intern",
-    "location": "Toronto, Ontario, Canada",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T10:01:52.972072+00:00"
-  },
-  {
     "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineering-Intern-Summer-2027_R70793-1",
     "company": "Motorola",
     "role": "Electrical Engineering Intern-Summer 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T18:31:22.026238+00:00"
+  },
+  {
+    "apply_url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/XMLNAME-2026-Summer-MBA-Intern---Fixed-Income--Credit-Research-_84641",
+    "company": "T. Rowe Price",
+    "role": "2027 Summer MBA Intern \u2013 Fixed Income (Credit Research)",
+    "location": "Baltimore, MD",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T18:41:15.115136+00:00"
   }
 ]
