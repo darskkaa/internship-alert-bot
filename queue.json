@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336",
-    "company": "CAS",
-    "role": "Product Management Intern",
-    "location": "Columbus, OH",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
-    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=1fe1ecbc-5b12-4c0e-a2cf-5d75049ab527",
-    "company": "CAS",
-    "role": "CAS 2027 Technology Summer Intern - Business Data Governance",
-    "location": "Columbus, OH",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
     "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=78caa2c6-394a-4c51-b7bd-224461099eda",
     "company": "CAS",
     "role": "Technology Intern - Application Technology",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T16:31:31.548528+00:00"
+  },
+  {
+    "apply_url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/AI-Software-Development-Engineer-Intern_R03487",
+    "company": "Altera Corporation",
+    "role": "AI Software Development Engineer Intern",
+    "location": "Toronto, Ontario, Canada",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T16:41:21.183263+00:00"
+  },
+  {
+    "apply_url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R03512",
+    "company": "Altera Corporation",
+    "role": "Embedded Solutions Intern",
+    "location": "Toronto, Ontario, Canada",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T16:41:21.183263+00:00"
   }
 ]
