@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T09:22:20.841847+00:00",
+  "last_checked_utc": "2026-11-24T09:42:15.520116+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2112,6 +2112,7 @@
     "https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
     "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
     "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027",
+    "https://amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027",
     "https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
     "https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027",
     "https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027",
@@ -2644,6 +2645,7 @@
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Wilmington---DE/Finance-AI---Data-Analytics-Intern--Undergraduate---LIFT-Program_R-264458",
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US--Tarzana--CA/Facilities---Engineering-Safety-Intern_R-264173",
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845",
+    "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Cambridge-MA--100-Binney-Street/Summer-2027-Genome-Engineering-Intern_R-264902",
     "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415",
     "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Epidemiology---Real-World-Science-Intern_R-259238",
     "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Regulatory-Innovation---AI-Transformation-Intern_R-262017",
@@ -19575,6 +19577,7 @@
     "alexion coop development operations ai automation enablement intern",
     "alexion epidemiology realworld science intern",
     "alexion regulatory innovation ai transformation intern",
+    "alexion summer 2027 genome engineering intern",
     "alexion summer 2027 innovation and ai transformation intern",
     "alexion summer 2027 quantitative intern phd",
     "alfa laval internship planning engineer",
@@ -32037,6 +32040,7 @@
     "job:workday:astrazeneca:portfolio--capacity---ai-enabled-business-operations-intern_r-264635",
     "job:workday:astrazeneca:regulatory-innovation---ai-transformation-intern_r-262017",
     "job:workday:astrazeneca:summer-2027-automation-technician-intern_r-264285",
+    "job:workday:astrazeneca:summer-2027-genome-engineering-intern_r-264902",
     "job:workday:astrazeneca:summer-2027-innovation-and-ai-transformation-intern_r-264282",
     "job:workday:astrazeneca:summer-2027-innovation-and-ai-transformation-intern_r-264282-1",
     "job:workday:astrazeneca:summer-2027-quantitative-intern-phd_r-264278",

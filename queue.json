@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135",
-    "company": "Samsung",
-    "role": "Business Operations & Data Analytics Intern",
-    "location": "6555 Excellence Way, Plano, TX, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T03:11:43.409156+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2",
     "company": "OpusClip",
     "role": "AI Research Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T09:22:20.815712+00:00"
+  },
+  {
+    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Cambridge-MA--100-Binney-Street/Summer-2027-Genome-Engineering-Intern_R-264902",
+    "company": "Alexion",
+    "role": "Summer 2027 Genome Engineering Intern",
+    "location": "Cambridge MA \u2013 100 Binney Street",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T09:42:15.490106+00:00"
   }
 ]
