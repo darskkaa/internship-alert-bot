@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T06:12:07.062786+00:00",
+  "last_checked_utc": "2026-11-24T06:32:11.965149+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16891,6 +16891,7 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Workforce-Optimization---Strategies--Data-Science--Intern_202609-124186",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Cape-Town/Roche-Next-Generation-Sequencing--NGS----Agentic-AI-Engineering-Support-Internship_202610-126801-1",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2027-Summer-Intern---Logistics-Engineering_202611-128366",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2027-Summer-Intern---Service-Data-and-Analytics_202611-129686",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kaiseraugst/Internship---AI-Metadata-Augmentation_202609-123518",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kaiseraugst/Internship-in-External-Quality-for-Students-in-Life-Sciences--12-months--Kaiseraugst-_202610-126953",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kuwait/Cybersecurity---Digital-Solution-Assistant-Engineer-Intern--12-months-_202611-128979",
@@ -38516,6 +38517,7 @@
     "job:workday:roche:xmlname-2027-summer-intern---product-technical-development---digital-sciences-focus_202610-126833",
     "job:workday:roche:xmlname-2027-summer-intern---product-technical-development---engineering-and-manufacturing-focus_202610-126831-1",
     "job:workday:roche:xmlname-2027-summer-intern---product-technical-development---laboratory--wet-lab-or-dry-lab--focus_202610-126499",
+    "job:workday:roche:xmlname-2027-summer-intern---service-data-and-analytics_202611-129686",
     "job:workday:roche:xmlname-2027-summer-intern---software-applications-and-pipelines--r-d-internal-solutions--computational-science-and-informatics-_202611-128312",
     "job:workday:roche:xmlname-2027-summer-intern---software-engineer--robotics----lab-automation_202611-129832",
     "job:workday:roche:xmlname-2027-summer-intern---synthetic-molecule-analytical-chemistry--smac---synthetic-molecule-pharmaceutical-sciences--smps---gred_202611-129534",
@@ -44320,6 +44322,7 @@
     "roche 2027 summer intern logistics engineering",
     "roche 2027 summer intern mechanical engineer systems and hardware development",
     "roche 2027 summer intern microfluidic systems integration research",
+    "roche 2027 summer intern service data and analytics",
     "roche 2027 summer intern software applications and pipelines rd internal solutions computational science and informatics",
     "roche 2027 summer intern systems engineer instrument development",
     "roche 2027 summer intern systems hardware development",

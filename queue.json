@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623368",
-    "company": "LinkedIn",
-    "role": "Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems",
-    "location": "Mountain View, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T02:41:32.026987+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623639",
     "company": "LinkedIn",
     "role": "AI/ML Engineer Intern - Generative AI",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T05:32:08.404642+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2027-Summer-Intern---Service-Data-and-Analytics_202611-129686",
+    "company": "Roche",
+    "role": "2027 Summer Intern - Service Data and Analytics",
+    "location": "Indianapolis",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T06:32:11.935040+00:00"
   }
 ]
