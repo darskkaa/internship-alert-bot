@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T18:51:29.919107+00:00",
+  "last_checked_utc": "2026-11-24T19:21:19.407018+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1705,6 +1705,7 @@
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Generation-and-Management-of-AC-ICDs-using-AI-Technology-Intern_JR10457169",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-High-Energy-Rigs-SW-Engineer-Intern_JR10456636",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-INTERNSHIP---Artificial-Intelligence-in-Communications-Development_JR10457394",
+    "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-MANUFACTURING-ENGINEERING-S19-Internship_JR10456087",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Network-and-Storage-Systems-Intern---Mission-Critical-Data-Integration_JR10457486",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Software-Engineering-DevOps--Test-Automation---AI-Agents-Intern_JR10457634",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-TECHNICAL-AREAS--PRODUCTION-SUPPORT-INTERN_JR10456505",
@@ -19564,6 +19565,7 @@
     "airbus discover i 20272028 internship in structural test laboratory systems area",
     "airbus discover i 20272028 internship materials and processes engineer",
     "airbus discover i 20272028 manufacturing engineering a400m intern",
+    "airbus discover i 20272028 manufacturing engineering s19 internship",
     "airbus discover i 20272028 network and storage systems intern missioncritical data integration",
     "airbus discover i 20272028 safety engineer internship",
     "airbus discover i 20272028 software engineering devops test automation ai agents intern",
@@ -31485,6 +31487,7 @@
     "job:workday:ag:xmlname--discover-i-2027-2028-health-management-and-predictive-analytics-engineer-internship_jr10457290",
     "job:workday:ag:xmlname--discover-i-2027-2028-high-energy-rigs-sw-engineer-intern_jr10456636",
     "job:workday:ag:xmlname--discover-i-2027-2028-internship---artificial-intelligence-in-communications-development_jr10457394",
+    "job:workday:ag:xmlname--discover-i-2027-2028-manufacturing-engineering-s19-internship_jr10456087",
     "job:workday:ag:xmlname--discover-i-2027-2028-network-and-storage-systems-intern---mission-critical-data-integration_jr10457486",
     "job:workday:ag:xmlname--discover-i-2027-2028-safety-engineer-internship_jr10457408",
     "job:workday:ag:xmlname--discover-i-2027-2028-software-engineering-devops--test-automation---ai-agents-intern_jr10457634",
