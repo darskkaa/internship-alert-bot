@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/CAN-TRNT-Virtual/Intern--Business-Systems-Analyst_JR0308628",
-    "company": "Fidelity National Information Services",
-    "role": "Intern, Business Systems Analyst",
-    "location": "CAN TRNT Virtual",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T04:11:39.598070+00:00"
-  },
-  {
-    "apply_url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/CAN-TRNT-Virtual/Intern--Digital-Media---UX-Design_JR0308625",
-    "company": "Fidelity National Information Services",
-    "role": "Intern, Digital Media / UX Design",
-    "location": "CAN TRNT Virtual",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T04:11:39.598070+00:00"
-  },
-  {
     "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Mechanical-Engineering-Intern_R108380-1",
     "company": "Tencent",
     "role": "Mechanical Engineering Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T12:32:21.021886+00:00"
+  },
+  {
+    "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Electrical-Engineering-Designer-Intern_REQ_0000084512",
+    "company": "PennState University",
+    "role": "Electrical Engineering Designer Intern",
+    "location": "Penn State University Park",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T13:01:31.577836+00:00"
+  },
+  {
+    "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Security-Services-Intern_REQ_0000084602-1",
+    "company": "PennState University",
+    "role": "Security Services Intern",
+    "location": "Penn State University Park",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T13:01:31.577836+00:00"
   }
 ]
