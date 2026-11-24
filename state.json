@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T12:02:17.234731+00:00",
+  "last_checked_utc": "2026-11-24T12:32:21.050497+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6929,6 +6929,7 @@
     "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---SCS-Product-Design-Internship---Summer-2027_R5053219-2",
     "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova--Grid-Engineering-Internship---Summer-2027_R5056820-2",
     "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Birr/Design-Liaison-Engineering-Intern_R5054667-2",
+    "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Budapest-HU-26/DTDP-Intern_R5052729-3",
     "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Charleroi-USA/GE-Vernova-Manufacturing-Process-Engineer-Intern---Summer-2027_R5053285-1",
     "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Clearwater/GE-Vernova-Engineering-Intern--Summer-2027-_R5049950-2",
     "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Field-Engineer-Intern_R5054427-2",
@@ -24160,6 +24161,7 @@
     "ge vernova controls product management intern summer 2027",
     "ge vernova customer support engineering intern nysc",
     "ge vernova design liaison engineering intern",
+    "ge vernova digital technology development program intern",
     "ge vernova digital technology intern",
     "ge vernova document controller intern grid engineering",
     "ge vernova electrical system engineering intern",
@@ -34208,6 +34210,7 @@
     "job:workday:gevernova:design-liaison-engineering-intern_r5054667-2",
     "job:workday:gevernova:document-controller-intern---grid-engineering_r5056137-2",
     "job:workday:gevernova:document-controller-intern---grid-engineering_r5056137-3",
+    "job:workday:gevernova:dtdp-intern_r5052729-3",
     "job:workday:gevernova:electrical-system-engineering-intern_r5056578-1",
     "job:workday:gevernova:electrical-system-engineering-intern_r5056578-2",
     "job:workday:gevernova:engineering-intern---power-conversion---storage-ai-tool-developer--2027_r5049957-1",
