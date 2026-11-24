@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a",
-    "company": "CAS",
-    "role": "Business Data Analytics Intern - AI/ML Focus",
-    "location": "Columbus, OH",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
     "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336",
     "company": "CAS",
     "role": "Product Management Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T16:11:20.177210+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5493521008",
+    "company": "QuEra Computing",
+    "role": "Site Reliability Engineer Co-op",
+    "location": "Boston, MA, USA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T16:31:31.548528+00:00"
   }
 ]
