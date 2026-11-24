@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Payer---Health-Systems-Oncology---Intern_R413129",
-    "company": "Merck",
-    "role": "2027 Future Talent Program - Payer & Health Systems Oncology - Intern",
-    "location": "USA - Pennsylvania - North Wales (Upper Gwynedd)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T18:11:39.892954+00:00"
-  },
-  {
     "apply_url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Data-Analyst-Co-op_JR104734-1",
     "company": "Greenheck Group",
     "role": "Data Analyst Co-op",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T22:52:03.477338+00:00"
+  },
+  {
+    "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5474684008?gh_jid=5474684008",
+    "company": "Lightmatter",
+    "role": "Design Verification, Intern Summer 2027",
+    "location": "Mountain View, CA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T23:02:07.442691+00:00"
   }
 ]
