@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.lever.co/tri/2d9833d5-a940-4862-b13b-a1ecc9378fea",
-    "company": "Toyota Research Institute",
-    "role": "Robotics Intern, UX Design",
-    "location": "Los Altos, CA",
-    "source": "Lever",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T18:01:52.082043+00:00"
-  },
-  {
     "apply_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166",
     "company": "Walmart",
     "role": "Summer 2027 MBA Intern: APD Product Manager - MBA",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T21:42:03.651365+00:00"
+  },
+  {
+    "apply_url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-MFRM-Projects---GRM--Retail-Risk-Modeling-Intern_R-0000193429",
+    "company": "Royal Bank of Canada",
+    "role": "2027 Winter MFRM Projects - GRM, Retail Risk Modeling Intern",
+    "location": "TORONTO, Ontario, Canada",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T22:12:05.290420+00:00"
   }
 ]
