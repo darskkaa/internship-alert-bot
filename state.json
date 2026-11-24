@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T06:32:11.965149+00:00",
+  "last_checked_utc": "2026-11-24T07:12:13.007310+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2553,6 +2553,7 @@
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Data---AI--Controls_J-00357861",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565",
+    "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Data-Analyst_J-00355833",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
     "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562",
@@ -20469,6 +20470,7 @@
     "asml internship coop data engineer",
     "asml internship coop test and measurement facilities electrical engineer",
     "asml internship coop test and measurement facilities liquid metal erosion",
+    "asml internship data analyst",
     "asml internship data scientist",
     "asml internship design engineer",
     "asml internship diagnostics engineer",
@@ -31916,6 +31918,7 @@
     "job:workday:asml:internship----mechanical-engineer_j-00357103",
     "job:workday:asml:internship---application-software-qa-engineer_j-00354565",
     "job:workday:asml:internship---contract-management-and-ai_j-00357971",
+    "job:workday:asml:internship---data-analyst_j-00355833",
     "job:workday:asml:internship---data-scientist_j-00356462",
     "job:workday:asml:internship---diagnostics-engineer_j-00358468",
     "job:workday:asml:internship---droplet-generation-research_j-00355379",

@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623639",
-    "company": "LinkedIn",
-    "role": "AI/ML Engineer Intern - Generative AI",
-    "location": "Mountain View, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T02:41:32.026987+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162628808",
     "company": "LinkedIn",
     "role": "AI/ML Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T06:32:11.935040+00:00"
+  },
+  {
+    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Data-Analyst_J-00355833",
+    "company": "ASML",
+    "role": "Internship - Data Analyst",
+    "location": "San Jose, CA, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T07:12:12.986018+00:00"
   }
 ]
