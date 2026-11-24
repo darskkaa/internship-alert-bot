@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T02:42:08.294954+00:00",
+  "last_checked_utc": "2026-11-24T02:52:10.171605+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14495,6 +14495,7 @@
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong-Manulife-Tower/Co-op-Internship-2027---Global-Information-Risk-Management--6-months-_JR26100089",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong-Manulife-Tower/Co-op-Internship-2027---Global-Information-Risk-Management--6-months-_JR26100092",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong-Manulife-Tower/Co-op-Internship-2027---Regional-Marketing-Strategy--UX-UI_JR26110506",
+    "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Makati-City/Full-Stack-Engineer-Intern_JR26111273-1",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Business-Technology_JR26081687",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Data-Engineering_JR26081683",
@@ -36493,6 +36494,7 @@
     "job:workday:manulife:co-op-internship-2027---global-information-risk-management--6-months-_jr26100089",
     "job:workday:manulife:co-op-internship-2027---global-information-risk-management--6-months-_jr26100092",
     "job:workday:manulife:co-op-internship-2027---regional-marketing-strategy--ux-ui_jr26110506",
+    "job:workday:manulife:full-stack-engineer-intern_jr26111273-1",
     "job:workday:manulife:network--automation-engineering-intern_jr26061507",
     "job:workday:manulife:operations---data-analyst-co-op--8-months-_jr26091348",
     "job:workday:manulife:spring-co-op-2027---software-engineering--security---operations_jr26091121",
@@ -40942,6 +40944,7 @@
     "manulife financial automation software technical analysis intern",
     "manulife financial coop internship 2027 global information risk management 6 months",
     "manulife financial coop internship 2027 regional marketing strategy uxui",
+    "manulife financial full stack engineer intern",
     "manulife financial grit intern",
     "manulife financial network automation engineering intern",
     "manulife financial operations data analyst coop 8 months",
