@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471",
-    "company": "Honeywell Aerospace",
-    "role": "Information Systems Data Science Intern - IT",
-    "location": "United States",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
-    "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119888",
-    "company": "Honeywell Aerospace",
-    "role": "Semiconductor Engineer Intern",
-    "location": "United States",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
-    "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119843",
-    "company": "Honeywell Aerospace",
-    "role": "Embedded Engineer Intern",
-    "location": "United States",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
     "apply_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880",
     "company": "Honeywell Aerospace",
     "role": "AI Software Engineer Intern",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T15:31:30.204638+00:00"
+  },
+  {
+    "apply_url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Commercial-Banking-Rotational-Internship--Office-of-Chief-Data---Analytics--Business-Enablement-and-Strategic-Initiatives---Summer-2027---4-Months_R260032429-2",
+    "company": "Bank of Montreal",
+    "role": "Commercial Banking Rotational Internship (Office of Chief Data & Analytics, Business Enablement and Strategic Initiatives), Summer 2027 - 4 Months",
+    "location": "Toronto, ON, CAN",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T15:41:26.768891+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8958714002",
+    "company": "iCapital Network",
+    "role": "SI and Annuities Intern",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T15:41:26.768891+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009",
+    "company": "Fanatics",
+    "role": "Product Management Intern - Card Tech",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T15:41:26.768891+00:00"
   }
 ]
