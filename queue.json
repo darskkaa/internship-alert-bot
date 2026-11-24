@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f9b67716-a1c1-489e-8c95-ed52ab2ca846",
-    "company": "CAS",
-    "role": "Technology Intern - Software Engineering",
-    "location": "Columbus, OH",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
-    "apply_url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f0600bf5-5242-4565-9d1a-021544b8fca1",
-    "company": "CAS",
-    "role": "Product Management in AI for Chemistry Fellow",
-    "location": "Columbus, OH",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:11:37.964710+00:00"
-  },
-  {
     "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/State-Street-Product-Team---Data-Intelligence---2027-Summer-Internship_R-801340",
     "company": "State Street",
     "role": "State Street Product Team - Data Intelligence - 2027 Summer Internship",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T17:11:35.205171+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Cybersecurity-Intern---Linthicum-MD_R10261960",
+    "company": "Northrop Grumman",
+    "role": "2027 Cybersecurity Intern - Linthicum MD",
+    "location": "United States-Maryland-Linthicum",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T17:21:22.613065+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Computer-Systems-Intern---Linthicum-MD_R10261959",
+    "company": "Northrop Grumman",
+    "role": "2027 Computer Systems Intern - Linthicum MD",
+    "location": "United States-Maryland-Linthicum",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T17:21:22.613065+00:00"
   }
 ]
