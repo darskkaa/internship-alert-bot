@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T05:32:08.433921+00:00",
+  "last_checked_utc": "2026-11-24T05:42:23.036079+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3705,6 +3705,7 @@
     "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332386",
     "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648",
     "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-2",
+    "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Engineering-Intern---Circuit-Simulation_R57251-1",
     "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---CAE-Simulation_R57192",
     "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---Digital-Verification---Simulation-VIP_R54888",
     "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering--Hardware-Verification-R-D_R56477",
@@ -13867,6 +13868,7 @@
     "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1",
     "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2641581-1",
     "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1",
+    "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2642953-1",
     "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Intern_2642700-1",
     "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Intern_2642954-1",
     "https://koch.avature.net/en_US/careers/JobDetail/194813",
@@ -32715,6 +32717,7 @@
     "job:workday:cadence:software-engineering-intern---circuit-simulation-infrastructure_r57254",
     "job:workday:cadence:software-engineering-intern---circuit-simulation-infrastructure_r57254-1",
     "job:workday:cadence:software-engineering-intern---circuit-simulation_r57251",
+    "job:workday:cadence:software-engineering-intern---circuit-simulation_r57251-1",
     "job:workday:cadence:software-engineering-intern_r57179",
     "job:workday:cadence:software-intern_r53282",
     "job:workday:cadence:software-intern_r53282-1",
@@ -36226,6 +36229,7 @@
     "job:workday:kla:software-engineering-intern_2642189",
     "job:workday:kla:software-engineering-intern_2642189-1",
     "job:workday:kla:software-engineering-intern_2642953",
+    "job:workday:kla:software-engineering-intern_2642953-1",
     "job:workday:kla:software-intern_2642700",
     "job:workday:kla:software-intern_2642700-1",
     "job:workday:kla:software-intern_2642954",
