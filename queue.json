@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gent/Junior-Associate-Scientist--Intern-USP-_R2879991",
-    "company": "Sanofi",
-    "role": "Junior Associate Scientist (Intern USP)",
-    "location": "Gent",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T13:21:35.058590+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000162736176",
     "company": "AECOM",
     "role": "Transportation Engineering Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T19:51:31.130662+00:00"
+  },
+  {
+    "apply_url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/AI-Enablement-Co-op_R51041-1",
+    "company": "Jonas Software",
+    "role": "AI Enablement Co-op",
+    "location": "Canada - Markham - Ontario",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T20:11:15.872722+00:00"
   }
 ]
