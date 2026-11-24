@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T21:42:03.679994+00:00",
+  "last_checked_utc": "2026-11-24T21:52:08.053258+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -13156,6 +13156,7 @@
     "https://jobs.smartrecruiters.com/AECOM2/744000163324070",
     "https://jobs.smartrecruiters.com/AECOM2/744000163534449",
     "https://jobs.smartrecruiters.com/AECOM2/744000163546179",
+    "https://jobs.smartrecruiters.com/AECOM2/744000163552819",
     "https://jobs.smartrecruiters.com/AbbVie/3743990014697918",
     "https://jobs.smartrecruiters.com/AbbVie/3743990014860211",
     "https://jobs.smartrecruiters.com/AbbVie/3743990014860306",
@@ -31205,6 +31206,7 @@
     "job:smartrecruiters:744000163534449",
     "job:smartrecruiters:744000163546179",
     "job:smartrecruiters:744000163546809",
+    "job:smartrecruiters:744000163552819",
     "job:smartrecruiters:75886593",
     "job:smartrecruiters:80298252",
     "job:smartrecruiters:81353217",
@@ -42119,6 +42121,7 @@
     "national laboratory of the rockies graduate intern agentic aidriven computational synthesis of pgmfree fuel cell catalysts",
     "national laboratory of the rockies graduate intern agentic sidriven computational synthesis of pgmfree fuel cell catalysts",
     "national laboratory of the rockies graduate intern connected vehicle v2x communications modeling and traffic simulation",
+    "national laboratory of the rockies graduate intern interfacing the anderson impurity model benchmark for correlated electron systems",
     "national laboratory of the rockies graduate intern llm reliability and uncertainty for ai science assistants",
     "national laboratory of the rockies graduate intern power data analysis for ai data centers",
     "national laboratory of the rockies graduate intern power data analysis for si data centers",
