@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990016985966",
-    "company": "Lawrence Livermore National Laboratory (LLNL)",
-    "role": "Seaborg Institute Nuclear Science and Security Undergraduate Intern - Summer 2027",
-    "location": "Livermore, CA, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T00:31:32.046536+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990016986166",
     "company": "Lawrence Livermore National Laboratory (LLNL)",
     "role": "Nuclear and Chemical Sciences Division Undergraduate Intern - Summer 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T01:52:10.209750+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery_202611-129909",
+    "company": "Genentech",
+    "role": "2027 Summer Intern - AI for Drug Discovery",
+    "location": "South San Francisco",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T02:12:08.598096+00:00"
   }
 ]
