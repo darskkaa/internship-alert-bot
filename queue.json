@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990016985836",
-    "company": "Lawrence Livermore National Laboratory (LLNL)",
-    "role": "Seaborg Institute Nuclear Science and Security Graduate Intern - Summer 2027",
-    "location": "Livermore, CA, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T00:21:37.481526+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990016985966",
     "company": "Lawrence Livermore National Laboratory (LLNL)",
     "role": "Seaborg Institute Nuclear Science and Security Undergraduate Intern - Summer 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T01:02:14.476939+00:00"
+  },
+  {
+    "apply_url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Co-op-Mechanical-Engineering-R-D_JR-213518-1",
+    "company": "Baxter International",
+    "role": "Co-op Mechanical Engineering R&D",
+    "location": "Skaneateles, NY",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T01:52:10.209750+00:00"
   }
 ]
