@@ -1,95 +1,5 @@
 [
   {
-    "apply_url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/BOSTON-02/Software-Engineering-Intern_R57179",
-    "company": "Cadence Design Systems",
-    "role": "Software Engineering Intern",
-    "location": "BOSTON 02",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T23:11:46.835450+00:00"
-  },
-  {
-    "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Industrial-Engineering_R-26-21355",
-    "company": "Moog",
-    "role": "Intern, Industrial Engineering",
-    "location": "Blacksburg, VA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T23:21:31.759470+00:00"
-  },
-  {
-    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016340",
-    "company": "Texas Instruments",
-    "role": "Systems Engineering Intern - MEMS",
-    "location": "Santa Clara, CA, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T23:31:43.045138+00:00"
-  },
-  {
-    "apply_url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Science-Intern--Graduate---Summer-_1671421",
-    "company": "Centene",
-    "role": "Data Science Intern (Graduate - Summer)",
-    "location": "Remote-MO",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T23:31:43.045138+00:00"
-  },
-  {
-    "apply_url": "https://careers.gov2x.com/jobs/63954?icims=1&lang=en-us",
-    "company": "V2X",
-    "role": "Electrical Engineer Production Support Intern",
-    "location": "Indianapolis, IN",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T23:41:36.495748+00:00"
-  },
-  {
-    "apply_url": "https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us",
-    "company": "Publicis Groupe",
-    "role": "Identity Analytics Intern",
-    "location": "Chicago, IL",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T23:41:36.495748+00:00"
-  },
-  {
-    "apply_url": "https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f",
-    "company": "Barry's",
-    "role": "Undergraduate Summer Scholar Intern - Data Analyst",
-    "location": "NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T23:41:36.495748+00:00"
-  },
-  {
-    "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8401116",
-    "company": "Waymo",
-    "role": "Agentic AI Intern",
-    "location": "Mountain View, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T23:41:36.495748+00:00"
-  },
-  {
-    "apply_url": "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007",
-    "company": "Lucid Motors",
-    "role": "Embedded Software Intern",
-    "location": "Newark, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T23:41:36.495748+00:00"
-  },
-  {
     "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E02--2002-E-El-Segundo-Blvd--BLDG-E02/Mechanical-Engineer-Intern-Summer-2027--Onsite-_01890290",
     "company": "RTX",
     "role": "Mechanical Engineer Intern Summer 2027 (Onsite)",
@@ -2998,5 +2908,95 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T00:02:20.426574+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?embed=true",
+    "company": "Shield AI",
+    "role": "Software Engineering Intern",
+    "location": "Dallas, TX",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T00:12:11.207828+00:00"
+  },
+  {
+    "apply_url": "https://careers.viasat.com/jobs/10478?icims=1&lang=en-us",
+    "company": "ViaSat",
+    "role": "Embedded Software Engineer Intern",
+    "location": "Tempe, AZ",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T00:12:11.207828+00:00"
+  },
+  {
+    "apply_url": "https://careers.noblis.org/jobs/28005?icims=1&lang=en-us",
+    "company": "Noblis",
+    "role": "Data Innovations Intern",
+    "location": "Springfield, VA, Reston, VA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T00:12:11.207828+00:00"
+  },
+  {
+    "apply_url": "https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1948",
+    "company": "Legrand",
+    "role": "Electrical Engineer Intern",
+    "location": "Canonsburg, PA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T00:12:11.207828+00:00"
+  },
+  {
+    "apply_url": "https://careers.itw.com/global/en/job/JR11356",
+    "company": "Illinois Tool Works",
+    "role": "Software or Computer Engineer Intern",
+    "location": "Fairmont, MN",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T00:12:11.207828+00:00"
+  },
+  {
+    "apply_url": "https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79",
+    "company": "Culver's",
+    "role": "Business Analytics Intern",
+    "location": "Prairie du Sac, WI",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T00:12:11.207828+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725867006",
+    "company": "SharkNinja",
+    "role": "Summer 2027: Software Development Test Engineering Co-op(May to August)",
+    "location": "Needham, MA, United States",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T00:12:11.207828+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006",
+    "company": "SharkNinja",
+    "role": "Summer 2027: Firmware Engineering Intern, Advanced Development (May to August)",
+    "location": "Needham, MA, United States",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T00:12:11.207828+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293",
+    "company": "Illumio",
+    "role": "Engineering Intern, Architecture Platform",
+    "location": "Sunnyvale, California - HQ",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T00:12:11.207828+00:00"
   }
 ]
