@@ -1,45 +1,5 @@
 [
   {
-    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E02--2002-E-El-Segundo-Blvd--BLDG-E02/Mechanical-Engineer-Intern-Summer-2027--Onsite-_01890290",
-    "company": "RTX",
-    "role": "Mechanical Engineer Intern Summer 2027 (Onsite)",
-    "location": "US-CA-EL SEGUNDO-E02 ~ 2002 E El Segundo Blvd ~ BLDG E02",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-19T23:51:39.238952+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489232008",
-    "company": "Scout Space",
-    "role": "Embedded Firmware Engineer Intern",
-    "location": "Reston, VA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T00:11:39.753497+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8400915",
-    "company": "Schonfeld",
-    "role": "PhD Quantitative Research Intern",
-    "location": "London, UK",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T00:11:39.753497+00:00"
-  },
-  {
-    "apply_url": "https://amperity.com/careers?gh_jid=8393990#openpositions",
-    "company": "Amperity",
-    "role": "Software Development Engineer Intern",
-    "location": "Seattle, WA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T00:11:39.753497+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/deliveroo/jobs/8398982",
     "company": "Deliveroo",
     "role": "Software Engineer Intern",
@@ -2998,5 +2958,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T00:12:11.207828+00:00"
+  },
+  {
+    "apply_url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
+    "location": "Sunnyvale, California, USA",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T00:32:09.629960+00:00"
+  },
+  {
+    "apply_url": "https://oscarhealth.com/careers/jobs?gh_jid=8407472",
+    "company": "Oscar Health",
+    "role": "Software Engineering Intern",
+    "location": "New York, New York, United States",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T00:32:09.629960+00:00"
+  },
+  {
+    "apply_url": "https://boards.greenhouse.io/capitaltg/jobs/5281563007?gh_jid=5281563007",
+    "company": "Capital Technology Group",
+    "role": "Summer Internship - Software Development",
+    "location": "Hybrid (Silver Spring, MD)",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T00:32:09.629960+00:00"
+  },
+  {
+    "apply_url": "https://boards.greenhouse.io/capitaltg/jobs/5307074007?gh_jid=5307074007",
+    "company": "Capital Technology Group",
+    "role": "Summer Internship - Data Engineering and Data Science",
+    "location": "Hybrid (Silver Spring, MD)",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T00:32:09.629960+00:00"
   }
 ]
