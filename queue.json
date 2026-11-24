@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Product-Management-Team---Business-Analyst---Summer-Internship-2027_R-801339",
-    "company": "State Street",
-    "role": "State Street Product Management Team - Business Analyst - Summer Internship 2027",
-    "location": "Boston, Massachusetts",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:21:44.584668+00:00"
-  },
-  {
-    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Model-Risk-Management---Quantitative-Analyst---2027-Summer-Internship_R-801343",
-    "company": "State Street",
-    "role": "State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship",
-    "location": "Boston, Massachusetts",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:21:44.584668+00:00"
-  },
-  {
     "apply_url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R03445",
     "company": "Altera Corporation",
     "role": "FPGA Software Engineer Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T18:01:41.129693+00:00"
+  },
+  {
+    "apply_url": "https://magna.wd3.myworkdayjobs.com/magna/job/Southfield-Michigan-US/Student---Engineering-Co-op_R00261071",
+    "company": "Magna",
+    "role": "Intern - Engineering",
+    "location": "Southfield, Michigan, US",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T18:31:22.026238+00:00"
+  },
+  {
+    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---New-Haven---CT/Summer-2027-Laboratory-Automation-Intern--Advanced-Robotics-and-Data-Orchestration_R-264990",
+    "company": "Alexion",
+    "role": "Summer 2027 Laboratory Automation Intern, Advanced Robotics and Data Orchestration",
+    "location": "US - New Haven - CT",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T18:31:22.026238+00:00"
   }
 ]
