@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805",
-    "company": "Piper Sandler",
-    "role": "Data Engineering Intern",
-    "location": "Minneapolis, MN",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T03:11:43.409156+00:00"
-  },
-  {
     "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135",
     "company": "Samsung",
     "role": "Business Operations & Data Analytics Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T08:32:14.231954+00:00"
+  },
+  {
+    "apply_url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Michigan/Energy-Engineering-Co-Op_R0018492",
+    "company": "CLEAResult",
+    "role": "Energy Engineering Co-Op",
+    "location": "Remote - Michigan",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T09:22:20.815712+00:00"
   }
 ]
