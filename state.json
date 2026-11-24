@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T17:21:22.643166+00:00",
+  "last_checked_utc": "2026-11-24T17:31:27.620796+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -9186,6 +9186,8 @@
     "https://intel.wd1.myworkdayjobs.com/external/job/US-California-Santa-Clara/Technical-Sales---Intern--Bachelor-s_JR0286835",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-California-Santa-Clara/Technical-Sales---Intern--Graduate_JR0286831",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651",
+    "https://intel.wd1.myworkdayjobs.com/external/job/US-Colorado-Fort-Collins/Design-Verification-Intern-2027_JR0287637",
+    "https://intel.wd1.myworkdayjobs.com/external/job/US-Colorado-Fort-Collins/Design-Verification-Intern-2027_JR0287646",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139",
     "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140",
@@ -25939,6 +25941,7 @@
     "intel data science and analytics phd intern",
     "intel data science software engineering phd intern",
     "intel design verification graduate intern 2027",
+    "intel design verification intern 2027",
     "intel epi module development engineer phd intern",
     "intel firmware and development tools intern",
     "intel firmware development undergraduate engineering coop",
@@ -35946,6 +35949,8 @@
     "job:workday:intel:data-science-and-analytics---phd-intern_jr0287859",
     "job:workday:intel:design-verification-graduate-intern-2027_jr0287645",
     "job:workday:intel:design-verification-graduate-intern-2027_jr0287651",
+    "job:workday:intel:design-verification-intern-2027_jr0287637",
+    "job:workday:intel:design-verification-intern-2027_jr0287646",
     "job:workday:intel:firmware-and-development-tools-intern_jr0287536",
     "job:workday:intel:firmware-development-undergraduate-engineering-co-op_jr0286862",
     "job:workday:intel:gpu---ai-accelerator-hardware-design-undergraduate-intern_jr0287539",

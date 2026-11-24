@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/State-Street-Product-Team---Data-Intelligence---2027-Summer-Internship_R-801340",
-    "company": "State Street",
-    "role": "State Street Product Team - Data Intelligence - 2027 Summer Internship",
-    "location": "Cambridge, Massachusetts",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T08:21:44.584668+00:00"
-  },
-  {
     "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-s-Model-Risk-Management---Quantitative-Analyst---2027-Summer-Internship_R-801342",
     "company": "State Street",
     "role": "State Street\u2019s Model Risk Management - Quantitative Analyst - 2027 Summer Internship",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T17:21:22.613065+00:00"
+  },
+  {
+    "apply_url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Colorado-Fort-Collins/Design-Verification-Intern-2027_JR0287637",
+    "company": "Intel",
+    "role": "Design Verification Intern 2027",
+    "location": "4 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T17:31:27.597113+00:00"
   }
 ]
