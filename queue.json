@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254",
-    "company": "Cadence Design Systems",
-    "role": "Software Engineering Intern - Circuit Simulation infrastructure",
-    "location": "SAN JOSE",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T07:01:41.725804+00:00"
-  },
-  {
-    "apply_url": "https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf",
-    "company": "Melaleuca",
-    "role": "Software Development Intern",
-    "location": "Idaho Falls, ID",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T07:41:31.951090+00:00"
-  },
-  {
     "apply_url": "https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Store-Operations-Industrial-Engineer-Intern-Summer-2027_R105139",
     "company": "Burlington Stores",
     "role": "Store Operations Industrial Engineer Intern\u2014Summer 2027",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T13:51:33.908729+00:00"
+  },
+  {
+    "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Charleroi-USA/GE-Vernova-Engineering-Automation-Internship---Summer-2027_R5059697-2",
+    "company": "GE Vernova",
+    "role": "GE Vernova Engineering Automation Internship - Summer 2027",
+    "location": "Charleroi USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T14:21:41.077323+00:00"
+  },
+  {
+    "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Charleroi-USA/GE-Vernova-MES-Implementation---Manufacturing-Data-Internship---Summer-2027_R5059700-2",
+    "company": "GE Vernova",
+    "role": "GE Vernova MES Implementation & Manufacturing Data Internship - Summer 2027",
+    "location": "Charleroi USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T14:21:41.077323+00:00"
   }
 ]
