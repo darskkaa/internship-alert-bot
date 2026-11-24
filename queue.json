@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/wurljobs/jobs/4731130006",
-    "company": "Wurl",
-    "role": "Data Engineering Intern (Remote)",
-    "location": "Remote - United States",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T11:01:42.917794+00:00"
-  },
-  {
-    "apply_url": "https://careers.medpace.com/jobs/13130?icims=1&lang=en-us",
-    "company": "Medpace",
-    "role": "Feasibility Informatics Industrial Placement Intern",
-    "location": "London, UK",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T11:41:40.164508+00:00"
-  },
-  {
     "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Anagni/Qualification---Validation-Internship_R2879887",
     "company": "Sanofi",
     "role": "Qualification & Validation Internship",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T19:21:19.377255+00:00"
+  },
+  {
+    "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern---FFIP-Business-Systems-Swiftwater--PA--Frozen-_R2873094",
+    "company": "Sanofi",
+    "role": "2027 Summer Intern - FFIP Business Systems Swiftwater, PA",
+    "location": "Swiftwater, PA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T19:31:20.231475+00:00"
+  },
+  {
+    "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-NCES-statistician-expert-in-AI-Cambridge-MA_R2865668",
+    "company": "Sanofi",
+    "role": "2027 Summer Intern NCES statistician expert in AI Cambridge MA",
+    "location": "Cambridge, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T19:31:20.231475+00:00"
   }
 ]
