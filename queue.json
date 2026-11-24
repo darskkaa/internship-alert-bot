@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279361",
-    "company": "Vertiv",
-    "role": "Manufacturing Engineering Intern (Summer 2027)",
-    "location": "Pelzer, SC, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T18:41:53.059901+00:00"
-  },
-  {
     "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Contract-Management-and-AI_J-00357971",
     "company": "ASML",
     "role": "Internship - Contract Management and AI",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T23:12:04.461870+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/gitai/jobs/5494154008",
+    "company": "GITAI",
+    "role": "Field Test Operations Intern (January 2027 Start)",
+    "location": "Los Angeles, California, United States",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T23:32:07.829757+00:00"
   }
 ]
