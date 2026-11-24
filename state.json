@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T08:12:16.102092+00:00",
+  "last_checked_utc": "2026-11-24T08:32:14.255321+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -1707,6 +1707,7 @@
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-INTERNSHIP---Artificial-Intelligence-in-Communications-Development_JR10457394",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Network-and-Storage-Systems-Intern---Mission-Critical-Data-Integration_JR10457486",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Software-Engineering-DevOps--Test-Automation---AI-Agents-Intern_JR10457634",
+    "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-TECHNICAL-AREAS--PRODUCTION-SUPPORT-INTERN_JR10456505",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Trainer-Programme-Operations---Data-Analytics--Internship-_JR10456314",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Quality-Engineering_JR10446781",
     "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Industrial-Design-Intern---Product-Design-Cabin-Hamburg--d-f-m-_JR10454867",
@@ -19507,6 +19508,7 @@
     "airbus discover i 20272028 network and storage systems intern missioncritical data integration",
     "airbus discover i 20272028 safety engineer internship",
     "airbus discover i 20272028 software engineering devops test automation ai agents intern",
+    "airbus discover i 20272028 technical areas production support intern",
     "airbus discover i 20272028 trainer programme operations data analytics internship",
     "airbus hardware engineering apprentice",
     "airbus industrial design intern product design cabin hamburg dfm",
@@ -31376,6 +31378,7 @@
     "job:workday:ag:xmlname--discover-i-2027-2028-network-and-storage-systems-intern---mission-critical-data-integration_jr10457486",
     "job:workday:ag:xmlname--discover-i-2027-2028-safety-engineer-internship_jr10457408",
     "job:workday:ag:xmlname--discover-i-2027-2028-software-engineering-devops--test-automation---ai-agents-intern_jr10457634",
+    "job:workday:ag:xmlname--discover-i-2027-2028-technical-areas--production-support-intern_jr10456505",
     "job:workday:ag:xmlname--discover-i-2027-2028-trainer-programme-operations---data-analytics--internship-_jr10456314",
     "job:workday:ag:xmlname-2027-summer-internship---industrial-engineering---ppe-ie_jr10435140",
     "job:workday:aig:xmlname-2027-early-careers--summer-intern--data-office---united-states--atlanta--ga--charlotte--nc--parsippany--nj--jersey-city--nj---new-york--ny_jr2603655",

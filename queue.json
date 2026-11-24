@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007",
-    "company": "Lucid Motors",
-    "role": "Infotainment Software Intern",
-    "location": "Newark, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T02:41:32.026987+00:00"
-  },
-  {
     "apply_url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805",
     "company": "Piper Sandler",
     "role": "Data Engineering Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-24T07:22:13.702303+00:00"
+  },
+  {
+    "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-TECHNICAL-AREAS--PRODUCTION-SUPPORT-INTERN_JR10456505",
+    "company": "Airbus",
+    "role": "#Discover I 2027-2028 TECHNICAL AREAS  PRODUCTION SUPPORT INTERN",
+    "location": "Getafe",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-24T08:32:14.231954+00:00"
   }
 ]
