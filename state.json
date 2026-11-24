@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T21:32:03.828078+00:00",
+  "last_checked_utc": "2026-11-24T21:42:03.679994+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14587,6 +14587,7 @@
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Risk_JR26080238",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684",
+    "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Standards-Assurance-and-Risk-Monitoring_JR26071467",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---AI--12-Months-_JR26081678",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677",
     "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831",
@@ -36753,6 +36754,7 @@
     "job:workday:manulife:summer-intern-2027---software-engineering_jr26081684",
     "job:workday:manulife:summer-intern-2027---software-engineering_jr26081686",
     "job:workday:manulife:summer-intern-2027---software-engineering_jr26081686-1",
+    "job:workday:manulife:summer-intern-2027---standards-assurance-and-risk-monitoring_jr26071467",
     "job:workday:manulife:winter-co-op-2027---ai--12-months-_jr26081678",
     "job:workday:manulife:winter-co-op-2027---ai--12-months-_jr26081678-1",
     "job:workday:manulife:winter-co-op-2027---ai_jr26081677",
@@ -41231,6 +41233,7 @@
     "manulife financial summer intern 2027 software engineering 12 months",
     "manulife financial summer intern 2027 software engineering 8 months",
     "manulife financial summer intern 2027 software engineering security operations",
+    "manulife financial summer intern 2027 standards assurance and risk monitoring",
     "manulife financial winter coop 2027 ai",
     "manulife financial winter coop 2027 ai 12 months",
     "manulife financial winter coop 2027 alm data management analytics",
