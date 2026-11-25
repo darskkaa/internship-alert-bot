@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/IT-Intern--WI-_JR105139",
-    "company": "Greenheck Group",
-    "role": "IT Intern Opportunities",
-    "location": "Schofield, WI",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T22:01:44.187953+00:00"
-  },
-  {
     "apply_url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Product-Application-Engineer-Co-op-Opportunities_JR105141",
     "company": "Greenheck Group",
     "role": "Product Application Engineer Co-op Opportunities",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T09:21:22.372110+00:00"
+  },
+  {
+    "apply_url": "https://microchiphr.wd5.myworkdayjobs.com/external/job/Armenia---Gyumri/Software-Engineer-Intern_R5014-26",
+    "company": "Microchip Technology",
+    "role": "Software Engineer Intern",
+    "location": "Armenia - Gyumri",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T12:41:24.153291+00:00"
   }
 ]

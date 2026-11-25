@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T12:11:26.926098+00:00",
+  "last_checked_utc": "2026-11-25T12:41:24.182408+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14976,6 +14976,7 @@
     "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Tan-Uyen/Industrial-Engineer-Internship_R-2026038915",
     "https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26",
     "https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Intern-Engineering--Software-_R4091-26",
+    "https://microchiphr.wd5.myworkdayjobs.com/external/job/Armenia---Gyumri/Software-Engineer-Intern_R5014-26",
     "https://microchiphr.wd5.myworkdayjobs.com/external/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R3851-26",
     "https://microchiphr.wd5.myworkdayjobs.com/external/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R4910-26",
     "https://microchiphr.wd5.myworkdayjobs.com/external/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R4973-26",
@@ -37155,6 +37156,7 @@
     "job:workday:microchiphr:intern---engineering--device-software-and-test-_r3573-26",
     "job:workday:microchiphr:intern--data-analyst-_r4441-26",
     "job:workday:microchiphr:intern-engineering--software-_r4091-26",
+    "job:workday:microchiphr:software-engineer-intern_r5014-26",
     "job:workday:micron:dram-prodcut-test-engineer-intern_jr109996",
     "job:workday:micron:embedded-software-engineering-intern_jr115959",
     "job:workday:micron:equipment-engineer-intern---shpe_jr114730",
@@ -41854,6 +41856,7 @@
     "microchip technology internengineering firmware development",
     "microchip technology internengineering software",
     "microchip technology internengineering software development",
+    "microchip technology software engineer intern",
     "micron technology advanced spectroscopy and nanoscale materials characterization intern",
     "micron technology ai systems and infrastructure engineering intern",
     "micron technology dram design engineer intern",
