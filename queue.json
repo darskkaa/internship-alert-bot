@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000162824903",
-    "company": "Renesas Electronics",
-    "role": "System Verification Engineering Intern",
-    "location": "Austin, TEXAS, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T21:51:39.482198+00:00"
-  },
-  {
     "apply_url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/IT-Intern--WI-_JR105139",
     "company": "Greenheck Group",
     "role": "IT Intern Opportunities",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T06:51:30.537761+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Electromechanical-Engineer-Intern---Manhattan-Beach-CA_R10262100",
+    "company": "Northrop Grumman",
+    "role": "2027 Electromechanical Engineer Intern - Manhattan Beach CA",
+    "location": "United States-California-Manhattan Beach",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T09:21:22.372110+00:00"
   }
 ]
