@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Aerospace-M-S-Engineer-Intern_R-00197493",
-    "company": "Leidos",
-    "role": "Aerospace M&S Engineer Intern",
-    "location": "Huntsville, AL",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:22:07.527031+00:00"
-  },
-  {
     "apply_url": "https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864",
     "company": "First Bank & Trust",
     "role": "Data Analyst Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T16:31:32.918912+00:00"
+  },
+  {
+    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847-1",
+    "company": "Marvell",
+    "role": "Applied AI/ML Research Scientist Intern",
+    "location": "Santa Clara, CA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T17:11:22.420884+00:00"
   }
 ]

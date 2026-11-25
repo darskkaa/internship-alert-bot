@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T16:41:25.322688+00:00",
+  "last_checked_utc": "2026-11-25T17:11:22.454006+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14760,6 +14760,7 @@
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern_2604085",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Layout-Intern--BS---Summer-2027_2604735-1",
+    "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847-1",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436-1",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Board-Product-Engineer-Intern--BS---Summer-2027_2603833-1",
     "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788-1",
@@ -36982,6 +36983,7 @@
     "job:workday:marvell:analog-layout-intern--bs---summer-2027_2604735",
     "job:workday:marvell:analog-layout-intern--bs---summer-2027_2604735-1",
     "job:workday:marvell:application-engineer-intern--ms---summer-2027_2604509-1",
+    "job:workday:marvell:applied-ai-ml-research-scientist-intern_2603847-1",
     "job:workday:marvell:architecture-intern--ms---summer-2027_2604436",
     "job:workday:marvell:architecture-intern--ms---summer-2027_2604436-1",
     "job:workday:marvell:architecture-intern--ms---summer-2027_2604613",
@@ -41520,6 +41522,7 @@
     "marvell analog engineer intern phd",
     "marvell analog layout intern bs",
     "marvell application engineer intern ms summer 2027",
+    "marvell applied aiml research scientist intern",
     "marvell architecture intern",
     "marvell architecture intern ms",
     "marvell board product engineer intern bs",
