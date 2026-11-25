@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557076525",
-    "company": "Microsoft",
-    "role": "Research Intern - Quantum Applications",
-    "location": "Redmond, WA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
     "apply_url": "https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa",
     "company": "Ulteig",
     "role": "GIS Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T21:41:30.460332+00:00"
+  },
+  {
+    "apply_url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10795",
+    "company": "Fortive",
+    "role": "AI Enablement Intern- Marketing",
+    "location": "Everett, WA, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T22:01:20.749544+00:00"
   }
 ]

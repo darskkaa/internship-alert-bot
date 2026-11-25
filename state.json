@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T21:41:30.487920+00:00",
+  "last_checked_utc": "2026-11-25T22:01:20.773305+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -5766,6 +5766,7 @@
     "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949",
     "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151",
     "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160",
+    "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10795",
     "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10826",
     "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10876",
     "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
@@ -24171,6 +24172,7 @@
     "formulary financial software engineer intern",
     "formulary financial software engineering intern",
     "forterra 2027 intern software",
+    "fortive ai enablement intern marketing",
     "fortive electrical engineering intern",
     "fortive mechanical engineering intern",
     "fortrea aiml rapid development studio intern",
@@ -30091,6 +30093,7 @@
     "job:oracle:ejko.fa.us2.oraclecloud.com:14949",
     "job:oracle:ejko.fa.us2.oraclecloud.com:15151",
     "job:oracle:ejko.fa.us2.oraclecloud.com:15160",
+    "job:oracle:ejta.fa.us6.oraclecloud.com:10795",
     "job:oracle:ejta.fa.us6.oraclecloud.com:10826",
     "job:oracle:ejta.fa.us6.oraclecloud.com:10876",
     "job:oracle:ekbq.fa.em2.oraclecloud.com:2021",
