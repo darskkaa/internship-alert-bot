@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T12:41:24.182408+00:00",
+  "last_checked_utc": "2026-11-25T13:51:30.266691+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15649,6 +15649,7 @@
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineer-Intern---Dulles-VA-or-McLean-VA_R10259857",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
+    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Configuration-Management-Data-Analyst-Intern---Falls-Church-VA_R10262117",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146",
     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-New-Church/XMLNAME-2027-Engineering-Intern--ME-EE-----Wallops-VA_R10256585",
     "https://nidec.wd1.myworkdayjobs.com/nidec/job/Atlanta-GA/Nidec-Aerospace-Internship-Opportunities_R0010414",
@@ -37588,6 +37589,7 @@
     "job:workday:ngc:xmlname-2027-college-technical-intern---mclean-va_r10253146",
     "job:workday:ngc:xmlname-2027-computer-engineer-intern---manhattan-beach-ca_r10255835",
     "job:workday:ngc:xmlname-2027-computer-systems-intern---linthicum-md_r10261959",
+    "job:workday:ngc:xmlname-2027-configuration-management-data-analyst-intern---falls-church-va_r10262117",
     "job:workday:ngc:xmlname-2027-cutting-edge-optronics-engineering-internship---saint-charles-mo_r10255053",
     "job:workday:ngc:xmlname-2027-cyber-software-engineer-intern---cincinnati-oh_r10249186",
     "job:workday:ngc:xmlname-2027-cyber-software-engineer-intern---san-antonio-tx_r10256037",
@@ -42694,6 +42696,7 @@
     "northrop grumman 2027 college technical intern mclean va",
     "northrop grumman 2027 computer engineer intern manhattan beach ca",
     "northrop grumman 2027 computer systems intern linthicum md",
+    "northrop grumman 2027 configuration management data analyst intern falls church va",
     "northrop grumman 2027 cutting edge optronics engineering internship saint charles mo",
     "northrop grumman 2027 cyber software engineer intern cincinnati oh",
     "northrop grumman 2027 cyber software engineer intern san antonio tx",
