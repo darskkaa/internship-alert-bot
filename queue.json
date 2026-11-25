@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=016d2b83-b435-4bb0-bb74-cb0555970a87",
-    "company": "Daikin Comfort",
-    "role": "Data Analyst Intern",
-    "location": "Waller, TX",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
-    "apply_url": "https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=00243c22-9228-4aab-8146-9699c52b1fa0",
-    "company": "Encore",
-    "role": "IT Data Analyst Intern",
-    "location": "Schiller Park, IL",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
-    "apply_url": "https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=542e34a6-1977-4fcb-a173-6f32705efcb8",
-    "company": "Encore",
-    "role": "IT Application Development Intern - Summer 2027",
-    "location": "Schiller Park, IL",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
     "apply_url": "https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80",
     "company": "AFL",
     "role": "Web Design/Development Intern",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T20:31:31.890226+00:00"
+  },
+  {
+    "apply_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CESSON-SEVIGNE-01/Software-Engineering-Intern--API-Pseudo-Emulator_R57169",
+    "company": "Cadence Design Systems",
+    "role": "Software Engineering Intern \u2013API Pseudo-Emulator",
+    "location": "CESSON SEVIGNE 01",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T20:51:26.724074+00:00"
+  },
+  {
+    "apply_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CESSON-SEVIGNE-01/FPGA-Design-Engineer-Intern_R57302",
+    "company": "Cadence Design Systems",
+    "role": "FPGA Design Engineer Intern",
+    "location": "CESSON SEVIGNE 01",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T20:51:26.724074+00:00"
+  },
+  {
+    "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Phd-Graduate-Intern--Electrical-Engineering---Power-electronics-and-grid-modeling_R14648",
+    "company": "National Laboratory of the Rockies",
+    "role": "Graduate/PhD Graduate Intern: Electrical Engineering \u2013 Power Electronics and Grid Modeling",
+    "location": "Golden, CO",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T20:51:26.724074+00:00"
   }
 ]
