@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-24T23:52:02.715633+00:00",
+  "last_checked_utc": "2026-11-25T00:02:15.940466+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3369,6 +3369,7 @@
     "https://boards.greenhouse.io/neuralink/jobs/7702527003",
     "https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003",
     "https://boards.greenhouse.io/neuralink/jobs/7736276003?gh_jid=7736276003",
+    "https://boards.greenhouse.io/neuralink/jobs/8197808003?gh_jid=8197808003",
     "https://boards.greenhouse.io/orennia/jobs/5277706008",
     "https://boards.greenhouse.io/orennia/jobs/5277706008?gh_jid=5277706008",
     "https://boards.greenhouse.io/parallel/jobs/5275660007",
@@ -28681,6 +28682,7 @@
     "job:greenhouse:8197554",
     "job:greenhouse:8197614",
     "job:greenhouse:8197663",
+    "job:greenhouse:8197808003",
     "job:greenhouse:8197899",
     "job:greenhouse:8197911",
     "job:greenhouse:8198097",
@@ -42334,6 +42336,7 @@
     "neuralink digital ic design engineer intern",
     "neuralink electrical engineer intern implant embedded systems",
     "neuralink electrical engineer intern robotics and surgery engineering",
+    "neuralink electrical test engineer intern",
     "neuralink embedded software engineer intern implant embedded systems",
     "neuralink firmware engineer intern robotics and surgery engineering",
     "neuralink it systems administrator intern",
