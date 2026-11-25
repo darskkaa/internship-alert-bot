@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Optical-Systems-Student-Engineer_2641844-1",
-    "company": "KLA Corporation",
-    "role": "Optical Systems Engineering Intern",
-    "location": "Milpitas, CA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T22:51:40.800092+00:00"
-  },
-  {
     "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Dulles-VA-US/Hardware-Production-Technician-Intern---Summer-2027_335319",
     "company": "CACI",
     "role": "Hardware Production Technician Intern - Summer 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T14:31:29.184871+00:00"
+  },
+  {
+    "apply_url": "https://generac.wd5.myworkdayjobs.com/external/job/Pewaukee-WI---USA/Consumer-Experience-Data-Analyst-Intern_JR17206",
+    "company": "Generac",
+    "role": "Consumer Experience Data Analyst Intern",
+    "location": "Pewaukee, WI - USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T14:51:25.880334+00:00"
   }
 ]
