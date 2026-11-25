@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T18:31:36.303897+00:00",
+  "last_checked_utc": "2026-11-25T18:41:25.335470+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4546,6 +4546,7 @@
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/New-Product-Development-Engineering-Intern---Summer_30220948",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Quality-Engineering-Intern---Summer_30220256-1",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588",
+    "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN05-CCS-Charlotte-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Software---Controls-Engineering-Intern---Summer_30222979",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN05-CCS-Charlotte-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Systems-Engineering-Intern---Summer_30220432",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341",
     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Spring_30220992",
@@ -22072,6 +22073,7 @@
     "carrier global new product development engineering intern summer",
     "carrier global project engineering intern summer",
     "carrier global quality engineering intern summer",
+    "carrier global software controls engineering intern summer",
     "carrier global software engineer intern",
     "carrier global software engineering intern summer",
     "carrier global systems engineering intern summer",
@@ -33153,6 +33155,7 @@
     "job:workday:carrier:project-engineering-intern---summer_30220971",
     "job:workday:carrier:quality-engineering-intern---summer_30220256-1",
     "job:workday:carrier:quality-engineering-intern---summer_30220757",
+    "job:workday:carrier:software---controls-engineering-intern---summer_30222979",
     "job:workday:carrier:software-engineering-intern---summer_30220161",
     "job:workday:carrier:software-engineering-intern---summer_30220588",
     "job:workday:carrier:systems-engineering-intern---summer_30220210",
