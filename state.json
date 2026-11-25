@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T09:21:22.399352+00:00",
+  "last_checked_utc": "2026-11-25T10:41:22.657861+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17374,6 +17374,7 @@
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Michigan---Plymouth/Electrical-Engineering-Intern_2026-23753",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Michigan---Plymouth/Electrical-Engineering-Intern_2026-23755",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Mississippi---Jackson/Application-Engineering-Intern_2026-24309",
+    "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Electrical-Engineering-Intern_2026-25502",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-23468",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Power-Engineer-Intern_2026-21156",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Electrical-Engineering-Specialist-Intern_2026-23259",
@@ -39173,6 +39174,7 @@
     "job:workday:selinc:electrical-engineering-intern_2026-23755",
     "job:workday:selinc:electrical-engineering-intern_2026-24188",
     "job:workday:selinc:electrical-engineering-intern_2026-24990-1",
+    "job:workday:selinc:electrical-engineering-intern_2026-25502",
     "job:workday:selinc:electrical-engineering-specialist-intern_2026-23259",
     "job:workday:selinc:engineering-intern_2025-18137",
     "job:workday:selinc:engineering-intern_2026-20169",
