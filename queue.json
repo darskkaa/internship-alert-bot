@@ -1,55 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505719009",
-    "company": "Pacific Fusion",
-    "role": "Summer 2027 Controls Electrical Engineer Internship",
-    "location": "San Leandro, CA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T18:51:44.764375+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4515017009",
-    "company": "Pacific Fusion",
-    "role": "Summer 2027 Mechanical Engineering - Precision Positioning and Alignment Internship",
-    "location": "San Leandro, CA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T18:51:44.764375+00:00"
-  },
-  {
-    "apply_url": "https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Supply-and-Trading-Co-op_R0032203",
-    "company": "Global Partners",
-    "role": "Supply and Trading Co-op",
-    "location": "Newton Office\u00a0",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T19:11:43.209401+00:00"
-  },
-  {
-    "apply_url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291",
-    "company": "Woodward Governor",
-    "role": "AI Summer 2027 Internship",
-    "location": "2 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T19:11:43.209401+00:00"
-  },
-  {
-    "apply_url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Research-Intern---Agentic-AI---NLP---ML_JREQ205375",
-    "company": "Thomson Reuters",
-    "role": "Research Intern - Agentic AI / NLP / ML",
-    "location": "N/A",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T19:31:44.910951+00:00"
-  },
-  {
     "apply_url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Research-Intern---KG---Agentic-AI---ML_JREQ205376",
     "company": "Thomson Reuters",
     "role": "Research Intern - KG / Agentic AI / ML",
@@ -2998,5 +2948,55 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T00:02:15.910118+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Electronics-Engineer-Intern---Manhattan-Beach-CA_R10262095",
+    "company": "Northrop Grumman",
+    "role": "2027 Electronics Engineer Intern - Manhattan Beach CA",
+    "location": "United States-California-Manhattan Beach",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T00:12:01.850091+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Digital-Engineer-Intern---Manhattan-Beach-CA_R10262090",
+    "company": "Northrop Grumman",
+    "role": "2027 Digital Engineer Intern - Manhattan Beach CA",
+    "location": "United States-California-Manhattan Beach",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T00:12:01.850091+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Electronics-Engineer-Intern---Azusa-CA_R10262073-1",
+    "company": "Northrop Grumman",
+    "role": "2027 Electronics Engineer Intern - Azusa CA",
+    "location": "United States-California-Azusa",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T00:12:01.850091+00:00"
+  },
+  {
+    "apply_url": "https://careers.medpace.com/jobs/13558?icims=1&lang=en-us",
+    "company": "Medpace",
+    "role": "Clinical Intelligence Intern",
+    "location": "Cincinnati, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T00:12:01.850091+00:00"
+  },
+  {
+    "apply_url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "role": "Artificial Intelligence and Complex Systems Intern",
+    "location": "Laurel, MD",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T00:12:01.850091+00:00"
   }
 ]
