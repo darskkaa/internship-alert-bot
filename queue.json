@@ -1,45 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8952950002",
-    "company": "Atoms",
-    "role": "Industrial Engineering Intern - Operations & Process Excellence",
-    "location": "Nova Lima, BRA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T20:21:48.219472+00:00"
-  },
-  {
-    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Internship-Field-Service-Engineer_J-00355817",
-    "company": "ASML",
-    "role": "Internship-Field Service Engineer",
-    "location": "Hillsboro, OR, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T20:31:44.128157+00:00"
-  },
-  {
-    "apply_url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa/Member-of-Technical-Staff--Intern_R0348683-2",
-    "company": "Thales",
-    "role": "Member of Technical Staff- Intern",
-    "location": "Ottawa",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T20:41:50.433520+00:00"
-  },
-  {
-    "apply_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electrical-Engineer-Intern_1213420",
-    "company": "Hewlett Packard Enterprise",
-    "role": "Electrical Engineer Intern",
-    "location": "Chippewa Falls, Wisconsin, United States of America",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T21:11:47.733581+00:00"
-  },
-  {
     "apply_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/HPC-Mechanical-Engineer-Intern_1213418",
     "company": "Hewlett Packard Enterprise",
     "role": "HPC Mechanical Engineer Intern",
@@ -2998,5 +2958,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T02:41:27.887974+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Industrial-Engineering-Internship---Baltimore-MD_R10262103",
+    "company": "Northrop Grumman",
+    "role": "2027 Industrial Engineering Internship - Baltimore MD",
+    "location": "United States-Maryland-Baltimore",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T03:11:19.325232+00:00"
+  },
+  {
+    "apply_url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004",
+    "company": "SambaNova Systems",
+    "role": "Runtime Engineer Intern",
+    "location": "Austin, TX, San Jose, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T03:11:19.325232+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414452",
+    "company": "Bandwidth",
+    "role": "Software Engineer Intern",
+    "location": "Raleigh, NC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T03:11:19.325232+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000163602429",
+    "company": "NBCUniversal",
+    "role": "Universal Studios Hollywood, Finance & Strategy, Business Analytics & Industrial Engineering Internship \u2013 Summer 2027",
+    "location": "Universal City, CALIFORNIA, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T03:11:19.325232+00:00"
   }
 ]
