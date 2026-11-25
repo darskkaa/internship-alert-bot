@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Dulles-VA-US/Hardware-Production-Technician-Intern---Summer-2027_335319",
-    "company": "CACI",
-    "role": "Hardware Production Technician Intern - Summer 2027",
-    "location": "Dulles, VA, US",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:01:58.833300+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/Intuitive/744000162832659",
-    "company": "Intuitive Surgical",
-    "role": "Data Engineering Intern",
-    "location": "Sunnyvale, CA, United States",
-    "source": "SmartRecruiters",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:01:58.833300+00:00"
-  },
-  {
     "apply_url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000695571",
     "company": "Loblaw Companies",
     "role": "Software Development - Co-op Student",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T14:51:25.880334+00:00"
+  },
+  {
+    "apply_url": "https://uscareers-waters.icims.com/jobs/30387/job?mobile=true&needsRedirect=false",
+    "company": "Waters",
+    "role": "IT Digital Intern",
+    "location": "Milford, MA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T15:41:20.189949+00:00"
+  },
+  {
+    "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Computer-Systems-Intern_R10262127",
+    "company": "Northrop Grumman",
+    "role": "2027 Computer Systems Intern",
+    "location": "7 Locations",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T15:41:20.189949+00:00"
   }
 ]
