@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80",
-    "company": "AFL",
-    "role": "Web Design/Development Intern",
-    "location": "Duncan, SC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
-    "apply_url": "https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=6985c6f8-7b03-4906-8c45-1636863e8a58",
-    "company": "Avista",
-    "role": "Central Analytics Intern - Multiple Teams",
-    "location": "Spokane, WA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
     "apply_url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=31935864-401f-416a-9671-92af3d294895",
     "company": "Jewelers Mutual Group",
     "role": "Data Science Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T20:51:26.724074+00:00"
+  },
+  {
+    "apply_url": "https://revvity.wd103.myworkdayjobs.com/External/job/Morrisville/Software-Engineering-Intern--In-Vivo-Imaging_JR-046080",
+    "company": "Revvity",
+    "role": "Software Engineering Intern, In Vivo Imaging",
+    "location": "Morrisville",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T21:21:20.410917+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000163763619",
+    "company": "AECOM",
+    "role": "Civil-Environmental Engineering Intern",
+    "location": "Calgary, AB, Canada",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T21:21:20.410917+00:00"
   }
 ]
