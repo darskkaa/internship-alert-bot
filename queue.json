@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/AOS-Intern--Facilities_R-26-21231",
-    "company": "Moog",
-    "role": "Associate of Occupational Studies/Science Intern, Facilities",
-    "location": "Buffalo, NY",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T19:41:48.965813+00:00"
-  },
-  {
     "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Intern--TMF-Systems---Operations_R20220",
     "company": "Moderna",
     "role": "2027 Intern, TMF Systems & Operations",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T00:21:20.277606+00:00"
+  },
+  {
+    "apply_url": "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/Summer-2027-Fixed-Income-Sales-and-Trading-Internship---Derivatives-Risk-Solutions-Americas_R7585",
+    "company": "Mizuho Securities USA",
+    "role": "Summer 2027 Fixed Income Sales and Trading Internship \u2013 Derivatives Risk Solutions Americas",
+    "location": "New York, NY (1271 AOA/6th Ave)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T01:11:34.358515+00:00"
   }
 ]

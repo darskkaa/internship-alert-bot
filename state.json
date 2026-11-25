@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T00:41:15.217310+00:00",
+  "last_checked_utc": "2026-11-25T01:11:34.385541+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15044,6 +15044,7 @@
     "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---IT-Infrastructure_JR1471",
     "https://mii.wd5.myworkdayjobs.com/universityrecruiting/job/Earth-City-Missouri-USA/Data-Scientist-Intern_R06666-5",
     "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/NYC-1285/XMLNAME-2026-Commercial-Lending-Technology-Summer-Internship_R6688",
+    "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/Summer-2027-Fixed-Income-Sales-and-Trading-Internship---Derivatives-Risk-Solutions-Americas_R7585",
     "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2026-Americas-Risk-Management-Intern_R6933",
     "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Americas-Risk-Management-Internship_R7474",
     "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Corporate-Credit-Structuring-Intern-in-Technology--Media--and-Telecom_R7553",
@@ -37168,6 +37169,7 @@
     "job:workday:midlandsb:intern---associate-solutions-engineer---data-warehouse_jr1462",
     "job:workday:midlandsb:intern---it-infrastructure_jr1471",
     "job:workday:mii:data-scientist-intern_r06666-5",
+    "job:workday:mizuho:summer-2027-fixed-income-sales-and-trading-internship---derivatives-risk-solutions-americas_r7585",
     "job:workday:mizuho:xmlname-2026-americas-risk-management-intern_r6933",
     "job:workday:mizuho:xmlname-2026-commercial-lending-technology-summer-internship_r6688",
     "job:workday:mizuho:xmlname-2027-americas-risk-management-internship_r7474",
@@ -41886,6 +41888,7 @@
     "mizuho securities usa 2027 americas risk management internship",
     "mizuho securities usa 2027 corporate credit structuring intern in technology media and telecom",
     "mizuho securities usa 2027 portfolio management workout and restructuring intern",
+    "mizuho securities usa summer 2027 fixed income sales and trading internship derivatives risk solutions americas",
     "mks instruments 2027 spring mechanical engineer undergraduate interncoop",
     "mks instruments 2027 summer reliability engineering coop",
     "mks instruments 2027 summer software engineer coop",
