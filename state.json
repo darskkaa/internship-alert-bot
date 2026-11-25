@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T04:31:28.384300+00:00",
+  "last_checked_utc": "2026-11-25T04:51:16.779631+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -15109,6 +15109,7 @@
     "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--Investigator-Site-Budgets---Contracts-and-Data-Integration---Reporting_R20170",
     "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20125",
     "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20128",
+    "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20129",
     "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Intern--Data-Management_R20100",
     "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Intern--TMF-Systems---Operations_R20220",
     "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Automation--Digital-Manufacturing---Controls_R19951",
@@ -37273,6 +37274,7 @@
     "job:workday:modernatx:xmlname-2027-co-op--investigator-site-budgets---contracts-and-data-integration---reporting_r20170",
     "job:workday:modernatx:xmlname-2027-co-op--mrna-design-engineering_r20125",
     "job:workday:modernatx:xmlname-2027-co-op--mrna-design-engineering_r20128",
+    "job:workday:modernatx:xmlname-2027-co-op--mrna-design-engineering_r20129",
     "job:workday:modernatx:xmlname-2027-intern--data-management_r20100",
     "job:workday:modernatx:xmlname-2027-intern--tmf-systems---operations_r20220",
     "job:workday:modmed:software-engineering-intern_r5148",
