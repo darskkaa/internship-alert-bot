@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T16:21:32.432537+00:00",
+  "last_checked_utc": "2026-11-25T16:31:32.947093+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6385,6 +6385,7 @@
     "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119920",
     "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119924",
     "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120667",
+    "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120690",
     "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773",
     "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260787",
     "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260789",
@@ -25671,6 +25672,7 @@
     "howmet aerospace interns product engineer whitehall mi summer 2027",
     "howmet aerospace interns quality engineer whitehall mi summer 2027",
     "howmet aerospace process engineer coop",
+    "howmet aerospace quality engineer intern summer 2027",
     "hp inc business analyst intern",
     "hp inc performance engineering coop",
     "hp inc software engineer intern",
@@ -30381,6 +30383,7 @@
     "job:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119920",
     "job:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119924",
     "job:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:120667",
+    "job:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:120690",
     "job:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260773",
     "job:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260787",
     "job:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260789",

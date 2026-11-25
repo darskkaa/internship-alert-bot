@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/State-Street-Enterprise-Risk-Management---Quantitative-Risk-Internship---2027-Summer-Internship_R-801341",
-    "company": "State Street",
-    "role": "State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship",
-    "location": "Clifton, New Jersey",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:22:07.527031+00:00"
-  },
-  {
     "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Aerospace-M-S-Engineer-Intern_R-00197493",
     "company": "Leidos",
     "role": "Aerospace M&S Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T16:21:32.405656+00:00"
+  },
+  {
+    "apply_url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120690",
+    "company": "Howmet Aerospace",
+    "role": "Quality Engineer Intern Summer 2027",
+    "location": "Rochester, NY, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T16:31:32.918912+00:00"
   }
 ]
