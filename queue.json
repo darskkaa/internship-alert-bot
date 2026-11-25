@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Software-Engineering-Intern_J2472697",
-    "company": "Jabil",
-    "role": "Software Engineering Intern",
-    "location": "Austin, TX",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T21:51:39.482198+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/ibotta/a3981036-8c0e-47f3-8720-92362bbbda4f",
     "company": "ibotta",
     "role": "Information Technology Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T04:21:21.322527+00:00"
+  },
+  {
+    "apply_url": "https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/IT-Quantum-Intern_R-9840",
+    "company": "UMB",
+    "role": "IT Quantum Intern",
+    "location": "Kansas City MO",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T06:01:24.840640+00:00"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T04:51:16.779631+00:00",
+  "last_checked_utc": "2026-11-25T06:01:24.871093+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -18265,6 +18265,7 @@
     "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537",
     "https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/AI-Intern_R-9796",
     "https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/IT-Blockchain-Intern_R-8444",
+    "https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/IT-Quantum-Intern_R-9840",
     "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144",
     "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102542",
     "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102549",
@@ -39947,6 +39948,7 @@
     "job:workday:uline:ux-internship---summer-2027_r268775",
     "job:workday:umb:ai-intern_r-9796",
     "job:workday:umb:it-blockchain-intern_r-8444",
+    "job:workday:umb:it-quantum-intern_r-9840",
     "job:workday:umiami:data-science---ai-intern_r100102144",
     "job:workday:umiami:data-science---ai-intern_r100102542",
     "job:workday:umiami:data-science---ai-intern_r100102549",
@@ -47539,6 +47541,7 @@
     "ulteig gis intern",
     "umb ai intern",
     "umb it blockchain intern",
+    "umb it quantum intern",
     "uncountable fullstack intern",
     "uncountable working student software engineer munich",
     "unisys software engineer intern",
