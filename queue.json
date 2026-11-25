@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11154",
-    "company": "Ralliant",
-    "role": "Software Design Engineer Intern (Summer 2027)",
-    "location": "Beaverton, OR, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T21:21:50.186120+00:00"
-  },
-  {
-    "apply_url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Market-Risk-Summer-Intern_Req1636216",
-    "company": "Santander",
-    "role": "2027 Market Risk Summer Intern",
-    "location": "Madison Ave Corp",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T21:31:56.558289+00:00"
-  },
-  {
     "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Software-Engineering-Intern_J2472697",
     "company": "Jabil",
     "role": "Software Engineering Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T04:11:28.284334+00:00"
+  },
+  {
+    "apply_url": "https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us",
+    "company": "Amazon",
+    "role": "Front-End Engineer Internship \u2013 2027 (US)",
+    "location": "Seattle, Washington, USA",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T04:21:21.322527+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739",
+    "company": "BEUMER Group",
+    "role": "AI Development Intern",
+    "location": "Somerset, New Jersey, United States",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T04:21:21.322527+00:00"
   }
 ]
