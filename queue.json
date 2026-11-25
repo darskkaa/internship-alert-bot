@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/HPC-Mechanical-Engineer-Intern_1213418",
-    "company": "Hewlett Packard Enterprise",
-    "role": "HPC Mechanical Engineer Intern",
-    "location": "Chippewa Falls, Wisconsin, United States of America",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T21:11:47.733581+00:00"
-  },
-  {
     "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11154",
     "company": "Ralliant",
     "role": "Software Design Engineer Intern (Summer 2027)",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T03:11:19.325232+00:00"
+  },
+  {
+    "apply_url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Tijuana-Baja-California/Intern-Mechanical-Engineer_R0000402860",
+    "company": "Solar Turbines",
+    "role": "Intern Mechanical Engineer",
+    "location": "Tijuana, Baja California",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T04:11:28.284334+00:00"
   }
 ]

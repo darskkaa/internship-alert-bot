@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T03:11:19.354491+00:00",
+  "last_checked_utc": "2026-11-25T04:11:28.310247+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4583,6 +4583,7 @@
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Tijuana-Baja-California/Design-Engineer--INTERN-_R0000402100",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Tijuana-Baja-California/Engineering-Student-Internship--Tijuana--MX-_R0000397243",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Tijuana-Baja-California/Engineering-Student-Internship_R0000397241",
+    "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Tijuana-Baja-California/Intern-Mechanical-Engineer_R0000402860",
     "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Tijuana-Baja-California/Internship-Service-Parts-Engineering--STUDENT-TUUANA-MX-_R0000381008",
     "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Infrastructure-Intern_R-4658-1",
     "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Linux-Engineer-Intern_R-4661",
@@ -33090,6 +33091,7 @@
     "job:workday:cat:design-engineer--intern-_r0000402100",
     "job:workday:cat:engineering-student-internship--tijuana--mx-_r0000397243",
     "job:workday:cat:engineering-student-internship_r0000397241",
+    "job:workday:cat:intern-mechanical-engineer_r0000402860",
     "job:workday:cat:internship---power-generation-project-applications-engineer--pae--coordinator_r0000377645",
     "job:workday:cat:internship-service-parts-engineering--student-tuuana-mx-_r0000381008",
     "job:workday:cat:oil-and-gas-project-application-engineering-intern_r0000403393",
@@ -45922,6 +45924,7 @@
     "solar turbines 2027 welding engineer intern",
     "solar turbines design engineer intern",
     "solar turbines engineering student internship tijuana mx",
+    "solar turbines intern mechanical engineer",
     "solar turbines internship power generation project applications engineer pae coordinator",
     "solar turbines internship service parts engineering student tijuana mx",
     "solar turbines oil and gas project application engineering intern",
