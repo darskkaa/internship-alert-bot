@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007",
-    "company": "Lucid Motors",
-    "role": "AI/ML Intern - Vehicle Infotainment - Summer 2027",
-    "location": "Newark, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8400148",
-    "company": "Gusto",
-    "role": "Economics Research Intern",
-    "location": "SF",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
     "apply_url": "https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us",
     "company": "Constellation Energy",
     "role": "Powerfolio Data Analyst Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T17:31:32.898687+00:00"
+  },
+  {
+    "apply_url": "https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Internship--Computational---Electromagnetics_2642325-2",
+    "company": "KLA",
+    "role": "Internship: Computational & Electromagnetics",
+    "location": "Ann Arbor, MI",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T18:21:33.011087+00:00"
+  },
+  {
+    "apply_url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Cyber-Effects-Engineering-Intern--Summer-2027-_JR003189",
+    "company": "Draper",
+    "role": "Cyber Effects Engineering Intern (Summer 2027)",
+    "location": "Cambridge, MA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T18:21:33.011087+00:00"
   }
 ]
