@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=31935864-401f-416a-9671-92af3d294895",
-    "company": "Jewelers Mutual Group",
-    "role": "Data Science Intern",
-    "location": "Neenah, WI",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
-    "apply_url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=58e2b100-19b0-4b86-9204-6e04fc06943f",
-    "company": "Jewelers Mutual Group",
-    "role": "Business Intelligence Intern",
-    "location": "Neenah, WI",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
     "apply_url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=73e636fd-4bf6-45be-9b83-3f5d3a9315ea",
     "company": "Jewelers Mutual Group",
     "role": "Product Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T21:21:20.410917+00:00"
+  },
+  {
+    "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020507",
+    "company": "Texas Instruments",
+    "role": "Web Marketing Intern - Digital Experience Analytics",
+    "location": "Dallas, TX, United States",
+    "source": "Oracle Cloud",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T21:31:22.922286+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4522155009",
+    "company": "Pacific Fusion",
+    "role": "Summer 2027 Positioning Systems Internship",
+    "location": "San Leandro, CA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T21:31:22.922286+00:00"
   }
 ]
