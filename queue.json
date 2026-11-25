@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120667",
-    "company": "Howmet Aerospace",
-    "role": "Process Engineer Co-Op",
-    "location": "LaPorte, IN, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T22:11:47.409031+00:00"
-  },
-  {
     "apply_url": "https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/99520---DC-Riverside/Distribution-Center-Industrial-Engineer-Intern---Summer-2027_R105275",
     "company": "Burlington Stores",
     "role": "Distribution Center Industrial Engineer Intern - Summer 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T14:21:28.663844+00:00"
+  },
+  {
+    "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Scientist-Intern_J2468236",
+    "company": "Jabil",
+    "role": "Data Scientist Intern",
+    "location": "St. Petersburg/Tampa, FL",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T14:29:36.136973+00:00"
   }
 ]
