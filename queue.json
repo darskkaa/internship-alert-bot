@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=52b782dd-a1b7-4a41-8bde-a39d265fc776",
-    "company": "GTI Energy",
-    "role": "Data Science Intern",
-    "location": "Des Plaines, IL",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
     "apply_url": "https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=016d2b83-b435-4bb0-bb74-cb0555970a87",
     "company": "Daikin Comfort",
     "role": "Data Analyst Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T18:41:25.306079+00:00"
+  },
+  {
+    "apply_url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869",
+    "company": "Coinbase",
+    "role": "Security Engineer Intern",
+    "location": "Hybrid - New York, NY",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T20:31:31.890226+00:00"
   }
 ]
