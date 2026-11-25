@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/99520---DC-Riverside/Distribution-Center-Industrial-Engineer-Intern---Summer-2027_R105275",
-    "company": "Burlington Stores",
-    "role": "Distribution Center Industrial Engineer Intern - Summer 2027",
-    "location": "99520 - DC Riverside",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T22:21:42.803459+00:00"
-  },
-  {
     "apply_url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Optical-Systems-Student-Engineer_2641844-1",
     "company": "KLA Corporation",
     "role": "Optical Systems Engineering Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T14:29:36.136973+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/eightsleep/1ea47d9f-b325-4fbb-a59e-f13646ad092c",
+    "company": "Eight Sleep",
+    "role": "New Grad - Engineering (full-time)",
+    "location": "New York City",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T14:31:29.184871+00:00"
   }
 ]
