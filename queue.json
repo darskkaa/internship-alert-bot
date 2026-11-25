@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?embed=true",
-    "company": "Shield AI",
-    "role": "Operational Analysis Intern - Operational Analysis",
-    "location": "Arlington County, Arlington, VA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
     "apply_url": "https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007",
     "company": "Lucid Motors",
     "role": "AI/ML Intern - Vehicle Infotainment - Summer 2027",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T17:21:23.167953+00:00"
+  },
+  {
+    "apply_url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Industrial-Mechanical-Engineer--Co-op-_J-00359203",
+    "company": "ASML",
+    "role": "Internship - Industrial/Mechanical Engineer (Co-op)",
+    "location": "Wilton, CT, USA",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T17:31:32.898687+00:00"
   }
 ]
