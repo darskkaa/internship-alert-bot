@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Research-Intern---KG---Agentic-AI---ML_JREQ205376",
-    "company": "Thomson Reuters",
-    "role": "Research Intern - KG / Agentic AI / ML",
-    "location": "N/A",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T19:31:44.910951+00:00"
-  },
-  {
-    "apply_url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45321",
-    "company": "NOV",
-    "role": "Forward Deployed Engineer Intern",
-    "location": "Houston, TX, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T19:31:44.910951+00:00"
-  },
-  {
     "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/AOS-Intern--Facilities_R-26-21231",
     "company": "Moog",
     "role": "Associate of Occupational Studies/Science Intern, Facilities",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T00:12:01.850091+00:00"
+  },
+  {
+    "apply_url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/Equipment-Engineering-Intern_JR-25645-1",
+    "company": "Bloom Energy",
+    "role": "Equipment Engineering Intern",
+    "location": "Fremont, California",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T00:21:20.277606+00:00"
+  },
+  {
+    "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Software-Engineering-Intern---2027-Internship-Program_R70950",
+    "company": "Motorola",
+    "role": "Software Engineering Intern - 2027 Internship Program",
+    "location": "Salt Lake City, UT (UT17)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T00:21:20.277606+00:00"
   }
 ]
