@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T13:51:30.266691+00:00",
+  "last_checked_utc": "2026-11-25T14:21:28.694258+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -18042,6 +18042,7 @@
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---System-Engineering_R-01374025",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Systems-Design-Engineering--Vibration-_R-01374039",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Systems-Design-Engineering_R-01374041",
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Verification---Validation---Mass-Spectrometer_R-01374022",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Internship---Scientist---Advanced-Technology_R-01345917",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Sr-Intern---Data-Analytics---AI-ML--Service-ability_R-01374061",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Sr-Intern---Python-Developer-for-Digital-Services_R-01374102",
@@ -39768,6 +39769,7 @@
     "job:workday:thermofisher:intern---system-engineering_r-01374025",
     "job:workday:thermofisher:intern---systems-design-engineering--vibration-_r-01374039",
     "job:workday:thermofisher:intern---systems-design-engineering_r-01374041",
+    "job:workday:thermofisher:intern---verification---validation---mass-spectrometer_r-01374022",
     "job:workday:thermofisher:internship---scientist---advanced-technology_r-01345917",
     "job:workday:thermofisher:internship-opportunity---clinical-operations---karlsruhe-or-munich_r-01334328",
     "job:workday:thermofisher:lab-execution-systems-co-op_r-01366616",
@@ -47068,6 +47070,7 @@
     "thermo fisher scientific intern system engineering",
     "thermo fisher scientific intern systems design engineering",
     "thermo fisher scientific intern systems design engineering vibration",
+    "thermo fisher scientific intern verification validation mass spectrometer",
     "thermo fisher scientific internship scientist advanced technology",
     "thermo fisher scientific lab execution systems coop",
     "thermo fisher scientific manufacturing engineering intern",

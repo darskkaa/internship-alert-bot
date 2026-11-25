@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Marion-NC/Product-Development-Engineer-Co-Op_JR104708",
-    "company": "Greenheck Group",
-    "role": "Product Development Engineer Co-Op",
-    "location": "Marion, NC",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T22:01:44.187953+00:00"
-  },
-  {
     "apply_url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120667",
     "company": "Howmet Aerospace",
     "role": "Process Engineer Co-Op",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T13:51:30.236757+00:00"
+  },
+  {
+    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Verification---Validation---Mass-Spectrometer_R-01374022",
+    "company": "Thermo Fisher Scientific",
+    "role": "Intern \u2013 Verification & Validation - Mass Spectrometer",
+    "location": "Brno, Czechia",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T14:21:28.663844+00:00"
   }
 ]
