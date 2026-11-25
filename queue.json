@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Intern--TMF-Systems---Operations_R20220",
-    "company": "Moderna",
-    "role": "2027 Intern, TMF Systems & Operations",
-    "location": "N/A",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T19:41:48.965813+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8954135002",
-    "company": "Flagship Pioneering",
-    "role": "Fathem: Protein Sciences Co-Op",
-    "location": "Cambridge, MA USA",
-    "source": "Greenhouse",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T19:51:45.374959+00:00"
-  },
-  {
-    "apply_url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Signal-Integrity-Engineering-Intern_JR0289449",
-    "company": "Intel",
-    "role": "Signal Integrity Engineering Intern",
-    "location": "US, Arizona, Phoenix",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T20:01:44.442771+00:00"
-  },
-  {
     "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/33339",
     "company": "Navy Federal",
     "role": "Intern - Year Round (Systems Support)",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T01:11:34.358515+00:00"
+  },
+  {
+    "apply_url": "https://career-schwab.icims.com/jobs/126255/job?mobile=true&needsRedirect=false",
+    "company": "Charles Schwab",
+    "role": "Treasury Modeling Intern",
+    "location": "Lone Tree, CO",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T01:41:22.896406+00:00"
+  },
+  {
+    "apply_url": "https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us",
+    "company": "Kimley-Horn",
+    "role": "Data Science Intern",
+    "location": "Mesa, AZ",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T01:41:22.896406+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000163583264",
+    "company": "NBCUniversal",
+    "role": "Universal Studios Hollywood, Technical Services, Mechanical Engineering Internship \u2013 Summer 2027",
+    "location": "Universal City, CALIFORNIA, United States",
+    "source": "SmartRecruiters",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T01:41:22.896406+00:00"
   }
 ]
