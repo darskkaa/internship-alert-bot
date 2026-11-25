@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Test-Development_20261580",
-    "company": "Lumentum",
-    "role": "Internship - Test Development",
-    "location": "USA - CA - San Jose (Ridder)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:22:07.527031+00:00"
-  },
-  {
     "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/State-Street-Enterprise-Risk-Management---Quantitative-Risk-Internship---2027-Summer-Internship_R-801341",
     "company": "State Street",
     "role": "State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T16:11:37.876772+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915",
+    "company": "Apex",
+    "role": "Software Engineering, Operating Systems Internship (Summer 2027)",
+    "location": "Los Angeles",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T16:21:32.405656+00:00"
   }
 ]
