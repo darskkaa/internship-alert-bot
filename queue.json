@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/33339",
-    "company": "Navy Federal",
-    "role": "Intern - Year Round (Systems Support)",
-    "location": "Pensacola, FL, United States",
-    "source": "Oracle Cloud",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T20:01:44.442771+00:00"
-  },
-  {
     "apply_url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Credit-Risk-Management-Intern_R-0000033874",
     "company": "The Federal Reserve System",
     "role": "2027 Summer Internship Program - Credit Risk Management Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T01:41:22.896406+00:00"
+  },
+  {
+    "apply_url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Intern--Electronics---Summer-2027_REQ-1000052694",
+    "company": "Stanley Black & Decker",
+    "role": "Engineering Intern, Electronics - Summer 2027",
+    "location": "Towson, MD, United States",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T02:21:22.236857+00:00"
   }
 ]
