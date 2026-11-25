@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Applied-Science_R028347",
-    "company": "Blizzard Entertainment",
-    "role": "Applied Science Intern - PhD",
-    "location": "Irvine, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
     "apply_url": "https://careers-sas.icims.com/jobs/42752/job?mobile=true&needsRedirect=false",
     "company": "SAS",
     "role": "Quantum Research & Development Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T23:41:16.963713+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008",
+    "company": "QuEra Computing",
+    "role": "Internship \u2013 Technical Product Management",
+    "location": "Boston, MA, USA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T23:51:17.798354+00:00"
   }
 ]

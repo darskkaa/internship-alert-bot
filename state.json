@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T23:41:16.985907+00:00",
+  "last_checked_utc": "2026-11-25T23:51:17.826865+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -10786,6 +10786,7 @@
     "https://job-boards.greenhouse.io/queracomputinginc/jobs/5490107008",
     "https://job-boards.greenhouse.io/queracomputinginc/jobs/5493521008",
     "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008",
+    "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008",
     "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002",
     "https://job-boards.greenhouse.io/raft/jobs/6239819004",
     "https://job-boards.greenhouse.io/raft/jobs/6240549004",
@@ -28204,6 +28205,7 @@
     "job:greenhouse:5493962008",
     "job:greenhouse:5494154008",
     "job:greenhouse:5495029008",
+    "job:greenhouse:5495037008",
     "job:greenhouse:5513756002",
     "job:greenhouse:5562433004",
     "job:greenhouse:5659745004",
@@ -44420,6 +44422,7 @@
     "quera computing internship quantum error correction research",
     "quera computing internship research development",
     "quera computing internship scientific software and compilation",
+    "quera computing internship technical product management",
     "quera computing japan internship",
     "quera computing optical engineer coop",
     "quera computing qpu build coop optics data analysis",
