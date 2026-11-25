@@ -1,65 +1,5 @@
 [
   {
-    "apply_url": "https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa",
-    "company": "Ulteig",
-    "role": "GIS Intern",
-    "location": "Remote in USA, Minneapolis, MN, Greenwood Village, CO",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
-    "apply_url": "https://recruiting.ultipro.com/FIR1024FRME/JobBoard/d8ba2a8e-910f-42cf-9614-28c6f0ccdee4/OpportunityDetail?opportunityId=affbbaee-6ee2-45f7-a52b-7accf4458029",
-    "company": "First Merchants Bank",
-    "role": "Treasury Management Product Intern",
-    "location": "Columbus, OH",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
-    "apply_url": "https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=053a469a-5814-43e3-aff9-af40031df83d",
-    "company": "Southwest Power Pool",
-    "role": "Market Monitoring Intern",
-    "location": "Little Rock, AR",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
-    "apply_url": "https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=51168e8a-cd42-4169-9c50-0019367a9d83",
-    "company": "Southwest Power Pool",
-    "role": "Operations Developer Intern",
-    "location": "Little Rock, AR",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
-    "apply_url": "https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=fc18a34f-19de-457e-910a-adb510ce2ec7",
-    "company": "GCI",
-    "role": "Targeting Intelligence Analyst Intern - Paid",
-    "location": "Virginia",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
-    "apply_url": "https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=561ce011-a9e5-4635-b991-2c8abd3d88bf",
-    "company": "GCI",
-    "role": "Software Developer Intern",
-    "location": "Virginia",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:41:55.173610+00:00"
-  },
-  {
     "apply_url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Applied-Science_R028347",
     "company": "Blizzard Entertainment",
     "role": "Applied Science Intern - PhD",
@@ -2998,5 +2938,65 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T22:01:20.749544+00:00"
+  },
+  {
+    "apply_url": "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000163744159",
+    "company": "Wabash Valley Power Alliance",
+    "role": "Energy Efficiency & Demand Response Intern - Summer 2027",
+    "location": "Indianapolis, IN",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T23:41:16.963713+00:00"
+  },
+  {
+    "apply_url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250630",
+    "company": "Cantor Fitzgerald",
+    "role": "Technology Summer Intern - Development",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T23:41:16.963713+00:00"
+  },
+  {
+    "apply_url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145",
+    "company": "Staples",
+    "role": "Full Stack Software Engineer Intern",
+    "location": "Austin, TX",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T23:41:16.963713+00:00"
+  },
+  {
+    "apply_url": "https://www.tesla.com/careers/search/job/291227",
+    "company": "Tesla",
+    "role": "Robotics Audio DSP Engineer Intern",
+    "location": "Palo Alto, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T23:41:16.963713+00:00"
+  },
+  {
+    "apply_url": "https://mantech.avature.net/en_US/careers/JobDetail/67268",
+    "company": "ManTech",
+    "role": "C++ Developer Intern",
+    "location": "Lexington Park, MD",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T23:41:16.963713+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008",
+    "company": "QuEra Computing",
+    "role": "Internship \u2013 Data Management",
+    "location": "Boston, MA, USA",
+    "source": "Greenhouse",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T23:41:16.963713+00:00"
   }
 ]
