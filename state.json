@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T06:01:24.871093+00:00",
+  "last_checked_utc": "2026-11-25T06:51:30.564517+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17033,6 +17033,7 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Enterprise-Master-Data-Management---Intern_202609-124194",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/IT-Training---Transition-Intern_202610-127551-1",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Intern---Data---Analytics-Specialist_202610-127835",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Site-IT-Experience-Intern_202611-130097",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Technology-Support-Intern---Mandarin-Speaker--Open-to-All-Majors-_202610-125573",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship---Software-and-Data-Engineer--for-12-months-in-Rotkreuz-_202610-127501",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship--Generative-AI-Designer--as-of-January-2027-for-12-months-in-Rotkreuz-_202610-127757",
@@ -38823,6 +38824,7 @@
     "job:workday:roche:it-training---transition-intern_202610-127551-1",
     "job:workday:roche:portfolio-strategy-and-insights-interns--basel--up-to-12-months-_202606-116569-1",
     "job:workday:roche:roche-next-generation-sequencing--ngs----agentic-ai-engineering-support-internship_202610-126801-1",
+    "job:workday:roche:site-it-experience-intern_202611-130097",
     "job:workday:roche:student-internship-in-device-development-and-verification-engineering--basel--9-12-months-_202610-126054",
     "job:workday:roche:student-internship-in-lab-automation--pharma-research---early-development-_202609-124621",
     "job:workday:roche:technology-support-intern---mandarin-speaker--open-to-all-majors-_202610-125573",
@@ -44731,6 +44733,7 @@
     "roche it training transition intern",
     "roche portfolio strategy and insights interns basel up to 12 months",
     "roche roche nextgeneration sequencing ngs agentic ai engineering support internship",
+    "roche site it experience intern",
     "roche student internship in device development and verification engineering basel 912 months",
     "roche student internship in lab automation pharma research early development",
     "roche technology support intern mandarin speaker open to all majors",
