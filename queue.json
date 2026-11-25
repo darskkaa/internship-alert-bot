@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000695571",
-    "company": "Loblaw Companies",
-    "role": "Software Development - Co-op Student",
-    "location": "500 Lake Shore Blvd W, Toronto, ON",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-20T23:11:50.072473+00:00"
-  },
-  {
     "apply_url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Test-Development_20261580",
     "company": "Lumentum",
     "role": "Internship - Test Development",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-25T15:41:20.189949+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3",
+    "company": "Apex",
+    "role": "Flight Software Engineering Internship (Summer 2027)",
+    "location": "Los Angeles",
+    "source": "Ashby",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-25T16:11:37.876772+00:00"
   }
 ]
