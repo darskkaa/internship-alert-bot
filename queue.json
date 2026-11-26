@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1",
-    "company": "Great Southern Wood Preserving",
-    "role": "Engineering Intern - Data Analyst",
-    "location": "Abbeville, AL",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
     "apply_url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7",
     "company": "Acuity Insurance",
     "role": "Strategic Information Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-26T02:41:32.955688+00:00"
+  },
+  {
+    "apply_url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383",
+    "company": "Blizzard Entertainment",
+    "role": "Tech Art Intern",
+    "location": "Irvine, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T04:11:20.022175+00:00"
   }
 ]
