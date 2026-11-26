@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-26T10:31:22.059369+00:00",
+  "last_checked_utc": "2026-11-26T11:01:20.327694+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -7113,6 +7113,7 @@
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NY--New-York---32-Old-Slip/Intern-Engineering-Designer--Rail-and-Transit_6685",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NY--New-York---32-Old-Slip/Intern-Engineering-Designer--Water_6740",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NY--New-York---322-Eighth-Avenue/Transportation-Engineering-Intern_6749",
+    "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NY--New-York---322-Eighth-Avenue/Transportation-Engineering-Intern_6819",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NY--Rochester---255-East-Avenue/Engineering-Intern--Buildings_6573-1",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--PA--Philadelphia---1700-Market-Street/Intern-Engineering-Designer---Water_6439",
     "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--TX--Austin---3800-North-Lamar-Boulevard/Engineering-Intern--Buildings_6563",
@@ -34783,6 +34784,7 @@
     "job:workday:gi:mechanical-engineering-intern--baggage-handling-systems_6694",
     "job:workday:gi:mechanical-engineering-intern--fire-protection_6630",
     "job:workday:gi:transportation-engineering-intern_6749",
+    "job:workday:gi:transportation-engineering-intern_6819",
     "job:workday:gi:transportation-traffic-engineering-intern_6766",
     "job:workday:gilead:intern---cfo----it--digital-marketing-_r0054868",
     "job:workday:gilead:intern---cfo---corporate-operation--technical-engineering-_r0054563",
