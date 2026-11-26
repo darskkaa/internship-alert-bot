@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Cybersecurity-Education---Awareness-Program-Intern_JR-202624606",
-    "company": "General Motors",
-    "role": "2027 Summer Intern - Cybersecurity Education & Awareness Program Intern",
-    "location": "Warren, Michigan, United States of America",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T01:31:52.380730+00:00"
-  },
-  {
     "apply_url": "https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007",
     "company": "Lucid Motors",
     "role": "ADAS Platform Tools Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-26T11:21:25.077758+00:00"
+  },
+  {
+    "apply_url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Martos/Norms---Regulation-Engineer-Internship_REQ2026077560",
+    "company": "Valeo",
+    "role": "Norms & Regulation Engineer Internship",
+    "location": "Martos",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T11:31:29.636221+00:00"
   }
 ]

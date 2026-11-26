@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-26T11:21:25.109285+00:00",
+  "last_checked_utc": "2026-11-26T11:31:29.667343+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -18435,6 +18435,7 @@
     "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Enfidha/Project-Engineer-Intern_REQ2025067303",
     "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Martos/Electronic-Productivity-Buyer-Internship_REQ2026073299",
     "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Martos/Internship--Plastic-injection-tooling-engineer_REQ2026076464",
+    "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Martos/Norms---Regulation-Engineer-Internship_REQ2026077560",
     "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Martos/Optic-Engineer-Internship_REQ2026072451",
     "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Martos/Process-Engineer-PTM-Internship_REQ2026069244",
     "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Martos/Product-Technical-Engineer-Internship_REQ2026077555",
@@ -25445,6 +25446,7 @@
     "hewlett packard enterprise embedded software engineering intern",
     "hewlett packard enterprise firmware engineer intern",
     "hewlett packard enterprise firmware engineering intern",
+    "hewlett packard enterprise firmware engineering security intern",
     "hewlett packard enterprise gmc digital marketing analytics ai intern",
     "hewlett packard enterprise hardware engineering design intern",
     "hewlett packard enterprise hardware engineering intern",
@@ -40201,6 +40203,7 @@
     "job:workday:valeo:internship--plastic-injection-tooling-engineer_req2026076464",
     "job:workday:valeo:maintenance-engineering-trainee-intern_req2026082014",
     "job:workday:valeo:mechatronics-engineering-co-op--mechanical-_req2026080157",
+    "job:workday:valeo:norms---regulation-engineer-internship_req2026077560",
     "job:workday:valeo:optic-engineer-internship_req2026072451",
     "job:workday:valeo:process-engineer-ptm-internship_req2026069244",
     "job:workday:valeo:product-technical-engineer-internship_req2026077555",
@@ -47902,6 +47905,7 @@
     "valeo internship plastic injection tooling engineer",
     "valeo maintenance engineering traineeintern",
     "valeo mechatronics engineering coop mechanical",
+    "valeo norms regulation engineer internship",
     "valeo optic engineer internship",
     "valeo process engineer ptm internship",
     "valeo product technical engineer internship",
