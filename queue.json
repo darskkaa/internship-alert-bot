@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Product-Management-Tools-and-Automation-Intern_R122022",
-    "company": "Samsung",
-    "role": "Product Management Tools and Automation Intern",
-    "location": "6555 Excellence Way, Plano, TX, USA",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:51:37.983986+00:00"
-  },
-  {
     "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Cybersecurity-Education---Awareness-Program-Intern_JR-202624606",
     "company": "General Motors",
     "role": "2027 Summer Intern - Cybersecurity Education & Awareness Program Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-26T09:11:25.751752+00:00"
+  },
+  {
+    "apply_url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/TWN---Tai-wan---Hsinchu/Field-Application-Engineer-Intern--Taiwan_JR-2604215",
+    "company": "GlobalFoundries",
+    "role": "Field Application Engineer Intern, Taiwan",
+    "location": "TWN - T'ai-wan - Hsinchu",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T11:21:25.077758+00:00"
   }
 ]
