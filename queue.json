@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true",
-    "company": "Etched",
-    "role": "Signal Integrity and Power Integrity Intern",
-    "location": "San Jose, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T07:41:36.046862+00:00"
-  },
-  {
     "apply_url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1",
     "company": "iA",
     "role": "Industrial Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-26T15:21:23.119939+00:00"
+  },
+  {
+    "apply_url": "https://careers.amd.com/jobs/102333?icims=1&lang=en-us",
+    "company": "AMD",
+    "role": "Hardware Engineering Intern",
+    "location": "Belfast, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T15:40:49.657762+00:00"
   }
 ]
