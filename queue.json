@@ -1,105 +1,5 @@
 [
   {
-    "apply_url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Process-Standardization---Delivery-Automation--LCS-_R26-5072-1",
-    "company": "Rockwell Automation",
-    "role": "Co-op, Process Standardization & Delivery Automation (LCS)",
-    "location": "2 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/biohub/jobs/8400682",
-    "company": "Biohub",
-    "role": "AI Research Scientist Intern",
-    "location": "Redwood City, CA, NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8944694002",
-    "company": "iCapital Network",
-    "role": "Product Management Intern",
-    "location": "NYC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052",
-    "company": "The Allen Institute for AI",
-    "role": "Research Intern - Climate Modeling",
-    "location": "Seattle, WA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/method/jobs/8207611003",
-    "company": "Method",
-    "role": "Product Management Resident Intern",
-    "location": "London, UK",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/method/jobs/8207585003",
-    "company": "Method",
-    "role": "Product Management Intern",
-    "location": "Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
-    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000162827365",
-    "company": "ServiceNow",
-    "role": "Security Software Engineer Intern",
-    "location": "Kirkland, WA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
-    "apply_url": "https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf",
-    "company": "Southern Farm Bureau Life Insurance",
-    "role": "Data Analytics Intern",
-    "location": "Jackson, MS",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
-    "apply_url": "https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=fff73393-2657-4159-86d3-5a04f5767214",
-    "company": "Mesirow",
-    "role": "Software Developer Intern - IT",
-    "location": "Chicago, IL",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
-    "apply_url": "https://recruiting.ultipro.com/LOS1000LADOD/JobBoard/5365ad6e-23ff-4703-bb77-1e9451fb855e/OpportunityDetail?opportunityId=fb796a9d-16f1-4514-8f6b-e5c5dbbb6019",
-    "company": "Los Angeles Dodgers",
-    "role": "Summer Analyst Intern",
-    "location": "LA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
     "apply_url": "https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d",
     "company": "Werner Electric Supply",
     "role": "AI Intern",
@@ -2998,5 +2898,105 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-26T00:01:37.259690+00:00"
+  },
+  {
+    "apply_url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004",
+    "company": "SambaNova Systems",
+    "role": "Post-Silicon Validation Engineer Intern",
+    "location": "Austin, TX, San Jose, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T00:11:14.291490+00:00"
+  },
+  {
+    "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8415223",
+    "company": "Waymo",
+    "role": "Summer Intern - Driver Understanding and Evaluation - Large Model Evaluation",
+    "location": "Mountain View, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T00:11:14.291490+00:00"
+  },
+  {
+    "apply_url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004",
+    "company": "SambaNova Systems",
+    "role": "Physical Design Engineer Intern",
+    "location": "Austin, TX, San Jose, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T00:11:14.291490+00:00"
+  },
+  {
+    "apply_url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271345004",
+    "company": "SambaNova Systems",
+    "role": "DFT Engineer Intern",
+    "location": "Austin, TX, San Jose, CA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T00:11:14.291490+00:00"
+  },
+  {
+    "apply_url": "https://jackhenry.avature.net/careers/JobDetail/17682",
+    "company": "Jack Henry",
+    "role": "Enterprise Pricing & Data Analytics Intern",
+    "location": "Allen, TX, Birmingham, AL, Monett, MO, Lenexa, KS, Springfield, MO, Overland Park, KS",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T00:11:14.291490+00:00"
+  },
+  {
+    "apply_url": "https://apply.workable.com/digital-control/j/AB9A181560/apply",
+    "company": "Digital Control",
+    "role": "Software Engineer Intern",
+    "location": "Kent, WA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T00:11:14.291490+00:00"
+  },
+  {
+    "apply_url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764",
+    "company": "Total Quality Logistics",
+    "role": "Data Science & Analytics Intern",
+    "location": "Cincinnati, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T00:11:14.291490+00:00"
+  },
+  {
+    "apply_url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19757",
+    "company": "Total Quality Logistics",
+    "role": "AI Product Intern",
+    "location": "Cincinnati, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T00:11:14.291490+00:00"
+  },
+  {
+    "apply_url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19763",
+    "company": "Total Quality Logistics",
+    "role": "Software Development Intern",
+    "location": "Cincinnati, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T00:11:14.291490+00:00"
+  },
+  {
+    "apply_url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19765",
+    "company": "Total Quality Logistics",
+    "role": "Product Management Intern",
+    "location": "Cincinnati, OH",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T00:11:14.291490+00:00"
   }
 ]
