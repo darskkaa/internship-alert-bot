@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-26T09:11:25.780196+00:00",
+  "last_checked_utc": "2026-11-26T10:31:22.059369+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -18230,6 +18230,7 @@
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Developer-Intern_R58195",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/Product-Engineering-Intern_R58071",
+    "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/AI-Software-Developer-Engineer-in-Test-Intern_R58210",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171",
     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---TN-Knoxville/Software-Engineering-Intern_R58120",
     "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980",
@@ -40036,6 +40037,7 @@
     "job:workday:trimble:ai-automation-intern_r58148",
     "job:workday:trimble:ai-developer-intern_r58194",
     "job:workday:trimble:ai-developer-intern_r58195",
+    "job:workday:trimble:ai-software-developer-engineer-in-test-intern_r58210",
     "job:workday:trimble:automated-test-engineering-intern--16-month-internship-_r58004",
     "job:workday:trimble:geospatial-product-engineering-intern_r58213",
     "job:workday:trimble:hardware-software-testing-intern_r57677-1",
@@ -47678,6 +47680,7 @@
     "trimble agriculture product management intern",
     "trimble ai automation intern",
     "trimble ai developer intern",
+    "trimble ai software developer engineer in test intern",
     "trimble automated test engineering intern 16month internship",
     "trimble firmware machine learning engineering intern 16 months",
     "trimble geospatial product engineering intern",
