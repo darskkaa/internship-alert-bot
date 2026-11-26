@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Operational-Risk-Management-Summer-Intern_Req1636235",
-    "company": "Santander",
-    "role": "2027 Operational Risk Management Summer Intern",
-    "location": "Madison Ave Corp",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T03:21:49.424891+00:00"
-  },
-  {
     "apply_url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Credit-Risk---Leveraged-Finance-Summer-Intern_Req1636233",
     "company": "Santander",
     "role": "2027 Credit Risk - Leveraged Finance Summer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-26T13:41:39.674471+00:00"
+  },
+  {
+    "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest-Millennium-Gardens/Software-Engineering-PM-Intern_R00375267",
+    "company": "Accenture",
+    "role": "Software Engineering PM Intern",
+    "location": "N/A",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T15:01:35.766929+00:00"
   }
 ]
