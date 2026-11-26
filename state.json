@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-25T23:51:17.826865+00:00",
+  "last_checked_utc": "2026-11-26T00:01:37.282876+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2314,6 +2314,7 @@
     "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
     "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
     "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Product-Design-Co-op---International-Growth_R003417",
+    "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Product-Manager-Co-op---DNA-to-Family-History--Bridges-_R003505",
     "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Software-Engineer---Observability--Co-op_R003434",
     "https://ankura.wd5.myworkdayjobs.com/ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104974",
     "https://ankura.wd5.myworkdayjobs.com/ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944",
@@ -20358,6 +20359,7 @@
     "ancestry data science ai document understanding coop",
     "ancestry machine learning engineer coop",
     "ancestry product design coop international growth",
+    "ancestry product manager coop dna to family history bridges",
     "ancestry software engineer coop observability",
     "ancestry software engineer observability coop",
     "andersen phd summer intern",
@@ -32199,6 +32201,7 @@
     "job:workday:ancestry:data-science---ai-document-understanding--co-op_r003449",
     "job:workday:ancestry:machine-learning-engineer--co-op_r003377",
     "job:workday:ancestry:product-design-co-op---international-growth_r003417",
+    "job:workday:ancestry:product-manager-co-op---dna-to-family-history--bridges-_r003505",
     "job:workday:ancestry:software-engineer---observability--co-op_r003434",
     "job:workday:ankura:university-intern--disputes---economics---healthcare-and-life-sciences_r104974",
     "job:workday:ankura:university-intern--disputes---economics---healthcare-and-life-sciences_r104981",
