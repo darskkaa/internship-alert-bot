@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d",
-    "company": "Werner Electric Supply",
-    "role": "AI Intern",
-    "location": "Appleton, WI",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
     "apply_url": "https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b/apply",
     "company": "EP Wealth Advisors",
     "role": "Data AI Engineer Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-26T00:11:14.291490+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Pleasanton/XMLNAME-2027-Summer-Intern---Molecular-Lab-Research-and-Early-Development--MLRED---Oncology-and-Genomics-Molecular-Personalize-Healthcare-Solutions--O-G-mPHCS--Subchapter_202611-130082",
+    "company": "Roche",
+    "role": "2027 Summer Intern - Molecular Lab Research and Early Development (MLRED), Oncology and Genomics Molecular Personalize Healthcare Solutions (O&G mPHCS) Subchapter",
+    "location": "Pleasanton",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T00:41:15.902912+00:00"
   }
 ]
