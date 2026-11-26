@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-26T18:41:21.128573+00:00",
+  "last_checked_utc": "2026-11-26T19:11:30.227650+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -3791,6 +3791,8 @@
     "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873",
     "https://cae.wd3.myworkdayjobs.com/career/job/Irving/Automation-Intern_121836",
     "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
+    "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GSS-156--Supplier-Data-Agent-Intern_124527-1",
+    "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GSS-157-Business-Intelligence-and-Applied-AI-Intern---Sustainable-Procurement_124528",
     "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904",
     "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Gnie-Industriel-Manufacturier-et-Amlioration-Continue---ndustrial-Manufacturing-Engineering-and-Continuous-Improvement-Intern_123650",
     "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Student---Intern---Network-Services_123912",
@@ -22047,6 +22049,8 @@
     "cadence solutions software engineer intern",
     "cae automation intern",
     "cae cfin275 software engineering intern ai automation and business intelligence",
+    "cae cgss156 supplier data agent intern",
+    "cae cgss157 business intelligence and applied ai intern sustainable procurement",
     "cae software developer coop",
     "cae stagiaire g\u00e9nie industrielmanufacturier et am\u00e9lioration continue industrialmanufacturing engineering and continuous improvement intern",
     "cae student intern network services",
@@ -33192,6 +33196,8 @@
     "job:workday:cadence:software-intern_r53282-1",
     "job:workday:cae:automation-intern_121836",
     "job:workday:cae:c-fin-275-software-engineering-intern--ai--automation-and-business-intelligence_123477-1",
+    "job:workday:cae:c-gss-156--supplier-data-agent-intern_124527-1",
+    "job:workday:cae:c-gss-157-business-intelligence-and-applied-ai-intern---sustainable-procurement_124528",
     "job:workday:cae:software-developer-coop_123904",
     "job:workday:cae:stagiaire---gnie-industriel-manufacturier-et-amlioration-continue---ndustrial-manufacturing-engineering-and-continuous-improvement-intern_123650",
     "job:workday:cae:student---intern---network-services_123912",

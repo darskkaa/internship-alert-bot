@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1",
-    "company": "iA",
-    "role": "Industrial Engineer Intern",
-    "location": "Johnson City, NY",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T07:41:36.046862+00:00"
-  },
-  {
-    "apply_url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Digital-Technology-Intern---Summer_30222631",
-    "company": "Carrier Global",
-    "role": "Digital Technology Intern - Summer",
-    "location": "2 Locations",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T11:21:41.151825+00:00"
-  },
-  {
     "apply_url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840",
     "company": "Compassion International",
     "role": "Summer Intern - Data and Software Engineering",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-26T15:40:49.657762+00:00"
+  },
+  {
+    "apply_url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GSS-157-Business-Intelligence-and-Applied-AI-Intern---Sustainable-Procurement_124528",
+    "company": "CAE",
+    "role": "C-GSS-157 Business Intelligence and Applied AI Intern - Sustainable Procurement",
+    "location": "Montreal (St. Laurent)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T19:11:30.195424+00:00"
+  },
+  {
+    "apply_url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GSS-156--Supplier-Data-Agent-Intern_124527-1",
+    "company": "CAE",
+    "role": "C-GSS-156  Supplier Data Agent Intern",
+    "location": "Montreal (St. Laurent)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T19:11:30.195424+00:00"
   }
 ]
