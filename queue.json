@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007",
-    "company": "Lucid Motors",
-    "role": "ADAS Platform Tools Intern",
-    "location": "Newark, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T02:41:43.225449+00:00"
-  },
-  {
     "apply_url": "https://koch.avature.net/en_US/careers/JobDetail/198151",
     "company": "Koch Industries",
     "role": "Data and Analytics Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-26T11:31:29.636221+00:00"
+  },
+  {
+    "apply_url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4213",
+    "company": "Verisk",
+    "role": "Integration Analyst Intern",
+    "location": "London, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T11:41:15.879373+00:00"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-26T11:31:29.667343+00:00",
+  "last_checked_utc": "2026-11-26T11:41:15.909500+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6380,6 +6380,7 @@
     "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672",
     "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41694",
     "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335",
+    "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4213",
     "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682",
     "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4722",
     "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4740",
@@ -30474,6 +30475,7 @@
     "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41672",
     "job:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41694",
     "job:oracle:fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com:38335",
+    "job:oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:4213",
     "job:oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:4682",
     "job:oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:4722",
     "job:oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:4740",
@@ -48048,6 +48050,7 @@
     "verisk ai intern summer internship program",
     "verisk data scienceai intern",
     "verisk data scienceai intern 2027 summer internship program",
+    "verisk integration analyst intern",
     "verisk risk analyst 2027 summer internship program",
     "verisk software engineer intern",
     "verisk technology intern summer internship program",
