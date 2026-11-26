@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba",
-    "company": "Milliman",
-    "role": "Data Analyst Intern",
-    "location": "Brookfield, WI",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
-    "apply_url": "https://jobs.lever.co/momsmeals/9cc07826-a8bc-4ad4-a570-b54eabc95774/apply",
-    "company": "Mom's Meals",
-    "role": "Data Analytics Intern",
-    "location": "Ankeny, IA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
-    "apply_url": "https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8",
-    "company": "Pason Systems",
-    "role": "Software Developer Intern - Datahub",
-    "location": "Calgary, AB, Canada",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:11:41.794234+00:00"
-  },
-  {
     "apply_url": "https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1",
     "company": "Great Southern Wood Preserving",
     "role": "Engineering Intern - Data Analyst",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-26T02:31:20.262867+00:00"
+  },
+  {
+    "apply_url": "https://boards.greenhouse.io/opensesame/jobs/8418272",
+    "company": "OpenSesame",
+    "role": "Software Engineer Intern",
+    "location": "Remote in USA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T02:41:32.955688+00:00"
+  },
+  {
+    "apply_url": "https://boards.greenhouse.io/opensesame/jobs/8418204",
+    "company": "OpenSesame",
+    "role": "Product Intern",
+    "location": "Remote in USA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T02:41:32.955688+00:00"
+  },
+  {
+    "apply_url": "https://lifeattiktok.com/search/7712192759532357893",
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Intern - PhD",
+    "location": "Seattle, WA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T02:41:32.955688+00:00"
   }
 ]
