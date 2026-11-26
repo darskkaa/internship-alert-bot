@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217",
-    "company": "Acuity Insurance",
-    "role": "Software Engineer Intern",
-    "location": "Remote in USA, Sheboygan, WI",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T00:41:38.031427+00:00"
-  },
-  {
     "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Product-Management-Tools-and-Automation-Intern_R122022",
     "company": "Samsung",
     "role": "Product Management Tools and Automation Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-26T07:01:32.916591+00:00"
+  },
+  {
+    "apply_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Software-Connectivity_594610",
+    "company": "Philips",
+    "role": "Internship: Software Connectivity",
+    "location": "Eindhoven",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T09:11:25.751752+00:00"
   }
 ]

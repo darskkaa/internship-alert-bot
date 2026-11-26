@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-26T07:01:32.947385+00:00",
+  "last_checked_utc": "2026-11-26T09:11:25.780196+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -16393,6 +16393,7 @@
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Generative-AI-Engineer_591593",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Robot-Assisted-Toothbrush-IMU-Validation_593360",
+    "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Software-Connectivity_594610",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Synthetic-Data-Generation-for-Dental-AI--Master-_593359",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Product-Innovation---AI-Powered-Video-Creation-Internship---Philips-Avent-Experience-Innovation_586187",
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Co-op---Design-Engineering---Latham--NY---January-June-2027_590362",
@@ -38561,6 +38562,7 @@
     "job:workday:philips:internship--full-stack-developer-in-finance-domain_592556",
     "job:workday:philips:internship--generative-ai-engineer_591593",
     "job:workday:philips:internship--robot-assisted-toothbrush-imu-validation_593360",
+    "job:workday:philips:internship--software-connectivity_594610",
     "job:workday:philips:internship--synthetic-data-generation-for-dental-ai--master-_593359",
     "job:workday:philips:internship--validation-of-hair-cutting-models_592536",
     "job:workday:philips:it-infrastructure-intern_586528",
@@ -43965,6 +43967,7 @@
     "philips internship full stack developer in finance domain",
     "philips internship generative ai engineer",
     "philips internship robotassisted toothbrush imu validation",
+    "philips internship software connectivity",
     "philips internship synthetic data generation for dental ai master",
     "philips internship validation of haircutting models",
     "philips it infrastructure intern",
