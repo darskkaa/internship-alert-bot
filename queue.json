@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Credit-Risk---Leveraged-Finance-Summer-Intern_Req1636233",
-    "company": "Santander",
-    "role": "2027 Credit Risk - Leveraged Finance Summer Intern",
-    "location": "Madison Ave Corp",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T03:21:49.424891+00:00"
-  },
-  {
-    "apply_url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Precision-Genetics---Co-op_R427119",
-    "company": "Merck",
-    "role": "2027 Future Talent Program - Data, AI, and Genome Sciences, Precision Genetics - Co-op",
-    "location": "USA - California - South San Francisco (Grand Ave)",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T06:01:45.410032+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true",
     "company": "Etched",
     "role": "Signal Integrity and Power Integrity Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-26T15:01:35.766929+00:00"
+  },
+  {
+    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Electronics-Engineering_R-01374016",
+    "company": "Thermo Fisher Scientific",
+    "role": "Intern \u2013 Electronics Engineering",
+    "location": "Brno, Czechia",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T15:21:23.119939+00:00"
+  },
+  {
+    "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Development---Operations-Engineering_R-01374017",
+    "company": "Thermo Fisher Scientific",
+    "role": "Intern \u2013 Software Development - Operations Engineering",
+    "location": "Brno, Czechia",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-26T15:21:23.119939+00:00"
   }
 ]
