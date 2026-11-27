@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-27T15:51:22.032401+00:00",
+  "last_checked_utc": "2026-11-27T18:11:37.329387+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17117,6 +17117,7 @@
     "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Translational-Safety--Computational-Toxicology-_202610-127395",
     "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Translational-Safety--Computational-Toxicology-_202611-128786",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/AI---Automation-Intern--Data-Access-and-Sharing--Basel--6-months-_202610-127145",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/AI-Research-Internship---Retrospective-Safety-Prediction-and-Evidence-Based-Validation--for-6-months-in-Basel-_202611-130530",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Device-Engineering-Intern--Basel--12-months-_202610-127712",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819",
@@ -39082,6 +39083,7 @@
     "job:workday:roche:ai---automation-intern--data-access-and-sharing--basel--6-months-_202610-127145",
     "job:workday:roche:ai---digitalisation-intern-graduate-psd_202610-127162",
     "job:workday:roche:ai-business-development-intern_202611-128725",
+    "job:workday:roche:ai-research-internship---retrospective-safety-prediction-and-evidence-based-validation--for-6-months-in-basel-_202611-130530",
     "job:workday:roche:cybersecurity---digital-solution-assistant-engineer-intern--12-months-_202611-128979",
     "job:workday:roche:data-science-industrial-placement---multiple-roles-within-biostats--data-management--real-world-data-and-more_202609-122536",
     "job:workday:roche:data-science-intern---master-thesis-student--basel--6-monate-_202609-124516",
@@ -45031,6 +45033,7 @@
     "roche ai automation intern data access and sharing basel 6 months",
     "roche ai business development intern",
     "roche ai digitalisation interngraduate psd",
+    "roche ai research internship retrospective safety prediction and evidencebased validation for 6 months in basel",
     "roche computer science industrial placement student intern data capability",
     "roche cybersecurity digital solution assistant engineer intern 12 months",
     "roche data analytics intern",

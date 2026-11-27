@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/hexarmor/jobs/8206200003",
-    "company": "HexArmor",
-    "role": "Software Engineering Intern",
-    "location": "Atlanta, Georgia, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d",
     "company": "Clera",
     "role": "Full-Stack Software Engineering Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-27T15:51:21.998646+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/AI-Research-Internship---Retrospective-Safety-Prediction-and-Evidence-Based-Validation--for-6-months-in-Basel-_202611-130530",
+    "company": "Roche",
+    "role": "AI Research Internship \u2013 Retrospective Safety Prediction and Evidence-Based Validation (for 6 months in Basel)",
+    "location": "Basel",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-27T18:11:37.301113+00:00"
   }
 ]
