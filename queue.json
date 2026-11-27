@@ -1,45 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007",
-    "company": "Neros Technologies",
-    "role": "Autonomy Intern",
-    "location": "Torrance, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T23:41:34.835207+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007",
-    "company": "Neros Technologies",
-    "role": "Electrical Engineer Intern",
-    "location": "Torrance, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T23:41:34.835207+00:00"
-  },
-  {
-    "apply_url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450",
-    "company": "TransUnion",
-    "role": "Data Science and Analytics Intern",
-    "location": "Chicago, IL",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T00:11:51.107597+00:00"
-  },
-  {
-    "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307",
-    "company": "NVIDIA",
-    "role": "Applied Research Scientist Intern - Agentic Biology",
-    "location": "United States",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T00:41:51.190624+00:00"
-  },
-  {
     "apply_url": "https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1",
     "company": "Advance Auto Parts",
     "role": "Data Science Intern",
@@ -2998,5 +2958,45 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-27T03:21:23.346138+00:00"
+  },
+  {
+    "apply_url": "https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005",
+    "company": "PatientPoint",
+    "role": "Data Engineer Intern",
+    "location": "Cincinnati, Ohio, United States",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-27T09:11:19.456168+00:00"
+  },
+  {
+    "apply_url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250631",
+    "company": "Cantor Fitzgerald",
+    "role": "BGC\u2019s 2027 US Technology Summer Internship \u2013 Infrastructure",
+    "location": "New York, NY, United States",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-27T09:11:19.456168+00:00"
+  },
+  {
+    "apply_url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250648",
+    "company": "Cantor Fitzgerald",
+    "role": "Cantor 2027 Technology Infrastructure & Automation Internship",
+    "location": "New York, NY, United States",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-27T09:11:19.456168+00:00"
+  },
+  {
+    "apply_url": "https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab",
+    "company": "Xona Space Systems",
+    "role": "Software Engineering (Engineering Productivity) Intern",
+    "location": "Burlingame, California",
+    "source": "Zshah",
+    "sponsorship_flag": false,
+    "citizenship_flag": true,
+    "detected_at": "2026-11-27T09:11:19.456168+00:00"
   }
 ]
