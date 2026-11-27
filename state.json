@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-27T18:11:37.329387+00:00",
+  "last_checked_utc": "2026-11-27T18:21:23.193272+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -6760,6 +6760,7 @@
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Niskayuna/GE-Aerospace-Research---Controls---Optimization-Internship--2027_R5043004-1",
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Test-Technician-Level-2---On-Wing-Support_R5040996-1",
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Pomigliano-DArco/Intern---Airfoils-Manufacturing-Engineer_R5039304-1",
+    "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Pomigliano-DArco/Internship---Combustor-Manufacturing-Engineer_R5043801-1",
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Pomigliano-DArco/Internship---Lean-Manufacturing-Engineer_R5043209-1",
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Queretaro/Data-Science-and-AI-Digital-Technology-Intern_R5041604-1",
     "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Queretaro/EID-Intern---Fluids-Systems_R5038310-1",
@@ -24439,6 +24440,7 @@
     "ge aerospace inspection engineering intern summer 2027",
     "ge aerospace intern airfoils manufacturing engineer",
     "ge aerospace intern mro test cell services intern",
+    "ge aerospace internship combustor manufacturing engineer",
     "ge aerospace internship lean manufacturing engineer",
     "ge aerospace it support intern",
     "ge aerospace manufacturing engineering intern us summer 2027",
@@ -34539,6 +34541,7 @@
     "job:workday:geaerospace:inspection-engineering-intern---summer-2027_r5040956-1",
     "job:workday:geaerospace:intern---airfoils-manufacturing-engineer_r5039304-1",
     "job:workday:geaerospace:intern---mro-test-cell-services-intern_r5041390-1",
+    "job:workday:geaerospace:internship---combustor-manufacturing-engineer_r5043801-1",
     "job:workday:geaerospace:internship---lean-manufacturing-engineer_r5043209-1",
     "job:workday:geaerospace:it-support-intern_r5038715-1",
     "job:workday:geaerospace:it-support-intern_r5041969-1",

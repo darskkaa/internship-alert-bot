@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d",
-    "company": "Clera",
-    "role": "Full-Stack Software Engineering Intern",
-    "location": "New York",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
     "apply_url": "https://jobs.lever.co/momsmeals/77331b7f-4efc-488d-a6af-584788e3d1b0",
     "company": "Mom's Meals",
     "role": "Software Quality Assurance (QA) Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-27T18:11:37.301113+00:00"
+  },
+  {
+    "apply_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Pomigliano-DArco/Internship---Combustor-Manufacturing-Engineer_R5043801-1",
+    "company": "GE Aerospace",
+    "role": "Internship - Combustor Manufacturing Engineer",
+    "location": "Pomigliano D'Arco",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-27T18:21:23.164593+00:00"
   }
 ]
