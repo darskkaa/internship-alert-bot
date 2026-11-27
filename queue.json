@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793",
-    "company": "NVIDIA",
-    "role": "Technical Marketing Engineer Intern - Digital Biology and Scientific Computing",
-    "location": "Santa Clara, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T00:41:51.190624+00:00"
-  },
-  {
     "apply_url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
     "company": "Forterra",
     "role": "2027 Intern - Software",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-27T13:41:29.019508+00:00"
+  },
+  {
+    "apply_url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Padua/Intern-RISK-IT-Audit---Padova--OTS-_776893WD",
+    "company": "PricewaterhouseCoopers (PwC)",
+    "role": "Intern RISK IT Audit - Padova [OTS]",
+    "location": "Padua",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-27T13:51:35.010335+00:00"
   }
 ]
