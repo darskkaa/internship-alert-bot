@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358",
-    "company": "Blizzard Entertainment",
-    "role": "Data Platform Engineering Intern - Data Platform Engineering",
-    "location": "Irvine, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T16:11:42.777454+00:00"
-  },
-  {
-    "apply_url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Work-Experience---Stevenage-2027_R40714",
-    "company": "MBDA",
-    "role": "Software Work Experience Intern",
-    "location": "Stevenage, UK",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T16:11:42.777454+00:00"
-  },
-  {
     "apply_url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-University-Relations/job/Rapid-City/R-D-Engineering-Intern_JR-112833-1",
     "company": "Littelfuse",
     "role": "R&D Engineering Intern",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-27T00:21:22.359153+00:00"
+  },
+  {
+    "apply_url": "https://pqshield.com/careers/apply/5049819101?gh_jid=5049819101",
+    "company": "PQShield",
+    "role": "Hardware Engineer Intern - Placement Year",
+    "location": "Oxford, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-27T02:41:29.240992+00:00"
+  },
+  {
+    "apply_url": "https://pqshield.com/careers/apply/5049820101?gh_jid=5049820101",
+    "company": "PQShield",
+    "role": "Software Engineer Intern",
+    "location": "Oxford, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-27T02:41:29.240992+00:00"
   }
 ]
