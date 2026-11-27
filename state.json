@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-27T03:21:23.369889+00:00",
+  "last_checked_utc": "2026-11-27T03:41:18.582716+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -17486,6 +17486,7 @@
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-24655",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2026-23159",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Mechanical-Engineering-Intern_2026-23436",
+    "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Power-Engineer-Intern_2026-24966-1",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Power-Engineering-Intern_2026-22717",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Research-Intern---Business-Development_2026-19576-1",
     "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-23816",
@@ -39427,6 +39428,7 @@
     "job:workday:selinc:hardware-engineering-intern_2026-23159",
     "job:workday:selinc:mechanical-engineering-intern_2026-23436",
     "job:workday:selinc:power-engineer-intern_2026-21156",
+    "job:workday:selinc:power-engineer-intern_2026-24966-1",
     "job:workday:selinc:power-engineering-intern_2026-22717",
     "job:workday:selinc:process-engineering-intern_2026-24219",
     "job:workday:selinc:research-intern---business-development_2026-19576-1",
