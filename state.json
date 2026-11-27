@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-27T07:11:34.121708+00:00",
+  "last_checked_utc": "2026-11-27T08:11:40.192877+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -2269,6 +2269,7 @@
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Analog-Design-Engineer-Intern_R269549",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Design-Evaluation-Engineering-Intern_R267479",
+    "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Robot-Learning-Engineer-Intern_R269543",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Advanced-Algorithms-Research-Intern_R268506",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/DevOps-Co-Op_R267690",
     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689",
@@ -20401,6 +20402,7 @@
     "analog devices product engineer intern product development",
     "analog devices product engineer product development intern",
     "analog devices product engineering prod dev intern",
+    "analog devices robot learning engineer intern",
     "analog devices software tools engineering intern",
     "analog devices system integration engineer intern",
     "analog devices systems integration engineer intern",
@@ -32289,6 +32291,7 @@
     "job:workday:analogdevices:process-sustaining-engineering-intern_r269554-1",
     "job:workday:analogdevices:product-engineer--product-development--intern_r265302",
     "job:workday:analogdevices:product-engineering--prod-dev--intern_r267447",
+    "job:workday:analogdevices:robot-learning-engineer-intern_r269543",
     "job:workday:analogdevices:software-tools-engineering-intern_r267128",
     "job:workday:analogdevices:system-integration-engineer-intern_r265305",
     "job:workday:analogdevices:test-engineering-intern_r266146",
