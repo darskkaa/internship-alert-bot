@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305",
-    "company": "AriensCo",
-    "role": "Product Management Intern",
-    "location": "Brillion, WI",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T15:41:38.065179+00:00"
-  },
-  {
     "apply_url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358",
     "company": "Blizzard Entertainment",
     "role": "Data Platform Engineering Intern - Data Platform Engineering",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-26T19:21:23.989969+00:00"
+  },
+  {
+    "apply_url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Canadian-Capital-Markets---Data-Analyst-Intern_R-6758",
+    "company": "TMX Group",
+    "role": "Canadian Capital Markets - Data Analyst Intern",
+    "location": "Toronto - 100 Adelaide St W",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-27T00:21:22.359153+00:00"
   }
 ]

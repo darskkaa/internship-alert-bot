@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-26T20:01:32.778239+00:00",
+  "last_checked_utc": "2026-11-27T00:21:22.388040+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -18201,6 +18201,7 @@
     "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/New-York---225-Liberty-Street/Index-Research-Intern_R-6708",
     "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680",
     "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Governance---Policy-Co-op-Student_R-6648",
+    "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Canadian-Capital-Markets---Data-Analyst-Intern_R-6758",
     "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/IT-Support-Intern_R-6686",
     "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Jr-Security-Analyst-Student-Intern_R-6644",
     "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671",
@@ -40046,6 +40047,7 @@
     "job:workday:tmobile:summer-2027-t-ads-software-engineering-internship_req381234",
     "job:workday:tmx:ai-engineering-intern_r-6680",
     "job:workday:tmx:ai-governance---policy-co-op-student_r-6648",
+    "job:workday:tmx:canadian-capital-markets---data-analyst-intern_r-6758",
     "job:workday:tmx:devops-analyst-intern_r-6724",
     "job:workday:tmx:index-research-intern_r-6708",
     "job:workday:tmx:intern-analyst-model-validation---winter-term_r-6603",
@@ -47549,6 +47551,7 @@
     "tmx group ai engineering intern",
     "tmx group ai governance policy coop student",
     "tmx group ai governance policy intern",
+    "tmx group canadian capital markets data analyst intern",
     "tmx group devops analyst intern",
     "tmx group index research intern",
     "tmx group intern analyst model validation winter term",
