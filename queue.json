@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1",
-    "company": "Advance Auto Parts",
-    "role": "Data Science Intern",
-    "location": "Raleigh, NC",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T00:41:51.190624+00:00"
-  },
-  {
     "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793",
     "company": "NVIDIA",
     "role": "Technical Marketing Engineer Intern - Digital Biology and Scientific Computing",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": true,
     "detected_at": "2026-11-27T09:11:19.456168+00:00"
+  },
+  {
+    "apply_url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Developer---2027_R173441",
+    "company": "Baker Hughes",
+    "role": "Intern - Software Developer - 2027",
+    "location": "GB-NU-CRAMLINGTON-ATLEY WAY NORTH NELSON INDUSTRIAL ESTATE",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-27T13:41:29.019508+00:00"
   }
 ]
