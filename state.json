@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-27T03:11:21.482729+00:00",
+  "last_checked_utc": "2026-11-27T03:21:23.369889+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -4783,6 +4783,7 @@
     "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
     "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI---Automation-Intern---GCN-Services-Business-Operations_R031664",
     "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750",
+    "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Automation-engineer---Global-Technical-Support-Intern_R032186",
     "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-Months-_R032055",
     "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642",
     "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991",
@@ -22439,6 +22440,7 @@
     "cibc software engineer intern",
     "ciena ai automation intern gcn services business operations",
     "ciena asic engineer intern",
+    "ciena automation engineer global technical support intern",
     "ciena hardware engineering coop 4 months",
     "ciena intern software developer technician",
     "ciena npi hardware coop 8 month",
@@ -33523,6 +33525,7 @@
     "job:workday:cibc:xmlname-2027-summer-intern-core-growth-equity-intern-mba-boston_2620146-1",
     "job:workday:ciena:ai---automation-intern---gcn-services-business-operations_r031664",
     "job:workday:ciena:asic-engineer-intern_r031750",
+    "job:workday:ciena:automation-engineer---global-technical-support-intern_r032186",
     "job:workday:ciena:hardware-engineering-co-op--4-months-_r032055",
     "job:workday:ciena:intern---software-developer-technician_r031983-1",
     "job:workday:ciena:npi-hardware-co-op--8-month---january-2027-_r031642",

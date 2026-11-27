@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-University-Relations/job/Rapid-City/R-D-Engineering-Intern_JR-112833-1",
-    "company": "Littelfuse",
-    "role": "R&D Engineering Intern",
-    "location": "Rapid City, SD",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-21T16:11:42.777454+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007",
     "company": "Neros Technologies",
     "role": "Autonomy Intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-27T02:41:29.240992+00:00"
+  },
+  {
+    "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Automation-engineer---Global-Technical-Support-Intern_R032186",
+    "company": "Ciena",
+    "role": "Automation engineer - Global Technical Support Intern",
+    "location": "Ottawa",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-27T03:21:23.346138+00:00"
   }
 ]
