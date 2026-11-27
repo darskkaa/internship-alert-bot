@@ -1,25 +1,5 @@
 [
   {
-    "apply_url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
-    "company": "Forterra",
-    "role": "2027 Intern - Software",
-    "location": "East Palo Alto, CA",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/minitab/jobs/8200708003",
-    "company": "Minitab",
-    "role": "Software Engineering Intern",
-    "location": "State College, Pennsylvania, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
     "apply_url": "https://apply.workable.com/falcomm/j/41F139E6F7/",
     "company": "Falcomm",
     "role": "AI/ML Software Engineer Graduate Intern - AI/CAD Integration",
@@ -2998,5 +2978,25 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-27T13:51:35.010335+00:00"
+  },
+  {
+    "apply_url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Valladolid/Procurement-engineer-intern_366718-1",
+    "company": "Signify",
+    "role": "Procurement engineer intern",
+    "location": "Valladolid",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-27T15:11:27.575771+00:00"
+  },
+  {
+    "apply_url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Intern-IT-Risk---Application-Security-Analyst_REQ-10125288",
+    "company": "ING",
+    "role": "Intern IT Risk & Application Security Analyst",
+    "location": "Bruxelles Avenue Marnix (ING)",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-27T15:11:27.575771+00:00"
   }
 ]
