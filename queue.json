@@ -1,85 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475",
-    "company": "NBCUniversal",
-    "role": "Business Data Intern - Film IT",
-    "location": "London, UK",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T08:11:31.060511+00:00"
-  },
-  {
-    "apply_url": "https://careers.amd.com/jobs/90475?icims=1&lang=en-us",
-    "company": "AMD",
-    "role": "BIOS Engineering Co-op",
-    "location": "Austin, TX",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T11:11:20.781261+00:00"
-  },
-  {
-    "apply_url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182",
-    "company": "Draper",
-    "role": "Operational Analysis Intern - Summer 2027",
-    "location": "Cambridge, MA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T23:41:35.584597+00:00"
-  },
-  {
-    "apply_url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Electrical-Engineering_R26563-1",
-    "company": "Sierra Space",
-    "role": "Electrical Engineering Intern - Electrical Engineering",
-    "location": "Madison, WI, Centennial, CO, Durham, NC, Louisville, CO, Broomfield, CO",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-23T02:41:23.619934+00:00"
-  },
-  {
-    "apply_url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1",
-    "company": "Sierra Space",
-    "role": "Software Engineering Intern - Software Engineering",
-    "location": "Madison, WI, Centennial, CO, Durham, NC, Louisville, CO, Broomfield, CO",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-23T02:41:23.619934+00:00"
-  },
-  {
-    "apply_url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/PS-D-Innovation-Intern_R8004",
-    "company": "CSAA Insurance Group",
-    "role": "Product Strategy & Development Intern",
-    "location": "Arizona",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-23T03:11:39.902701+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958071002",
-    "company": "Artefact",
-    "role": "AI Strategy Intern",
-    "location": "135 W 26th Street, New York, NY 10001",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-23T03:11:39.902701+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002",
-    "company": "Artefact",
-    "role": "AI Engineering Intern",
-    "location": "135 W 26th Street, New York, NY 10001",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-23T03:11:39.902701+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002",
     "company": "Artefact",
     "role": "AI Adoption Intern",
@@ -2998,5 +2918,85 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-28T01:38:51.076244+00:00"
+  },
+  {
+    "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---Summer-2027-Internship_R70631",
+    "company": "Motorola Solutions",
+    "role": "Mission Critical Networks Software Engineer Intern",
+    "location": "Chicago, IL, Schaumburg, IL",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T02:11:30.895589+00:00"
+  },
+  {
+    "apply_url": "https://servco.wd5.myworkdayjobs.com/Servco_Careers/job/Honolulu/XMLNAME-2027-Summer-Intern---Digital-Solutions_R4075",
+    "company": "Servco",
+    "role": "Summer Intern - Digital Solutions",
+    "location": "Honolulu, HI",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T02:11:30.895589+00:00"
+  },
+  {
+    "apply_url": "https://servco.wd5.myworkdayjobs.com/Servco_Careers/job/Honolulu/XMLNAME-2027-Summer-Intern---Vehicle-Data_R4085",
+    "company": "Servco",
+    "role": "Summer Intern - Vehicle Data",
+    "location": "Honolulu, HI",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T02:11:30.895589+00:00"
+  },
+  {
+    "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Systems-Engineering-Co-op--Summer-Fall-2027-_01890127",
+    "company": "RTX",
+    "role": "Systems Engineer Co-op - Summer/Fall 2027",
+    "location": "Cedar Rapids, IA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T02:11:30.895589+00:00"
+  },
+  {
+    "apply_url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/IL-CHICAGO-8600-W-BRYN-MAWR-AVE-10th--11th-FL/Undergraduate-Clinical-Analytics-Intern--Summer-2027_JR210774",
+    "company": "Elevance Health",
+    "role": "Undergraduate Clinical Analytics Intern",
+    "location": "Chicago, IL",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T02:11:30.895589+00:00"
+  },
+  {
+    "apply_url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Clinical-Pharmacology_202611-129678",
+    "company": "Genentech",
+    "role": "Clinical Pharmacology Intern",
+    "location": "South SF",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T02:11:30.895589+00:00"
+  },
+  {
+    "apply_url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/VA-RICHMOND-2015-STAPLES-MILL-RD/Graduate-Clinical-Analytics-Intern--Summer-2027_JR210775",
+    "company": "Elevance Health",
+    "role": "Clinical Analytics Intern",
+    "location": "Richmond, VA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T02:11:30.895589+00:00"
+  },
+  {
+    "apply_url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Enterprise-Architect-Intern_1216773",
+    "company": "Hewlett Packard Enterprise",
+    "role": "Enterprise Architect Intern",
+    "location": "Winnersh, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T02:11:30.895589+00:00"
   }
 ]
