@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-28T03:11:36.486247+00:00",
+  "last_checked_utc": "2026-11-28T03:51:42.360624+00:00",
   "seeded_feeds": [
     "Simplify-json",
     "Zshah",
@@ -14055,6 +14055,7 @@
     "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Applications-Engineering-Intern_2642296-1",
     "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-2",
     "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2",
+    "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Internship--Computational---Electromagnetics_2642325",
     "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Mechanical-Design-Engineer-Intern_2642150-3",
     "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2640653-2",
     "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Optical-Engineering-Intern_2641705-2",
@@ -36887,6 +36888,7 @@
     "job:workday:kla:firmware-intern_2642154-1",
     "job:workday:kla:intern---plm-bi---analytics_2641568",
     "job:workday:kla:intern---plm-bi---analytics_2641568-2",
+    "job:workday:kla:internship--computational---electromagnetics_2642325",
     "job:workday:kla:internship--computational---electromagnetics_2642325-2",
     "job:workday:kla:internship--computational---electromagnetics_2642325-3",
     "job:workday:kla:mechanical-design-engineer-intern_2642150-1",
@@ -41231,6 +41233,7 @@
     "kla corporation electrical engineering intern",
     "kla corporation engineering intern",
     "kla corporation firmware intern",
+    "kla corporation internship computational electromagnetics",
     "kla corporation machine learning engineer intern",
     "kla corporation mechanical design engineer intern",
     "kla corporation mechanical engineer intern",
