@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003",
-    "company": "Samsung",
-    "role": "Intern, Architecture Research Engineer (Agentic AI Workload Characterization)",
-    "location": "San Jose, California, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003",
     "company": "Samsung",
     "role": "Intern, SSD Firmware Engineer",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-28T00:11:30.745400+00:00"
+  },
+  {
+    "apply_url": "https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/XMLNAME-2027-Summer-Digital-Transformation-Intern_REQ-457",
+    "company": "Federal Home Loan Bank of Dallas",
+    "role": "Digital Transformation Intern",
+    "location": "Irving, TX",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T00:41:42.069217+00:00"
   }
 ]
