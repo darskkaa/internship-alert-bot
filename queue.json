@@ -1,55 +1,5 @@
 [
   {
-    "apply_url": "https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007",
-    "company": "Lucid Motors",
-    "role": "Intern, Software QA Engineer, Infotainment, Summer 2027",
-    "location": "Newark, CA",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
-    "apply_url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92135",
-    "company": "Caesars Entertainment",
-    "role": "IAM Cybersecurity Intern (Las Vegas)",
-    "location": "Las Vegas, NV, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
-    "apply_url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92118",
-    "company": "Caesars Entertainment",
-    "role": "SOC Cybersecurity Intern (Las Vegas)",
-    "location": "Las Vegas, NV, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
-    "apply_url": "https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/263091",
-    "company": "University of Wyoming",
-    "role": "Research Scientist, Associate - Wyoming Coop Unit",
-    "location": "MT, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
-    "company": "Neros Technologies",
-    "role": "Firmware/Embedded Software Engineer Intern",
-    "location": "Torrance, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T02:41:36.822310+00:00"
-  },
-  {
     "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475",
     "company": "NBCUniversal",
     "role": "Business Data Intern - Film IT",
@@ -2998,5 +2948,55 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-28T01:11:41.785940+00:00"
+  },
+  {
+    "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Intern---Business-Partner_R-264992",
+    "company": "Alexion",
+    "role": "Business Partner Intern - Business Partner",
+    "location": "Boston, MA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T01:38:51.076244+00:00"
+  },
+  {
+    "apply_url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Irving-TX/Software-Engineering-Intern--Digital-Commerce_REQ_84703",
+    "company": "Signet Jewelers",
+    "role": "Software Engineer Intern - Digital Commerce",
+    "location": "Irving, TX",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T01:38:51.076244+00:00"
+  },
+  {
+    "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Electrical-Engineer--Advanced-Data-Capture_JR103913",
+    "company": "Zebra Technologies",
+    "role": "Electrical Engineer Intern - Advanced Data Capture",
+    "location": "Holtsville, NY",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T01:38:51.076244+00:00"
+  },
+  {
+    "apply_url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-HA-FARNBOROUGH-107-RANGE-ROAD/Intern---Modelling-and-Data-Analytics---2027_R173444",
+    "company": "Baker Hughes",
+    "role": "Modelling and Data Analytics Intern",
+    "location": "Farnborough, UK",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T01:38:51.076244+00:00"
+  },
+  {
+    "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747",
+    "company": "Citi",
+    "role": "Markets Analyst Intern - Quantitative Analysis",
+    "location": "NYC",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T01:38:51.076244+00:00"
   }
 ]
