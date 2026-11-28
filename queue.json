@@ -1,15 +1,5 @@
 [
   {
-    "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Markets-Quantitative-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139049",
-    "company": "Barclays",
-    "role": "Markets Quantitative Analyst Summer Internship Program 2028 New York",
-    "location": "New York, 745 7th Avenue",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-23T08:21:25.915981+00:00"
-  },
-  {
     "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/AI-research-intern_2605267",
     "company": "Marvell",
     "role": "AI research intern",
@@ -2998,5 +2988,15 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-28T03:11:36.451474+00:00"
+  },
+  {
+    "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Intern--Product-and-Testing-Engineering--SiPho-and-Optical-Module-_2604619",
+    "company": "Marvell",
+    "role": "Intern, Product and Testing Engineering (SiPho and Optical Module)",
+    "location": "Hsinchu City",
+    "source": "Workday",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T16:01:37.850659+00:00"
   }
 ]
