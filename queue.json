@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://jobs.lever.co/momsmeals/77331b7f-4efc-488d-a6af-584788e3d1b0",
-    "company": "Mom's Meals",
-    "role": "Software Quality Assurance (QA) Intern",
-    "location": "Ankeny, IA",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004",
-    "company": "Galaxy",
-    "role": "2027 Site Reliability Engineer Intern-Afton, Texas",
-    "location": "Afton, Texas",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208494003",
-    "company": "Samsung",
-    "role": "Intern, Architecture Research Engineer (MoE Placement for Serving at Scale)",
-    "location": "San Jose, California, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
     "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003",
     "company": "Samsung",
     "role": "Intern, Architecture Research Engineer (Agentic AI Workload Characterization)",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-27T18:21:23.164593+00:00"
+  },
+  {
+    "apply_url": "https://intercept.bamboohr.com/careers/50/",
+    "company": "Intercept",
+    "role": "Analytics & Intelligence Co-op",
+    "location": "Toronto, ON, Canada",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T00:11:30.745400+00:00"
+  },
+  {
+    "apply_url": "https://intercept.bamboohr.com/careers/48/",
+    "company": "Intercept",
+    "role": "Product Co-op",
+    "location": "Toronto, ON, Canada",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T00:11:30.745400+00:00"
+  },
+  {
+    "apply_url": "https://intercept.bamboohr.com/careers/49/",
+    "company": "Intercept",
+    "role": "Solutions Engineer Co-op",
+    "location": "Toronto, ON, Canada",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T00:11:30.745400+00:00"
   }
 ]
