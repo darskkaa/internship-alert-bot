@@ -1,75 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003",
-    "company": "Samsung",
-    "role": "Intern, SSD Firmware Engineer",
-    "location": "San Jose, California, United States",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008",
-    "company": "Scout Space",
-    "role": "Computer Vision (AI/ML) Engineering Intern (Summer 2027)",
-    "location": "Reston, VA - Remote",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": true,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
-    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8346138",
-    "company": "MongoDB",
-    "role": "2027 - AI and People Transformation Intern, NYC",
-    "location": "New York City",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
-    "apply_url": "https://jobs.ashbyhq.com/pebl/10c7b7d7-835c-46a9-b107-81577ed3c4a0",
-    "company": "Pebl",
-    "role": "ENGINTS1 - DevSecOps Intern",
-    "location": "Palo Alto, CA",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
-    "apply_url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6263395004",
-    "company": "HeartFlow",
-    "role": "Platform Engineering Intern (Summer 2027)",
-    "location": "San Francisco, California",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
-    "apply_url": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007",
-    "company": "Lucid Motors",
-    "role": "Intern, Software Engineer, SDET, Summer 2027",
-    "location": "Newark, CA",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
-    "apply_url": "https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007",
-    "company": "Lucid Motors",
-    "role": "Intern, Motor Control Software Development and Validation Engineer, Summer 2027",
-    "location": "Newark, CA",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-22T01:21:44.099597+00:00"
-  },
-  {
     "apply_url": "https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007",
     "company": "Lucid Motors",
     "role": "Intern, Software QA Engineer, Infotainment, Summer 2027",
@@ -2998,5 +2928,75 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-28T00:41:42.069217+00:00"
+  },
+  {
+    "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1",
+    "company": "NVIDIA",
+    "role": "Accounting AI Solution Engineer Intern",
+    "location": "Canada, Santa Clara, CA, United States",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T01:11:41.785940+00:00"
+  },
+  {
+    "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639",
+    "company": "NVIDIA",
+    "role": "Product Management MBA Intern - GenAI Data Strategy",
+    "location": "Canada, Santa Clara, CA, United States",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T01:11:41.785940+00:00"
+  },
+  {
+    "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131",
+    "company": "NVIDIA",
+    "role": "Finance AI Engineer Intern",
+    "location": "Canada, Santa Clara, CA, United States",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T01:11:41.785940+00:00"
+  },
+  {
+    "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531",
+    "company": "NVIDIA",
+    "role": "Software Engineer Intern - Simulation Technology",
+    "location": "Canada, Santa Clara, CA, United States",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T01:11:41.785940+00:00"
+  },
+  {
+    "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517",
+    "company": "NVIDIA",
+    "role": "AI and Quant Devtech Engineering Intern",
+    "location": "Canada, Santa Clara, CA, United States",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T01:11:41.785940+00:00"
+  },
+  {
+    "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178",
+    "company": "NVIDIA",
+    "role": "Developer Technology Intern",
+    "location": "Canada, Santa Clara, CA, United States",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T01:11:41.785940+00:00"
+  },
+  {
+    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801504",
+    "company": "State Street",
+    "role": "Software Engineer Intern",
+    "location": "Boston, MA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T01:11:41.785940+00:00"
   }
 ]
