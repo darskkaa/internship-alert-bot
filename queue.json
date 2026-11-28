@@ -1,35 +1,5 @@
 [
   {
-    "apply_url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002",
-    "company": "Artefact",
-    "role": "AI Adoption Intern",
-    "location": "135 W 26th Street, New York, NY 10001",
-    "source": "Zshah",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-23T03:11:39.902701+00:00"
-  },
-  {
-    "apply_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Westford-Massachusetts-United-States-of-America/Networking---Cybersecurity-Intern_1214057",
-    "company": "Hewlett Packard Enterprise",
-    "role": "Networking & Cybersecurity Intern",
-    "location": "Westford, Massachusetts, United States of America",
-    "source": "Workday",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-23T04:11:31.980138+00:00"
-  },
-  {
-    "apply_url": "https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true",
-    "company": "First Resonance",
-    "role": "Product Management Intern",
-    "location": "El Segundo, CA",
-    "source": "Simplify",
-    "sponsorship_flag": false,
-    "citizenship_flag": false,
-    "detected_at": "2026-11-23T08:11:27.607849+00:00"
-  },
-  {
     "apply_url": "https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true",
     "company": "First Resonance",
     "role": "Software Engineer Intern - Platform",
@@ -2998,5 +2968,35 @@
     "sponsorship_flag": false,
     "citizenship_flag": false,
     "detected_at": "2026-11-28T02:11:30.895589+00:00"
+  },
+  {
+    "apply_url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/AI-Intern_26_09088",
+    "company": "Camping World",
+    "role": "AI Intern",
+    "location": "Chicago, IL, Lincolnshire, IL",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T02:41:34.761353+00:00"
+  },
+  {
+    "apply_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Marketing-Operations---Cambridge--MA---Summer-2027_593642",
+    "company": "Philips",
+    "role": "Marketing Operations Analyst Intern",
+    "location": "Cambridge, MA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T02:41:34.761353+00:00"
+  },
+  {
+    "apply_url": "https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Business-Continuity-Data-Analyst---Reporting-Intern_27047",
+    "company": "Carpenter Technology",
+    "role": "Business Continuity Data Analyst & Reporting Intern",
+    "location": "Reading, PA",
+    "source": "Simplify",
+    "sponsorship_flag": false,
+    "citizenship_flag": false,
+    "detected_at": "2026-11-28T02:41:34.761353+00:00"
   }
 ]
